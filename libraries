@@ -1,0 +1,9 @@
+Libraries to bee installed
+
+Flask
+pdfplumber
+PyPDF2
+sentence-transformers
+nltk
+werkzeug
+secrets
