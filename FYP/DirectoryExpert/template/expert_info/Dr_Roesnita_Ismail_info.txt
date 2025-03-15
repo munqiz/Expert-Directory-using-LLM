@@ -1,0 +1,4 @@
+name: Dr. Roesnita Ismail
+email: roesnita@usim.edu.my
+faculty: FST
+pdf: Dr_Roesnita_Ismail.pdf

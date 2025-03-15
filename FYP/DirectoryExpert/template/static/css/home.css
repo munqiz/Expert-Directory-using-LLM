@@ -1,0 +1,81 @@
+body {
+    background-image: url('mainbg.jpg');
+    font-family: 'Trebuchet MS', sans-serif;
+    margin: 380px;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.results-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.result-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    width: 380px;
+    height: 150px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.result-card h2 {
+    color: #2c3e50;
+}
+
+.result-card p {
+    font-size: 14px;
+    color: #555;
+}
+
+.search-box {
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.search-container {
+    position: relative;
+    width: 80%;
+}
+
+input[type="text"] {
+    width: 87.2%;
+    padding: 15px;
+    font-size: 16px;
+    border-radius: 40px;
+    padding-right: 120px; /* Increased padding for the button */
+    border: 1px solid #ccc;
+}
+
+input[type="submit"] {
+    position: absolute;
+    right: 0.3px; /* Add space from the right */
+    top: 50%;
+    transform: translateY(-50%); /* Vertically center the button */
+    height: 70%; /* Smaller height than input box */
+    border: none;
+    background-color: #071f50;
+    color: #efa000;
+    padding: 0 20px;
+    font-size: 16px;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #efa000;
+    color: #071f50;
+}

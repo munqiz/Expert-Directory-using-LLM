@@ -1,0 +1,4 @@
+name: Prof. Madya Dr. Najwa Hayaati Mohd Alwi
+email: najwa@usim.edu.my
+faculty: FST
+pdf: Prof_Madya_Dr_Najwa_Hayaati_Mohd_Alwi.pdf

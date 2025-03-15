@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profinder</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}">
+    <script>
+        // JavaScript function for password prompt
+        function checkAdminAccess() {
+            const password = prompt("Enter admin password:");
+            if (password === "admin123") {
+                window.location.href = "/admin"; // Redirect to admin page if password is correct
+            } else if (password !== null) {
+                alert("Incorrect password. Access denied.");
+            }
+        }
+    </script>
+</head>
+<body>
+
+    <h1>
+        <span style="color:white">FIND YOUR</span>
+        <span style="color:#efa000"> EXPERT </span>
+        <span style="color:white"> NOW! </span>
+    </h1>
+    
+    <div class="search-box">
+        <div class="search-container">
+            <form method="POST">
+                <input style="color:#b5acac" type="text" name="search_input" placeholder="SEARCH BY TOPICS YOU'RE INTERESTED IN..." required>
+                <input type="submit" value="FIND">
+            </form>
+        </div>
+    </div>
+
+    <div class="results-container">
+        {% if search_results %}
+            <h3 style="color: #fff;">Search Results for: "{{ user_input }}"</h3>
+            <div style="
+                max-height: 400px;
+                overflow-y: auto;
+                border: 2px solid #fff;
+                padding: 10px;
+                border-radius: 8px;
+                background-color: #2b2b2b;
+                box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+            ">
+                <ul style="list-style-type: none; padding: 0; margin: 0;">
+                    {% for expert in search_results %}
+                        <li style="
+                            margin-bottom: 10px;
+                            padding: 10px;
+                            border: 1px solid #fff;
+                            border-radius: 5px;
+                            background-color: #ffffff;
+                        ">
+                            <strong style="color: #000000;">Name:</strong> <span style="color: #000;">{{ expert.name }}</span><br>
+                            <strong style="color: #000000;">Email:</strong> <span style="color: #000;">{{ expert.email }}</span><br>
+                            <strong style="color: #000000;">Faculty:</strong> <span style="color: #000;">{{ expert.faculty }}</span><br>
+                            <strong style="color: #000000;">Similarity Score:</strong> <span style="color: #000;">{{ expert.similarity | round(2) }}</span><br>
+                            <strong style="color: #000000;">Word Count:</strong> <span style="color: #000;">{{ expert.word_count }}</span><br>
+                            <a href="{{ url_for('download_pdf', filename=expert.name.replace('.', '').replace(' ', '_') + '.pdf') }}">Download PDF</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        {% else %}
+            <p style="color: white;">No results found for: "{{ search_input }}". Please try a different search.</p>
+        {% endif %}
+    </div>
+    
+    <!-- Admin Access Button -->
+    <div style="
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    ">
+        <button onclick="checkAdminAccess()" style="
+            padding: 10px 20px;
+            background-color: #efa000;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        ">
+            Admin Page
+        </button>
+    </div>
+
+</body>
+</html>

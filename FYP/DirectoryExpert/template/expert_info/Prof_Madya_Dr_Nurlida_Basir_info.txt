@@ -1,0 +1,4 @@
+name: Prof. Madya Dr. Nurlida Basir
+email: nurlida@usim.edu.my
+faculty: FST
+pdf: Prof_Madya_Dr_Nurlida_Basir.pdf

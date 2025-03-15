@@ -1,0 +1,1079 @@
+--- Start of Prof_Madya_Ir_Dr_Mohd_Fared_Abdul_Khir_CISSP_NCSP.pdf ---
+
+PERSONAL DETAIL
+Name
+PROF. MADYA IR. DR MOHD FARED BIN ABDUL KHIR
+Designation
+PENSYARAH UNIVERSITI DS53
+Faculty
+FACULTY OF SCIENCE AND TECHNOLOGY
+Tel. No. (Office)
+067986529
+E-mail Address
+fared.khir@usim.edu.my
+Address(Office)
+FACULTY OF SCIENCE AND TECHNOLOGY ,UNIVERSITI SAINS ISLAM MALAYSIA, BANDAR BARU
+NILAI, 71800, NILAI, NEGERI SEMBILAN
+ACADEMIC QUALIFICATION
+No
+Year
+Qualification
+Institution
+Field
+1
+2012
+PhD
+UNIVERSITI KEBANGSAAN MALAYSIA
+MICROENGINEERING AND
+NANOELECT
+2
+2003
+Master
+UNIVERSITI PUTRA MALAYSIA
+COMPUTER SCIENCE
+3
+1996
+Bachelor
+YAMAGATA UNIVERSITY, JAPAN
+ELECTRONIC AND INFORMATION
+EN
+TEACHING
+MASTER / PHD
+No
+Code Subject
+Subject
+Start
+Year
+End
+Year
+1
+SKJ8203
+NETWORK AND MOBILE SECURITY
+2021
+2024
+DEGREE
+No
+Code Subject
+Subject
+Start
+Year
+End
+Year
+1
+SKJ3443
+NETWORK AND MANAGEMENT INFORMATION SYSTEM
+2020
+2023
+2
+SKJ1063
+COMPUTER NETWORK
+2021
+2024
+3
+SKJ3192
+DIGITAL TECHNOLOGY
+2022
+2024
+4
+UTR1012
+INTEGRITI DAN ANTIRASUAH
+2024
+2024
+5
+SKJ4233
+CYBER SECURITY RISK GOVERNANCE
+2024
+2024
+INTERNAL SUPERVISION
+PHD
+No
+Matric No
+Student Name
+Type of Supervisor
+Start
+Year
+End
+Year
+1
+4202464
+MOHD AMRI AMINUDIN
+Member of
+Supervisory
+Committee
+2021
+2024
+2
+4212427
+MOHAMMAD FAISAL MAHMOUD ALQAISI
+Co-Supervisor
+2022
+2024
+MASTER
+No
+Matric No
+Student Name
+Type of Supervisor
+Start
+Year
+End
+Year
+1
+3212668
+SUZALIANA SAMURI
+Supervisor
+2022
+2024
+EXTERNAL SUPERVISION
+No
+Matric
+Number
+Student Name
+Type of Supervisor
+University
+1
+GS 41459
+Mutia Nurulhusna Hussain
+Committee
+Supervisor
+Universiti Putra
+Malaysia
+INTERNAL RESEARCH
+No
+Title
+Grant
+Role
+Date
+1
+SISTEM WUDUK JIMAT AIR
+Geran
+Lab2Market
+Main
+Researcher
+06/06/2024 -
+06/06/2026
+2
+PIG SKIN LEATHER DETECTION USING NIR
+SPECTROSCOPY AND CHEMOMETRICS TECHNIQUE
+Geran
+Penyelidikan
+Transdisiplinari
+Main
+Researcher
+01/11/2023 -
+01/05/2025
+EXTERNAL RESEARCH
+No
+Title
+Grant
+Organization
+Duration
+1
+Fault-Tolerant Photonic Quantum States for Quantum Key
+Distribution
+Geran
+Penyelidikan
+Jangka Panjang
+(LRGS)
+Universiti
+Malaysia Perlis
+(UniMAP)
+Disember 2020 -
+November 2024
+CONFERENCE
+No
+Conferance Name
+Paper Work
+Role
+Date
+1
+SEMINAR ANTARABANGSA ISLAM DAN
+SAINS 2021
+KESEDARAN TERHADAP
+PERLINDUNGAN KETIRISAN
+MAKLUMAT DIGITAL
+MENURUT PERSPEKTIF
+ISLAM
+Pembentang Lisan /
+Kertas Kerja
+09/09/2021 -
+09/09/2021
+2
+International Conference on Da’wah
+and Islamic Management 2021
+(ICDAIM2021)
+PREVENTION OF SENSITIVE
+INFORMATION LEAKAGE IN
+BUSINESS ORGANISATION:
+A VIEW FROM MAQASID AL-
+SHARIAH PERSPECTIVE
+Pembentang Lisan /
+Kertas Kerja
+26/10/2021 -
+27/10/2021
+3
+Seminar Antarabangsa Islam dan Sains
+(SAIS) 2022
+MAAHAD@HOME :
+PEMBANGUNAN RANGKA
+KERJA DAN KAJIAN RINTIS
+Pembentang Lisan /
+Kertas Kerja
+01/12/2022 -
+01/12/2022
+4
+Journey to the NIST Cybersecurity
+Framework (CSF) 2.0
+Peserta Biasa
+14/02/2023 -
+15/02/2023
+5
+ISC2 Spotlight: Secure Software
+Tidak berkaitan
+Peserta Biasa
+08/11/2023 -
+Development
+09/11/2023
+6
+Seminar Antarabangsa Islam dan Sains
+(SAIS) 2023
+Teknologi Penjimatan Air
+Ketika Mengambil Wudhu
+dan Perspektif Pengguna
+Pembentang Lisan /
+Kertas Kerja
+19/12/2023 -
+19/12/2023
+7
+ISC2 Spotlight - Governance, Risk and
+Compliance
+Peserta Biasa
+27/02/2024 -
+29/02/2024
+8
+Privacy Framework 1.1 + Data
+Governance and Management Profile
+Workshop
+Tiada kerja kerja
+dibentangkan.
+Peserta Biasa
+25/06/2024 -
+26/06/2024
+9
+SAIS 2024
+PENGURUSAN RISIKO
+KESELAMATAN SIBER
+DENGAN NILAI-NILAI ISLAM
+Pembentang Lisan /
+Kertas Kerja
+26/09/2024 -
+26/09/2024
+AREA OF SPECIALIZATION AND RESEARCH INTERESTS
+No
+Field / Area
+Level of Expertise
+1
+CHEMOMETRICS
+MODERATE
+2
+DATA SECURITY
+MODERATE
+3
+OPTICAL SYSTEMS
+HIGH
+PUBLICATION - JOURNAL
+2023
+1. Suzaliana Samuri, Mohd Fared Abdul Khir, Zahari Mohd Amin, and Mohammad Fakhrul Nizam
+Mohammad,Cybersecurity Maturity Framework for International Airports in Malaysia: A Systematic Literature Review
+(SLR),Journal of Information and Knowledge Management (JIKM)l,2,Special Is,156-167
+2022
+1. Mutia Nurulhusna Hussain Katrul Nadia Basri Syariena Arshad Shuhaimi Mustafa Mohd Fared Abdul Khir Jamilah
+Bakar,Analysis of Lard in Palm Oil Using Long‑Wave Near‑Infrared (LW‑NIR) Spectroscopy and Gas
+Chromatography‑Mass Spectroscopy (GC–MS),,15,11,---
+2019
+1. Shima Behkami, Sharifuddin M Zain, Mehrdad Gholami, Mohd Fared Abdul Khir,Classification of cow milk using
+artificial neural network developed from the spectral data of single-and three-detector
+spectrophotometers,,294,-,309-315
+2018
+1. Katrul Nadia Basri, Abdur Rehman Laili, Nur Azera Tuhaime, Mutia Nurulhusna Hussain, Jamilah Bakar, Zaiton
+Sharif, Mohd Fared Abdul Khir, Ahmad Sabirin Zoolfakar,FT-NIR, MicroNIR and LED-MicroNIR for detection of
+adulteration in palm oil via PLS and LDA,,10,34,4143-4151
+2. Mohd Fared Abdul Khir, Nur Zahidah Syahirah Marzuki, Nur Azera Tuhaime, Katrul Nadia Basri and Mutia
+Nurulhusna Hussain,Detecting Beef Tallow Adulteration in Palm Oil with Detecting Beef Tallow Adulteration In Palm
+Oil with NIR Spectroscopy and Chemometrics Analysis,,10,1,157-160
+2016
+1. Katrul Nadia Basri, Mutia Nurulhusna Hussain, Jamilah Bakar, Zaiton Sharif, Mohd Fared Abdul Khir, Ahmad Sabirin
+Zoolfakar,Classification and Quantification of Palm OilAdulteration via Portable NIR Spectroscopy,,173,-,335-342
+2013
+1. M. F. Abdul Khir, I. Bahari, S. Ali and S. Shaari,Weak+Vacuum and One Decoy State with Two Way QKD
+Protocol,,20,2,1350010-1350010
+2012
+1. Mohd Fared Abdul Khir, Mohd Norzaliman Mohd Zain, Iskandar Bahari, Suryadi, Sahbudin Shaari,Implementation of
+two way Quantum Key Distribution protocol with decoy state,,285,5,842-845
+2. Mohd Fared Abdul Khir, Mazainun A. Mohd Zain, Suhairi Saharudin, Suryadi Soekardjo, Sahbudin Bin Haji
+Shaari,Implementation of two-way free space quantum key distribution,,51,4,045006-045006-7
+PUBLICATION - PROCEEDING
+2023
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Teknologi Penjimatan Air Ketika
+Mengambil Wudhu dan Perspektif
+Pengguna
+Seminat Antarabangsa Sains dan
+Islam (SAIS2023)
+PKA USIM
+INTERNATIONA
+L
+2022
+No
+Title
+Conference Name
+Organizer
+Level
+1
+MAAHAD@HOME : PEMBANGUNAN
+RANGKA KERJA DAN KAJIAN RINTIS
+Seminar Antarabangsa Islam dan
+Sains (SAIS 2022)
+Persatuan Kakitangan
+Akademik USIM
+INTERNATIONA
+L
+2021
+No
+Title
+Conference Name
+Organizer
+Level
+1
+KESEDARAN TERHADAP
+PERLINDUNGAN KETIRISAN MAKLUMAT
+DIGITAL MENURUT PERSPEKTIF ISLAM
+Seminar Antarabangsa Islam dan
+Sains (SAIS) 2021
+Persatuan Kakitangan
+Akademik USIM
+INTERNATIONA
+L
+2
+PREVENTION OF SENSITIVE
+INFORMATION LEAKAGE IN BUSINESS
+ORGANIZATION: A VIEW FROM
+MAQASID ALSHARIAH PERSPECTIVE
+IC-DAIM 2021 INTERNATIONAL
+CONFERENCE ON DA’WAH AND
+ISLAMIC MANAGEMENT
+Da’wah and Islamic
+Management
+Program Faculty of
+Leadership and
+Management
+Universiti Sains Isla
+INTERNATIONA
+L
+2014
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Feasibility study of detecting canola oil
+adulteration with palm oil using NIR
+spectroscopy and multivariate analysis
+international Conference on
+information, Communication
+technology and system (ICTS)
+IEEE
+INTERNATIONA
+L
+2014
+PUBLICATION - THESIS
+2022
+No
+Title
+Field
+Thesis Level
+Type
+1
+CYBERSECURITY MATURITY FRAMEWORK FOR
+INTERNATIONAL AIRPORTS IN MALAYSIA
+Cybersecurity
+Master
+Co-Author
+2
+HUFFAZ PROGRESS RECORDING SYSTEM
+Information System
+Bachelor
+Co-Author
+3
+SYSTEM FOR INDUSTRIAL TRAINING
+STUDENTS
+Information System
+Bachelor
+Co-Author
+PUBLICATION - ARTICLE
+2023
+No
+Title
+Article Name
+Organizer
+Level
+1
+Rangka Kerja untuk Penambahbaikan
+Keselamatan Siber Infrastruktur Kritikal
+(Framework for Improving Critical
+Infrastructure Cybersecurity)
+Rangka Kerja untuk
+Penambahbaikan Keselamatan
+Sibe
+National Institute of
+Standards and
+Technology
+INTERNATIONA
+L
+ACADEMIC RECOGNITION
+INTERNAL / EXTERNAL EXAMINER
+No
+Level (Master
+/ PHD)
+Type of Examiner
+Title
+Level
+Viva
+Date
+1
+Research (Mixed
+Mode)
+A Trustworthy and Secure Framework to
+Mitigate Hazardous Activities in Online Social
+Networks
+NATIONAL
+10/09/20
+21
+2
+Master
+Research (Only)
+Selection of Best CODECS Techniques for
+Voice and Video Internet Protocol (V2OIP)
+Version 4
+NATIONAL
+17/10/20
+23
+3
+Research (Mixed
+Mode)
+Development of Secure Lightweight Block
+Cipher Based on 3D Rotation Method for Data
+Protection on Mobile Application
+UNIVERSITY
+22/07/20
+22
+4
+Course Work Mode
+Three-Qubit Quantum System Classification
+Method using Special Linear Group under
+Stochastic Local Operations and Classical
+Communication (SLOCC) Protocol
+UNIVERSITY
+30/11/20
+23
+REVIEWER
+No
+Article Title
+Journal Name
+Type of Reviewer
+Impact
+Factor
+Level
+Year
+1
+Q-switching in EDFL
+Cavity using Ti3AlC2
+as Saturable
+Journal of Electrical &
+Electronic Systems
+Research (JEESR)
+Journal Article
+Reviewer
+None
+INTERNATIONA
+L
+2021
+Absorber
+2
+Impact of
+Cybersecurity Risk
+Management
+Frameworks on
+Malaysian Public
+Universities Business
+Performance
+Jurnal Pengurusan (UKM
+Journal of Management)
+Journal Article
+Reviewer
+0.17
+INTERNATIONA
+L
+2021
+3
+Development of
+NavIC synchronized
+fully automated inter-
+building QKD
+framework and
+demonstration of
+quantum secured
+video calling
+Optical Engineering
+Journal Article
+Reviewer
+1.084
+INTERNATIONA
+L
+2021
+4
+Study of Zymkey 4i
+as Hardware Security
+Module for Digital
+Voice Assistant
+Device Data Security
+Journal of Electrical &
+Electronic Systems
+Research (JEESR)
+Journal Article
+Reviewer
+None
+INTERNATIONA
+L
+2021
+5
+Experimental
+Demonstration of
+Quantum Noise
+Randomized Cipher
+Based on Cascaded
+Phase Shift Keying
+without High-level
+Digital-to-Analog
+Convertor
+Optical Engineering
+Journal Article
+Reviewer
+1.084
+INTERNATIONA
+L
+2022
+6
+Rapid identification of
+adulterated peanut
+oil by near infrared
+spectroscopy and
+stoichiometry
+LWT - Food Science and
+Technology
+Journal Article
+Reviewer
+6
+INTERNATIONA
+L
+2023
+7
+Effect of some
+experimental
+parameters on initial
+exposure response
+coefficient in linear
+polarization
+holography
+Optical Engineering
+Journal Article
+Reviewer
+1.3
+INTERNATIONA
+L
+2023
+8
+ID: 40 RANSOMWARE
+DETECTION: PROOF
+OF CONCEPT (POC)
+4th INTERNATIONAL
+CONFERENCE ON RECENT
+ADVANCEMENTS IN
+SCIENCE AND
+TECHNOLOGY 2023
+(ICoRAST 2023)
+Conference Paper
+Reviewer
+NA
+INTERNATIONA
+L
+2023
+9
+ID: 48 URL-BASED
+CLASSIFICATION
+FEATURES IN
+PREVENTING
+RANSOMWARE
+CYBER-ATTACKS
+4th INTERNATIONAL
+CONFERENCE ON RECENT
+ADVANCEMENTS IN
+SCIENCE AND
+TECHNOLOGY 2023
+(ICoRAST 2023)
+Conference Paper
+Reviewer
+NA
+INTERNATIONA
+L
+2023
+CONTRIBUTION - USIM
+2023
+No
+Name Of Activity
+Position
+Level
+Date
+1
+AJK Keselamatan ICT USIM
+AJK
+UNIVERSITY
+01/01/2023 -
+31/12/2024
+2
+Cybersecurity and Systems Research Group
+(CSS)
+DEPUTY HEAD
+FACULTY
+01/01/2023 -
+31/12/2024
+3
+Pasukan Perunding Sistem Kedatangan
+Pelajar Universiti Sains ISlam Malaysia
+HEAD OF AJK
+UNIVERSITY
+01/08/2023 -
+31/07/2024
+4
+Ahli Pasukan Perunding Sistem Kedatangan
+Pelajar Universiti Sains Islam Malaysia (USIM)
+1. Mengkaji keperluan pelaksanaan Projek
+Sistem Kedatangan pelajar USIM 2. Mengenal
+Pasti reka bentuk arkitektur, keperluan
+sokongan teknikal dan fizikal bagi menjay
+HEAD OF AJK
+UNIVERSITY
+01/08/2023 -
+31/07/2024
+5
+Audit Dalaman Sistem Pengurusan
+Keselamatan Maklumat ISO/IEC
+27001:2013(ISMS) Tahun 2023
+Juruaudit Pelatih
+UNIVERSITY
+03/10/2023 -
+05/10/2023
+6
+Permohonan Projek Penyelidikan Biduni
+Mizaniyyah
+Penilai
+UNIVERSITY
+05/04/2023 -
+11/04/2023
+7
+PERLANTIKAN SEBAGAI KETUA PENGAWAS
+PEPERIKSAAN, PEPERIKSAAN AKHIR
+SEMESTER I, SESI AKADEMIK 2022/2023
+Ketua Pengawas
+Peperiksaan
+UNIVERSITY
+08/02/2023 -
+08/02/2023
+8
+Pemeriksa - QT - PhD - Tamara Mousa
+Pemeriksa - QT - PhD
+FACULTY
+10/02/2023 -
+10/02/2023
+9
+Pemeriksa - QT - Sarjana - Mohd Hanif
+Jamaluddin (Pelajar FKAB)
+Pemeriksa - QT -
+Sarjana - Fakulti
+Kejuruteraan dan
+Alam Bina (FKAB)
+UNIVERSITY
+12/04/2023 -
+12/04/2023
+10
+PANEL PENILAI LAPORAN AKHIR
+PENYELIDIKAN Ketua Penyelidik: DR.
+AMINATUL SAADIAH BINTI ABDUL JAMIL Tajuk:
+ASSESSMENT OF COMPETENCY GAP TO
+ENHANCE WORKFORCE PERFORMANCE IN 5G
+VERTICAL AREAS AND APPLICATIONS
+PANEL PENILAI
+UNIVERSITY
+15/07/2023 -
+29/07/2023
+11
+PANEL PENILAI LAPORAN KEMAJUAN
+PENYELIDIKAN NAMA KETUA PENYELIDIK: DR.
+FAUZUN BINTI ABDULLAH ASUHAIMI TAJUK:
+PENYELIDIKAN RESOURCE MANAGEMENT
+OPTIMIZATION IN 6G NETWORK FOR SMART
+GRID COMMUNICATIONS USING DEEP
+LEARNING KLUSTER: TEKNOLOGI DAN KEJ
+PANEL PENILAI
+UNIVERSITY
+15/10/2023 -
+15/10/2023
+12
+PANEL PENILAI LAPORAN KEMAJUAN
+PENYELIDIKAN NAMA KETUA PENYELIDIK: DR.
+NOOR HANIS IZZUDDIN BIN MAT LAZIM
+TAJUK: PENYELIDIKAN: TAARIQ:
+AUTONOMOUS PERSON-FOLLOWING
+TELEPRESENCE ROBOT USING STEREO
+CAMERA AND DEEP LEARNING YOLO
+KLUSTER: TEKNOLOGI DAN
+PANEL PENILAI
+UNIVERSITY
+15/10/2023 -
+15/10/2023
+13
+Ahli Taskforce Semakan Kurikulum Program
+Sarjana Sains Komputer (Keselamatan dan
+Jaminan Maklumat)
+Ahli Taskforce
+FACULTY
+18/09/2023 -
+18/12/2023
+14
+Malaysia Technology Expo (MTE 2023),
+Kluster Sains & Teknologi
+Panel Penilai
+UNIVERSITY
+19/01/2023 -
+19/01/2023
+15
+Pengerusi - QT - PhD - Mohammad Sanwar
+Pengerusi - QT - PhD
+FACULTY
+22/11/2023 -
+22/11/2023
+16
+Anugerah Kreativiti dan Inovasi, USIM
+Panel Penilai
+UNIVERSITY
+23/06/2023 -
+23/06/2023
+17
+Innovation Bank Challenge 2023 (IBC2023)
+Panel Juri
+UNIVERSITY
+24/10/2023 -
+24/10/2023
+2022
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Ahli Pasukan Projek Sistem Maklumat
+Akademik versi 2
+MEMBERS
+UNIVERSITY
+01/10/2022 -
+31/12/2022
+2
+Ahli Jawankuasa Penilaian Bagi Perolehan
+perkhidmatan Latihan Secara Pakej
+AJK
+FACULTY
+05/09/2022 -
+31/12/2022
+3
+Panel Hakim Pertandingan 2nd Innovation
+Bank Challenge (IBC2022) USIM
+Panel Hakim
+UNIVERSITY
+06/09/2022 -
+06/09/2022
+4
+AHLI JAWATANKUASA INDUK PROGRAM
+JELAJAH ASPIRASI KELUARGA MALAYSIA
+(JAKM) PERINGKAT NEGERI SEMBILAN (NS) -
+KEMENTERIAN PENGAJIAN TINGGI (KPT)
+AJK
+UNIVERSITY
+07/10/2022 -
+09/10/2022
+5
+Pembaca/Penilai Permohonan Pendedahan
+Rekacipta (Invention Disclosure) Tajuk
+Penyelidikan : Light Algorithm Operation
+(LAO-3D Block Cupher) Ketua Projek: Prof
+Madya Dr Azni Haslizan Ab Halim
+Pembaca/Penilai
+FACULTY
+15/03/2022 -
+21/03/2022
+6
+AJK Teknikal Digital Transformasi, USIM
+AJK
+UNIVERSITY
+15/08/2022 -
+31/12/2022
+7
+Pemeriksa Pembentangan Proposal
+Penyelidikan Siswazah Bagi Ujian Kelayakan
+(Qualifying Test) FST. Nama Calon : Fairuz
+Bin Addnan No Matrik : 4201057 Program :
+Doktor Falsafah Sains dan Teknologi Tajuk
+Tesis : A Framework for Temperproof Digital
+Qura
+Pemeriksa
+Pembentangan
+Proposal Penyelidikan
+Siswazah Bagi Ujian
+Kelayakan (Qualifying
+Test) FST
+FACULTY
+23/02/2022 -
+23/02/2022
+2021
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Penyelaras Pelajar, Industri & Kerjaya Fakulti
+Sains dan Teknologi (FST) - Program
+keselamatan dan Jaminan Maklumat
+Penyelaras
+FACULTY
+01/01/2021 -
+31/12/2022
+2
+Ahli Jawatankuasa Keselamatan ICT (JKICT)
+AJK
+UNIVERSITY
+01/03/2021 -
+28/02/2023
+3
+Penilai Laporan Akhir Geran Penyelidikan
+Pembaca/Penilai
+Laporan Akhir Geran
+Penyelidikan
+UNIVERSITY
+09/03/2021 -
+19/03/2021
+4
+PANEL JEMPUTAN BAGI SESI SIARAN
+LANGSUNG “THINK BIG WEBINAR SERIES”
+PANEL JEMPUTAN
+BAGI SESI SIARAN
+LANGSUNG “THINK
+BIG WEBINAR
+SERIES”
+UNIVERSITY
+12/10/2021 -
+12/10/2021
+5
+Subject Matter Expert (SME) BagiSistem
+Tasdiq Al-Syahadah (eSCROLL) USIM
+Subject Matter Expert
+(SME) BagiSistem
+Tasdiq Al-Syahadah
+(eSCROLL) USIM
+UNIVERSITY
+18/11/2021 -
+18/11/2021
+6
+Petugas Promosi Akademik USIM Sempena
+Tunisia MIDDLE EAST 2021
+Petugas Promosi
+Akademik USIM
+Sempena Tunisia
+UNIVERSITY
+24/06/2021 -
+25/06/2021
+MIDDLE EAST 2021
+7
+AHLI TASKFORCE PROMOSI PERINGKAT
+FAKULTI SAINS DAN TEKNOLOGI
+MEMBERS
+FACULTY
+30/04/2021 -
+31/07/2021
+CONTRIBUTION - MEMBERS OF COMMUNITY COMMITTEE / ORGANISATION
+2023
+No
+Name Of Activity
+Position
+Level
+Date
+1
+PERSATUAN IBU-BAPA DAN GURU, MAAHAD
+TAHFIZ DAN KEMUKJIZATAN AL-QURAN,
+PONDOK AIR JERNIH, GERIK, PERAK.
+YANG DI PERTUA
+OTHERS
+22/07/2023 -
+26/07/2024
+2022
+No
+Name Of Activity
+Position
+Level
+Date
+1
+ADVISORY COMMITTEE THE 6TH
+INTERNATIONAL CONFERENCE ON ECO
+ENGINEERING DEVELOPMENT (ICEED) 2022
+INTERNATIONAL
+16/11/2022 -
+17/11/2022
+2021
+No
+Name Of Activity
+Position
+Level
+Date
+1
+PERSATUAN IBU-BAPA DAN GURU, MAAHAD
+TAHFIZ DAN KEMUKJIZATAN AL-QURAN,
+PONDOK AIR JERNIH, GERIK, PERAK.
+YANG DI PERTUA
+OTHERS
+18/09/2021 -
+17/09/2022
+CONSULTATION
+No
+Title
+Level
+Date
+1
+PANEL PENYEMAK
+NATIONAL
+01/03/2023 -
+01/03/2023
+2
+PANEL PENYEMAL GARIS PANDUAN PENILAIAN TAHAP
+KESELAMATAN RANGKAIAN DAN SISTEM ICT SEKTOR
+AWAM.
+NATIONAL
+01/03/2023 -
+01/03/2023
+3
+PANEL PENYEMAK GARIS PANDUAN PENILAIAN TAHAP
+KESELAMATAN RANGKAIAN DAN SISTEM ICT SEKTOR
+AWAM.
+NATIONAL
+01/03/2023 -
+01/03/2023
+4
+AHLI PANEL PEMERIKSA LUAR
+NATIONAL
+15/12/2023 -
+02/10/2025
+5
+AHLI PANEL PEMERIKSA LUAR PROGRAM IJAZAH SARJANA
+MUDA SAINS KOMPUTER (KESELAMATAN SISTEM
+KOMPUTER) DENGAN KEPUJIAN, FAKULTI SAINS DAN
+TEKNOLOGI PERTAHANAN, UNIVERSITI PERTAHANAN
+NASIONAL MALAYSIA (UPNM)
+NATIONAL
+15/12/2023 -
+02/10/2025
+6
+PENSIJILAN PROFESIONAL GLOBAL ACE PENETRATION
+TESTER
+NATIONAL
+17/03/2022 -
+31/12/2022
+7
+PANEL PENYEMAK GARIS PANDUAN PENGURUSAN RISIKO
+KESELAMATAN SIBER
+NATIONAL
+31/01/2023 -
+31/01/2023
+ADMINISTRATION TASK
+No
+Position
+Level
+Date
+1
+PENYELARAS UNIT HUBUNGAN INDUSTRI, PUSAT
+LIBATSAMA MASYARAKAT DAN JARINGAN INDUSTRI
+UNIVERSITY
+15/11/2021 -
+14/11/2023
+2
+Timbalan Pengarah, Pusat Libatsama Masyarakat dan
+Jaringan Industri
+UNIVERSITY
+01/07/2022 -
+31/12/2022
+PROFESIONAL MEMBERSHIP
+No
+Name of Membership
+Organization
+Field
+Date
+1
+MOHD FARED BIN ABDUL KHIR
+LEMBAGA JURUTERA MALAYSIA
+elektronik
+31/12/2017
+2
+MOHD FARED BIN ABDUL KHIR
+MALAYSIAN INSTITUTE OF
+ENGINEERS
+elektronik
+07/11/2016
+3
+NIST Cybersecurity Framework
+Professional (NCSP) Practitioner (no
+expiry)
+APMG International
+Cybersecurity
+13/11/2019
+4
+Certified Information Systems Security
+Professional (CISSP)
+International Information System
+Security Certification Consortium
+(ISC2)
+Information Security
+01/05/2022
+5
+Member
+Internet Society
+Internet
+18/08/2022
+RESEARCH AWARD
+No
+Title of Award
+Type of
+Award
+Exhibition Name
+Level
+Date
+AWARD
+No
+Name Of Award
+Organization
+Date
+Powered by TCPDF (www.tcpdf.org)
+
+
+--- End of Prof_Madya_Ir_Dr_Mohd_Fared_Abdul_Khir_CISSP_NCSP.pdf ---

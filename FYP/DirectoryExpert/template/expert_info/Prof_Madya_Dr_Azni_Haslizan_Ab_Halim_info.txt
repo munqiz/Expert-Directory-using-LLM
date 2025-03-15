@@ -1,0 +1,4 @@
+name: Prof. Madya Dr. Azni Haslizan Ab Halim
+email: ahazni@usim.edu.my
+faculty: FST
+pdf: Prof_Madya_Dr_Azni_Haslizan_Ab_Halim.pdf

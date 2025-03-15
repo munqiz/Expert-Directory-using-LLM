@@ -1,0 +1,3888 @@
+--- Start of Prof_Madya_Dr_Najwa_Hayaati_Mohd_Alwi.pdf ---
+
+PERSONAL DETAIL
+Name
+PROF. MADYA DR. NAJWA HAYAATI BINTI MOHD ALWI
+Designation
+PENSYARAH UNIVERSITI DS54
+Faculty
+FACULTY OF SCIENCE AND TECHNOLOGY
+Tel. No. (Office)
+86423
+E-mail Address
+najwa@usim.edu.my
+Address(Office)
+FACULTY OF SCIENCE AND TECHNOLOGY ,UNIVERSITI SAINS ISLAM MALAYSIA, BANDAR BARU
+NILAI, 71800, NILAI, NEGERI SEMBILAN
+ACADEMIC QUALIFICATION
+No
+Year
+Qualification
+Institution
+Field
+1
+2012
+PhD
+UNIVERSITY OF CRANFIELD,UK
+TEKNOLOGI MAKLUMAT
+2
+2000
+Master
+UNIVERSITI KEBANGSAAN MALAYSIA,
+SELANGOR
+TEKNOLOGI MAKLUMAT
+3
+1998
+Bachelor
+UNIVERSITI KEBANGSAAN MALAYSIA,
+SELANGOR
+TEKNOLOGI MAKLUMAT
+TEACHING
+MASTER / PHD
+No
+Code Subject
+Subject
+Start
+Year
+End
+Year
+1
+SKJ8053
+INFORMATION SECURITY MANAGEMENT
+2014
+2021
+2
+SKJ8043
+INFORMATION SECURITY ASSURANCE AUDIT
+2018
+2018
+3
+SKJ8103
+ADVANCED INFORMATION SECURITY MANAGEMENT
+2021
+2024
+DEGREE
+No
+Code Subject
+Subject
+Start
+Year
+End
+Year
+1
+UTA1032
+INTRODUCTION TO INFORMATION TECHNOLOGY
+2004
+2007
+2
+UTA1082
+INFORMATION AND COMMUNICATION TECHNOLOGY
+2007
+2008
+3
+SKS1362
+INFORMATION AND COMMUNICATION TECHNOLOGY
+2012
+2016
+4
+SKJ4193
+CYBER LAW
+2014
+2024
+5
+SKJ4283
+KNOWLEDGE MANAGEMENT
+2015
+2015
+6
+SKJ4183
+ASSURANCE OF INFORMATION SYSTEMS
+2017
+2024
+7
+SKJ3143
+INFORMATION SECURITY MANAGEMENT
+2023
+2024
+8
+SKJ4612
+INTRODUCTION TO MANAGEMENT INFORMATION SYSTEMS
+2023
+2023
+INTERNAL SUPERVISION
+PHD
+No
+Matric No
+Student Name
+Type of Supervisor
+Start
+Year
+End
+Year
+1
+4110154
+ELHADI SALAH ELDULFAG
+Main Supervisor
+2012
+2013
+2
+4110232
+MOHAMMED RAHEEL MOHAMMED AL-AHOUL
+Member of
+Supervisory
+Committee
+2012
+2022
+3
+4110234
+MAHMOUD MOH'D MAHMOUD AL
+SHAWABKEH
+Co-Supervisor
+2012
+2022
+4
+4120018
+ABDULHAMID FARAJ ALI ELHAMALI
+Co-Supervisor
+2012
+2014
+5
+4120029
+HAZEM MOHAMMAD ZEIDAN AL-KASEASBEH
+Co-Supervisor
+2012
+2014
+6
+4120054
+RABIA IHMOUDA HASSAN MASOUD
+Main Supervisor
+2012
+2022
+7
+4120075
+HASSAN AWAD HASSAN AL-SUKHNI
+Co-Supervisor
+2012
+2022
+8
+4120161
+MAHER ABDULLA ALMAHDI ALGHALI
+Main Supervisor
+2012
+2022
+9
+4110233
+YAHYA OMAR MOHAMED FAKROUN
+Member of
+Supervisory
+Committee
+2013
+2022
+10
+4120254
+NOORUL HALIMIN BINTI MANSOL
+Main Supervisor
+2013
+2022
+11
+4130140
+ODAI MOHAMMAD AHMAD ENAIZAN
+Chairman of
+Supervisory
+Committee
+2013
+2022
+12
+4120156
+WASIM RASHED DOURI
+Co-Supervisor
+2015
+2015
+13
+4140237
+RAFIDAH BINTI ABDUL HAMID
+Co-Supervisor
+2015
+2022
+14
+4140258
+MOHAMMAD HASNIZAM BIN UMAR
+Member of
+Supervisory
+Committee
+2015
+2016
+15
+4150137
+MOHAMMED MAHMUDUR RAHMAN
+Co-Supervisor
+2015
+2024
+16
+4150226
+MOHD ILIAS M SHUHUD
+Main Supervisor
+2016
+2022
+17
+4150249
+ABDUL FUAD ABDUL RAHMAN
+Co-Supervisor
+2016
+2023
+18
+4160293
+'ABDULLAH ZAYID WANI AL KHAMISI
+Co-Supervisor
+2017
+2022
+MASTER
+No
+Matric No
+Student Name
+Type of Supervisor
+Start
+Year
+End
+Year
+1
+3110230
+MOHANAD BAJBOUJ
+Co-Supervisor
+2012
+2022
+2
+3130008
+HANAN YOUSEF TAHER
+Main Supervisor
+2013
+2015
+3
+3150282
+MU'AZZ BIN SAHARI
+Main Supervisor
+2016
+2022
+4
+3160236
+AHMAD FARID BIN MOHD JAMAL
+Main Supervisor
+2017
+2022
+5
+3171219
+SURIANI SAMSURI
+Supervisor
+2017
+2022
+6
+3201278
+SAKIINAH BINTI ALTAF HUSSAIN
+Co-Supervisor
+2020
+2024
+7
+3191411
+AHMAD SIRHAN BIN ABDUL GHAZALI
+Main Supervisor
+2021
+2022
+8
+3212664
+SIVAKAMENI A/P INDRAN
+Supervisor
+2022
+2024
+9
+3221155
+GOBINATH KARUPPIAH
+Supervisor
+2022
+2024
+INTERNAL RESEARCH
+No
+Title
+Grant
+Role
+Date
+1
+Tahap Kemahiran Dan KemudahanPenggunaan ICT: Satu
+Tinjauan Di Kalangan Pelajar KUIM
+Geran
+Penyelidikan
+Fundamental
+Co-Researcher
+01/08/2005 -
+14/03/2007
+2
+Evaluation of existing ICT infrastructure in KUIM
+Geran
+Penyelidikan
+Fundamental
+Co-Researcher
+15/05/2006 -
+03/02/2007
+3
+Kajian Kes untuk Pengajaran dan Penerbitan II (Berbagai
+Kajian Kes): i- Ancaman Pencerobohan Sistem
+Berkomputer ii- Dilemmas In Corporate Communication
+Division iii- Pertindihan Perintah Mahkamah Syariah
+iv- Pencegahan Sars v-
+Geran
+Penyelidikan
+Pantas Bawah
+Setahun
+Co-Researcher
+01/03/2003 -
+31/05/2005
+4
+The Usage of ICT in Fatwa Management System in
+Malaysia
+Geran
+Penyelidikan
+Fundamental
+Main
+Researcher
+01/06/2004 -
+31/08/2005
+5
+USER ORIENTED PRIVACY MODEL FOR SOCIAL NETWORKS
+BASED ON ISLAMIC PERSPECTIVE
+Geran
+Penyelidikan
+Pentadbir
+Co-Researcher
+01/12/2012 -
+18/12/2015
+6
+Penggalian Petunjuk Ilmu Aqli Dalam Quran
+Geran
+Penyelidikan
+Kompetitif
+Kluster
+Co-Researcher
+01/07/2014 -
+19/12/2017
+7
+An Enhancement of correlated clustering approach for
+improving wireless adhoc network performance.
+Geran KPT
+Co-Researcher
+01/12/2014 -
+22/03/2019
+8
+Developing Information Security Management
+System(isms) Policy For Usim''''s Hospital
+Geran
+Penyelidikan
+Kumpulan
+Pegawai
+Pentadbiran
+Co-Researcher
+28/04/2015 -
+23/03/2017
+9
+Designing An Integrated Naqli & Aqli Self-Instructional
+Learning Module(INASILM) Framework For Effective E-
+Content Development
+Geran
+Penyelidikan
+Pentadbir
+Main
+Researcher
+09/06/2015 -
+30/05/2017
+10
+A New Integrated Postgraduate Student Systems
+Develpment
+Geran
+Penyelidikan
+Khas
+Main
+Researcher
+25/08/2015 -
+23/03/2017
+11
+NATIONAL OPEN EDUCATIONAL RESOURCES (OER)
+POLICY DEVELOPMENT FOR MALAYSIA
+Geran
+Antarabangsa
+Co-Researcher
+01/09/2016 -
+19/12/2018
+12
+PEMBANGUNAN ENSIKLOPEDIA DIGITAL SOLAT
+Geran
+Penyelidikan
+Khas
+Main
+Researcher
+07/11/2017 -
+04/03/2021
+13
+LIGHTWEIGHT CRYPTOSYSTEM BY ADOPTING THE 3D
+FEATURE
+Geran KPT
+Co-Researcher
+01/09/2019 -
+30/11/2023
+14
+A STUDY ON MALAYSIAN DIGITAL SIGNATURE (DS)
+MARKET DEMAND AND FEASIBILITY OF CERTIFICATION
+AUTHORITY (CA) INTEROPERABILITY
+Geran
+Penyelidikan
+Agensi
+Kerajaan
+Co-Researcher
+01/06/2023 -
+26/02/2024
+15
+Sistem Pengurusan fatwa Fasa II INFAD
+Geran
+Penyelidikan
+USIM
+Co-Researcher
+01/06/2007 -
+01/01/2013
+16
+GAME-BASED LEARNING TOOL FOR CYBERSECURITY
+AWARENESS WITH NAQLI AND AQLI INTEGRATION
+Biduni
+Mizanniyah
+Co-Researcher
+01/08/2022 -
+01/08/2023
+17
+CYBERSECURITY AND SYSTEMS (CSS)
+Geran
+Kumpulan
+Co-Researcher
+06/06/2024 -
+06/06/2026
+Penyelidikan
+(KUP)
+18
+GO GREEN: SERVICE LEARNING VIA LAB IN A BOX
+Geran
+Penyelidikan
+Pentadbir
+Co-Researcher
+01/11/2023 -
+01/11/2025
+19
+A STUDY ON USER BEHAVIOUR PROFILING FOR
+ORGANIZATIONAL SECURITY RESILIENCE
+Geran
+Penyelidikan
+USIM
+Main
+Researcher
+01/11/2023 -
+01/11/2025
+20
+A STUDY TO DETERMINE THE ETHICAL AND LEGAL
+CRITERIA FOR VIDEO RECORDED INFORMED CONSENT
+APPLICABLE IN MALAYSIAN MEDICAL PRACTICE.
+Geran
+Penyelidikan
+USIM
+Co-Researcher
+01/03/2022 -
+01/03/2025
+21
+AN INVESTIGATION ON FACTORS CONTRIBUTING TO
+KNOWKLEDGE SHARING IN USIM
+Geran
+Penyelidikan
+Fundamental
+Co-Researcher
+01/02/2008 -
+01/02/2013
+22
+CYBER HASANAT: SECURE CYBERCITIZENSHIP
+AWARENESS
+Geran
+Penyelidikan
+Agensi
+Kerajaan
+Co-Researcher
+27/03/2024 -
+27/10/2024
+23
+DEVELOPMENT OF AN ARABIC EXAM QUESTION
+GENERATOR UTILIZING ADVANCED NATURAL LANGUAGE
+PROCESSING TECHNIQUES WITH ARABIC CORPUS
+Geran
+Penyelidikan
+USIM
+Co-Researcher
+06/06/2024 -
+06/06/2026
+24
+ENHANCING DISASTER PREPAREDNESS AND RESILIENCE
+THROUGH A MOBILE EDUTAINMENT BASED ON USER-
+CENTERED APPROACH
+Geran
+Penyelidikan
+Pentadbir
+Co-Researcher
+01/11/2023 -
+01/11/2025
+25
+HYBRID FUZZY LEAST SQUARES GENERATIVE
+ADVERSARIAL NETWORK (LS-GAN) BASED AUDIO
+STEGANOGRAPHY FOR BETTER IMPERCEPTIBILITY AND
+SECURITY REAL TIME PERFORMANCE.
+Geran KPT -
+Geran FRGS
+Co-Researcher
+01/08/2024 -
+01/08/2027
+26
+ENHANCING INTEROPERABILITY IN THE CERTIFICATE
+AUTHORITY: NEW TRUST MODEL FOR PUBLIC KEY
+INFRASTRUCTURE USING CRYPTO-AGILITY
+Geran KPT -
+Geran FRGS
+Co-Researcher
+01/08/2024 -
+01/08/2027
+CONFERENCE
+No
+Conferance Name
+Paper Work
+Role
+Date
+1
+THE INTERNATIONAL CONFERENCE ON
+CYBER SECURITY, CYBERWARFARE AND
+DIGITALFORENSIC
+CULTURAL VIEWS
+INCLUSIVE IN E-LEARNING
+RISK ANALYSIS
+Pembentang Lisan /
+Kertas Kerja
+26/06/2012 -
+28/06/2012
+2
+2012 IEEE SYMPOSIUM ON E-LEARNING,
+E-MANAGEMENT AND E-SERVICES
+CULTURAL VIEWS
+INCLUSIVE IN E-LEARNING
+RISK ANALYSIS
+Pembentang Lisan /
+Kertas Kerja
+21/10/2012 -
+24/10/2012
+3
+SEMINAR CREATIVITY AND INNOVATION
+(I-INNOVA)
+Peserta Biasa
+25/10/2013 -
+25/10/2013
+4
+INTERNATIONAL CONFERENCE ON
+COMMUNICATION AND MEDIA 2014 (I-
+COME)
+INFUSING SOCIAL MEDIA IN
+TEACHING AND LEARNING
+(TNL) AT TERTIARY
+INSTITUATIONS: A CASE OF
+EFFECTIVE
+COMMUNICATION IN USIM
+Pembentang Lisan /
+Kertas Kerja
+18/10/2014 -
+20/10/2014
+5
+2015 2nd INTERNATIONAL
+CONFERENCE ON COMMUNICATION
+AND COMPUTER ENGINEERING
+(ICOCOE)
+CONCEPTUAL STUDY
+TOWARDS INFORMATION
+SECURITY MODEL FOR E-
+LEARNING STAKEHOLDERS
+Pembentang Lisan /
+Kertas Kerja
+09/06/2015 -
+11/06/2015
+6
+IEEE CONFERENCE ON OPEN SYSTEM
+2015
+MANAGING
+ORGANIZATIONAL CULTURE
+REQUIREMENT FOR
+BUSINESS CONTINUITY
+MANAGEMENT (BCM)
+IMPLEMENTATION USING
+GOAL-QUESTION-METRIC
+(GQM) APPROACH
+Pembentang Lisan /
+Kertas Kerja
+24/08/2015 -
+26/08/2015
+7
+9TH INTERNATIONAL MALAYSIAN
+EDUCATIONAL TECHNOLOGY
+CONVENTION (IMETC 2015) 21ST
+CENTURY TEACHING AND LEARNING
+DESIGN
+BEYOND BLENDED
+LEARNING
+Keynote Speaker
+13/09/2015 -
+15/09/2015
+8
+SOUTHEAST ASIAN HIGHER EDUCATION
+SUMMIT 2015 "FUTURE EDUCATION:
+KNOWLEDGE, PEDAGOGY,
+TECHNOLOGY, & LEARNING SPACES"
+Peserta Biasa
+08/12/2015 -
+09/12/2015
+9
+2016 INTERNATIONAL CONFERENCE ON
+COMPUTER, COMMUNICATION AND
+CONTROL TECHNOLOGY (I4CT'2016)
+Information Security
+Management Systems
+(ISMS) and Computer
+Security Self-Efficacy
+(CSSE) Model Comparison
+Pembentang Lisan /
+Kertas Kerja
+19/04/2016 -
+21/04/2016
+10
+Learning Space Seminar
+Peserta Biasa
+26/10/2016 -
+26/10/2016
+11
+3rd Bett Asia 2016 Leadership Summit
+Peserta Biasa
+15/11/2016 -
+16/11/2016
+12
+8th Pan-Commonwealth Forum
+MOBILE LEARNING
+-CYBERLAW COURSE, THE
+APPLICATION
+DEVELOPMENT AND
+STUDENTS PERCEPTIONS.
+Pembentang Lisan /
+Kertas Kerja
+27/11/2016 -
+30/11/2016
+13
+International Conference on Applied
+Science and Technology (ICAST 2017)
+INFORMATION SECURITY
+MANAGEMENT SYSTEM
+(ISMS) PERCEPTIVE
+TOWARDS PUBLIC
+UNIVERSITIES IN LEMBAH
+KLANG
+Pembentang Lisan /
+Kertas Kerja
+03/04/2017 -
+06/04/2017
+14
+International Carnival on E-learning
+2017
+Supporting eLearning
+through Centralized
+Integrated Portal
+Postgraduate System (iPPS)
+Pembentang Poster
+26/09/2017 -
+27/09/2017
+15
+International Conference on Blended
+Learning (ICBL 2017)
+Blended Learning Using
+INASILM
+Pembentang Lisan /
+Kertas Kerja
+21/11/2017 -
+23/11/2017
+16
+1ST INTERNATIONAL CONFERENCE ON
+BIG DATA AND CLOUD COMPUTING
+2017 (ICOBIC 2017)
+Initiating an Online
+Reputation Monitoring
+System with Open Source
+Analytics Tools
+Peserta Biasa
+25/11/2017 -
+27/11/2017
+17
+RESEARCH COLLABORATION AND
+INVITED SPEAKER AT JAPAN ADVANCED
+INSTITUTE OF SCIENCE AND
+TECHNOLOGY (JAIST)
+Information Security
+Management System
+(ISMS)
+Pembentang
+Jemputan
+19/04/2018 -
+19/04/2018
+18
+MALAYSIA OPENGOV LEADERSHIP
+FORUM
+Peserta Biasa
+20/09/2018 -
+20/09/2018
+19
+CYBER SECURITY MALAYSIA- AWARD,
+CONFERENCE AND EXHIBITION
+Peserta Biasa
+24/09/2018 -
+28/09/2018
+20
+5th Annual OpenGov Leadership Forum
+Peserta Biasa
+11/04/2019 -
+11/04/2019
+21
+International Conference on Business,
+Economy,Social and Technology
+SUCCESSFUL FACTORS FOR
+TEACHING AND LEARNING
+USING MOBILE
+APPLICATIONS
+Pembentang Lisan /
+Kertas Kerja
+27/04/2019 -
+28/04/2019
+22
+International University Carnival on E-
+Learning (IUCEL)
+MySolat Mobile Apps
+Pembentang Poster
+21/08/2019 -
+22/08/2019
+23
+11th Cybersecurity Malaysia Awards,
+Conference Exhibition -CSM ACE 2019
+Peserta Biasa
+23/09/2019 -
+27/09/2019
+24
+International Conference on Business,
+Education, Social and Technology
+(ICBEST 2020)
+Cybersecurity, Is it time for
+profiling?
+Keynote Speaker
+18/01/2020 -
+19/01/2020
+25
+24HoursofUX
+Peserta Biasa
+10/06/2020 -
+11/06/2020
+26
+International Symposium and Expo on
+Service Learning and Socially
+Responsible Global Citizenship (Online)
+Peserta Biasa
+09/07/2021 -
+10/07/2021
+27
+8TH INTERNATIONAL RESEARCH
+SYMPOSIUM ON PBL
+Peserta Biasa
+15/08/2021 -
+17/08/2021
+28
+International E-Content Development
+Competition 2021 (e-ConDev 2021).
+Cyberlaw Almanac MOOC
+Pembentang Lisan /
+Kertas Kerja
+20/08/2021 -
+27/08/2021
+29
+SouthEast Asia Higher Education
+Seminar -SEAHEs 2022
+Peserta Biasa
+15/06/2022 -
+15/06/2022
+30
+Journey to the NIST Cybersecurity
+Framework (CSF) 2.0 Workshop #2
+Peserta Biasa
+15/02/2023 -
+15/02/2023
+31
+PERSIDANGAN TANDATANGAN DIGITAL
+Peserta Biasa
+20/06/2023 -
+20/06/2023
+32
+MCMC Research Symposium 2023
+Peserta Biasa
+17/08/2023 -
+17/08/2023
+33
+International University Carnival on E-
+Learning (IUCEL) 2023
+SWINDLERT: MOBILE
+GAMIFICATION USING
+AUGMENTED REALITY FOR
+CYBERCRIME
+EDUTAINMENT
+Peserta Biasa
+25/09/2023 -
+26/09/2023
+34
+International University Carnival on E-
+Learning (IUCEL) 2023
+SWINDLERT: MOBILE
+GAMIFICATION USING
+AUGMENTED REALITY FOR
+CYBERCRIME
+EDUTAINMENT
+Pembentang Poster
+25/09/2023 -
+26/09/2023
+35
+24-hour IEEE Day 2023 program
+User Behaviour Profiling:
+Safeguarding
+Organizational Security
+Resilience
+Penceramah
+Jemputan
+03/10/2023 -
+03/10/2023
+36
+ICORAST 2023
+Systematic Literature
+Review on SASE ad ZTNA
+implementation to ensure
+secure access
+Pembentang Lisan /
+Kertas Kerja
+09/11/2023 -
+09/11/2023
+37
+8TH GLOBAL HIGHER EDUCATION
+FORUM 2023 (GHEF2023)
+Peserta Biasa
+15/11/2023 -
+17/11/2023
+38
+ICCS2023 · International Conference on
+Cyber Security, Privacy in
+Communication Networks
+Interoperability Challenges
+Among Certification
+Authorities in Malaysia: An
+In-Depth Analysis
+Pembentang Lisan /
+Kertas Kerja
+11/12/2023 -
+12/12/2023
+39
+INTERNATIONAL REGULATORY
+CONFERENCE 2024 (IRC 2024)
+Peserta Biasa
+06/05/2024 -
+07/05/2024
+40
+Academic Partners’ Conference 2024
+SecureEd: Navigating the AI Frontier in
+Cybersecurity (and) Education.
+Peserta Biasa
+17/07/2024 -
+17/07/2024
+41
+MCMC RESEARCH SIMPOSIUM 2024
+Peserta Biasa
+04/09/2024 -
+04/09/2024
+AREA OF SPECIALIZATION AND RESEARCH INTERESTS
+No
+Field / Area
+Level of Expertise
+1
+COMPUTER SECURITY
+HIGH
+2
+EDUTAIMENT
+HIGH
+3
+INFORMATION MANAGEMENT
+HIGH
+4
+INFORMATION, COMPUTER AND COMUNICATION
+TECHNOLOGIES
+VERY HIGH
+5
+OTHER EMERGENT INFORMATION TECHNOLOGY
+HIGH
+PUBLICATION - BOOK
+2023
+1. Prof. Dr. Mohd Fadzilllah Abdul Razak Prof. Datin Dr. Sapora Sipon Prof. Madya Dr. Ramiaida Darmi Prof. Madya Dr.
+Najwa Hayaati Mohd Alwi Prof. Madya Dr. Mohammad Najib Jaffar Prof. Madya Dr. Noo,Personal Tutelege USIM,Pusat
+Kecemerlangan Pengajaran & Pembelajaran USIM
+2020
+1. Najwa Hayaati Mohd Alwi,CYBERLAW MOOC,USIMMOOC
+2. Rozhan Idrus, Najwa Hayaati Mohd Alwi,Enculturing Research- Navigating your idea,Ibnu Haitham, USIM
+2019
+1. 1. Alyani Ismail (UPM), Noraida Hj. Ali Universiti (UMT), Najwa Hayaati Mohd Alwi (USIM), Nurbiha A Shukor (UTM),
+Syahrul Nizam bin Junaini (UNIMAS),Adzhar Kamaludin (UMP), Mohd Nihra Haruzuan Mohd S,MOOCs Malaysia the
+Journey (2019), ISBN: 978-983-3225-14-9,Jabatan Pendidikan Tinggi, Kementerian Pendidikan
+2018
+1. 1. Rozhan, Idrus, Supyan Hussin, Najwa Hayaati Mohd Alwi. Nurkkhamimi, Mohd Zalisham Jali,Digital Education
+Leadership Action Training (DELAT).,AKEPT
+2. Najwa Hayaati Mohd Alwi , Nurkhamimi, Ahmad Farid, Zarin,Inspirations Towards Global Digital Learning 2018,BIPP
+2017
+1. Rozhan Mohammed Idrus, Nurkhamimi Zainuddin, Najwa Hayaati Mohd Alwi, Ahmad Farid Mohd Jamal and Eznie
+Zahirah Mohd Ali,Towards National Policy Guidelines on Open Educational Resources in Malaysia,Commonwealth of
+Learning
+2016
+1. Normazla Ahmad Mahir, Shaharudin Ismail,Najwa Hayaati Mohd Alwi, dan Zul Hilmi Abdullah,Penggunaan Media
+Sosial Sebagai Medium Pengajaran dan Pembelajaran: Kaji Selidik Terhadap Pelajar Aliran Sains dan Bukan Sains di
+Universiti Sains Islam Malaysia,USIM Press
+2. Rozhan M.Idrus, Riad FHassan, Hisham Dzkaria Maky H Abdulraheem et al.,Innovation in Student Centred Teaching
+& Learning,USIM PUBLISHER
+3. Norasikin Fabil, Nurul Fathihin,Integrating the Naqli & aqli knowledge in Self Instructional Learning Module
+(SILM),Usim publisher
+2010
+1. N. H. Mohd Alwi, and I.-S. Fan, M. D. Lytras et al. (Eds,Information security threats analysis for e-learning,
+Technology Enhanced Learning, Quality of Teaching and Educational Reform (Springer E-Book),Springer-Verlag Berlin
+2007
+1. najwa hayaati binti mohd alwi,KESAN PENGINTEGRASIAN ICT DAN PENDIDIKAN DALAM PEMBENTUKAN EKONOMI
+BERASASKAN PENGETAHUAN. ISU-ISU SEMASA GLOBAL SEMPENA KEMERDEKAAN KE 50.,Penerbit USIM
+PUBLICATION - CHAPTER IN BOOK
+2023
+1. Najwa Hayaati Mohd Alwi,Education during the Pandemic,,33
+2022
+1. Najwa Hayaati Mohd Alwi,Jenayah Siber DI Malaysia: Impak Leluasa Internet,IPSOM(Kementerian Dalam
+Negeri),103-118
+2. Najwa Hayaati Mohd Alwi,Cybercrime In Malaysia-The Pervasive Impact of The Internet,,122-139
+2019
+1. Zainuddin, Nurkhamimi & Idrus, Rozhan & Mohd Alwi, Najwa,The Impact of MOOCs on Distance Education in
+Malaysia and Beyond,Routledge. New York & London,158-167
+2014
+1. ,PIONEERING ISLAMIC SCIENCE, SPEARHEADING KNOWLEDGE,Penerbit USIM,215
+2010
+1. ,TECHNOLOGY ENHANCED LEARNING, QUALITY OF TEACHING AND EDUCATIONAL REFORM,Springer Berlin
+Heidelberg,285-291
+PUBLICATION - JOURNAL
+2022
+1. SAKIINAH ALTAF HUSSAIN, AZNI HASLIZAN AB HALIM AND NAJWA HAYAATI MOHD ALWI,SYSTEMATIC LITERATURE
+REVIEW FOR LIGHTWEIGHT AUTHENTICATION ALGORITHM IN THE IoT,,17,9 (Sept),162-178
+2. Sakinah Ali Pitchay, Anis Syahira Suhaimi, Najwa Hayaati Mohd Alwi, Farida Ridzuan and Azni Haslizan Ab
+Halim,Enhancing Cyber-attacks Awareness via Mobile Gamification Techniques,International Journal of Advanced
+Research in Technology and Innovation,4,2,69-84
+2020
+1. Odai Enaizen,Electronic Medical record systems : decision support examination framework for individual, security
+and privacy concerns using multi-perspective analysis,,10,3,795-822
+2. Mohammed Mahmudur Rahman, Zulkifly Mohd Zaki, Najwa Hayaati Binti Mohd Alwi and Md. Monirul Islam,A
+Conceptual Model for the E-Commerce Application Recommendation Framework using Exploratory Search,Journal of
+Computer Science,16,8,1163-1171
+2019
+1. Rahman M.M., Zaki Z.B.M., Alwi N.H.M., Monirul Islam M.,A Hybrid Approach to Improve Recommendation System
+in E-Tourism,Emerging Technologies in Data Mining and Information Security.(Advances in Intelligent Systems and
+Computing).,755,1,787-797
+2. Zalisham Mohd Jali, Nurkhamimi Zainuddin, Rozhan M. Idrus,,Successful Factors for Teaching and Learning Using
+Mobile Applications7,,7,4,230-238
+3. Shuhud, M. I. M., Alwi, N. H. M., & Halim, A. H. A.,Exploring an In-house Online Reputation Monitoring
+Implementation,Journal of Physics: Conference Series,1358,012056,1-7
+4. Najwa Hayaati Mohd Alwi, Zalisham Mohd Jali, Nurkhamimi Zainuddin, Rozhan M. Idrus,Successful Factors for
+Teaching and Learning Using Mobile Applications,,7,4,230-238
+2018
+1. Ismail, W., Alwi, N. H. M., Ismail, R., Bahari, M., & Zakaria, O.,Readiness of Information Security Management
+Systems (ISMS) Policy on Hospital Staff Using e-Patuh System,Journal of Telecommunication, Electronic and
+Computer Engineering (JTEC),10,1-11,47-52
+2. Shuhud, M. I. M., Alwi, N. H. M., & Halim, A. H. A.,Initiating an Online Reputation Monitoring System with Open
+Source Analytics Tools.,Journal of Physics: Conference Series,1018,1,1-9
+3. Enaizan, O., Zaidan, A. A., Alwi, N.H.M., Zaidan, B. B., Alsalem, M. A., Albahri, O. S., & Albahri, A. S.,Electronic
+medical record systems: Decision support examination framework for individual, security and privacy concerns using
+multi-perspective analysis,Health and Technology,1,28,1-28
+2017
+1. Azni, A.H., Alwi, N.H.M. and Seman, K,EXPERIMENTAL RESEARCH TESTBED FOR INTERNET OF THINGS: A SURVEY
+FROM SECURITY SERVICES PERSPECTIVES.,Journal of Fundamental and Applied Sciences, 9(3S),,9,3S,231-244
+2. Al-Shawabkeh, M., Saudi, M.M., Alwi, N.H.M. and Azman, N,Information Security Management Systems (ISMS) and
+Computer Security Self-Efficacy (CSSE) Model Comparison.,Advanced Science Letters,23,6,5237-5241
+3. Shahidah, N., Azni, A.H., Alwi, N.H.M., Seman, K. and Bakar, N.H.,,Systematic Literature Review: Correlated Fuzzy
+Logic Rules for Node Behavior Detection in Wireless Sensor Network.,Journal of Telecommunication, Electronic and
+Computer Engineering,9,3-3,109-115
+4. 15. Shuhud, M.I.M., Alwi, N.H.M. and Halim, A.H.A.,,Six Critical Processes to Refute Social-Media-Rumor.,Advanced
+Science Letters,23,5,4929-4933
+2016
+1. Noorul Halimin Mansol, Najwa Hayaati Mohd Alwi*, Waidah Ismail *Corresponding author,MANAGING
+ORGANIZATIONAL CULTURE REQUIREMENT FOR BUSINESS CONTINUITY MANAGEMENT (BCM) IMPLEMENTATION
+USING GOAL-QUESTION-METRIC (GQM) APPROACH,Jurnal Teknologi (Sciences & Engineering),78,12-3,13-22
+2. A. H. Azni , Rabiah Ahmad, Kamaruzzaman Seman, Najwa Hayaati Mohd Alwi, Zul Azri Mohamad Noh,Correlated
+Topology Control Algorithm for Survival Network in MANETS,Advanced Computer and Communication Engineering
+Technology Volume 362 of the series Lecture Notes in Electrical Engineering,362,lecture no,93-102
+2015
+1. SHAHARUDIN ISMAIL, ZUL HILMI ABDULLAH, NAJWA HAYAATI MOHD ALWI, MOHD ZALISHAM JALI,USER''S
+AWARENESS SURVEY ON 1CITIZEN PROGRAM IN UNIVERSITI SAINS ISLAM MALAYSIA (USIM).,Journal of Theoretical &
+Applied Information Technology,75,1,115-118
+2. Najwa Hayaati Mohd Alwi1, Ip-Shing Fan2 and A. H. Azni3,CONCEPTUAL STUDY TOWARDS INFORMATION SECURITY
+MODEL FOR E-LEARNING STAKEHOLDERS,ARPN Journal of Engineering and Applied Sciences,10,16,7206-7208
+3. A. H. Azni , Rabiah Ahmad, Kamaruzzaman Seman, Najwa Hayaati Mohd Alwi, Zul Azri Mohamad Noh,Correlated
+Topology Control Algorithm for Survival Network in MANETS,Advanced Computer and Communication Engineering
+Technology Proceedings of ICOCOE 2015,362,,93-102
+4. Rabia Ihmouda, Najwa Hayaati Mohd Alwi and Ismail Abdullah,SUCCESSFUL FACTORS ON E-GOVERNMENT
+SECURITY SOCIAL-TECHNICAL ASPECT,ARPN Journal of Engineering and Applied Sciences,10,20,9640-9642
+5. A.H Aznia *, Rabiah Ahmadb, Zul Azri Mohamad Noha, Farida Hazwania and Najwa Hayaati Mohd Alwi,Systematic
+Review for Network Survivability Analysis in MANETS,Procedia Social and Behavioral Sciences,195,,18721881
+6. Mahmoud Al-Shawabkeh, Madihah Mohd Saudi and Najwa Hayaati Mohd Alwi,Computer security factors effects
+towards online usage of internet banking system,ARPN Journal of Engineering and Applied Sciences,10,2,532-535
+2014
+1. Norita Md Norwawi1, Najwa Hayaati Mohd Alwi, Roesnita Ismail, Fauziah Wahid & Nader M. Alkaenay,Promoting
+Islamic Ethics on Privacy in Digital Social Network For User Data Protection and Trust,￼ULUM Islamiyyah
+Journal,13,special ed,115-118
+2. Rabia Ihmouda, Najwa Hayaati Mohd Alwi, Ismail Abdullah,A Systematic Review on E-government Security
+Aspects,International Journal of Enhanced Research in Management & Computer Applications,3,6,60-64
+3. Noorul Halimin Mansol, Najwa Hayaati Mohd Alwi, Waidah Ismail,Success Factors towards Implementation of
+Business Continuity Management in Organizations,International Journal of Digital Society (IJDS),5,1&2,869-871
+4. Najwa Hayaati Mohd Alwi , Normazla Ahmad Mahir, Shaharudin Ismail,Infusing Social Media in Teaching and
+Learning (TnL) at Tertiary Institutions: A Case of Effective Communication in Universiti Sains Islam Malaysia
+(USIM),Procedia - Social and Behavioral Science,155,,265-268
+5. nader Yahya Alkeinay, Norita Md Norwawi, Fauziah Abdul Wahid, Roesnita Ismail, Najwa Hayaati Mohd Alwi,Privacy
+Factors of Social Network That Effect Users Trust And Confidentiality,International Journal of Management &
+Information Technology (IJMIT),8,3,1411-1413
+2011
+1. najwa hayaati binti mohd alwi,A STUDY ON ICT IN FATWA MANAGEMENT IN MALAYSIA,JURNAL PENGURUSAN DAN
+PENYELIDIKAN FATWA / JOURNAL OF FATWA MANAGEMENT AND RESEARCH,2,,115-115
+2010
+1. najwa hayaati binti mohd alwi,THREATS ANALYSIS FOR E-LEARNING,International, Journal of Technology Enhanced
+Learning (IJTEL),2,4,14
+2. najwa hayaati binti mohd alwi,E-LEARNING AND INFORMATION SECURITY MANAGEMENT,INTERNATIONAL JOURNAL
+DIGITAL SOCIETY ( IJDS),1,2,21
+2001
+1. najwa hayaati binti mohd alwi,THE SECURITY OF VIRTUAL LEARNING ENVIRONMENT,The International Journal of
+Learning - Learning for The Future,8,,
+PUBLICATION - PROCEEDING
+2019
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Successful factors for teaching and e
+learning using mobile application.
+International Conference on
+Business Economy Social &
+Technology 2019
+Asian Scholar
+Network
+INTERNATIONA
+L
+2018
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Measuring Sensor to Cloud Energy
+Consumption. I
+2nd High Performance Computing
+and Cluster Technologies
+Conference (HPCCT 2018)
+Chinese Academy of
+Sciences Shanghai
+Jiao Tong University
+Shanghai Jiao Tong
+University Xi'an Jiao
+INTERNATIONA
+L
+2017
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Proceedings of The international
+University Carnival on e-learning (IUCEL
+2017)
+The international University
+Carnival on e-learning (IUCEL
+2017)
+MEIPTA KPT
+INTERNATIONA
+L
+2
+Supporting eLearning through
+Centralized Integrated Portal
+Postgraduate System (iPPS)
+International Carnival on E-
+learning 2017. 26/09/2017 -
+27/09/2017
+MEIPTA & KPT
+INTERNATIONA
+L
+3
+Information Security Management
+System (ISMS) Perspective Towards
+Institutional of Higher Learning in Klang
+Valley,
+International Conference on
+Applied Science and Technology
+(ICAST) 2017
+UUM
+INTERNATIONA
+L
+4
+Sustainable Education through Open
+Educational Resources Implementation:
+Malaysian Perspective.
+International Summit on
+Employability and Soft Skills
+(ISESS2017)
+Daffodil International
+University
+INTERNATIONA
+L
+5
+Initiating an Online Reputation
+Monitoring System with Open Source
+Analytics Tools
+1ST INTERNATIONAL
+CONFERENCE ON BIG DATA AND
+CLOUD COMPUTING 2017 (ICOBIC
+2017)
+Green Advanced
+Computing and
+Technology Research
+Group
+INTERNATIONA
+L
+2016
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Holistic Self-Instructional Learning
+Module Template
+PAN-COMMONWEALTH FORUM
+ON OPEN LEARNING PCF8
+Commonwealth of
+Learning Open
+University Malaysia
+INTERNATIONA
+L
+2
+Mobile Learning -Cyberlaw Course, the
+Application Development and Students
+Perceptions
+Pan CommonwealthForum 8
+(PCF8) 2016
+Commonwealth of
+Learning and OUM
+INTERNATIONA
+L
+3
+Experimental Research Testbed for
+Internet of Things: A survey from
+Security Services Perspectives
+3rd International Conference on
+Defence and Security Technology
+UPNM, UPM
+INTERNATIONA
+L
+4
+Information Security Management
+Systems (ISMS) and Computer Security
+Self-Efficacy (CSSE) Model Comparison
+3rd International Conference on
+Computer, Communication and
+Control Technology (I4CT)
+Malaysia Technical
+Scientist Association
+INTERNATIONA
+L
+5
+Six Critical Processes to Refute Social-
+Media-Rumor
+1st WORLD INTERNATIONAL
+CONFERENCE ON ISLAMIC
+SCIENCES 2016 (WICOIS’16)
+nstitute of Islamic
+Sciences (ISI), Faculty
+of Science and
+Technology (FST),
+and Faculty of Sharia
+a
+INTERNATIONA
+L
+2015
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Blended Learning Open Online Course
+International Multi Conference on
+Education Technology (IMCET)
+2015
+GOAL Centre, USIM
+INTERNATIONA
+L
+2
+Proposed E-learning Motivation model
+supporting Constructivism Theory and
+Security Trust
+International Multi Conference on
+Education Technology (IMCET)
+2015
+GOAL Centre, USIM
+INTERNATIONA
+L
+3
+Design an Integrated Naqli & Aqli
+SelfInstructional Learning Module
+(INASILM) Framework for effective e-
+content development, I
+nternational Multi-conference on
+Education and Technology 
+IMCET2015
+GOAL Centre, USIM
+INTERNATIONA
+L
+4
+Managing Organizational Culture
+Requirement for Business Continuity
+Management (BCM) Implementation
+Using Goal-Question-Metric (GQM)
+Approach
+The IEEE Conference on Open
+System (ICOS) 2015
+IEEE Computer
+Society
+INTERNATIONA
+L
+5
+Conceptual Study towards Information
+Security Model for E-learning
+Stakeholders.
+2nd International Conference on
+Communication and Computer
+Engineering (ICOCOE) 2015 A
+Springer LNEE Series
+A Springer LNEE
+Series
+INTERNATIONA
+L
+6
+Correlated Topology Control Algorithm
+for Survival Network in MANETS
+2nd International Conference on
+Communication and Computer
+Engineering (ICOCOE) 2015 A
+Springer LNEE Series
+Malaysia Technical
+Scientist Association
+(MALTESAS
+INTERNATIONA
+L
+7
+A systematic development of
+instructional design for programming
+languages: A constructivist based
+instructional design approach
+International Conference
+Computer, Communications, and
+Control Technology (I4CT), 2015
+Universiti Malaysia
+Pahang, IEEE
+Malaysia Section,
+INTERNATIONA
+L
+8
+Islamic Knowledge: Factors Effective
+Islamic Knowledge Transfer For Visually
+Impaired Users Via Malaysia E-Learning
+Websites
+Regional Islamic Libraries
+Seminar (RElies)2016
+Perpustakaan USIM
+OTHERS
+2014
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Computer Security Factors Effects
+Towards Online Usage of Internet
+Banking System
+Advancement in Information
+Technology International
+Conference 2014
+UNIMAP
+INTERNATIONA
+L
+2
+Network Survivability Analysis Modeling
+4th World Congress on
+MIR Labs , UTEM
+INTERNATIONA
+Approach for MANETS : A Systematic
+Review
+Information and Communication
+Technologies
+L
+3
+Obstacles during IC CITIZEN
+Certification Examination: A Case of
+USIM Students
+6th International Conference on
+Humanities and Social Sciences,
+ICHiSS 2014
+UPNM
+INTERNATIONA
+L
+4
+PENGGUNAAN MEDIA SOSIAL SEBAGAI
+MEDIUM PENGAJARAN DAN
+PEMBELAJARAN: KAJISELIDIK TERHADAP
+PELAJAR ALIRAN SAINS DAN BUKAN
+SAINS DI UNIVERSITI SAINS ISLAM
+MALAYSIA (USIM)
+Language and Education
+Conference 2014 (LEC2014)
+FPBU, USIM
+INTERNATIONA
+L
+5
+Towards an Efficient Privacy in Cloud
+Based E-Learning
+International conference on
+Intelligent Systems, Data Mining
+and Information Technology
+(ICIDIT2014)
+IIE International
+Institute of Engineers
+INTERNATIONA
+L
+6
+Embedding Organizational Culture
+Values Towards Successful Business
+Continuity Management
+Implementation
+International Conference on
+Information Technology and
+Multimedia at UNITEN 2014
+(ICIMu2014)
+College of IT, UNITEN
+INTERNATIONA
+L
+7
+E-Government Development Models:
+Review of Social-Technical Security
+Aspect
+International conference on
+Intelligent Systems, Data Mining
+and Information Technology
+(ICIDIT2014)
+IIE International
+Institute of Engineers
+INTERNATIONA
+L
+8
+Infusing Social Media in Teaching and
+Learning (TnL) at Tertiary Institutions: A
+Case of Effective Communication in
+Universiti Sains Islam Malaysia (USIM)
+International Conference on
+Communication and Media (i-
+COME''''14)
+UUM
+INTERNATIONA
+L
+2013
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Penetration Testing For Libyan
+Government Website.
+The 4th International Conference
+on Computing and Informatics,
+ICOCI 2013
+UUM
+INTERNATIONA
+L
+2
+Privacy in Cloud Based E-Learning
+The Second International
+Conference on Informatics
+Engineering & Information
+Science (ICIEIS2013)
+The Society of Digital
+Information and
+Wireless Co
+INTERNATIONA
+L
+3
+Nobel Digital Social network Based on
+User Oriented Privacy Model: IslamTag.
+Seminar on Creativity &
+Innovation, i-Inova2013
+MOSTI, KPM ,USIM,
+ASM & USM
+NATIONAL
+4
+PROPOSED CHARACTER RECOGNITION
+APPLICATION FOR PEOPLE WITH
+HEARING AND VISUALLY IMPAIRED
+Seminar on Creativity &
+Innovation, i-Inova2013
+MOSTI, KPM, USIM,
+ASM & USM
+NATIONAL
+2012
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Cultural Views Inclusive in E-learning
+Risk Analysis
+IEEE Symposium on e-Learning, e-
+Management and e-Services
+(IS3E)
+IEEE Malaysia
+Computer Chapter
+INTERNATIONA
+L
+2
+Peranan Laman Web Dalam Melonjak
+Kegemilangan Institusi Pengajian Tinggi
+Islam (IPTI),  Seipti 2012, 12-13
+December 2012 USIM, Negeri
+Sembilan, Malaysia
+The Regional Seminar On Islamic
+Higher Education Institutions
+2012 -Seipti 2012
+USIM
+INTERNATIONA
+L
+3
+Computer Security Self-Efficacy Effect
+an Extention of Technology-to-
+Performance Chain Model. , July 16 -
+17, pp 64-69. ISBN: 978-1-4673-2034-4
+IEEE Control and System
+Graduate Research Colloquium
+(ICSGRC)2012
+FKE UiTM and IEEE
+OTHERS
+2009
+No
+Title
+Conference Name
+Organizer
+Level
+1
+INFORMATION SECURITY MANAGEMENT
+IN E-LEARNING
+INTERNATIONAL CONFERENCE
+ON INTERNET TECHNOLOGY AND
+SECURED TRANSACTIONS
+(ICITST) 2009
+IEEE
+INTERNATIONA
+L
+2008
+No
+Title
+Conference Name
+Organizer
+Level
+1
+USERS PERSPECTIVE ON ICT
+INFRASTRUCTURE IN A HIGHER
+LEARNING INSTITUTION.
+9TH INTERNATIONAL BUSINESS
+INFORMATION MANAGEMENT
+CONFERENCE (IBIMA), 2008
+IBIMA
+INTERNATIONA
+L
+2006
+No
+Title
+Conference Name
+Organizer
+Level
+1
+MALAYSIAN FATWA WEBSITES STUDIES.
+INTERNATIONAL CONFERENCE
+ON ICT FOR THE MUSLIM WORLD.
+21-23 NOVEMBER 2006.
+UIAM
+INTERNATIONA
+L
+2
+THE PERCEPTIONS IPTA IN KLANG
+VALLEY TOWARDS INFORMATION
+SECURITY MANAGEMENT SYSTEMS.
+INTERNATIONAL CONFERENCE
+ON ICT FOR THE MUSLIM WORLD.
+UIAM
+INTERNATIONA
+L
+3
+A SURVEY ON KNOWLEDGE
+MANAGEMENT AT MUFTIS
+DEPARTMENTS IN MALAYSIA.
+ORGANIZATIONAL AND INTER-
+ORGANIZATIONAL LEARNING:
+CREATING, RETAINING &
+TRANSFERRING
+KNOWLEDGE.KNOWLEDGE
+MANAGEMENT INTERNATIONAL
+CONFERENCE AND EXHIBITION
+2006.
+INTERNATIONA
+L
+4
+A SURVEY ON KNOWLEDGE
+MANAGEMENT AT MUFTIS
+DEPARTMENTS IN MALAYSIA.
+KNOWLEDGE MANAGEMENT
+INTERNATIONAL CONFERENCE
+AND EXHIBITION
+2006.:ORGANIZATIONAL AND
+INTER-ORGANIZATIONAL
+LEARNING: CREATING, RETAINING
+& TRANSFERRING KNOWLEDGE.
+INTERNATIONA
+L
+2005
+No
+Title
+Conference Name
+Organizer
+Level
+1
+BLENDED E-LEARNING FOR ISLAMIC
+STUDIES AT INSTITUTION OF HIGHER
+LEARNING IN MALAYSIA.
+THE TWELFTH INTERNATIONAL
+CONFERENCE ON LEARNING
+Common Ground
+INTERNATIONA
+L
+2
+THE IMPLEMENTATION OF ICT IN THE
+PROMULGATION OF FATWA: NEEDS &
+IMPLICATION.
+ASEAN REGIONAL SEMINAR ON
+FATWA MANAGEMENT.
+INFAD, USIM
+OTHERS
+2003
+No
+Title
+Conference Name
+Organizer
+Level
+1
+CONTINGENCY PLAN AND SOLUTIONS
+FOR INTERNET PROGRAMMING
+SECURITY.
+THE 4TH INTERNATIONAL
+CONFERENCE ON DISASTER
+MANAGEMENT: DISASTER RISKS
+AND VULNERABILITIES
+REDUCTION.
+UUM
+INTERNATIONA
+L
+2002
+No
+Title
+Conference Name
+Organizer
+Level
+1
+DISASTER RECOVERY PLAN FOR
+VIRTUAL LEARNING INSTITUTION.
+THE 3RD INTERNATIONAL
+CONFERENCE ON DISASTER
+MANAGEMENT: STRENGTHENING
+THE NATIONAL SECURITY
+CAPABILITIES.
+INTERNATIONA
+L
+2001
+No
+Title
+Conference Name
+Organizer
+Level
+1
+THE SECURITY OF VIRTUAL LEARNING
+ENVIRONMENT.
+THE EIGHTH INTERNATIONAL
+LITERACY AND EDUCATION
+RESEARCH NETWORK
+CONFERENCE ON LEARNING.
+Common Ground.
+INTERNATIONA
+L
+1999
+No
+Title
+Conference Name
+Organizer
+Level
+1
+MANUAL CAD FOR TECHNICAL AND
+VOCATIONAL SCHOOLS IN MALAYSIA.
+PROCEEDING OF THE
+INTERNATIONAL CONFERENCE
+ON TEACHING AND LEARNING. P
+INTERNATIONA
+L
+1900
+No
+Title
+Conference Name
+Organizer
+Level
+1
+FACTORS CONTRIBUTING KNOWLEDGE
+SHARING IN HIGHER LEARNING
+INSTITUTION.
+USIM LECTURER''S CONFERENCE
+PAPERS 2009
+PUBLICATION - THESIS
+2023
+No
+Title
+Field
+Thesis Level
+Type
+1
+Saqeef (Islamic Lifestyle Mobile App)
+S&T
+Bachelor
+Corresponding
+Author
+2
+Security Enhancement Recommendation
+through Integration of Secure Access Service
+Edge (SASE) with Zero Trust Network Access
+(ZTNA) 2.0 for remote workers.
+Computer Science-
+Information security
+Master
+Corresponding
+Author
+3
+A SECURE LOGIN SYSTEM USING BIOMETRIC
+computer security-
+Bachelor
+Corresponding
+AUTHENTICATION
+information security
+Author
+2015
+No
+Title
+Field
+Thesis Level
+Type
+1
+INTEGRATED BUSINESS CONTINUITY
+MANAGEMENT ORGANIZATIONAL CULTURE
+VALUE (BCMOCV) FRAMEWORK FOR
+ORGANIZATION
+Information Security
+Management,
+Doctor of philosophy
+Editor
+2014
+No
+Title
+Field
+Thesis Level
+Type
+1
+Exposition Management System
+IT
+Bachelor
+Co-Author
+2008
+No
+Title
+Field
+Thesis Level
+Type
+1
+E-LEARNING STAKEHOLDERS INFORMATION
+SECURITY VULNERABILTY MODEL
+Information Security
+Management
+Doctor of philosophy
+Main Author
+PUBLICATION - PROJECT PAPER
+2023
+No
+Title
+Start Date
+Finish Date
+1
+A study on Shanghai Open University practices on Teachers Professional
+development related to ODL
+01/09/2023
+08/09/2023
+2022
+No
+Title
+Start Date
+Finish Date
+1
+Insider threats filtering algorithm on user behaviour profile using rule-
+based approach.
+09/11/2022
+31/05/2023
+ACADEMIC RECOGNITION
+INTERNAL / EXTERNAL EXAMINER
+No
+Level (Master
+/ PHD)
+Type of Examiner
+Title
+Level
+Viva
+Date
+1
+Master
+Research (Mixed
+Mode)
+A CASE MANAGEMENT SYSTEM FOR AL-TAYBA
+COURT
+UNIVERSITY
+01/01/20
+15
+2
+Research (Mixed
+Mode)
+Expanding the Technology Acceptance Model
+With The Inclusion of Security and Privacy
+Factors for Mobile Government Applications
+in Jordan
+UNIVERSITY
+01/09/20
+20
+3
+Master
+Research (Mixed
+Mode)
+THE INTEGRATED E-BUSINESS OUTSOURCING
+FRAMEWORK FOR MALAYSIAN SMEs
+NATIONAL
+01/10/20
+13
+4
+Master
+Course Work Mode
+Personal Data Protection Acts
+Implementation in UNITEN
+NATIONAL
+01/10/20
+14
+5
+Master
+Course Work Mode
+Framework Development To Asses Teachers
+ICT Skills In Iraq: A Case Study Of Hilla
+Secondary School
+NATIONAL
+03/03/20
+14
+6
+Master
+Research (Mixed
+Mode)
+Study of the Availability and Awareness of E-
+Services in Higher Education in Libya
+UNIVERSITY
+04/06/20
+14
+7
+Master
+Research (Only)
+Designing of a New Model to Detect a Trojan
+horse Based on Knowledge Discovery and
+Data Mining
+UNIVERSITY
+07/03/20
+14
+8
+Research (Mixed
+Mode)
+Technical and Infrastructural Aspects of
+Mobile Learning Adoption in Iran Higher
+Education Institutions
+NATIONAL
+07/11/20
+19
+9
+Master
+Research (Mixed
+Mode)
+The Adoption of Blended Learning in
+Malaysian Public Universities
+UNIVERSITY
+10/02/20
+15
+10
+Master
+Research (Mixed
+Mode)
+Assessing on User Awareness of Security
+Aspects on e-Banking (case study in Nigeria)
+UNIVERSITY
+10/02/20
+15
+11
+PHD
+Research (Mixed
+Mode)
+A STUDY ON FACTORS INFLUENCING
+DISCONTINUED USE OF TECHNOLOGICAL
+INNOVATION IN TERTIARY ACADEMIC
+INSTITUTIONS IN BANGLADESH: NON-
+ACADEMIC STAFF PERSPECTIVE
+UNIVERSITY
+11/02/20
+20
+12
+Course Work Mode
+Development of an Integrated Graduated
+Portal (IGP) for Graduate Marketability
+UNIVERSITY
+17/06/20
+16
+13
+Research (Mixed
+Mode)
+A study on Factors Influencing Discontinued
+Use of Technological Innovation in Tertiary
+Academic Institutions in Bangladesh: Non
+Academic Perspective
+UNIVERSITY
+19/02/20
+20
+14
+PHD
+Research (Only)
+A New Cybersecurity Framework For
+Indonesian E-government
+NATIONAL
+21/07/20
+23
+15
+PHD
+Research (Mixed
+Mode)
+E-LERNING CONTINUE TO USE QUALITY
+MODEL (CTU-QM)
+UNIVERSITY
+27/07/20
+17
+16
+Master
+Research (Only)
+A study on Student''s Perspective Towards
+the development of An integrated Graduate
+Portal''s Framework
+UNIVERSITY
+29/05/20
+15
+17
+Research (Mixed
+Mode)
+1GOVUC Evaluation Framework Critical
+Factors for Malaysian Public Sector
+UNIVERSITY
+30/12/20
+19
+REVIEWER
+No
+Article Title
+Journal Name
+Type of Reviewer
+Impact
+Factor
+Level
+Year
+1
+SUSTAINABLE
+DEVELOPMENT OF
+INFORMATION
+SYSTEMS IN
+DEVELOPING
+COUNTRIES
+SUSTAINABLE
+DEVELOPMENT OF
+INFORMATION SYSTEMS IN
+DEVELOPING COUNTRIES
+Manuscript / Book
+Reviewer
+NATIONAL
+2013
+2
+Modul ICT
+Modul Training of Trainers
+Jurulatih Jabatan Latihan
+Khidmat Negara
+Manuscript / Book
+Reviewer
+NATIONAL
+2015
+3
+1. Framework of
+Sustainability
+FULL PAPER REVIEWER FOR
+THE POSTGRADUATE
+Conference Paper
+Reviewer
+UNIVERSITY
+2017
+Features for Serious
+Games (SFSG) in
+teaching and learning
+Tajweed 2.Data Set
+Generation From
+Multilingual Data of
+Social Media:
+Challenges and
+Consequences
+KoSiST17-P-PAM05
+3.Retrieval
+approaches of Quran
+and Hadith: S
+SEMINAR OF SAINS DAN
+TEKNOLOGI 2017 (KoSiST
+2017)
+4
+Business Continuity
+Business Continuity
+Manuscript / Book
+Reviewer
+INTERNATIONA
+L
+2020
+5
+PERLAKSANAAN E-
+PEMBELAJARAN
+DALAM PENGAJARAN
+BAHASA
+BERASASKAN WEB
+PERLAKSANAAN E-
+PEMBELAJARAN DALAM
+PENGAJARAN BAHASA
+BERASASKAN WEB
+Manuscript / Book
+Reviewer
+NATIONAL
+2020
+6
+Leveraging
+Gamification for
+Engaged Learning in
+Online Teaching and
+Learning Experiences
+Data Science and Emerging
+Technologies Proceedings
+of DaSET 2023 https://link.s
+pringer.com/book/9789819
+702923
+Conference Paper
+Reviewer
+not
+evalua
+INTERNATIONA
+L
+2023
+INVITED / KEYNOTED SPEAKER
+No
+Title
+Conference Name
+Level
+Date
+1
+DIGITAL CONTENT DEVELOPMENT
+PROGRAM EDUCATOR@ VIRTUAL
+LEARNING ENVIROMENT
+(DEUCATOR@VLE) FASA 2
+NATIONAL
+01/08/2021 -
+31/10/2021
+2
+Instructional Content Development
+Tools
+KURSUS HEUTAGOGICAL TOOLS
+FOR EDUCATION 4.0 TAHUN 2020
+SECARA WEBINAR
+UNIVERSITY
+03/12/2020 -
+04/12/2020
+3
+Pembelajaran Pendidikan Tinggi : Dasar-
+dasar KPT & USIM
+Kursus Asas Pembelajarn dan
+Pengajaran (Berteraskan
+Integrasi Ilmu Naqli & Aqli) Siri
+1/2021
+UNIVERSITY
+06/10/2021 -
+06/10/2021
+4
+Penyediaan Self Instructed Module
+TAKLIMAT PENYEDIAAN
+KANDUNGAN DIGITAL DALAM
+BENTUK SIM (SELF INSTRUCTED
+MODULE)
+UNIVERSITY
+11/02/2015 -
+11/02/2015
+5
+Beyond Blended Learning for the 21st
+Century Learning Environment
+9th International Malaysian
+Educational Technology
+Convention - IMETC2015
+INTERNATIONA
+L
+13/09/2015 -
+15/09/2015
+6
+Cybersecurity, Is It Time For Profiling?
+Conference on
+Business,Education, Social and
+Technology (ICBEST 2020).
+INTERNATIONA
+L
+13/11/2019 -
+18/07/2020
+7
+Paper Publishing
+Wacana Siswazah FST 2013
+UNIVERSITY
+14/06/2013 -
+14/06/2013
+8
+Cybersecurity, Is it time for profiling?
+International Conference on
+Business, Economy, Social and
+Technology (ICBEST) 2020
+INTERNATIONA
+L
+18/01/2020 -
+19/01/2020
+9
+Flipped classroom
+Taklimat E-learning
+UNIVERSITY
+19/08/2014 -
+19/08/2014
+10
+Gazing Beyond 30% Blended Learning,
+Seminar on the Warping into
+Future Learning, 20 August 2015,
+Dewan Besar, Universiti Sains
+Islam Malaysia, Malaysia
+UNIVERSITY
+20/08/2015 -
+20/08/2015
+11
+Blended Learning
+Seminar Pembelajaran Teradun
+UNIVERSITY
+21/01/2016 -
+21/01/2016
+12
+Designing and Developing Your Own
+Self-Instructional Materials (SIM)
+PROGRAM LATIHAN ANJURAN
+PUSAT PEMBANGUNAN DAN
+PENAMBAHBAIKAN AKADEMIK
+(ADEC) UM
+NATIONAL
+21/03/2023 -
+21/03/2023
+13
+SIM DEVELOPMENT
+BENGKEL PENYEDIAAN DOKUMEN
+OPEN DAN DISTANCE LEARNING
+(ODL)
+UNIVERSITY
+21/09/2021 -
+21/09/2021
+EDITORIAL BOARD
+No
+Editorial Name
+Journal Name
+Type of
+Editorial
+Level
+Year
+1
+Chief Editor
+GOALShare Newsletter of The
+Gloabal Open Acces Learning
+Centre
+UNIVERSITY
+2015 - 2015
+2
+IJARTI Editorial Board Member
+International Journal of Advanced
+Research in Teaching and
+Innovation
+Member
+INTERNATIONA
+L
+2020 - 2022
+ACADEMIC RECOGNITION (OTHERS)
+No
+Organization
+Award / Reward
+Category of
+Position
+Level
+Date
+1
+JAWATANKUASA PENGAJIAN
+PROGRAM AKADEMIK-
+PROGRAM IJAZAH SARJANA
+MUDA SAINS KOMPUTER
+DGN KEPUJIAN, UNIVERSITI
+TEKNIKAL MALAYSIA
+MELAKA (UTeM)
+JAWATANKUASA PENGAJIAN
+PROGRAM AKADEMIK-
+PROGRAM IJAZAH SARJANA
+MUDA SAINS KOMPUTER
+DGN KEPUJIAN, UNIVERSITI
+TEKNIKAL MALAYSIA
+MELAKA (UTeM)
+Academic
+Advisor
+NATIONAL
+01/12/2023 -
+30/11/2025
+2
+UPNM
+AN EXPERT PANEL forTHE
+FRAMEWORK OF A PHD
+ENTITLED SUSTAINABLE
+ONLINE LEARNING
+FRAMEWORK FOR HIGHER
+EDUCATION
+Academic
+Advisor
+UNIVERSITY
+08/02/2023 -
+28/02/2023
+3
+Persatuan Pengguna Siber
+Malaysia
+AHLI PENASIHAT AKADEMIK
+DI MAJLIS AKADEMIK
+PERSATUAN PENGGUNA
+SIBER MALAYSIA (MCCA)
+Academic
+Advisor
+NATIONAL
+14/12/2020 -
+30/11/2022
+4
+UNIVERSITI TEKNIKAL
+MALAYSIA MELAKA
+PENILAI LUAR BAGI TUJUAN
+KENAIKAN PANGKAT KE
+JAWATAN PROFESOR
+MADYA DS54 DI UTEM
+Academic
+Advisor
+NATIONAL
+16/01/2020 -
+28/01/2020
+5
+PERTANDINGAN GREEN
+SULAM, PUSAT
+KELESTARIAN DAN
+KESEJAHTERAAN (C4SS)
+PERTANDINGAN GREEN
+SULAM,
+Academic
+Advisor
+UNIVERSITY
+25/05/2021 -
+31/12/2021
+CONTRIBUTION - USIM
+2023
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Cyber Security and System (CSS) Research
+Unit
+MEMBERS
+UNIVERSITY
+01/01/2023 -
+31/12/2023
+2
+Persatuan Kakitangan Akademik USIM
+(PKAUSIM)
+MEMBERS
+UNIVERSITY
+01/01/2023 -
+31/12/2024
+3
+Jawatankuasa Taskforce Penubuhan Fakulti
+Sains Komputer
+COMMITEE MEMBERS
+FACULTY
+01/01/2023 -
+31/12/2025
+4
+PASUKAN PERUNDING SMART DIREKTORI
+UNIVERSITI SAINS ISLAM MALAYSIA (USIM)
+MEMBERS
+UNIVERSITY
+01/08/2023 -
+31/07/2024
+5
+JAWATANKUASA PELAKSANA EKSPO
+PENYELIDIKAN, SAINS & TEKNOLOGI
+BERSEMPENA 2O THN FST (SCITEX@20TH)
+AJK
+FACULTY
+16/02/2023 -
+31/12/2023
+6
+TASKFORCE SEMAKAN KURIKULUM FAKULTI-
+SRJANA SAINS KOMPUTER (KESELAMATAN
+DAN JAMINAN MAKLUMAT)
+MEMBERS
+FACULTY
+18/09/2023 -
+30/11/2023
+7
+Audit Kendiri Program Akademik USIM 2023
+JURUAUDIT
+UNIVERSITY
+20/11/2023 -
+01/12/2023
+8
+JAWATANKUASA SEMAKAN KURIKULUM
+FAKULTI-SARJANA MUDA SAINS KOMPUTER
+DENGAN KEPUJIAN (KESELAMATAN DAN
+JAMINAN MAKLUMAT)
+MEMBERS
+FACULTY
+22/08/2023 -
+30/11/2023
+9
+PENILAIAN GERAN PENYELIDIKAN DANA KPT
+SKIM FRGS 2023
+PANEL PENILAI
+UNIVERSITY
+24/08/2023 -
+31/01/2024
+10
+AUDIT DALAMAN ISMS
+JURUAUDIT
+UNIVERSITY
+27/09/2023 -
+12/10/2023
+2022
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JAWATANKUASA TASKFORCE SEMAKAN
+KANDUNGAN PENILAIAN & PELAPORAN E
+NILAI USIM
+COMMITEE MEMBERS
+UNIVERSITY
+01/03/2022 -
+30/06/2022
+2
+JAWATANKUASA PELAKSANA PROGRAM
+MICROCREDENTIAL USIM
+VICE CHAIRMAN
+UNIVERSITY
+01/09/2022 -
+31/12/2022
+3
+JAWATANKUASA MAJLIS PELANCARAN MICRO
+CREDENTIAL USIM
+VICE CHAIRMAN
+UNIVERSITY
+01/09/2022 -
+31/12/2022
+4
+Bengkel Pengenalan dan Pembangunan
+Kursus Pembelajaran Teradun Gantian FST
+Penceramah
+Jemputan
+FACULTY
+03/06/2022 -
+03/06/2022
+5
+PENILAIAN GERAN PENYELIDIKAN DANA KPT
+SKIM FRGS 2022
+PANEL PENILAI
+UNIVERSITY
+15/02/2022 -
+30/06/2022
+6
+PANEL PENILAI ANUGERAH KHAS KLUSTERS
+TIMBALAN NAIB CANSELOR (AKADEMIK &
+ANTARABANGSA)
+COMMITEE MEMBERS
+UNIVERSITY
+16/06/2022 -
+31/08/2022
+7
+JAWATANKUASA PENGEMASKINIAN GARIS
+PANDUAN PENTAKSIRAN DAN PENILAIAN
+2018 (SEMAKAN 2022)
+VICE CHAIRMAN
+UNIVERSITY
+22/02/2022 -
+31/12/2022
+8
+PANEL PAKAR PENILAIAN MODEL utk
+Pembangunan Model Pengajaran Talaqqi Al-
+PAKAR PENILAI
+FACULTY
+28/09/2022 -
+14/10/2022
+Quran atas Talian
+9
+KURSUS ASAS PEMBELAJARAN & PENGAJARAN
+(BERTERASKAN INTEGRASI ILMU AQLI &
+NAQLI) TAHUN 2022
+PENCERAMAH
+UNIVERSITY
+28/10/2022 -
+23/11/2022
+10
+KUMPULAN INOVATIF & KREATIF (KIK) USIM
+2022-THE INSPIRER
+COMMITEE MEMBERS
+NATIONAL
+29/08/2022 -
+31/12/2022
+11
+TASKFORCE PEMBELAJARAN TERADUN
+GANTIAN USIM
+COMMITEE MEMBERS
+UNIVERSITY
+30/06/2022 -
+31/12/2022
+2021
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JAWATANKUASA BERTINDAK (TASKFORCE)
+PENGURUSAN DATA DAN PERANCANGAN
+STRATEGIK BAGI PENGIKTIRAFAN UNIVERSITI
+SAINS ISLAM MALAYSIA
+MEMBERS
+UNIVERSITY
+01/02/2021 -
+31/12/2021
+2
+Supervising UMK lecturer doing sabatical in
+USIM for 4 months. He studying about INAQ
+policy and implementation in USIM as well as
+IT. Reviewing his result analysis and book
+chapters.
+Sabatical Supervisor
+UNIVERSITY
+01/09/2021 -
+31/12/2021
+3
+JK KURIKULUM USIM
+COMMITEE MEMBERS
+UNIVERSITY
+01/12/2021 -
+31/12/2022
+4
+Penilaian Innovation Bank Challenge (IBC)
+2021
+Panel Penilai
+UNIVERSITY
+13/09/2021 -
+30/09/2021
+5
+JAWATANKUASA TASKFORCE KERANGKA
+KURIKULUM UNIVERSITI SAINS ISLAM
+MALAYSIA (USIM)
+COMMITEE MEMBERS
+UNIVERSITY
+15/02/2021 -
+31/05/2021
+6
+Jawatankuasa Taskforce Standard Setting
+Universiti Sains Islam Malaysia (USIM)
+COMMITEE MEMBERS
+UNIVERSITY
+16/02/2021 -
+30/09/2021
+7
+Jawatankuasa Taskforce Penyertaan Dalam
+Anugerah Akademik Negara (AAN) Ke-14
+COMMITEE MEMBERS
+UNIVERSITY
+20/05/2021 -
+31/10/2021
+8
+Jawatankuasa Taskforce Modul Pelaksanaan
+Personal Tutelage
+COMMITEE MEMBERS
+UNIVERSITY
+23/09/2021 -
+31/03/2022
+9
+Jawatankuasa Bertindak (Taskforce) Program
+2u2i Universiti Sains Islam Malaysia (USIM)
+COMMITEE MEMBERS
+UNIVERSITY
+25/06/2021 -
+31/12/2022
+10
+Penilaian Anugerah Khas Kluster Timbalan
+Naib Canselor 2020
+Panel Penilai
+UNIVERSITY
+30/07/2021 -
+30/09/2021
+11
+Jawatankuasa Sekretariat Academy of
+Sciences Malaysia (Information Technology &
+Computer Science)
+COMMITEE MEMBERS
+NATIONAL
+30/12/2021 -
+31/12/2023
+2020
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Taskforce Penyediaan Dokumen Pelan
+Strategik ICT (ISP) 2021-2025
+MEMBERS
+UNIVERSITY
+04/03/2020 -
+31/12/2020
+2
+Pembentangan Laporan Kemajuan pelajar
+Siswazah
+PENGERUSI -
+CHAIRMAN
+FACULTY
+07/01/2020 -
+10/01/2020
+3
+Pembentangan Penyelidikan (Ujian
+Kelayakan) Pelajar Siswazah FST
+Panel Penilai
+FACULTY
+12/08/2020 -
+28/09/2020
+4
+KUMPULAN TERAS STRATEGIK BAGI BENGKEL
+MISI USIM 2022
+MEMBERS
+UNIVERSITY
+15/07/2020 -
+22/07/2020
+5
+Jawatankuasa Saringan Kesepakaran
+Peringkat Fakulti Sains & Teknologi
+MEMBERS
+FACULTY
+29/12/2020 -
+22/02/2021
+2019
+No
+Name Of Activity
+Position
+Level
+Date
+1
+ICOISS-ICORAST2019
+PENGERUSI -
+CHAIRMAN
+UNIVERSITY
+01/01/2019 -
+29/02/2020
+2
+Pasukan Project Certificate Emergency
+Response Team (CERT) USIM
+COMMITEE MEMBERS
+UNIVERSITY
+01/03/2019 -
+28/02/2021
+3
+Jawatankuasa Teknikal ICT (JTICT), USIM
+COMMITEE MEMBERS
+UNIVERSITY
+01/08/2019 -
+31/12/2021
+4
+Monitor the students progress. Conduct
+meetings and give necessary advise to each
+students
+Academic Advisor for
+Batch 12 ISA
+FACULTY
+02/09/2019 -
+31/03/2020
+5
+Penilaian Buku
+Penilai Buku
+FACULTY
+17/05/2019 -
+29/02/2020
+6
+PEMBENTANGAN UJIAN KELAYAKAN PELAJAR
+SISWAZAH FAKULTI SAINS & TEKNOLOGI
+Panel Penilai
+FACULTY
+19/08/2019 -
+19/08/2019
+2018
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Jawatankuasa Pengurusan Sistem
+Keselamatan Maklumat (ISMS), USIM
+PASUKAN TEKNIKAL
+UNIVERSITY
+06/02/2018 -
+30/06/2019
+2017
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JAWATANKUASA KESELAMATAN ICT,
+UNIVERSITI SAINS ISLAM MALAYSIA (USIM
+COMMITEE MEMBERS
+UNIVERSITY
+01/03/2017 -
+31/12/2018
+2
+PASUKAN PROJEK PELAKSANAAN WEB
+APPLICATION FIREWALL (WAF), UNIVERSITI
+SAINS ISLAM MALAYSIA (USIM)
+COMMITEE MEMBERS
+UNIVERSITY
+01/03/2017 -
+31/12/2018
+3
+JAWATANKUASA e-PEMBELAJARAN UNIVERSITI
+SAINS ISLAM MALAYSIA (USIM)
+SECRETARY
+UNIVERSITY
+01/09/2017 -
+31/12/2018
+4
+JAWATANKUASA PENGURUSAN KOMPUTER &
+ICT (PEMBELAJARAN & PENGAJARAN),
+UNIVERSITI SAINS ISLAM MALAYSIA (USIM)
+COMMITEE MEMBERS
+UNIVERSITY
+02/01/2017 -
+30/09/2018
+2016
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Jawatankuasa Pemandu ICT USIM (JPICT)
+SECRETARY
+UNIVERSITY
+01/04/2016 -
+31/03/2018
+2
+Jawatankuasa Teknikal ICT USIM
+SECRETARY
+UNIVERSITY
+01/04/2016 -
+31/12/2016
+3
+Jawatankuasa Keselamatan ICT USIM
+MEMBERS
+UNIVERSITY
+23/05/2016 -
+28/02/2021
+4
+Taklimat Kursus LB1012 Fiqh Ibadat dan
+Munakahat Secara MOOC
+Penceramah
+UNIVERSITY
+25/02/2016 -
+25/02/2016
+2015
+No
+Name Of Activity
+Position
+Level
+Date
+1
+GOALShare Newsletter of The Gloabal Open
+Acces Learning Centre, Vol.2 Issue Feb 2015
+ISSN:9772289872005
+Editor
+UNIVERSITY
+01/01/2015 -
+27/03/2015
+2
+Jawatankuasa PENILAI SEBUT HARGA KECIL
+PTJ
+SECRETARY
+UNIVERSITY
+01/01/2015 -
+31/12/2015
+3
+GOALShare Newsletter of The Gloabal Open
+Acces Learning Centre, Vol.3 Issue Mac 2015
+ISSN:9772289872005
+Chief Editor
+UNIVERSITY
+01/02/2015 -
+21/05/2015
+4
+GOALShare Newsletter of The Gloabal Open
+Acces Learning Centre, Vol.4 Issue April 2015
+ISSN:9772289872005
+Chief Editor
+UNIVERSITY
+01/04/2015 -
+30/06/2015
+5
+JAWATANKUASA PELAKSANA P & P
+SECRETARY
+UNIVERSITY
+01/11/2015 -
+30/01/2016
+6
+Viva -BAGI PELAJAR AHMAD ISSA SALEEM AL
+ZOUBI (4120217)
+JK VIVA -Wakil Dekan
+UNIVERSITY
+03/06/2015 -
+03/06/2015
+7
+Jawatankuasa Akademik e-pembelajaran
+USIM
+COMMITEE MEMBERS
+UNIVERSITY
+11/03/2015 -
+10/03/2017
+8
+Jawatankuasa Kecil Pembangunan
+Kandungan e- Pembelajaran USIM
+COMMITEE MEMBERS
+UNIVERSITY
+11/03/2015 -
+10/03/2017
+9
+Jawatankuasa Kecil Aplikasi dan Authoring E
+-Pembelajaran USIM
+COMMITEE MEMBERS
+UNIVERSITY
+11/03/2015 -
+10/03/2017
+10
+Jawatankuasa Penyediaan ICT Strategic Plan
+(ISP) USIM RMK 11 (2016-2020)
+COMMITEE MEMBERS
+UNIVERSITY
+16/01/2015 -
+31/03/2015
+11
+IMCET2015
+VICE PRESIDENT
+INTERNATIONAL
+16/03/2015 -
+31/10/2015
+2014
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Jawatankuasa Penyertaan Ekspo I-Inova2014
+SECRETARY
+UNIVERSITY
+01/01/2014 -
+30/11/2014
+2
+Pembentangan Laporan Kemajuan Pelajar
+Sarjana Sains (Keselamatan dan Jaminan
+Maklumat) FST
+PANEL PENILAI
+FACULTY
+01/01/2014 -
+30/11/2014
+3
+Jawatankuasa Kecil e-Kandungan
+PENGERUSI -
+CHAIRMAN
+UNIVERSITY
+01/04/2014 -
+31/03/2014
+4
+USIM e-learning Colloquium 2015
+PENGERUSI -
+CHAIRMAN
+UNIVERSITY
+01/10/2014 -
+31/01/2015
+5
+GOALShare Newsletter of The Gloabal Open
+Acces Learning Centre, Vol.1 Issue Jan 2015
+ISSN:9772289872005
+Editor
+UNIVERSITY
+01/12/2014 -
+27/02/2015
+6
+Jawatankuasa E-pembelajaran USIM
+COMMITEE MEMBERS
+UNIVERSITY
+02/03/2014 -
+31/01/2016
+7
+Penerbitan Fakulti Sains dan Teknologi
+SECRETARY
+FACULTY
+05/02/2014 -
+31/12/2016
+8
+LAWATAN KERJA RASMI USIM KE
+BANGLADESH 2014
+Delegasi
+INTERNATIONAL
+05/04/2014 -
+09/04/2014
+9
+Jawatankuasa Induk Kualiti dan Inovasi
+Peringkat Fakulti Sains dan Teknologi
+SECRETARY
+FACULTY
+05/08/2014 -
+04/08/2016
+10
+Representative of the Dean: Dr. Najwa
+Hayaati Mohd Alwi
+MEMBERS OF THE
+ORAL EXAMINATION
+COMMITTEE
+FACULTY
+10/12/2014 -
+10/12/2014
+2013
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Latihan Industri
+University Supervisor
+FACULTY
+01/02/2013 -
+12/07/2013
+2
+IS@S2014
+PENASIHAT
+FACULTY
+01/10/2013 -
+30/11/2014
+3
+GCERT USIM
+MEMBER
+UNIVERSITY
+01/11/2013 -
+31/12/2014
+4
+Jawatankuasa Penilaian Teknikal Sebut Harga
+Bagi Fakulti Sans & Teknologi
+SECRETARY
+FACULTY
+03/06/2013 -
+02/06/2014
+5
+Jawatankuasa Penyertaan i-Inova13
+BURSAR
+UNIVERSITY
+06/02/2013 -
+01/01/2014
+6
+Penilaian Pembentangan Proposal (Proposal
+Defence) Pelajar PascaSiswazah FST kali ke-
+2
+Panel
+FACULTY
+08/03/2013 -
+31/12/2013
+7
+Majlis Pelancaran Sistem Pengurusan Fatwa
+(FMS), INFAD
+SECRETARY
+UNIVERSITY
+16/04/2013 -
+31/12/2013
+8
+IS@S 2013
+PENASIHAT
+STUDENT
+17/01/2013 -
+31/10/2013
+9
+PASUKAN GERAK KERJA ISMS USIM
+PERUNDING
+UNIVERSITY
+18/10/2013 -
+31/12/2014
+10
+Cenderamata Majlis Perasmian 10thn FST
+BURSAR
+FACULTY
+30/04/2013 -
+31/12/2013
+11
+Audit Pengurusan dan Keselamatan Makmal
+FST kali pertama tahun 2013
+AUDITOR
+FACULTY
+31/01/2013 -
+31/12/2013
+2012
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Jawatankuasa Penyertaan i-Inova2012
+SECRETARY
+UNIVERSITY
+01/07/2012 -
+30/11/2012
+2
+wacana akademik FST
+SECRETARY
+FACULTY
+01/10/2012 -
+31/10/2012
+3
+1Citizen (USIM)
+TRAINER
+UNIVERSITY
+03/09/2012 -
+31/12/2013
+4
+Menyemak kertas kerja ISRI
+Penyedia kertas kerja
+ISRI
+FACULTY
+17/05/2012 -
+05/07/2012
+5
+Menyediakan Dokumen Program baru, MQA
+FST- MCompSc IST untuk dihantar ke KPT.
+Penyedia dokumen
+Program Baru
+FACULTY
+21/05/2012 -
+30/06/2013
+1900
+No
+Name Of Activity
+Position
+Level
+Date
+CONTRIBUTION - MEMBERS OF COMMUNITY COMMITTEE / ORGANISATION
+2023
+No
+Name Of Activity
+Position
+Level
+Date
+1
+CYBER SECURITY ACADEMIA MALAYSIA
+(CSAM)
+NATIONAL
+01/01/2023 -
+31/12/2024
+2
+PANEL TEMUDUGA BAGI PROGRAM MALAYSIA
+INTERNATIONAL SCHOLARSHIP (MIS),
+KEMENTERIAN PENGAJIAN TINGGI 2022
+PENEMUDUGA
+NATIONAL
+05/09/2023 -
+06/09/2023
+2022
+No
+Name Of Activity
+Position
+Level
+Date
+1
+PANEL TEMUDUGA BAGI PROGRAM MALAYSIA
+INTERNATIONAL SCHOLARSHIP (MIS),
+KEMENTERIAN PENGAJIAN TINGGI 2022
+NATIONAL
+01/08/2022 -
+31/08/2022
+2
+COMMITTEE PROGRAM FOR APEC WOMEN
+EMPOWERMENT THROUGH CYBERCRIME-
+FREE WORKSHOP FOR SECURE ONLINE
+TRADING IN THE 4TH INDUSTRIAL
+REVOLUTION 2023
+NATIONAL
+01/12/2022 -
+31/12/2023
+3
+KEMENTERIAN PENGAJIAN TINGGI
+PENYELARAS SULAM
+USIM
+NATIONAL
+07/10/2022 -
+31/12/2024
+4
+AHLI JAWATANKUASA PEMILIH ANUGERAH
+KHAS YB MENTERI PENGAJIAN TINGGI: REKA
+BENTUK KURIKULUM DAN PENYAMPAIAN
+INOVATIF 2022(AKRI 2022)
+NATIONAL
+15/06/2022 -
+02/09/2022
+2021
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JK SIJIL DAN KOMUNITI ANTARABANGSA
+SOUTHEAST ASIA HIGHER EDUCATION
+SUMMIT (SEAHES) 2021
+INTERNATIONAL
+23/08/2021 -
+31/12/2022
+2020
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JURI JEMPUTAN EXHIBITION & COMPETITION
+NALI 2020
+JURI
+NATIONAL
+10/11/2020 -
+29/11/2020
+2019
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JAWATANKUASA PEMILIH ANUGERAH KHAS YB
+MENTERI PENDIDIKAN MALAYSIA:
+REKABENTUK KURIKULUM DAN PENYAMPAIAN
+INOVATIF TAHUN 2018 (AKRI 2018)
+–KATEGORI PENGAJARAN TRANSFOMATIF
+JURI
+NATIONAL
+06/05/2019 -
+31/10/2019
+2
+PERTANDINGAN BAGI KARNIVAL &
+PERSDIANGAN E- PEMBELAJARAN
+ANTARABANGSA UTEM 2019 (ELCC2019))
+JURI
+INTERNATIONAL
+26/06/2019 -
+26/06/2019
+2018
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JAWATANKUASA PEMILIH ANUGERAH KHAS YB
+MENTERI PENDIDIKAN MALAYSIA:
+REKABENTUK KURIKULUM DAN PENYAMPAIAN
+INOVATIF TAHUN 2018 (AKRI 2018)
+–KATEGORI PENGAJARAN TRANSFOMATIF
+JURI
+NATIONAL
+02/07/2018 -
+30/11/2018
+2017
+No
+Name Of Activity
+Position
+Level
+Date
+1
+MAJLIS KETUA-KETUA PENYELARAS E-
+PEMBELAJARAN IPTA (MEIPTA) BAGI TEMPOH
+2017-2018
+AHLI
+NATIONAL
+02/01/2017 -
+01/02/2018
+2
+JAWATANKUASA PENGANJUR PROGRAM
+INTERNATIONAL UNIVERSITY CARNIVAL ON E-
+LEARNING (IUCEL 2017)
+TIMBALAN PENGARAH
+INTERNATIONAL
+02/01/2017 -
+31/12/2017
+3
+PANEL PEMBANGUNAN STRUKTUR DAN
+RANGKA UNIVERSITI TERBUKA AWAM
+MALAYSIA
+PANEL
+NATIONAL
+03/02/2017 -
+31/12/2017
+4
+PANEL PENILAI PEMBENTANGAN LEARNING
+INNOVATION AND TEACHING ENHANCEMENT
+RESEARCH CONFERENCE 2017 UNIVERSITI
+MALAYA
+PANEL
+UNIVERSITY
+15/03/2017 -
+16/03/2017
+2016
+No
+Name Of Activity
+Position
+Level
+Date
+1
+IUCEL 2017
+JUDGE
+INTERNATIONAL
+20/09/2016 -
+21/09/2016
+2
+SELECTING COMMITTEE FOR CEMCA BEST
+FEMALE AWARDS 2016
+MEMBER
+INTERNATIONAL
+26/05/2016 -
+31/12/2016
+2015
+No
+Name Of Activity
+Position
+Level
+Date
+1
+THE 11TH INTERNATIONAL CONFERENCE ON
+E-LEARNING 2016
+CONFERENCE
+EXECUTIVES
+INTERNATIONAL
+02/11/2015 -
+30/07/2016
+2
+KARNIVAL E-LEARNING UNIVERSITY
+PERINGKAT KEBANGSAAN 2015 (NUCEL
+2015)
+JUDGE
+NATIONAL
+14/12/2015 -
+15/12/2015
+2014
+No
+Name Of Activity
+Position
+Level
+Date
+1
+KELAB WARDAH
+AHLI
+UNIVERSITY
+01/09/2014 -
+30/09/2015
+2
+KARNIVAL E-LEARNING UNIVERSITI
+PERINGKAT KEBANGSAAN 2014 (NUCEL2014)
+JUDGE
+NATIONAL
+13/11/2014 -
+15/11/2014
+3
+MAJLIS KETUA-KETUA PENYELARAS E-
+PEMBELAJARAN IPTA (MEIPTA)
+AHLI JAWATANKUASA
+NATIONAL
+21/05/2014 -
+31/12/2016
+2013
+No
+Name Of Activity
+Position
+Level
+Date
+1
+I-SERU
+MEMBER
+UNIVERSITY
+01/01/2013 -
+31/12/2013
+2012
+No
+Name Of Activity
+Position
+Level
+Date
+1
+HE INTERNATIONAL CONFERENCE ON CYBER
+SECURITY, CYBERWARFARE AND DIGITAL
+FORENSIC- CYBERSEC 2012
+PAPER REVIEWER
+INTERNATIONAL
+01/05/2012 -
+31/05/2012
+2
+INFAD
+INVITED MEETING
+MEMBER
+UNIVERSITY
+01/07/2012 -
+30/11/2012
+CONTRIBUTION - COMMUNITY ENGAGEMENT
+2023
+No
+Organization
+Position
+Level
+1
+USIM-STAJA EksploreSTREAM
+TIMB PENGARAH
+University
+2022
+No
+Organization
+Position
+Level
+1
+PERTANDINGAN AMALAN INOVASI PENGAJARAN DAN
+PEMBELAJARAN SEMPENA KARNIVAL INOVASI@UMT 2022
+PANEL JURI
+National
+2019
+No
+Organization
+Position
+Level
+1
+Program GE Digital Distributed Economy Worker Skills
+KETUA
+University
+2018
+No
+Organization
+Position
+Level
+1
+Jawatankuasa Zon Tengah Pertandingan UNIMAKER 2018
+COMMITEE MEMBERS
+National
+2015
+No
+Organization
+Position
+Level
+1
+Pembangunan Modul Jurulatih JLKN
+PENILAI MODUL
+National
+2012
+No
+Organization
+Position
+Level
+1
+Persidangan Meja Bulat Ketua -Ketua Penyelaras E-
+pembelajaran IPTA
+COMMITEE MEMBERS
+National
+CONSULTATION
+No
+Title
+Level
+Date
+1
+PANEL PEMBANGUN MODUL THE DIGITAL LEADERSHIP
+ACTION TRAINING (DELAT)
+NATIONAL
+01/03/2016 -
+30/06/2016
+2
+PEMBANGUNAN E-KAFA
+NATIONAL
+01/06/2015 -
+31/01/2016
+3
+PROGRAM KEBOLEHPASARAN GRADUAN FASA 1: SECURE
+ICT FOR MUSLIM PROFESSIONAL DEVELOPMENT
+UNIVERSITY
+01/10/2013 -
+31/10/2014
+4
+RUNDINGCARA DASAR PEMBANGUNAN SISTEM APLIKASI
+BAGI PUSAT TEKNOLOGI MAKLUMAT (PTM ) USIM
+UNIVERSITY
+24/06/2013 -
+31/12/2013
+5
+PEMBANGUNAN MODUL JURULATIH (ICT)
+NATIONAL
+24/06/2015 -
+30/10/2015
+ADMINISTRATION TASK
+No
+Position
+Level
+Date
+1
+Coordinator of e-content, GOAL CENTRE.
+UNIVERSITY
+01/04/2014 -
+31/03/2016
+2
+menjalankan tugas Pengarah GOAL Centre
+UNIVERSITY
+01/10/2014 -
+01/12/2014
+3
+Timbalan Pengarah
+UNIVERSITY
+01/04/2016 -
+30/12/2018
+4
+Penyelaras E-Pembelajaran USIM (FST)
+UNIVERSITY
+01/04/2020 -
+31/12/2021
+5
+Bhg Dasar PnP & INAQ CETL
+UNIVERSITY
+01/01/2021 -
+31/12/2022
+6
+Timbalan Pengarah Bhg Dasar PnP dan INAQ, CETL
+UNIVERSITY
+01/01/2023 -
+31/12/2024
+PROFESIONAL MEMBERSHIP
+No
+Name of Membership
+Organization
+Field
+Date
+1
+PROFESSIONAL MEMBERSHIP IEEE
+IEEE COMPUTER SOCIETY
+computing
+01/05/2012
+2
+INTERNATIONAL ASSOCIATION OF
+engineering &
+28/05/2012
+ENGINEERS -IAENG MEMBER
+computer science
+3
+Mobile Learning Association of Malaysia
+member
+14/11/2014
+4
+Majlis E-Pembelajaran IPTA
+01/04/2014
+5
+IAENG
+International Association of
+Engineers
+Computer
+22/01/2022
+6
+CCDA
+Cybersecurity Malaysia
+Computer Security
+16/01/2020
+7
+Ahli Bersekutu Majlis Profesor Negara
+Majlis Professor Negara
+Higher Education
+26/08/2022
+8
+Life Time Membership
+Cyber Security Academia
+Malaysia
+Computer Security
+20/05/2022
+RESEARCH AWARD
+No
+Title of Award
+Type of
+Award
+Exhibition Name
+Level
+Date
+1
+Secure Cybercitizenship
+(SET)
+Emas Dan
+Setara
+Malaysia Technology Expo
+(MTE) 2023
+Antarabangsa
+16/03/2023-18/03/20
+23
+2
+SAKTI: Secure Chat-Box
+Emas Dan
+Setara
+SCIENCE AND
+TECHNOLOGY RESERACH
+EXPO (SCITEX@20TH FST)
+Universiti
+19/12/2023-20/12/20
+23
+3
+QR Code Security Scanner
+Emas Dan
+Setara
+SCIENCE AND
+TECHNOLOGY RESERACH
+EXPO (SCITEX@20TH FST)
+Universiti
+19/12/2023-20/12/20
+23
+4
+SAKTI: SECURE APP FOR
+ENKRIPTING TEXT
+INFORMATION
+Emas Dan
+Setara
+INNOVATION BANK
+CHALLENGE (IBC 2022)
+Universiti
+06/09/2022-07/09/20
+22
+5
+ITAG V1.0
+Emas Dan
+Setara
+25TH INTERNATIONAL
+INVENTION , INNOVATION &
+TECHNOLOGY EXHIBITION
+(ITEX 2014)
+Antarabangsa
+08/05/2014-10/05/20
+14
+6
+MYSOLAT-INTERACTIVE T&L
+TOOL
+Emas Dan
+Setara
+INTERNATIONAL
+UNIVERSITY CARNIVAL ON
+E-LEARNING (IUCEL) 2019
+Antarabangsa
+21/08/2019-22/08/20
+19
+7
+SELF-INSTRUCTIONAL
+MODULE TEMPLATE
+(SIMPLE)
+Emas Dan
+Setara
+THE 3ND WORLD
+INVENTION INNOVATION
+CONTEST (WIC)2017
+Antarabangsa
+03/06/2017-04/06/20
+17
+8
+CYBERPOLY: Cybersecurity
+Edugame
+Emas Dan
+Setara
+Persidangan dan Ekspo
+Ciptaan Institusi Pengajian
+Tinggi Antarabangsa
+(PECIPTA22)
+Antarabangsa
+01/11/2022-03/11/20
+22
+9
+SAKTI: Secure App for
+enKripting Text Information
+Emas Dan
+Setara
+Persidangan dan Ekspo
+Ciptaan Institusi Pengajian
+Tinggi Antarabangsa
+(PECIPTA22)
+Antarabangsa
+01/11/2022-03/11/20
+22
+10
+Supporting eLearning
+through centralized
+integrated portal
+postgraduate system (Ipps)
+Emas Dan
+Setara
+INTERNATIONAL
+UNIVERSITY CARNIVAL ON
+E-LEARNING (IUCEL 2017)
+Universiti
+26/09/2017-27/09/20
+17
+11
+SUPPORTING ELEARNING
+THROUGH CENTRALIZED
+INTEGRATED PORTAL
+POSTGRADUATE SYSTEM
+Emas Dan
+Setara
+INTERNATIONAL
+UNIVERSITY CARNIVAL ON
+E-LEARNING (IUCEL 2017
+Antarabangsa
+26/09/2017-27/09/20
+17
+(IPPS)
+12
+SAKTI: Secure App for
+Enkrypting Text
+Information
+Emas Dan
+Setara
+Defence, Security and
+Sustainability Exhibition
+2022 (DSS) National
+Defence University of
+Malaysia
+Kebangsaan
+03/08/2022-04/08/20
+22
+13
+Enhancing Healthcare
+Practices through
+Innovative Video
+Recording: Revolutionizing
+Medical Documentation
+and Informed Consent in
+the Digital Age
+Emas Dan
+Setara
+INNOVATION BANK
+CHALLENGE 2023
+(IBC2023)
+Universiti
+24/10/2023-24/10/20
+23
+14
+SWINDLERT: MOBILE
+GAMIFICATION USING
+AUGMENTED REALITY FOR
+CYBERCRIME
+EDUTAINMENT
+Emas Dan
+Anugerah
+Tambahan
+The International E-Content
+Development Competition
+2023 (eCONDEV 2023)
+Antarabangsa
+22/08/2023-24/08/20
+23
+15
+SAKTI-Chatbox
+Perak Dan
+Setara
+Malaysia Technology Expo
+(MTE) 2023
+Antarabangsa
+16/03/2023-18/03/20
+23
+16
+SECURE CYBERCITIZENSHIP
+(SET)
+Perak Dan
+Setara
+VIRTUAL INNOVATION
+CEMPETITION 2023
+Kebangsaan
+07/06/2023-07/06/20
+23
+17
+CYBERPOLY:
+CYBERSECURITY EDUGAME
+Perak Dan
+Setara
+INNOVATION BANK
+CHALLENGE (IBC 2022)
+Universiti
+06/09/2022-07/09/20
+22
+18
+THE INSPIRER USIM
+Perak Dan
+Setara
+KONVENSYEN KUMPULAN
+INOVATIF DAN KREATIF
+UNIVERSITI AWAM KE-16
+Kebangsaan
+20/09/2022-21/09/20
+22
+19
+SAKTI
+Perak Dan
+Setara
+33RD INTERNATIONAL
+INVENTION,INNOVATION &
+TECHNOLOGY EXHIBITION,
+MALAYSIA (ITEX'22)
+Antarabangsa
+26/05/2022-27/05/20
+22
+20
+CYBERLAW ALMANAC
+Perak Dan
+Setara
+THE VIRTUAL
+INTERNATIONAL E-
+CONTENT DEVELOPMENT
+COMPETITION 2021 (
+ECONDEV )
+Antarabangsa
+20/08/2021-27/08/20
+21
+21
+SELF INSTRUCTIONAL
+MODULE TEMPLATE
+(SIMPLE)
+Perak Dan
+Setara
+NATIONAL UNIVERSITY
+CARNIVAL ON E-LEARNING
+(NUCEL 2015)
+Kebangsaan
+14/12/2015-15/12/20
+15
+22
+SWINDLERT: Mobile
+Gamification using
+Augmented Reality for
+Cybercrime Edutainment
+Perak Dan
+Setara
+International University
+Carnival On E-Learning
+(IUCEL 2023)
+Antarabangsa
+25/09/2023-26/09/20
+23
+23
+USER ORIENTED PRIVACY
+MODEL FOR SOCIAL
+NETWORK SITE
+Perak Dan
+Setara
+PECIPTA INTERNATIONAL
+CONFERENCE &
+EXPOSITION ON INVENTION
+OF INSTITUTIONS OF
+HIGHER LEARNING
+Antarabangsa
+07/11/2013-09/11/20
+13
+24
+SWINDLERT
+Gangsa Dan
+Setara
+Malaysia Technology Expo
+(MTE) 2023
+Antarabangsa
+16/03/2023-18/03/20
+23
+25
+MYCYBERLAW
+Gangsa Dan
+Setara
+NATIONAL UNIVERSITY
+CARNIVAL ON E-LEARNING
+(NUCEL 2015)
+Kebangsaan
+14/12/2015-15/12/20
+15
+26
+CYBERPOLY: MOBILE
+GAMIFICATION FOR
+SECURITY AWARENESS
+CAMPAIGN
+Gangsa Dan
+Setara
+MALAYSIA TECHNOLOGY
+EXPO 2022
+Antarabangsa
+21/03/2022-25/03/20
+22
+27
+Fatwa Database
+Management (FDM)
+Gangsa Dan
+Setara
+Ekspo Penyelidikan dan
+Ciptaan Institusi Pengajian
+Tinggi Antarabangsa 2007
+Antarabangsa
+10/08/2007-12/08/20
+07
+28
+A NEW INSTRUCTIONAL
+DESIGN MODEL FOR JAVA
+LEARNING ONLINE
+Gangsa Dan
+Setara
+NATIONAL UNIVERSITY
+CARNIVAL ON LEARNING
+2014 (NUCEL 2014)
+Kebangsaan
+14/11/2014-15/11/20
+14
+29
+STADIR : STATIC DYNAMIC
+INCIDENT RESPONSE
+MALWARE DATASET MODEL
+Gangsa Dan
+Setara
+4TH EXPOSITION ON
+ISLAMIC INNOVATION 2013
+(I-INOVA''13)
+Kebangsaan
+25/10/2013-27/10/20
+13
+30
+DASHBOARD MONITORING
+SYSTEM (DMS) FOR
+POSTGRADUATE STUDY
+Gangsa Dan
+Setara
+INTERNATIONAL
+UNIVERSITY CARNIVAL ON
+E-LEARNING (IUCEL) 2019
+Antarabangsa
+21/08/2019-22/08/20
+19
+31
+BLUETOOTH SMART BASED
+ATTENDANCE SYSTEM FOR
+TEACHING AND LEARNING
+Gangsa Dan
+Setara
+INTERNATIONAL
+UNIVERSITY CARNIVAL ON
+E-LEARNING (IUCEL) 2019
+Antarabangsa
+21/08/2019-22/08/20
+19
+32
+MOBAS: MOBILE BARCODE
+SCANNER BASED
+ATTENDANCE SYSTEM FOR
+EDUCATION 4.0
+Gangsa Dan
+Setara
+INTERNATIONAL
+UNIVERSITY CARNIVAL ON
+E-LEARNING (IUCEL) 2019
+Antarabangsa
+21/08/2019-22/08/20
+19
+33
+CYBER HASANAT:
+RESILIENT COMMUNITY VIA
+SECURE CYBERCITIZENSHIP
+BOARD GAME
+Gangsa Dan
+Setara
+Pertandingan Inovasi
+Pengajaran dan
+Pembelajaran (kNovasi)
+2023
+Kebangsaan
+06/09/2023-07/09/20
+23
+34
+INTEGRATED NAQLI &
+NAQLI SELF-
+INSTRUCTIONAL LEARNING
+MODULE FRAMEWIRK
+DESIGN FOR USIM
+Gangsa Dan
+Setara
+International University
+Carnival on e-Learning
+(IUCEL 2016)
+Antarabangsa
+20/09/2016-21/09/20
+16
+35
+USIM MOOC HALAQAH
+Sijil
+Penghargaan
+Sahaja
+NATIONAL UNIVERSITY
+CARNIVAL ON E-LEARNING
+(NUCEL 2015)
+Kebangsaan
+14/12/2015-15/12/20
+15
+36
+USIM MOOC BAHASA ARAB
+1
+Sijil
+Penghargaan
+Sahaja
+NATIONAL UNIVERSITY
+CARNIVAL ON E-LEARNING
+(NUCEL 2015)
+Kebangsaan
+14/12/2015-15/12/20
+15
+37
+USIM MOOC FIQH IBADAT &
+MUNAKAHAT
+Sijil
+Penghargaan
+Sahaja
+NATIONAL UNIVERSITY
+CARNIVAL ON E-LEARNING
+(NUCEL 2015)
+Kebangsaan
+14/12/2015-15/12/20
+15
+38
+USIM OPEN EDUCATIONAL
+RESOURCES (USIM OER)
+Sijil
+Penghargaan
+Sahaja
+NATIONAL UNIVERSITY
+CARNIVAL ON E-LEARNING
+(NUCEL 2015)
+Kebangsaan
+14/12/2015-15/12/20
+15
+39
+A Method of Cover Audio
+Selection for Embedding
+Based on Various Criteria
+Best Paper
+Award
+International Conference on
+Advances in Machine
+Intelligence and
+Cybersecurity Technologies
+(AMICT)
+Antarabangsa
+11/12/2023-12/12/20
+23
+40
+SELF-INSTRUCTIONAL
+MODULE TEMPLATE
+(SIMPLE)
+Jenis
+Pengiktirafan
+Lain-lain
+THE 3ND WORLD
+INVENTION INNOVATION
+CONTEST (WIC)2017
+Antarabangsa
+03/06/2017-04/06/20
+17
+AWARD
+No
+Name Of Award
+Organization
+Date
+1
+Anugerah Ahli Akademik Cemerlang Sains & Teknologi
+USIM
+06/08/2019
+2
+Anugerah Perkhidmatan cemerlang
+USIM
+06/08/2019
+Powered by TCPDF (www.tcpdf.org)
+
+
+--- End of Prof_Madya_Dr_Najwa_Hayaati_Mohd_Alwi.pdf ---

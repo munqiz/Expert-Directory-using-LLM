@@ -1,0 +1,3275 @@
+--- Start of Prof_Madya_Dr_Nurlida_Basir.pdf ---
+
+PERSONAL DETAIL
+Name
+PROF. MADYA DR. NURLIDA BINTI BASIR
+Designation
+PENSYARAH UNIVERSITI DS54
+Faculty
+FACULTY OF SCIENCE AND TECHNOLOGY
+Tel. No. (Office)
+7005
+E-mail Address
+nurlida@usim.edu.my
+Address(Office)
+FACULTY OF SCIENCE AND TECHNOLOGY ,UNIVERSITI SAINS ISLAM MALAYSIA, BANDAR BARU
+NILAI, 71800, NILAI, NEGERI SEMBILAN
+ACADEMIC QUALIFICATION
+No
+Year
+Qualification
+Institution
+Field
+1
+2010
+PhD
+UNIVERSITY OF SOUTHAMPTON, UK
+SAINS KOMPUTER
+2
+2006
+Master
+UNIVERSITI TEKNOLOGI MALAYSIA
+Kejuruteraan Perisian Masa Nyata
+3
+2002
+Bachelor
+UNIVERSITI TEKNOLOGI MALAYSIA
+Kejuruteraan Komputer dan
+Maklumat
+4
+2000
+Diploma
+UNIVERSITI TEKNOLOGI MALAYSIA
+Sains Komputer ( Teknologi
+Maklumat)
+TEACHING
+MASTER / PHD
+No
+Code Subject
+Subject
+Start
+Year
+End
+Year
+1
+SKJ8004
+SECURE SOFTWARE DEVELOPMENT
+2013
+2021
+DEGREE
+No
+Code Subject
+Subject
+Start
+Year
+End
+Year
+1
+SKU2023
+INTRODUCTION TO WEB PROGRAMMING
+2006
+2006
+2
+SKJ4113
+INFORMATION SYSTEM DEVELOPMENT
+2010
+2012
+3
+SKU2013
+INTRODUCTION TO WEBSITE GRAPHICS
+2010
+2010
+4
+UTA1072
+INTRODUCTION TO COMPUTER SCIENCES
+2010
+2010
+5
+SAA3042
+RESEARCH METHODOLOGY
+2011
+2012
+6
+SKJ4632
+PRINCIPLES OF SOFTWARE DESIGN SPECIFICATION
+2011
+2016
+7
+SKJ2083
+SOFTWARE ENGINEERING
+2013
+2024
+8
+SKJ4301
+HONOURS SEMINAR
+2014
+2015
+9
+SSS3052
+RESEARCH METHODOLOGY
+2014
+2017
+10
+SKF4243
+MANAGEMENT INFORMATION SYSTEMS STRATEGY
+2015
+2018
+11
+SKJ3153
+SOFTWARE QUALITY ASSURANCE
+2018
+2024
+12
+SKM3463
+HUMAN COMPUTER INTERACTION
+2018
+2022
+INTERNAL SUPERVISION
+PHD
+No
+Matric No
+Student Name
+Type of Supervisor
+Start
+Year
+End
+Year
+1
+4090097
+ALA A. ABDUL RAZEG
+Co-Supervisor
+2009
+2022
+2
+4110001
+BASHIR M MOHAMED GEBLAWI
+Main Supervisor
+2010
+2022
+3
+4110055
+ROZNIM BINTI MOHAMAD RASLI
+Co-Supervisor
+2011
+2022
+4
+4110117
+ABDULHAFID BUGHARI ABDULKARIM
+Main Supervisor
+2012
+2022
+5
+4110194
+OMAR ISAM HOMAIDI AL-MRAYAT
+Co-Supervisor
+2012
+2015
+6
+4120021
+ABDUL HAKIM EL MOAWE DHOW DREHEEB
+Chairman of
+Supervisory
+Committee
+2012
+2022
+7
+4120053
+HAYFA YOUSEF MUSALLAM ABU ADDOUS
+Co-Supervisor
+2012
+2022
+8
+4120074
+MELAD MOHAMED M. AL DAEEF
+Main Supervisor
+2012
+2022
+9
+4120162
+AMMAR KHADER MOHAMMAD ALMASRI
+Main Supervisor
+2013
+2014
+10
+4130044
+NEDAL MOHAMMED SADIQ NWASRA
+Main Supervisor
+2013
+2022
+11
+4140262
+ZAINAB A. A. ABDELSADEQ
+Chairman of
+Supervisory
+Committee
+2015
+2023
+12
+4231087
+RAFIZAH DAUD
+Main Supervisor
+2022
+2024
+MASTER
+No
+Matric No
+Student Name
+Type of Supervisor
+Start
+Year
+End
+Year
+1
+3110034
+AISSAOUI TAYEB
+Main Supervisor
+2011
+2012
+2
+3110217
+HADI MUHAMMAD SUMAIE OUN
+Supervisor
+2012
+2014
+3
+3140206
+AHMAD AFIQ BIN ABD RAHIM
+Main Supervisor
+2014
+2015
+4
+3140207
+MUHAMMAD ZUHAIR BIN ABD RAHMAN
+Co-Supervisor
+2014
+2022
+5
+3140258
+HASAN AL-BANNA BIN HASHIM
+Co-Supervisor
+2014
+2022
+6
+3182568
+NOR FAIZAH BINTI BADARUNI
+Supervisor
+2019
+2022
+7
+3202504
+NUR FAIQAH 'AQILAH BINTI FUAAD
+Co-Supervisor
+2021
+2024
+INTERNAL RESEARCH
+No
+Title
+Grant
+Role
+Date
+1
+SECURITY METRICS FOR WEB APPLICATION
+DEVELOPMENT QUALITY ASSURRANCE
+Geran
+Penyelidikan
+Fundamental
+Main
+Researcher
+03/10/2011 -
+03/07/2015
+2
+Segementation Of Malaria Parasites on Stained Blood
+Films
+Geran
+Penyelidikan
+Fundamental
+Co-Researcher
+03/10/2011 -
+03/07/2015
+3
+Graphical User Authentication: A Top-Down Investigation
+Geran
+Penyelidikan
+Co-Researcher
+01/12/2012 -
+03/07/2015
+USIM
+4
+Optimum Fitness Function On Heuristic Search Evaluation
+For Solving Timetabling Issues
+Geran
+Penyelidikan
+USIM
+Main
+Researcher
+01/12/2012 -
+25/03/2016
+5
+Efficient Mobile Malware Detection Model (EMMDet)
+Geran KPT
+Main
+Researcher
+16/09/2013 -
+19/12/2016
+6
+Knowledge Reservoir Through The Integration Of Naqli
+And Aqli Knowledge From Heterogeneous Expertise And
+Sources
+Geran KPT
+Co-Researcher
+01/08/2014 -
+01/10/2020
+7
+Perisian Interaktif Ayat-ayat yang Mempunyai Integrasi
+Ilmu Naqli Dan Aqli Di Dalam Al-Quran
+Geran
+Penyelidikan
+Jangka Pendek
+Co-Researcher
+01/07/2014 -
+27/09/2017
+8
+Penggalian Petunjuk Ilmu Aqli Dalam Quran
+Geran
+Penyelidikan
+Kompetitif
+Kluster
+Co-Researcher
+01/07/2014 -
+19/12/2017
+9
+AN INTELLIGENT SELF-DESTRUCT SMARTPHONE
+ALGORITHM USING APOPTOSIS FOR ROOT EXPLOITATION
+Geran KPT
+Co-Researcher
+01/07/2014 -
+21/02/2018
+10
+A new algorithm for indexing big data using Case Based
+Reasoning (CBR)
+Geran KPT
+Co-Researcher
+01/12/2014 -
+19/12/2016
+11
+A new algorithm for adaptation rules using case-based
+reasoning (CBR) technique.
+Geran KPT
+Co-Researcher
+01/12/2014 -
+27/09/2017
+12
+A METHOD FOR EXTRACTING NON-TAXONOMIC RELATION
+Geran Jangka
+Pendek Fasa 1
+Co-Researcher
+01/05/2016 -
+07/02/2020
+13
+NEW COUNTERMEASURE APPROACH ON XML DIGITAL
+SIGNATURE AGAINST WRAPPING ATTACK
+Geran Jangka
+Pendek Fasa 1
+Co-Researcher
+01/05/2016 -
+27/06/2019
+14
+A NEW MOBILE BOTNET TAXONOMY MODEL INSPIRED BY
+GENETIC ALGORITHM
+Geran Jangka
+Pendek Fasa 1
+Co-Researcher
+01/05/2016 -
+19/12/2018
+15
+INTELLIGENT SPAM DETECTION MODEL BASED ON
+IMMUNOLOGICAL MEMORY OF ADAPTIVE IMMUNE
+SYSTEM
+Geran KPT
+Main
+Researcher
+01/08/2016 -
+08/12/2020
+16
+QUALITY-IN-USE OF WEB APPLICATION EVALUATION
+MODEL (QINUEM)
+Geran Jangka
+Pendek Fasa 2
+Main
+Researcher
+06/10/2016 -
+04/03/2021
+17
+EVOLUTIONARY MULTI-OBJECTIVE OPTIMIZATION FOR
+COVER AUDIO SELECTION IN AUDIO STEGANOGRAPHY
+Geran KPT
+Co-Researcher
+15/08/2017 -
+08/12/2020
+18
+A NEW ALGORITHM OF GEO-ENCRYPTION BASED ON
+LOCATION FOR SECURE CLOUD STORAGE
+Geran KPT
+Co-Researcher
+15/08/2017 -
+19/11/2021
+19
+A NEW APPROACH BASED ON ROUGH SET THEORY FOR
+ONTOLOGY EXTRACTION
+Geran KPT
+Co-Researcher
+01/01/2019 -
+30/11/2023
+20
+A NEW ONTOLOGY COMPONENTS EXTRACTION
+ALGORITHM BASED ON ROUGH SET THEORY BASED ON
+COVID-19 DOMAIN TEXTS
+Geran
+Penyelidikan
+USIM
+Main
+Researcher
+01/03/2022 -
+01/09/2024
+21
+ORAL HEALTH APPLICATION FOR OLDER ADULTS WITH
+COGNITIVE IMPAIRMENT
+Geran
+Penyelidikan
+Industri
+Co-Researcher
+15/06/2023 -
+15/02/2024
+22
+AN INTELLIGENT RANSOMWARE DETECTION AND
+PREVENTION MODEL BASED ON ADAPTIVE DEEP
+LEARNING ALGORITHM
+Geran
+Penyelidikan
+USIM
+Co-Researcher
+01/03/2022 -
+01/03/2024
+23
+PEMBANGUNAN MODUL LATIHAN AHLI JAWATANKUASA
+MASJID YANG KOMPREHENSIF
+Geran
+Penyelidikan
+Agensi
+Kerajaan
+Co-Researcher
+01/11/2023 -
+01/05/2024
+24
+HYBRID COVERT CHANNEL TECHNIQUE FOR SHORT
+SECURE MESSAGING
+Geran
+Penyelidikan
+USIM
+Co-Researcher
+01/11/2023 -
+01/11/2025
+25
+A RESILIENT MODEL FOR MITIGATING MALWARE ATTACKS
+USING PHYLOGENETICS VIA MINIMUM DESCRIPTION
+LENGTH (MDL) AND ENHANCED DEEP LEARNING (EDL)
+FOR CYBER-PHYSICAL SYSTEMS (CPS)
+Geran KPT -
+Geran FRGS
+Co-Researcher
+01/08/2024 -
+01/08/2027
+EXTERNAL RESEARCH
+No
+Title
+Grant
+Organization
+Duration
+1
+A Framework of Legacy Systems Modernisation For
+Citizen-Centric Smart Government
+Geran
+Penyelidikan
+Fundamental
+Universiti
+Kebangsaan
+Malaysia (UKM)
+November 2020 -
+April 2023
+CONFERENCE
+No
+Conferance Name
+Paper Work
+Role
+Date
+1
+THE INTERNATIONAL CONFERENCE ON
+CYBER SECURITY, CYBERWARFARE AND
+DIGITALFORENSIC
+SECURITY METRICS TO
+IMPROVE MUSUSE CASE
+MODEL
+Pembentang Lisan /
+Kertas Kerja
+26/06/2012 -
+28/06/2012
+2
+PROGRAM CASE TEACHING AND
+RESEARCH SEMINAR 2012
+Peserta Biasa
+11/12/2012 -
+13/12/2012
+3
+PROGRAM CASE TEACHING AND
+RESEARCH SEMINAR 2012
+Peserta Biasa
+11/12/2012 -
+13/12/2012
+4
+2ND INTERNATIONAL CONFERENCE
+ADVANCES IN COMPUTER AND
+INFORMATIONTECHNOLOGY
+INTERACTIVE MULTIMEDIA
+FOR LABORATORY SESSION
+OF BRIGHT-FIELD
+MICROSCOPY TECHNIQUE
+Pembentang Lisan /
+Kertas Kerja
+04/05/2013 -
+05/05/2013
+5
+INTERNATIONAL SCIENTIFIC ACADEMY
+OF ENGINEERING AND TECHNOLOGY
+CONFERENCE
+APPRECIATIVE INQUIRY IN
+ELICITING SOFTWARE
+REQUIREMENTS
+Pembentang Lisan /
+Kertas Kerja
+08/05/2013 -
+09/05/2013
+6
+THE 4TH INTERNATIONAL CONFERENCE
+ON ELECTRICAL ENGINEERING AND
+INFORMATICS(ICEEI2013)
+A SIMULATED ANNEALING
+FOR TAMHIDI COURSE
+TIMETABLING
+Pembentang Lisan /
+Kertas Kerja
+24/06/2013 -
+25/06/2013
+7
+INTERNATIONAL CONFERENCE ON
+COMPUTING AND INFORMATICS (ICOCI
+2013)
+STUDY OF THE
+ACCESSIBILITY DIAGNOSIS
+ON THE PUBLIC HIGHER
+INSTITUTIONS WEBSITES IN
+MALAYSIA
+Pembentang Lisan /
+Kertas Kerja
+28/08/2013 -
+30/08/2013
+8
+SEMINAR CREATIVITY AND INNOVATION
+(I-INNOVA)
+A METHOD OF CLASSIFYING
+VOCABULARY AND
+TERMINOLOGY IN ARABIC
+FOR SPECIFIC PURPOSES’
+(ASP) : A TOOL TO
+GENERATE ARABIS WORDS
+Pembentang Lisan /
+Kertas Kerja
+25/10/2013 -
+25/10/2013
+9
+INTERNATIONAL CONFERENCE ON
+INFORMATION SCIENCE AND
+APPLICATIONS (ICISA 2014)
+A METHOD TO MEASURE
+THE EFFICIENCY OF
+PHISHING EMAIL
+DETECTION FEATURES
+Pembentang Lisan /
+Kertas Kerja
+06/05/2014 -
+09/05/2014
+10
+2014 INTERNATIONAL CONFERENCE ON
+ADVANCED COMPUTER SCIENCE AND
+INFORMATION SYSTEMS (ICACSIS)
+EXTENDING V-MODEL
+PRACTICES TO SUPPORT
+SRE TO BUILD SECURE WEB
+APPLICATION
+Pembentang Lisan /
+Kertas Kerja
+18/10/2014 -
+19/10/2014
+11
+ADVANCEMENT IN INFORMATION
+TECHNOLOGY INTERNATIONAL
+CONFERENCE (ADVCIT14)
+TACIT REQUIREMENTS
+ELICITATION FRAMEWORK
+Pembentang Lisan /
+Kertas Kerja
+16/12/2014 -
+18/12/2014
+12
+ADVANCEMENT IN INFORMATION
+TECHNOLOGY INTERNATIONAL
+CONFERENCE (ADVCIT14)
+SYNONYMOUS NON-
+TAXONOMIC RELATIONS
+EXTRACTION
+Pembentang Lisan /
+Kertas Kerja
+16/12/2014 -
+18/12/2014
+13
+ADVANCEMENT IN INFORMATION
+TECHNOLOGY INTERNATIONAL
+CONFERENCE (ADVCIT14)
+AN ANTI-PHISHING TOOL
+TO VERIFY URLS IN EMAIL''S
+CONTENT
+Pembentang Lisan /
+Kertas Kerja
+16/12/2014 -
+18/12/2014
+14
+ADVANCEMENT IN INFORMATION
+TECHNOLOGY INTERNATIONAL
+CONFERENCE (ADVCIT14)
+A COMPREHENSIVE REVIEW
+OF MOBILE BONET
+DETECTION USING GENETIC
+ALGORITHM: A SYSTEMATIC
+REVIEW
+Pembentang Lisan /
+Kertas Kerja
+16/12/2014 -
+18/12/2014
+15
+UKSim-AMSS 17th INTERNATIONAL
+CONFERENCE ON MODELLING AND
+SIMULATION (UKSIM 2015)
+USING PROBABILITY
+THEORY TO IDENTIFY THE
+ENSURE VALUE OF AN
+INCOMPLETE SENTENCE
+Pembentang Lisan /
+Kertas Kerja
+25/03/2015 -
+27/03/2015
+16
+2015 2ND INTERNATIONAL
+CONFERENCE ON COMMUNICATION
+AND COMPUTER ENGINEERING
+(ICOCOE)
+A REVIEW OF CLIENT-SIDE
+TOOLBARS AS A USER-
+ORIENTED ANTI-PHISHING
+SOLUTION
+Pembentang Lisan /
+Kertas Kerja
+09/06/2015 -
+11/06/2015
+17
+International Conference on Circuits
+and Systems 2016
+Security Awareness
+Training: A Review
+Pembentang Lisan /
+Kertas Kerja
+19/10/2016 -
+21/10/2016
+18
+International Conference on Circuits
+and Systems 2016
+Evaluation of Phishing
+Email Classification
+Features: Reliability Ratio
+Measure
+Pembentang Lisan /
+Kertas Kerja
+19/10/2016 -
+21/10/2016
+19
+i-Inova 2016
+Anti-Phishing Immune
+System (AIS)
+Pembentang Lisan /
+Kertas Kerja
+07/11/2016 -
+09/11/2016
+20
+1st WORLD INTERNATIONAL
+CONFERENCE ON ISLAMIC SCIENCES
+2016 (WICOIS’16)
+Anti-Phishing Immune
+System
+Pembentang Lisan /
+Kertas Kerja
+05/12/2016 -
+07/12/2016
+21
+1st WORLD INTERNATIONAL
+CONFERENCE ON ISLAMIC SCIENCES
+2016 (WICOIS’16)
+Intelligent Quranic
+Ontology Retrieval
+Pembentang Lisan /
+Kertas Kerja
+05/12/2016 -
+07/12/2016
+22
+1st WORLD INTERNATIONAL
+CONFERENCE ON ISLAMIC SCIENCES
+2016 (WICOIS’16)
+Quality Aspects and
+Satisfaction for Evaluating
+QinU of Websites
+Pembentang Lisan /
+Kertas Kerja
+05/12/2016 -
+07/12/2016
+23
+1st WORLD INTERNATIONAL
+CONFERENCE ON ISLAMIC SCIENCES
+2016 (WICOIS’16)
+Factors Affecting the
+Adoption of Cloud
+Computing in Small
+Medium Enterprises (SMEs)
+in Malaysia
+Pembentang Lisan /
+Kertas Kerja
+05/12/2016 -
+07/12/2016
+24
+NOBEL FORUM FOR RESEARCH
+EXCELLENCE
+Peserta Biasa
+10/08/2017 -
+10/08/2017
+25
+SECURITY EXCHANGE
+Peserta Biasa
+16/08/2017 -
+16/08/2017
+26
+International Conference on Computer
+Science and Applications 2017
+Hybrid Model of Phishing
+Email Detection: A
+Combination of Technical
+and Non-Technical Anti-
+Phishing Approaches
+Pembentang Lisan /
+Kertas Kerja
+25/10/2017 -
+27/10/2017
+27
+Information Systems International
+Conference (ISICO 2017)
+Quality Aspects Priorities of
+Malaysian Universities
+Websites from End-Users
+Pembentang Lisan /
+Kertas Kerja
+05/11/2017 -
+09/11/2017
+and Decision-Makers
+Perspectives Based on
+QinUEM
+28
+International Conference on Soft
+Computing and Data Mining 2018
+A similiarity precision for
+selecting ontology
+component in an
+incomplete sentence
+Peserta Biasa
+06/02/2018 -
+07/02/2018
+29
+2nd Women In Science Forum
+Peserta Biasa
+01/08/2018 -
+01/08/2018
+30
+The 4th International Multi-Conference
+on Artificial Intelligence Technology (M-
+CAIT 2018)
+Evaluation of Malaysian
+Universities Websites
+based on Quality in Use
+Evaluation Model
+Pembentang Lisan /
+Kertas Kerja
+31/10/2018 -
+04/11/2018
+31
+International Conference on
+Cybersecurity 2019
+Unintentional Insider
+Threats Countermeasures
+Model (UITCM)
+Pembentang Lisan /
+Kertas Kerja
+25/09/2019 -
+26/09/2019
+32
+International Congress on Information
+and Communication Technology ICICT
+2020
+URL’s Folder Name Length
+as a Phishing Detection
+Feature
+Pembentang Lisan /
+Kertas Kerja
+19/02/2020 -
+22/02/2020
+33
+International Congress on Information
+and Communication Technology ICICT
+2020
+Eliciting Tacit Requirements
+in Software Development
+Lifecycle
+Pembentang Lisan /
+Kertas Kerja
+19/02/2020 -
+22/02/2020
+34
+10th IEEE International Conference On
+Control System, Computing And
+Engineering
+Eliciting Tacit Requirement
+in Software Development
+Pembentang Lisan /
+Kertas Kerja
+21/08/2020 -
+22/08/2020
+35
+International Symposium on Digital
+Forensics and Security
+Phishing Detection and
+Prevention using Chrome
+Extension
+Peserta Biasa
+06/06/2022 -
+07/06/2022
+36
+ICoAIMS 2022: 3rd International
+Conference on Applied & Industrial
+Mathematics and Statistics 2022
+ROUGH SET MODEL FOR
+COMPONENT EXTRACTION
+Pembentang Lisan /
+Kertas Kerja
+24/08/2022 -
+26/08/2022
+37
+Islamic Arbitration Conference 2023:
+Evolving Standards of the Global World
+Peserta Biasa
+20/06/2023 -
+20/06/2023
+38
+Computing Research and Innovation
+Conference 2023 (CRC2023)
+Peserta Biasa
+17/08/2023 -
+17/08/2023
+39
+The 4th International Conference On
+Recent Advancements In Science And
+Technology (ICoRAST 2023)
+URL-BASED
+CLASSIFICATION FEATURES
+IN PREVENTING
+RANSOMWARE CYBER-
+ATTACKS
+Pembentang Lisan /
+Kertas Kerja
+09/11/2023 -
+09/11/2023
+40
+Teaching and Learning Symposium :
+The Future of Assessment (TFA) 2023
+Peserta Biasa
+22/11/2023 -
+22/11/2023
+41
+The 9th International Conference on
+Cyber Security, Privacy in
+Communication Networks (ICCS) 2023
+Identification of the
+Appropriate Value to
+Replace the Missing Value
+in Incomplete Triplet
+Extraction from Domain
+Text for Domain Knowledge
+Peserta Biasa
+11/12/2023 -
+12/12/2023
+AREA OF SPECIALIZATION AND RESEARCH INTERESTS
+No
+Field / Area
+Level of Expertise
+1
+SOFTWARE ENGINEERING
+HIGH
+PUBLICATION - BOOK
+2021
+1. FAUZIAH ABDUL RAHIM, ROHANA SAPAWI, NURFIRDAWATI MUHAMAD HANAFI, MARLINA MOHAMAD, NURLIDA
+BASIR, WONG SU LUAN, MAS NIDA MD KHAMBARI, ADIBAH ABDUL LATIF, SYAMSUL NOR AZLAN MOHAMAD, ROZITA
+HUSAIN, MUHAM,ALTERNATIVE ASSESSMENT IN HIGHER EDUCATION: A PRACTICAL GUIDE TO ASSESSING
+LEARNING,UUM PRESS
+2018
+1. Nurlida Basir, Nurzi Juana Mohd Zaizi, Nur Fatin Nabila Mohd Rafei Heng, Azuan Ahmad,C Programming for
+Beginners,PENERBIT UNIVERSITI SAINS ISLAM MALAYSIA (USIM)
+2013
+1. NURUL AIN,THE DEVELOPMENT OF STUDENT e-PORTFOLIO,Universiti Sains Islam Malaysia (USIM)
+2011
+1. nurlida binti basir,E-KOLEJ REGISTRATION SYSTEM FOR UNIVERSITI SAINS ISLAM MALAYSIA (USIM),UNIVERSITI
+SAINS ISLAM MALAYSIA (USIM)
+PUBLICATION - CHAPTER IN BOOK
+2021
+1. SYARIL NIZAM OMAR, NURLIDA BASIR, RABIAH AHMAD,CRITICAL INFRASTRUCTURE PROTECTION: FROM
+CYBERSECURITY TO CYBER RESILIENCE,UTeM Press,53-65
+2020
+1. Melad Mohamed Al-Daeef, Nurlida Basir, Madihah Mohd Saudi,Proceedings of Fifth International Congress on
+Information and Communication Technology,Springer, Singapore,326-333
+2. NF Nabila, Nurlida Basir, Nurzi Juana Mohd Zaizi, Mustafa Mat Deris,Proceedings of Fifth International Congress on
+Information and Communication Technology,Springer, Singapore,470-478
+2019
+1. Ahmad Al Zuraiqi and Nurlida Basir,The Integration of Naqli and Aqli in Information Security & Assurance from The
+Islamic and Technological Perspectives,USIM PRESS,69
+2018
+1. Fatin Nabila Rafei Heng, Mustafa Mat Deris, Nurlida Basir,SCDM 2018: Recent Advances on Soft Computing and
+Data Mining,SPRINGER,95-104
+PUBLICATION - JOURNAL
+2023
+1. Yunidar Yunidar, Melinda Melinda, Khairani Khairani, Muhammad Irhamsyah, Nurlida Basir,IoT-based Heart Signal
+Processing System for Driver Drowsiness Detection,Green Intelligent Systems and Applications,3,2,98-110
+2. Melinda Melinda, Maulisa Oktiana, Yudha Nurdin, Indah Pujiati, Muhammad Irhamsyah, Nurlida Basir,Performance
+of ShuffleNet and VGG-19 Architectural Classification Models for Face Recognition in Autistic Children,,13,2,674-680
+3. Melinda Melinda, I Ketut Agung Enriko, Muhammad Furqan, Muhammad Irhamsyah, Yunidar Yunidar, Nurlida
+Basir,The effect of power spectral density on the electroencephalography of autistic children based on the welch
+periodogram method,Jurnal Infotel,15,1,111-120
+2019
+1. Roznim Mohamad Rasli, Nor Azah Abdul Aziz, Fadhlina Mohd Razali, Norita Md Norwawi, Nurlida Basir,A Preliminary
+Survey on Artificial Immune Systems (AIS): A Review on Their Techniques, Strengths and Drawbacks,,9,14,121-144
+2018
+1. Nurlida Basir, N. F. Nabila, Nurzi Juana Mohd Zaizi, Madihah Mohd Saudi, Farida Ridzuan, Sakinah Ali
+Pitchay,Retrieval Performance for USIM''s Quranic Search Engine,International Journal of Engineering &
+Technology,7,15,126-129
+2. Muhammad Afifi Mohamad Safee, Madihah Mohd Saudi, Sakinah A. Pitchay, Farida Ridzuan, Nurlida Basir,
+Kamarudin Saadan, Fatin Nabila,Hybrid Search Approach for Retrieving Medical and Health Science Knowledge from
+Quran,INTERNATIONAL JOURNAL OF ENGINEERING AND TECHNOLOGY,7,15,69-74
+3. Nedal Nwasra, Nurlida Basir, Mohd Fadzli Marhusin,Evaluation of Malaysian Universities Websites based on Quality
+in Use Evaluation Model,International Journal on Advanced Science, Engineering and Information
+Technology,8,4-2,1417-1422
+4. Nedal Nwasra, Nurlida Basir, Mohd Fadzli Marhusin,Evaluation of Malaysian Universities Websites based on Quality
+in Use Evaluation Model,International Journal on Advanced Science, Engineering and Information
+Technology,8,4-2,1417-1422
+5. RM Rasli, NAM Zulkefli, NAA Aziz, FM Razali, SA Salim, NM Norwawi, N Basir,Journal of Fundamental and Applied
+Sciences,A review on teacher training''s drawbacks, barriers and challenges: conventional to digital technology
+transition,10,6s,495-511
+6. RM Rasli, NAA Aziz, SA Salim, FM Razali, NM Norwawi, N Basir,Journal of Fundamental and Applied
+Sciences,Knowledge-based expert system for predictive classification of main specific learning
+disabilities,10,6S,482-494
+2017
+1. Basir, N., Aminuddin, M.M.M., Darsono, A.M.B., Misran, M.H., Sulaiman, H.A., Othman, M.A.,Selected Peer-Reviewed
+Articles from 2016 World International Conference on Sciences (WICS 2016),Advanced Science Letter
+(ASL),23(5),5,4368-4370
+2. Abuaddous, H.Y., Jali, M.Z., Basir, N.,Quantitative metric for ranking web accessibility barriers based on their
+severity,Journal of Information and Communication Technology,16,1,81-102
+3. Nwasra, N., Basir, N., Marhusin, M.F.,Quality aspects and satisfaction for evaluating QinU of websites,Advanced
+Science Letters,23,5,4769-4772
+4. Basir, N., Nabila, N.F., Zaizi, N.J.M., Saudi, M.M., Ridzuan, F.H.M., Pitchay, S.A.,Intelligent Quranic ontology
+retrieval,Advanced Science Letters,23,5,4449-4453
+5. Abdulrazeg, A.A., Norwawi, N.M., Basir, N.,RiskSRP: Prioritizing security requirements based on total risk
+avoidance,Advanced Science Letters,23,5,4596-4600
+6. Abdulgadr, A.B.A., Basir, N., Jali, M.Z.,Factors affecting the adoption of cloud computing in small medium
+enterprises (SMEs) in Malaysia,Advanced Science Letters,23,5,4672-4675
+7. Al-Daeef, M.M., Basir, N., Saudi, M.M.,Anti-phishing immune system,Advanced Science Letters,23,5,4745-4749
+8. Nwasra, N., Basir, N., Marhusin, M.F.,Quality aspects and satisfaction for evaluating QinU of websites,Advanced
+Science Letters,23,5,4769-4772
+2016
+1. MM Saudi, MZA Rahman, AA Mahmud, N Basir, YS Yusoff,A New System Call Classification for Android Mobile
+Malware Surveillance Exploitation via SMS Message,Advanced Computer and Communication Engineering
+Technology-Lecture Notes in Electrical Engineering,362,1,103-112
+2. Melad Mohamed Al-Daeef , Nurlida Basir, Madihah Mohd Saudi,A Review of Client-Side Toolbars as a User-Oriented
+Anti-Phishing Solution,Advanced Computer and Communication Engineering Technology,362,1,427-437
+3. Abdulhakim Elmoawe Dreheeb*, Nurlida Basir, Norasikin Fabil,Impact of System Quality on Users'' Satisfaction in
+Continuation of the Use of e-Learning System,International Journal of e-Education, e-Business, e-Management and e-
+Learning,6,1,13-20
+4. Abdulhakim Elmoawe Dreheeb*, Nurlida Basir, Norasikin Fabil,Comparative Study of Quality Models,International
+Journal of Computer Science and Electronics Engineering (IJCSEE),4,1,35-39
+5. Hasan Al-Banna Hashim, Madihah Mohd Saudi, Nurlida Basir,A Systematic Review Analysis of Root Exploitation for
+Mobile Botnet Detection,Advanced Computer and Communication Engineering Technology- Lecture Notes in
+Electrical Engineering,362,1,113-122
+2014
+1. Melad Mohamed Al-Daeef, Nurlida Basir and Madihah Mohd Saudi,AN ANTI-PHISHING TOOL TO VERIFY URLS IN
+EMAIL''S CONTENT,ARPN Journal of Engineering and Applied Sciences,9,9,6-6
+2. Bashir M. Mohamed Geblawi, Nurlida Basir and Rosalina Abdul Salam,TACIT REQUIREMENTS ELICITATION
+FRAMEWORK,ARPN Journal of Engineering and Applied Sciences,9,9,6-6
+3. Muhammad Zuhair Bin Abd Rahman, Madihah Binti Mohd Saudi, Nurlida Basir,A Comprehensive review of Mobile
+Botnet Detection Using Genetic Algorithm: A Systematic Review,ARPN Journal of Engineering and Applied
+Sciences,9,9,6-6
+4. N.F Nabila, Nurlida Basir, A.Mamat,SYNONYMOUS NON-TAXONOMIC RELATIONS EXTRACTION,ARPN Journal of
+Engineering and Applied Sciences,9,9,6-6
+2013
+1. Yulita Hanum, Nurlida Basir,The Development of Teaching and Learning in Bright-Field Microscopy.,Malaysian
+Online Journal of Educational Technology (MOJET),Volume 1,Issue 4,31-43
+2012
+1. nurlida binti basir,Security Measurement Based On GQM To Improve Application Security During Requirements
+Stage,INTERNATIONAL JOURNAL OF CYBER-SECURITY AND DIGITAL FORENSICS (IJCSDF) 1(3): 228-237 THE SOCIETY
+OF DIGITAL INFORMATION AND WIRELESS COMMUNICATIONS (SDIWC) NOV. 2012 (ISSN: 2305-0012),1(3),NOV
+2012,228-237
+PUBLICATION - PROCEEDING
+2019
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Unintentional Insider Threats
+Countermeasures Model (UITCM)
+International Conference on
+Cybersecurity (ICoCSec)
+USIM
+INTERNATIONA
+L
+2017
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Security Awareness Training: A Review
+The 2017 International
+Conference of Information
+Security and Internet Engineering
+International
+Association of
+Engineers
+INTERNATIONA
+L
+2
+A New Mobile Malware Classification for
+Call Log Exploitation
+The 2017 International
+Conference of Information
+Security and Internet Engineering
+International
+Association of
+Engineers
+INTERNATIONA
+L
+3
+Evaluation of Phishing Email
+Classification Features: Reliability Ratio
+Measure
+The 2017 International
+Conference of Computer Science
+and Engineering
+International
+Association of
+Engineers
+INTERNATIONA
+L
+4
+Improving Knowledge Extraction from
+Texts by Generating Possible Relations
+International Conference on
+Communications Systems and
+Technologies 2017
+International
+Association of
+Engineers
+INTERNATIONA
+L
+5
+Android Mobile Malware Classification
+using Tokenization Approach based on
+System Call Sequence
+International Conference on
+Communications Systems and
+Technologies 2017
+International
+Association of
+Engineers
+INTERNATIONA
+L
+6
+A New Mobile Malware Classification for
+Camera Exploitation based on System
+Call and Permission
+International Conference on
+Communications Systems and
+Technologies 2017
+International
+Association of
+Engineers
+INTERNATIONA
+L
+7
+Hybrid Model of Phishing Email
+Detection: A Combination of Technical
+and Non-Technical Anti-Phishing
+Approaches
+International Conference on
+Computer Science and
+Applications 2017
+International
+Association of
+Engineers
+INTERNATIONA
+L
+8
+An Investigation on Jawi CAPTCHA
+Based Security for Login Authentication
+and Authorization: Is It an Alternative
+Solution?
+International Conference on
+Internet and Multimedia
+Technologies 2017
+International
+Association of
+Engineers
+INTERNATIONA
+L
+2015
+No
+Title
+Conference Name
+Organizer
+Level
+1
+A Strategic Framework for Evaluating
+QinU Based on ISO/IEC 25010 and
+25012 Standards
+MySEC2015
+UPM
+INTERNATIONA
+L
+2
+Domain-Specific Inter-textual Non-
+Taxonomic Extraction (DSINTE)
+UKSim-AMSS 17th International
+Conference on Computer
+Modelling and Simulation
+IEEE Computer
+Society
+INTERNATIONA
+L
+3
+Using Probability Theory to Identify the
+Unsure Value of an Incomplete
+Sentence
+UKSim-AMSS 17th International
+Conference on Computer
+Modelling and Simulation
+IEEE Computer
+Society
+INTERNATIONA
+L
+4
+Android Mobile Malware Surveillance
+Exploitation Via Call Logs: Proof of
+Concept
+UKSim-AMSS 17th International
+Conference on Computer
+Modelling and Simulation
+IEEE Computer
+Society
+INTERNATIONA
+L
+5
+An Efficient Easy Computer Emergency
+Response Team Malware Reservoir
+System
+UKSim-AMSS 17th International
+Conference on Computer
+Modelling and Simulation
+IEEE Computer
+Society
+INTERNATIONA
+L
+6
+A review of Client-Side Toolbars as a
+User-Oriented Anti-Phishing Solution
+ICOCOE 2015: 2nd International
+Conference on Communication
+and Computer Engineering
+malaysian technical
+scientist association
+INTERNATIONA
+L
+7
+A systematic Review Analysis of Root
+Exploitation for Mobile Botnet Detection
+ICOCOE 2015: 2nd International
+Conference on Communication
+and Computer Engineering
+Malaysian Technical
+Scientist Association
+INTERNATIONA
+L
+8
+A New System Call Classification for
+Android Mobile Malware Surveillance
+Exploitation via SMS Message
+ICOCOE 2015: 2nd International
+Conference on Communication
+and Computer Engineering
+Malaysian Technical
+Scientist Association
+INTERNATIONA
+L
+9
+A comparative study between PMI Code
+of Ethics and Islamic Ethics
+Kosist''15 (POSTGRADUATE
+COLLOQUIUM FACULTY OF
+SCIENCE & TECHNOLOGY (FST)
+2015)
+FST dan AKEPT
+UNIVERSITY
+10
+A Review on Recent Advances on
+Quality-in-Use Web Evaluation Models
+Kosist''15 (POSTGRADUATE
+COLLOQUIUM FACULTY OF
+SCIENCE & TECHNOLOGY (FST)
+2015)
+FST dan AKEPT
+UNIVERSITY
+2014
+No
+Title
+Conference Name
+Organizer
+Level
+1
+A method to Measure the Efficiency of
+Phishing Emails Detection Features
+ICISA 2014 : 5th International
+Conference on Information
+Science and Applications
+iCatse.org
+INTERNATIONA
+L
+2
+Extending V-model practices to support
+SRE to build Secure Web Application
+International Conference on
+Advanced Computer Science and
+Information System (ICACSIS''14)
+Universitas Indonesia
+INTERNATIONA
+L
+3
+Tacit Requirements Elicitation
+Framework
+Postgraduate Colloquium 2014,
+FST
+FST, USIM
+UNIVERSITY
+4
+Cloud Computing Security Model for
+SME in Malaysia
+Postgraduate Colloquium 2014,
+FST
+FST, USIM
+UNIVERSITY
+5
+A Secure V-Model for Security
+Requirements Elicitation
+Postgraduate Colloquium 2014,
+FST
+FST, USIM
+UNIVERSITY
+6
+Reliable-Feature Selection Approach to
+Fight Phishing Attacks
+Postgraduate Colloquium 2014,
+FST
+FST, USIM
+UNIVERSITY
+7
+Systematic Analysis on Mobile Botnet
+Detection Technique Using Apoptosis
+Postgraduate Colloquium 2014,
+FST
+FST, USIM
+UNIVERSITY
+2013
+No
+Title
+Conference Name
+Organizer
+Level
+1
+A Simulated Annealing For Tamhidi
+Course Timetabling
+The 4th International Conference
+On Electrical Engineering And
+Informatics (ICEEI13)
+INTERNATIONA
+L
+2
+Appreciative Inquiry In Eliciting
+Software Requirements
+The International Scientific
+Academy Of Engineering And
+Technology Conference
+(ISAET13)
+INTERNATIONA
+L
+3
+Study Of The Accessibility Diagnosis On
+The Public Higher Institutions Websites
+In Malaysia
+International Conference On
+Computing And Informatics
+(ICOCI13)
+INTERNATIONA
+L
+4
+INTERACTIVE MULTIMEDIA FOR
+LABORATORY SESSION OF BRIGHT-
+FIELD MICROSCOPY TECHNIQUE
+2ND INTERNATIONAL
+CONFERENCE ADVANCES IN
+COMPUTER AND INFORMATION
+TECHNOLOGY (ACIT13)
+INTERNATIONA
+L
+5
+The Development of Semantic
+Feedback for Teaching and Learning in
+Physical Education
+The 13th International
+Conference on Advanced
+Learning Technologies
+(ICALT13)
+IEEE Computer
+Society
+INTERNATIONA
+L
+6
+A METHOD OF CLASSIFYING
+VOCABULARY AND TERMINOLOGY IN
+ARABIC FOR SPECIFIC PURPOSES(ASP) :
+A TOOL TO GENERATE ARABIS WORDS
+SEMINAR CREATIVITY AND
+INNOVATION (I-INNOVA)
+USIM
+NATIONAL
+2012
+No
+Title
+Conference Name
+Organizer
+Level
+1
+SECURITY METRICS TO IMPROVE
+MISUSE CASE MODEL
+INTERNATIONAL CONFERENCE
+ON CYBER SECURITY, CYBER
+WARFARE AND DIGITAL
+FORENSIC 2012 (CYBERSEC12)
+UPM
+INTERNATIONA
+L
+2
+Interactive Multimedia in Bright-Field
+Microscopy Technique
+International Conference on
+Sociality and Humanities - ICOSH
+2012
+IEDRC.org dan IJSSH
+INTERNATIONA
+L
+3
+FRAMEWORK FOR SECURE WEB
+APPLICATION DESIGN AND
+DEVELOPMENT
+3rd Exposition on Islamic
+Innovation 2012
+USIM
+NATIONAL
+2011
+No
+Title
+Conference Name
+Organizer
+Level
+1
+BUILDING HETEROGENEOUS SAFETY
+CASES FOR AUTOMATICALLY
+GENERATED CODE
+INFOTECH@AEROSPACE
+(INFOTECH''11)
+American Institute of
+Aeronautics and
+Astronautics
+INTERNATIONA
+L
+2010
+No
+Title
+Conference Name
+Organizer
+Level
+1
+DERIVING SAFETY CASES FOR
+HIERARCHICAL SYSTEMS IN MODEL-
+BASED DEVELOPMENT
+INTERNATIONAL CONFERENCE
+ON COMPUTER SAFETY,
+RELIABILITY AND SECURITY
+(SAFE- COMP''10)
+Austrian Computer
+Society (OCG)
+INTERNATIONA
+L
+2009
+No
+Title
+Conference Name
+Organizer
+Level
+1
+DERIVING SAFETY CASES FROM
+AUTOMATICALLY CONSTRUCTED
+PROOFS.
+THE 4TH IET INTERNATIONAL
+CONFERENCE ON SYSTEM SAFETY
+Institution of
+Engineering &
+Technology (IET)
+INTERNATIONA
+L
+2
+DERIVING SAFETY CASES FROM
+MACHINE-GENERATED PROOFS
+THE WORKSHOP ON PROOF-
+CARRYING CODE AND SOFTWARE
+CERTIFICATION (PCC'09)
+Affiliated with LICS'09
+INTERNATIONA
+L
+2008
+No
+Title
+Conference Name
+Organizer
+Level
+1
+CONSTRUCTING A SAFETY CASE FOR
+AUTOMATICALLY GENERATED CODE
+FROM FORMAL PROGRAM
+VERIFICATION INFORMATION
+THE 27TH INTERNATIONAL
+CONFERENCE ON COMPUTER
+SAFETY, RELIABILITY AND
+SECURITY (SAFECOMP'08)
+Newcastle University
+INTERNATIONA
+L
+2
+DERIVING SAFETY CASES FOR THE
+FORMAL SAFETY CERTIFICATION OF
+AUTOMATICALLY GENERATED CODE
+THE INTERNATIONAL WORKSHOP
+ON THE CERTIFICATION OF
+SAFETY-CRITICAL SOFTWARE
+CONTROLLED SYSTEMS
+(SAFECERT'08)
+A satellite event to
+ETAPS 2008
+INTERNATIONA
+L
+PUBLICATION - THESIS
+2022
+No
+Title
+Field
+Thesis Level
+Type
+1
+AIPAL: TRACKING AND SELF-CARE
+MANAGEMENT APPLICATION FOR ALZHEIMER
+OR DEMENTIA
+COMPUTER SCIENCE
+Bachelor
+Co-Author
+2
+E – ACADEMIC ASSISTANT APPLICATION
+(E-3A)
+COMPUTER SCIENCE
+Bachelor
+Co-Author
+2007
+No
+Title
+Field
+Thesis Level
+Type
+1
+SAFETY CASES FOR THE FORMAL
+VERIFICATION OF AUTOMATICALLY
+GENERATED CODE
+Computer Science
+Doctor of philosophy
+Main Author
+ACADEMIC RECOGNITION
+INTERNAL / EXTERNAL EXAMINER
+No
+Level (Master
+/ PHD)
+Type of Examiner
+Title
+Level
+Viva
+Date
+1
+Research (Mixed
+Mode)
+Evaluation of the Factors Influencing the
+Adoption of Online Pharmacy in Saudi Arabia:
+The Moderating Role of Word-of-Mouth
+NATIONAL
+17/08/20
+21
+2
+Course Work Mode
+RANGKA KERJA PELAKSANAAN PENGURUSAN
+KESELAMATAN MAKLUMAT DI UNIVERSITI
+AWAM
+NATIONAL
+17/09/20
+21
+3
+PHD
+Research (Only)
+Secure Web Application Development
+Framework
+UNIVERSITY
+31/01/20
+14
+REVIEWER
+No
+Article Title
+Journal Name
+Type of Reviewer
+Impact
+Factor
+Level
+Year
+1
+A Risk Model of
+Requirements
+Change Impact
+Analysis
+Journal of Software
+Journal Article
+Reviewer
+INTERNATIONA
+L
+2013
+2
+Experience in
+Software
+Development Project
+Course
+International Conference on
+Electrical Engineering and
+Informatics 2013 (ICEEI
+2013)
+Conference Paper
+Reviewer
+INTERNATIONA
+L
+2013
+3
+A SDLC Developed
+Software Testing
+Process Using DMAIC
+Model
+ARPN Journal of
+Engineering and Applied
+Sciences
+Journal Article
+Reviewer
+0.401
+INTERNATIONA
+L
+2014
+4
+Semantics Question
+Analysis Model for
+Question Answering
+ARPN Journal of
+Engineering and Applied
+Sciences
+Journal Article
+Reviewer
+0.401
+INTERNATIONA
+L
+2014
+System
+5
+Towards Good
+Monitoring
+ITGovernance in
+Public Sector
+Organizations
+ARPN Journal of
+Engineering and Applied
+Sciences
+Journal Article
+Reviewer
+0.401
+INTERNATIONA
+L
+2014
+6
+A Conceptual Model
+to Manage Lexical
+Ambiguity in Malay
+Textual
+Requirements
+ARPN Journal of
+Engineering and Applied
+Sciences
+Journal Article
+Reviewer
+0.401
+INTERNATIONA
+L
+2014
+7
+Incorporating
+Author''''s Activeness
+in Online Discussion
+in Thread Retrieval
+Model
+ARPN Journal of
+Engineering and Applied
+Sciences
+Journal Article
+Reviewer
+0.401
+INTERNATIONA
+L
+2014
+8
+Team Formation
+Model of Selecting
+Team Leader:An
+Analytic Hierarchy
+Process (AHP)
+Approach
+ARPN Journal of
+Engineering and Applied
+Sciences
+Journal Article
+Reviewer
+0.401
+INTERNATIONA
+L
+2014
+9
+Knowledge Transfer
+in Problem Based
+Learning Teaching
+Method in Software
+Engineering
+Education: A
+Measurement Model
+ARPN Journal of
+Engineering and Applied
+Sciences
+Journal Article
+Reviewer
+0.401
+INTERNATIONA
+L
+2014
+10
+COMPUTER SCIENCE
+AND SECURITY
+KOSIST 2017
+Conference Paper
+Reviewer
+NONE
+UNIVERSITY
+2017
+11
+International
+Conference on
+Information Systems
+& Security 2017
+JTEC
+Conference Paper
+Reviewer
+Q4
+SCOPUS
+INTERNATIONA
+L
+2017
+12
+ICT AND SCIENCE
+COMPUTER
+4th International Systems
+International Conference
+2017 (ISICO 2017)
+Conference Paper
+Reviewer
+0.27
+INTERNATIONA
+L
+2017
+13
+Examining the
+Extension of
+Technology
+Acceptance Model
+(TAM) in Electronic
+Medical Record
+among Community
+Pharmacists in
+Malaysia
+MALAYSIAN JOURNAL OF
+PUBLIC HEALTH MEDICINE
+(MJPHM)
+Journal Article
+Reviewer
+0.16
+INTERNATIONA
+L
+2022
+INVITED / KEYNOTED SPEAKER
+No
+Title
+Conference Name
+Level
+Date
+1
+RETRIEVAL PERFORMANCE FOR USIM'S
+QURANIC SEARCH ENGINE
+INTERNATIONAL CONFERENCE IN
+RECENT ADVANCEMENT IN
+SCIENCE AND TECHNOLOGY
+(ICORAST'17)
+07/11/2017 -
+08/11/2017
+ACADEMIC RECOGNITION (OTHERS)
+No
+Organization
+Award / Reward
+Category of
+Position
+Level
+Date
+1
+KOLEJ POLY-TECH MARA
+PANEL PEMERIKSA LUAR
+Academic
+Advisor
+NATIONAL
+01/07/2023 -
+30/06/2026
+2
+NILAI UNIVERSITY
+ACADEMIC ADVISOR
+Academic
+Advisor
+NATIONAL
+01/08/2023 -
+31/08/2025
+CONTRIBUTION - USIM
+2023
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JAWATANKUASA PEMANDU ICT (JPICT)
+AJK
+UNIVERSITY
+01/01/2023 -
+31/12/2024
+2
+JAWATANKUASA TEKNIKAL ICT (JKICT)
+AJK
+UNIVERSITY
+01/01/2023 -
+31/12/2024
+3
+JAWATANKUASA PENYELARASAN PROJEK ICT
+(JPPICT)
+AJK
+UNIVERSITY
+01/01/2023 -
+31/12/2024
+4
+JAWATANKUASA INOVASI DAN
+PENGKOMERSIALAN (JKIP)
+AJK
+UNIVERSITY
+01/01/2023 -
+31/12/2024
+5
+JAWATANKUASA PENGANUGERAHAN DANA
+PENYELIDIKAN (JKPGP)
+AJK
+UNIVERSITY
+01/01/2023 -
+31/12/2024
+6
+JAWATANKUASA PENGURUSAN LAMAN WEB
+DAN MEDIA SOSIAL USIM
+AJK
+UNIVERSITY
+01/01/2023 -
+31/12/2024
+7
+JAWATANKUASA PENGURUSAN LAMAN WEB
+DAN MEDIA SOSIAL USIM
+AJK
+UNIVERSITY
+01/01/2023 -
+31/12/2024
+8
+JAWATANKUASA PENYELIDIKAN DAN INOVASI
+UNIVERSITI (JKPIU)
+AJK
+UNIVERSITY
+01/01/2023 -
+31/12/2024
+9
+PASUKAN PROJEK KLUSTER SISTEM
+MAKLUMAT UNIVERSITI (SMU)
+MEMBERS
+UNIVERSITY
+01/01/2023 -
+31/12/2024
+10
+JAWATANKUASA PENGURUSAN KLUSTER
+PENYELIDIKAN DAN INOVASI (JPKPI)
+AJK
+UNIVERSITY
+01/01/2023 -
+31/12/2024
+11
+MAJLIS PENTAULIAHAN PEGAWAI BOMBA
+BANTUAN SISWA USIM
+HEAD OF AJK
+UNIVERSITY
+01/03/2023 -
+03/07/2023
+12
+Cybersecurity and Systems (CSS) Research
+Unit
+MEMBERS
+UNIVERSITY
+01/03/2023 -
+31/12/2023
+13
+PENYEDIA DATA LAPORAN TAHUNAN DAN
+PENYATA KEWANGAN (LTPK)
+MEMBERS
+UNIVERSITY
+01/11/2023 -
+01/12/2023
+14
+JAWATANKUASA PEMBANGUNAN SUMBER
+MANUSIA (JPSM)
+AJK
+UNIVERSITY
+10/05/2023 -
+03/07/2023
+15
+KURSUS ASAS PEMBELAJARAN DAN
+PENGAJARAN BERASASKAN INAQ
+PENCERAMAH
+UNIVERSITY
+12/09/2023 -
+12/09/2023
+16
+KURSUS INDUKSI PENYELIDIKAN DAN INOVASI
+2023
+PENCERAMAH
+UNIVERSITY
+17/10/2023 -
+17/10/2023
+2022
+No
+Name Of Activity
+Position
+Level
+Date
+1
+AHLI JAWATAN KUASA TEKNIKAL ICT
+AJK
+UNIVERSITY
+01/01/2022 -
+31/12/2023
+2
+Ahli Jawatankuasa Kajian Pelaksanaan 4
+Laluan Kerjaya Staf Akademik Berpandukan
+Orange Book Di USIM
+AJK
+UNIVERSITY
+01/01/2022 -
+31/12/2023
+3
+Jawatankuasa Teknikal ICT (JTICT) USIM
+COMMITEE MEMBERS
+UNIVERSITY
+01/02/2022 -
+31/12/2023
+4
+Jawatankuasa Penganugerahan Dana
+Penyelidikan USIM
+COMMITEE MEMBERS
+UNIVERSITY
+01/07/2022 -
+31/12/2022
+5
+JAWATANKUASA KHAS ANALISA DATA
+KEMASUKAN PELAJAR DAN PERSEPSI PELAJAR
+KEPADA USIM
+AJK
+UNIVERSITY
+04/01/2022 -
+19/01/2022
+6
+Penceramah Bagi Sesi Webinar Alternative
+Assessment in Higher Education: A Practical
+Guide to Assessing Learning
+Penceramah
+NATIONAL
+13/09/2022 -
+13/09/2022
+7
+Jawatankuasa Kerja Podcast USIM
+COMMITEE MEMBERS
+UNIVERSITY
+14/03/2022 -
+31/12/2022
+8
+Ahli Jawatankuasa Taskforce Perkembangan
+Program Sarjana MOD Campuran FST
+AJK
+UNIVERSITY
+14/04/2022 -
+24/08/2022
+9
+Ahli Majlis Sukan Kakitangan USIM 2022-2025
+MEMBERS
+UNIVERSITY
+14/07/2022 -
+31/12/2025
+10
+JAWATANKUASA INDUK ANUGERAH
+PENYELIDIKAN DAN INOVASI
+AJK
+UNIVERSITY
+15/04/2022 -
+14/04/2024
+11
+Jawatankuasa Induk Anugerah Penyelidikan &
+Inovasi USIM
+COMMITEE MEMBERS
+UNIVERSITY
+15/04/2022 -
+14/04/2024
+12
+Ahli Jawatankuasa Induk Karnival PPPI i-
+Reach 2022
+AJK
+UNIVERSITY
+15/07/2022 -
+09/09/2022
+13
+TASK FORCE DALAMAN PENGIKTIRAFAN
+QSWUR USIM
+AJK
+UNIVERSITY
+15/10/2022 -
+31/12/2023
+14
+Ahli Pasukan Petugas (Task Force) Dalaman
+Bagi Pengiktirafan World University Ranking
+(QSWUR) USIM
+MEMBERS
+UNIVERSITY
+15/10/2022 -
+31/12/2023
+15
+Panel Penilai Bagi Anugerah Khas Kluster
+Timbalan Naib Canselor (Akademik &
+Antarabangsa) Tahun 2021
+PANEL PENILAI
+UNIVERSITY
+16/06/2022 -
+31/12/2022
+16
+Penceramah Bagi Kursus Asas Pembelajaran
+dan Pengajaran (Berteraskan Ilmu Naqli dan
+Aqli Tahun 2022
+Penceramah
+UNIVERSITY
+17/11/2022 -
+17/01/2023
+17
+Jawatankuasa Penerbitan USIM
+COMMITEE MEMBERS
+UNIVERSITY
+21/02/2022 -
+31/12/2022
+18
+Jawatankuasa Perpustakaan (MJKP) USIM
+COMMITEE MEMBERS
+UNIVERSITY
+21/02/2022 -
+31/12/2022
+19
+Jawatankuasa Pemandu ICT USIM (JPICT)
+COMMITEE MEMBERS
+UNIVERSITY
+21/02/2022 -
+31/12/2022
+20
+Jawatankuasa Kursus dan Latihan (JKKL) USIM
+COMMITEE MEMBERS
+UNIVERSITY
+21/02/2022 -
+31/12/2022
+21
+Jawatankuasa Kerja Penyelidikan & Inovasi
+Universiti (JKKPIU)
+AJK
+UNIVERSITY
+21/02/2022 -
+31/12/2022
+22
+Jawatankuasa Mesyuarat Ketua-Ketua Editor
+Jurnal USIM
+COMMITEE MEMBERS
+UNIVERSITY
+21/02/2022 -
+31/12/2022
+23
+Jawatankuasa Penyelidikan & Inovasi
+Universiti (JKPIU)
+COMMITEE MEMBERS
+UNIVERSITY
+21/02/2022 -
+31/12/2022
+24
+Jawatankuasa Inovasi & Pengkomersialan
+(JKIP) Peringkat USIM
+VICE CHAIRMAN
+UNIVERSITY
+21/02/2022 -
+31/12/2022
+25
+Jawatankuasa Pengurusan Penyelidikan &
+Inovasi (JKPPI) Tahun 2022
+COMMITEE MEMBERS
+UNIVERSITY
+21/02/2022 -
+31/12/2022
+26
+Jawatankuasa Pemandu Kualiti, Risiko,
+Syariah dan Inovasi Pengurusan Geran
+Penyelidikan USIM
+COMMITEE MEMBERS
+UNIVERSITY
+21/02/2022 -
+31/12/2022
+27
+Ahli Senat Universiti Sains Islam Malaysia
+COMMITEE MEMBERS
+UNIVERSITY
+21/02/2022 -
+31/12/2023
+28
+Jawatankuasa Pembangunan Dasar
+Pengurusan Data Penyelidikan/Research Data
+management (RDM) USIM
+AJK
+UNIVERSITY
+22/02/2022 -
+31/12/2022
+29
+Jawatankuasa Panel Carian (JPC) Untuk
+Proses Pelantikan Jawatan Khas Pentadbiran
+(JKP) Tahun 2023/2024
+AJK
+UNIVERSITY
+22/08/2022 -
+31/12/2022
+30
+Jawatankuasa Perundingan USIM
+COMMITEE MEMBERS
+UNIVERSITY
+24/03/2022 -
+31/12/2022
+2021
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Jabatan Bomba dan Penyelamat Malaysia
+Penguasa Kanan
+Bomba l (Kehormat)
+UNIVERSITY
+01/01/2021 -
+30/11/2030
+2
+JAWATANKUASA PROJEK SISTEM KEWANGAN
+UNIVERSITI (FAMES)
+AJK
+UNIVERSITY
+01/01/2021 -
+31/12/2022
+3
+AHLI JAWATANKUASA KURIKULUM USIM
+AJK
+UNIVERSITY
+01/12/2021 -
+30/11/2022
+4
+PROGRAM “KNOWLEDGE SHARING” CIO:
+PENGIRAAN SAIZ SISTEM APLIKASI
+PENCERAMAH
+UNIVERSITY
+04/02/2021 -
+11/02/2021
+5
+PENCERAMAH SESI PERKONGSIAN ILMU
+ANJURAN KOR SISWA BOMBA USIM
+PENCERAMAH
+UNIVERSITY
+08/02/2021 -
+10/02/2021
+6
+JAWATANKUASA KAJIAN PELAKSANAAN
+EMPAT (4) LALUAN KERJAYA STAF AKADEMIK
+BERPANDUKAN ORANGE BOOK DI UNIVERSITI
+SAINS ISLAM MALAYSIA
+AJK
+UNIVERSITY
+10/01/2021 -
+31/12/2022
+7
+JAWATANKUASA DATA RAYA USIM BAGI
+MEWAKILI FAKULTI
+AJK
+UNIVERSITY
+10/09/2021 -
+09/09/2023
+8
+AHLI MESYUARAT JAWATANKUASA PENILAI
+PEPERIKSAAN LISAN PASCA SISWAZAH
+FAKULTI SAINS DAN TEKNOLOGI (JPPLS)
+AJK
+FACULTY
+13/09/2021 -
+31/12/2021
+9
+PENILAI LAPORAN AKHIR GERAN
+PENYELIDIKAN
+PENILAI GERAN
+UNIVERSITY
+17/05/2021 -
+27/05/2021
+10
+Sesi Perkongsian Ilmu Pembangunan Kamus
+Data Universiti bersama UiTM
+AJK
+UNIVERSITY
+17/11/2021 -
+17/11/2021
+11
+AHLI JAWATANKUASA SEKRETARIAT
+ACADEMY OF SCIENCES MALAYSIA (IT AND
+COMPUTER SCIENCE DISCIPLINE)
+AJK
+UNIVERSITY
+30/12/2021 -
+30/12/2023
+2020
+No
+Name Of Activity
+Position
+Level
+Date
+1
+AUDIT KENDIRI DARUL QURAN
+AUDITOR
+UNIVERSITY
+05/03/2020 -
+06/03/2020
+2
+PENCERAMAH PROGRAM TRANSFORMASI
+MINDA BIL. 1/2020
+PENCERAMAH
+UNIVERSITY
+13/07/2020 -
+21/07/2020
+3
+AHLI JAWATANKUASA PEMBANGUNAN
+SUMBER MANUSIA (JPSM) KLUSTER 1
+AJK
+UNIVERSITY
+15/06/2020 -
+30/06/2020
+4
+TERAS STRATEGIK MISI USIM 2022: SASARAN
+TAHUNAN 2020 USIM
+AJK
+UNIVERSITY
+15/07/2020 -
+31/03/2021
+5
+JK PANEL CARIAN (JPC) UNTUK PROSES
+PELANTIKAN JAWATAN KHAS PENTADBIRAN
+(JKP)TAHUN 21/22
+AJK
+UNIVERSITY
+17/07/2020 -
+30/09/2020
+6
+MAJLIS SYURA MISI USIM 2022: SASARAN
+TAHUNAN 2020
+AJK
+UNIVERSITY
+27/07/2020 -
+31/12/2022
+7
+PETUGAS BILIK GERAKAN AGENSI UNIVERSITI
+SAINS ISLAM MALAYSIA (USIM)
+PETUGAS BILIK
+GERAKAN
+UNIVERSITY
+28/03/2020 -
+30/09/2020
+2019
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JAWATANKUASA TEKNIKAL ICT
+MEMBERS
+UNIVERSITY
+01/01/2019 -
+31/07/2019
+2
+AHLI JPPA
+AJK
+UNIVERSITY
+01/03/2019 -
+31/12/2020
+3
+AHLI SENAT
+AJK
+UNIVERSITY
+01/03/2019 -
+31/12/2020
+4
+AHLI JKPSU
+AJK
+UNIVERSITY
+01/03/2019 -
+31/12/2020
+5
+JK LAMAN WEB DAN MEDIA SOSIAL
+AJK
+UNIVERSITY
+07/10/2019 -
+31/12/2020
+6
+PENGESAHAN DALAM PERKHIDMATAN
+KUMPULAN AKADEMIK DAN PENGURUSAN
+TERTINGGI
+AJK
+UNIVERSITY
+08/08/2019 -
+31/12/2020
+7
+AKRI 2019
+PENGERUSI -
+CHAIRMAN
+NATIONAL
+17/05/2019 -
+31/12/2019
+2017
+No
+Name Of Activity
+Position
+Level
+Date
+1
+AJK PEMURNIAN PROSES DAN KRITERIA
+KENAIKAN PANGKAT STAF AKADEMIK USIM
+AJK
+UNIVERSITY
+02/06/2017 -
+30/06/2018
+2
+SISWA BOMBA BANTUAN (SBB)
+TIMBALAN
+KOMANDAN
+UNIVERSITY
+09/05/2017 -
+31/12/2018
+3
+SUKAN STAF ANTARA JABATAN USIM
+KETUA KONTIGEN
+UNIVERSITY
+14/04/2017 -
+24/05/2017
+4
+SAMBUTAN 15 TAHUN FST
+HEAD OF AJK
+FACULTY
+20/11/2017 -
+22/11/2018
+5
+PENGURUS PASUKAN OLAHRAGA KONTIGEN
+USIM
+PENGURUS
+UNIVERSITY
+29/07/2017 -
+07/08/2017
+2016
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Technical Programme Chair
+PENGERUSI -
+CHAIRMAN
+UNIVERSITY
+05/12/2016 -
+07/12/2016
+2
+AJK Audit MPP 2016
+SECRETARY
+UNIVERSITY
+07/09/2016 -
+07/09/2016
+3
+Ketua AJK
+BURSAR
+FACULTY
+07/11/2016 -
+09/11/2016
+4
+Ketua Juri i-Reka 2016
+BURSAR
+UNIVERSITY
+19/05/2016 -
+19/05/2016
+2014
+No
+Name Of Activity
+Position
+Level
+Date
+1
+BENGKEL KIMIA ORGANIK PUSAT TAMHIDI
+PENASIHAT
+FACULTY
+03/01/2014 -
+03/01/2014
+2
+AHLI JAWATANKUASA PEPERIKSAAN LISAN
+UNTUK DOKTOR FALSAFAH FST
+SECRETARY
+FACULTY
+22/01/2014 -
+22/01/2014
+3
+PESTA SUKAN RAKYAT PUSAT TAMHIDI
+PENASIHAT
+FACULTY
+23/01/2014 -
+23/01/2014
+4
+MAJLIS SAMBUTAN 10 TAHUN PUSAT TAMHIDI
+PENASIHAT
+FACULTY
+27/01/2014 -
+27/01/2014
+5
+MAJLIS DIALOG BERSAMA PEGUAM PROGRAM
+TAMHIDI SYARIAH DAN UNDANG-UNDANG
+PUSAT TAMHDI
+PENAUNG
+FACULTY
+28/02/2014 -
+28/02/2014
+2013
+No
+Name Of Activity
+Position
+Level
+Date
+1
+AJK Penjurian i-Inova
+SECRETARY
+UNIVERSITY
+01/01/2013 -
+27/10/2013
+2
+Majlis Sambutan 10 Tahun FST
+PENGERUSI -
+CHAIRMAN
+UNIVERSITY
+01/08/2013 -
+31/12/2014
+3
+BENGKEL CEMERLANG AKADEMIK
+CEMERLANG AKHLAK
+PENASIHAT
+FACULTY
+06/12/2013 -
+06/12/2013
+4
+PROGRAM IJAZAH SARJANA MUDA
+REKABENTUK KREATIF FESYEN & TEKSTIL
+PROGRAM IJAZAH SARJANA MUDA SENI
+ANIMASI DENGAN KEPUJIAN
+SECRETARY
+UNIVERSITY
+09/04/2013 -
+30/06/2013
+5
+E-PEMBELAJARAN USIM
+SECRETARY
+UNIVERSITY
+11/03/2013 -
+10/03/2015
+6
+JAWATANKUASA SEBUTHARGA FAKULTI SAINS
+& TEKNOLOGI USIM
+SECRETARY
+UNIVERSITY
+12/06/2013 -
+12/05/2015
+7
+PROGRAM JALINAN SKK-IPTA KEMENTERIAN
+PENDIDIKAN MALAYSIA
+PENYELARAS
+PROGRAM
+UNIVERSITY
+13/09/2013 -
+13/09/2014
+8
+PEMBENTANGAN PROPOSAL (KESELAMATAN
+DAN SAINS MAKLUMAT) SECARA MOD
+CAMPURAN BAGI PELAJAR PASCASISWAZAH
+FST
+PANEL PENILAI
+UNIVERSITY
+17/06/2013 -
+17/06/2013
+2012
+No
+Name Of Activity
+Position
+Level
+Date
+1
+KETUA SPECIAL INTEREST GROUP (SIG)
+BURSAR
+UNIVERSITY
+01/04/2012 -
+31/03/2014
+2
+PENILAIAN PEMBENTANGAN PROPOSAL
+PELAJAR PASCASISWAZAH FST
+PANEL PENILAI
+FACULTY
+04/06/2012 -
+04/06/2012
+3
+JAWATANKUASA PEMBANGUNAN MODAL
+INSAN PERINGKAT PTJ
+PENGERUSI -
+CHAIRMAN
+UNIVERSITY
+10/05/2012 -
+26/05/2012
+4
+EKSPO INOVASI ISLAM
+KETUA
+JAWATANKUASA
+PELAKSANA
+UNIVERSITY
+20/10/2012 -
+21/10/2012
+5
+AHLI JAWATANKUASA KARNIVAL SAINS DAN
+INOVASI ZON TENGAH
+SECRETARY
+UNIVERSITY
+20/10/2012 -
+21/10/2012
+6
+AHLI JAWATANKUASA INDUK PROGRAM
+MUZAKARAH BERKELOMPOK (LIQA'')
+SECRETARY
+UNIVERSITY
+26/04/2012 -
+31/12/2012
+7
+AHLI JAWATANKUASA LAMAN WEB RASMI
+USIM
+SECRETARY
+UNIVERSITY
+28/02/2012 -
+31/12/2012
+2011
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JAWATANKUASA MINGGU TAARUF PUSAT
+TAMHIDI USIM
+SECRETARY
+UNIVERSITY
+01/05/2011 -
+05/06/2015
+2
+MODUL RESEARCH METHODOLOGY BAGI
+PROGRAM KERJASAMA USIM DAN AEU
+MALAYSIAN EDUCATION ONLINE (MEDO)
+PENULIS MODUL
+UNIVERSITY
+01/05/2011 -
+30/06/2011
+3
+AHLI MESYUARAT SENAT USIM
+SECRETARY
+UNIVERSITY
+01/08/2011 -
+31/07/2014
+4
+JAWATANKUASA E-PEMBELAJARAN USIM
+SECRETARY
+UNIVERSITY
+01/10/2011 -
+10/03/2013
+5
+KETUA DELEGASI DAN PETUGAS USIM
+SEMPENA PELUANG PENGAJIAN LEPASAN
+SEKOLAH ALIRAN AGAMA ZON TERENGGANU
+BURSAR
+UNIVERSITY
+03/07/2011 -
+03/07/2011
+6
+JAWATANKUASA PELAKSANA HARI TERBUKA
+USIM 2011 (KARNIVAL EKPLORASI ''''''''SIMPLY
+INSPIRING'''''''')javascript:void(0)
+PENGERUSI -
+CHAIRMAN
+UNIVERSITY
+04/03/2011 -
+06/03/2011
+7
+JAWATANKUASA PENILAI KEMAHIRAN
+INSANIAH PELAJAR TAHUN AKHIR USIM
+SECRETARY
+UNIVERSITY
+04/08/2011 -
+04/08/2011
+8
+JAWATANKUASA PELAKSANA SEMPENA
+PROGRAM MUZAKARAH BERKELOMPOK
+(LIQA'')
+SECRETARY
+UNIVERSITY
+05/10/2011 -
+05/10/2011
+9
+JAWATANKUASA PENILAI PRESTASI PELAJAR
+TAHUN AKHIR USIM
+SECRETARY
+UNIVERSITY
+11/03/2011 -
+11/03/2011
+10
+PANEL PENILAIAN UJIAN KELAYAKAN
+(QUALIFYING TEST) PELAJAR
+PASCASISWAZAH FST
+PANEL PENILAI
+FACULTY
+11/03/2011 -
+23/03/2011
+11
+JAWATANKUASA KECIL PELAKSANA EKSPO
+INOVASI ISLAM (I-INOVA ''11)
+BURSAR
+UNIVERSITY
+14/10/2011 -
+16/10/2011
+12
+PANEL PENILAI PEMBENTANGAN PROPOSAL
+(PROPOSAL DEFENCE) PELAJAR
+PANEL PENILAI
+FACULTY
+14/11/2011 -
+14/11/2011
+PASCASISWAZAH FST
+13
+AHLI KUMPULAN KOMPONEN DALAM AUDIT
+RINTIS BAGI MENGUJI INSTRUMEN UGGI DAN
+CUGG OLEH JPT
+SECRETARY
+UNIVERSITY
+18/02/2011 -
+28/02/2011
+14
+JAWATANKUASA PENYIASAT KEHILANGAN
+KOMPUTER RIBA
+SECRETARY
+UNIVERSITY
+20/12/2011 -
+20/12/2011
+15
+JAWATANKUASA PEMINDAHAN &
+PENGECUALIAN KREDIT/KURSUS BAGI
+KEMASUKAN LEPASAN DIPLOMA/SETARAF
+SECRETARY
+UNIVERSITY
+21/02/2011 -
+21/02/2011
+16
+JAWATANKUASA TATATERTIB UNIVERSITI
+BAGI KES TATATERTIB (TATAKELAKUAN)
+SECRETARY
+UNIVERSITY
+22/12/2011 -
+31/12/2014
+17
+PENILAI PEMBENTANGAN LATIHAN INDUSTRI
+BAGI PELAJAR FST
+PENILAI
+FACULTY
+27/05/2011 -
+27/05/2011
+18
+JAWATANKUASA INDUK PROGRAM HIMPUNAN
+PEMIMPIN MUDA
+VICE PRESIDENT
+UNIVERSITY
+27/05/2011 -
+29/05/2011
+CONTRIBUTION - MEMBERS OF COMMUNITY COMMITTEE / ORGANISATION
+2023
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JAWATANKUASA KARNIVAL MINGGU SAINS
+NEGARA (MSN) PERINGKAT NEGERI SEMBILAN
+NATIONAL
+01/03/2023 -
+31/05/2023
+2
+TASKFORCE BAGI PELAKSANAAN PROGRAM
+MATCHING GRANT PROGRAM PENYELIDIKAN
+UNIVERSITI AWAM MALAYSIA
+NATIONAL
+31/01/2023 -
+31/12/2023
+3
+PANEL PENAZIR LAPORAN PEMANTAUAN
+DANA PENYELIDIKAN KEMENTERIAN
+PENGAJIAN TINGGI (DP KPT)
+PENAZIR
+NATIONAL
+31/05/2023 -
+30/06/2023
+2022
+No
+Name Of Activity
+Position
+Level
+Date
+1
+FASILITATOR PENILAIAN PENARAFAN SETARA
+2022 DAN PENUKARAN FASILITATOR BAGI
+ZON TIMUR
+FASILITATOR
+OTHERS
+03/08/2022 -
+04/08/2022
+2
+AHLI JAWATANKUASA PENAZIRAN LAPORAN
+PEMANTAUAN DANA KEMENTERIAN
+PENDIDIKAN TINGGI TAHUN 2022
+OTHERS
+10/06/2022 -
+31/12/2022
+3
+FASILITATOR PENILAIAN PENARAFAN SETARA
+2022
+FASILITATOR
+OTHERS
+15/08/2022 -
+19/08/2022
+4
+PANEL PEMBENTANG BAGI BENGKEL
+PENGURUSAN PENYELIDKAN MAJLIS AGAMA
+ISLAM NEGERI SEMBILAN
+PANEL PEMBENTANG
+OTHERS
+17/05/2022 -
+19/05/2022
+5
+AHLI MESYUARAT JAWATANKUASA TIMBALAN
+NAIB CANSELOR (PEYELIDIKAN & INOVASI)
+UNIVERSITI AWAM MALAYSIA
+UNIVERSITY
+21/02/2022 -
+31/12/2022
+2020
+No
+Name Of Activity
+Position
+Level
+Date
+1
+AHLI JAWATANKUASA STRATEGIK
+PEMBANGUNAN PROGRAM AKADEMIK
+UNIVERSITI AWAM (JKSPPA)
+NATIONAL
+01/01/2020 -
+31/12/2020
+2
+AHLI PENYELIDIK BAGI KAJIAN PELAKSANAAN
+TEMPOH PENGAJIAN 3 TAHUN BAGI PROGRAM
+SARJANA MUDA BIDANG SAINS SOSIAL
+NATIONAL
+16/11/2020 -
+15/03/2021
+2011
+No
+Name Of Activity
+Position
+Level
+Date
+1
+SEKOLAH KLUSTER KECEMERLANGAN SKK-
+IPTA ZON TENGAH
+PEGAWAI
+PENYELARAS
+UNIVERSITY
+01/01/2011 -
+31/12/2014
+2
+PERSATUAN KAKITANGAN AKADEMIK USIM
+MEMBER
+UNIVERSITY
+07/07/2011 -
+31/12/2025
+CONTRIBUTION - COMMUNITY ENGAGEMENT
+2021
+No
+Organization
+Position
+Level
+1
+PROGRAM PEMBANGUNAN EKSEKUTIF KETUA BALAI BOMBA
+MALAYSIA 2021
+PENCERAMAH DAN
+FASILITATOR
+National
+2018
+No
+Organization
+Position
+Level
+1
+JBPM
+PENGUASA KANAN BOMBA I
+(KEHORMAT)
+National
+CONSULTATION
+No
+Title
+Level
+Date
+1
+PERKHIDMATAN PERUNDINGAN KURSUS AGILE SCRUM
+NATIONAL
+03/10/2017 -
+05/10/2017
+2
+PENGGUBAL SOALAN PEPERIKSAAN SIJIL TINGGI
+PERSEKOLAHAN MALAYSIA (STPM)
+NATIONAL
+15/11/2019 -
+15/11/2019
+3
+DASAR PEMBANGUNAN SISTEM APLIKASI PTM
+UNIVERSITY
+24/06/2013 -
+31/12/2013
+ADMINISTRATION TASK
+No
+Position
+Level
+Date
+1
+DIRECTOR OF TAMHIDI CENTRE
+UNIVERSITY
+01/01/2011 -
+31/12/2012
+2
+PENYUNTING MANUSKRIP KESELAMATAN SIBER: 101
+PENGANALISAAN ANCAMAN SIBER
+FACULTY
+26/01/2015 -
+09/02/2015
+3
+REVIEWER KOSIST''15
+FACULTY
+01/01/2015 -
+13/10/2015
+4
+AJK AUDIT MPP 2016
+UNIVERSITY
+07/09/2016 -
+07/09/2016
+5
+KETUA JURI I-REKA 2016
+UNIVERSITY
+19/05/2016 -
+19/05/2016
+6
+REVIEWER KOSIST 2016
+FACULTY
+07/11/2016 -
+07/11/2016
+7
+Ketua Kontigen Gugusan A Sukan Staf Antara Jabatan
+2016
+UNIVERSITY
+15/02/2016 -
+02/03/2016
+8
+KETUA MAJLIS PERASMIAN I-INOVA 2016
+FACULTY
+07/11/2016 -
+09/11/2016
+9
+Technical Program Chair WICOIS 2016
+UNIVERSITY
+05/12/2016 -
+07/12/2016
+10
+AJK Teknikal ICT
+UNIVERSITY
+01/05/2017 -
+30/04/2019
+11
+AJK PEMURNIAAN PROSES DAN KRITERIA KENAIKAN
+PANGKAT STAF AKADEMIK
+UNIVERSITY
+02/06/2017 -
+30/06/2018
+12
+JURI PERTANDINGAN PENGATURCARAAN ATURKREATIF
+2017
+FACULTY
+29/04/2017 -
+29/04/2017
+13
+KETUA KONTIGEN GUGUSAN A SUKAN STAF USIM
+UNIVERSITY
+14/04/2017 -
+24/05/2017
+14
+MENTOR PROGRAM MENGGAPAI BINTANG 2017
+FACULTY
+08/05/2017 -
+31/12/2017
+15
+PENGURUS PASUKAN OLAHRAGA KONTIGEN USIM
+UNIVERSITY
+29/07/2017 -
+07/08/2017
+16
+TIMBALAN KOMANDAN BADAN BERUNIFORM USIM (SBB)
+UNIVERSITY
+09/05/2017 -
+31/12/2021
+17
+KETUA AJK SAMBUTAN 15 TAHUN FST
+FACULTY
+20/11/2017 -
+12/11/2018
+18
+AJK JKSSLAK
+UNIVERSITY
+01/10/2018 -
+31/12/2019
+19
+AJK USIM FORESIGHT - TALENT GAIN
+UNIVERSITY
+01/01/2018 -
+31/12/2019
+20
+Penyelaras e-Learning CIO
+UNIVERSITY
+01/10/2018 -
+31/12/2018
+21
+Director of Tamhidi Centre
+UNIVERSITY
+01/01/2013 -
+31/12/2014
+22
+AHLI PENYELIDIK BAGI KAJIAN PELAKSANAAN TEMPOH
+PENGAJIAN 3 TAHUN BAGI PROGRAM SARJANA MUDA
+BIDANG SAINS SOSIAL
+NATIONAL
+16/11/2020 -
+15/03/2021
+23
+JURUAUDI PELATIH ISO 9001:2015 AUDIT DALAM
+UNIVERSITY
+07/12/2020 -
+20/01/2021
+24
+PENGARAH QAPEX
+UNIVERSITY
+01/03/2019 -
+31/12/2020
+25
+AHLI JAWATANKUASA STRATEGIK PEMBANGUNAN
+PROGRAM AKADEMIK UNIVERSITI AWAM (JKSPPA)
+UNIVERSITY
+17/03/2020 -
+31/12/2020
+26
+AHLI SENAT
+UNIVERSITY
+08/03/2019 -
+31/12/2020
+27
+AHLI JAWATANKUASA SEBUTHARGA USIM PTJ: FST
+FACULTY
+01/01/2015 -
+01/01/2017
+28
+AHLI JPPA
+UNIVERSITY
+01/03/2019 -
+31/12/2020
+29
+AHLI JKPSU
+UNIVERSITY
+01/02/2019 -
+31/12/2020
+30
+AHLI JAWATANKUASA MESYUARAT PENGESAHAN DALAM
+PERKHIDMATAN KUMPULAN AKADEMIK DAN
+PENGURUSAN TERTINGGI
+UNIVERSITY
+08/08/2019 -
+31/12/2020
+31
+Pengarah Pusat Pengurusan Penyelidikan dan Inovasi
+UNIVERSITY
+21/02/2022 -
+31/12/2022
+32
+PENGERUSI JAWATANKUASA PENYELIDIKAN PERINGKAT
+FAKULTI SAINS DAN TEKNOLOGI
+FACULTY
+13/05/2015 -
+12/05/2016
+33
+PENYELARAS PROGRAM BCOMPSC (INTELLIGENT SYSTEM
+TECHNOLOGY) FST
+FACULTY
+22/01/2015 -
+31/12/2015
+34
+PENGARAH PUSAT PENGURUSAN PENYELIDIKAN DAN
+INOVASI
+UNIVERSITY
+01/01/2023 -
+31/12/2024
+35
+JAWATANKUASA PENYEDIAAN ICT STRATEGIC PLAN (ISP)
+USIM RMK 11
+UNIVERSITY
+01/01/2015 -
+01/01/2020
+36
+AHLI JAWATANKUASA TEKNIKAL ICT USIM (JTICT)
+UNIVERSITY
+01/01/2015 -
+31/12/2016
+37
+AHLI JAWATANKUASA PENGHAKIMAN EKSPO INOVASI
+ISLAM MALAYSIA KALI KE ENAM (6TH I-INOVA''2015)
+UNIVERSITY
+01/01/2015 -
+31/12/2015
+PROFESIONAL MEMBERSHIP
+No
+Name of Membership
+Organization
+Field
+Date
+1
+IEEE MEMBERSHIP
+IEEE COMPUTER SOCIETY
+COMPUTER
+20/03/2019
+2
+MEMBER
+IEEE COMPUTER SOCIETY
+COMPUTER SCIENCE
+20/03/2019
+3
+CERTIFIED TESTER
+INTERNATIONAL SOFTWARE
+TESTING QUALIFICATION BOARD
+(ISTQB)
+SOFTWARE TESTING
+01/11/2010
+4
+ASSOCIATE MEMBERSHIP
+INFORMATION SECURITY
+PROFESSIONAL ASSOCIATION OF
+MALAYSIA (ISPA)
+SECURITY
+01/08/2012
+5
+Member
+International Association of
+Engineers
+Computer Science
+01/01/2017
+RESEARCH AWARD
+No
+Title of Award
+Type of
+Award
+Exhibition Name
+Level
+Date
+1
+EZCERT
+Emas Dan
+Setara
+25TH INTERNATIONAL
+INVENTION , INNOVATION &
+TECHNOLOGY EXHIBITION
+(ITEX 2014)
+Antarabangsa
+08/05/2014-10/05/20
+14
+2
+INTELLIGENT ARABIC FOR
+HAJ AND UMRAH (I-HAJJ)
+Emas Dan
+Setara
+4TH EXPOSITION ON
+ISLAMIC INNOVATION 2013
+(I-INOVA''13)
+Kebangsaan
+25/10/2013-27/10/20
+13
+3
+SMART Q : QURANIC
+VERSES ON THE
+Emas Dan
+Setara
+International Conference
+On Tadabbur Al-Quran:
+Antarabangsa
+15/11/2016-16/11/20
+16
+INTEGRATION OF NAQLI
+AND AQLI KNOWLEDGE
+Innovation and
+Development (Muttasiq II)
+4
+EZSIBER
+Emas Dan
+Anugerah
+Tambahan
+PECIPTA INTERNATIONAL
+CONFERENCE &
+EXPOSITION ON INVENTION
+OF INSTITUTIONS OF
+HIGHER LEARNING
+Antarabangsa
+07/11/2013-09/11/20
+13
+5
+Q-Checked
+Perak Dan
+Setara
+EKSPO INOVASI ISLAM
+1438H (i-INOVA16)
+Universiti
+08/11/2016-09/11/20
+16
+6
+IMREADY
+Perak Dan
+Setara
+International
+Invention,Innovation &
+Technology Exhibition
+Antarabangsa
+12/05/2016-14/05/20
+16
+7
+IM READY
+Perak Dan
+Setara
+27TH INTERNATIONAL
+INVENTION & INNOVATION
+EXHIBITION 2016 (ITEX
+2016)
+Antarabangsa
+12/05/2016-14/05/20
+16
+8
+DIGITAL ORAL-HEALTH
+APPLICATION (DOA) BASED
+ON INTERNET-OF-THINGS
+(IOT) FOR COGNITIVE
+IMPAIRMENT PATIENTS
+Perak Dan
+Setara
+INNOVATION BANK
+CHALLENGE (IBC 2022)
+Universiti
+06/09/2022-07/09/20
+22
+9
+PHISHING DETECTION AND
+PREVENTION MODEL
+Gangsa Dan
+Setara
+INNOVATION BANK
+CHALLENGE 2023
+(IBC2023)
+Universiti
+24/10/2023-24/10/20
+23
+10
+FRAMEWORK FOR SECURE
+WEB APPLICATION DESIGN
+AND DEVELOPMENT
+Gangsa Dan
+Setara
+EKSPO INOVASI ISLAM I-
+INOVA 2012
+Kebangsaan
+20/10/2012-21/10/20
+12
+11
+EZCERT 2.0
+Gangsa Dan
+Setara
+Pertandingan Ekspo
+Ciptaan Institusi Pengajian
+Tinggi dan Antarabangsa
+(PECIPTA) 2015
+Antarabangsa
+04/12/2015-06/12/20
+15
+12
+SAINS MODEN & AL-
+QURAN: PEMBANGUNAN
+MULTIMEDIA INTERAKTIF
+BAGI INTEGRASI ILMU
+NAQLI & AQLI
+Gangsa Dan
+Setara
+EKSPO INOVASI ISLAM I-
+INOVA 2014
+Kebangsaan
+28/11/2014-30/11/20
+14
+13
+INTELLIGENT ARABIC FOR
+HAJ AND UMRAH (I-HAJJ)
+Gangsa Dan
+Setara
+PECIPTA INTERNATIONAL
+CONFERENCE &
+EXPOSITION ON INVENTION
+OF INSTITUTIONS OF
+HIGHER LEARNING
+Antarabangsa
+07/11/2013-09/11/20
+13
+14
+TOP 100 RESEARCHERS
+USIM ( 2013-2017)
+Sijil
+Penghargaan
+Sahaja
+TOP 100 RESEARCHERS
+Universiti
+14/05/2018-14/05/20
+18
+AWARD
+No
+Name Of Award
+Organization
+Date
+1
+DARJAH PEKERTI TERPILIH (D.P.T)
+KERAJAAN NEGERI SEMBILAN
+14/01/2023
+Powered by TCPDF (www.tcpdf.org)
+
+
+--- End of Prof_Madya_Dr_Nurlida_Basir.pdf ---

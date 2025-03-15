@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+body {
+    background-image: url('mainbg.jpg');
+    font-family: 'Trebuchet MS', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 250px;
+    min-height: 100vh;
+}
+
+
+.container {
+width: 100%;
+max-width: 700px;
+margin: 0 auto;
+padding: 20px;
+background-color: #ffffff;
+border-radius: 8px;
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+font-size: 1.8rem;
+text-align: center;
+color: #071f50;
+margin-bottom: 20px;
+}
+
+main h1 {
+color: #071f50;
+margin-bottom: 15px;
+}
+
+/* Form Styling */
+form {
+display: flex;
+flex-direction: column;
+}
+
+label {
+font-size: 1rem;
+margin-bottom: 8px;
+color: #555;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="file"] {
+font-size: 1rem;
+padding: 10px;
+border: 1px solid #ccc;
+border-radius: 5px;
+margin-bottom: 20px;
+transition: border-color 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="file"]:focus {
+border-color: #071f50;
+outline: none;
+}
+
+/* Button Styling */
+button[type="submit"] {
+padding: 12px;
+font-size: 1rem;
+font-weight: bold;
+color: #ffffff;
+background-color: #071f50;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+background-color: #053080;
+}
+
+button.contrast {
+background-color: #efa000;
+color: #fff;
+}
+
+/* Back to Home Link */
+a {
+color: #071f50;
+text-decoration: none;
+font-size: 0.9rem;
+text-align: center;
+display: block;
+margin-top: 20px;
+transition: color 0.3s ease;
+}
+
+a:hover {
+color: #053080;
+}
+
+/* Responsive */
+@media (max-width: 500px) {
+.container {
+    padding: 15px;
+}
+
+button[type="submit"] {
+    font-size: 0.9rem;
+    padding: 10px;
+}
+}

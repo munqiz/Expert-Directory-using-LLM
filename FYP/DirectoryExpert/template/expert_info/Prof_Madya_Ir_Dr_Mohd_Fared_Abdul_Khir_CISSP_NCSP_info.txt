@@ -1,0 +1,4 @@
+name: Prof. Madya Ir. Dr. Mohd Fared Abdul Khir CISSP, NCSP
+email: fared.khir@usim.edu.my
+faculty: FST
+pdf: Prof_Madya_Ir_Dr_Mohd_Fared_Abdul_Khir_CISSP_NCSP.pdf

@@ -1,0 +1,1811 @@
+--- Start of Prof_Madya_Dr_Sakinah_Ali_Pitchay.pdf ---
+
+Page 1 of 24 
+ 
+CURRICULUM VITAE  
+ 
+1 
+Contact Information 
+Name 
+Assoc. Prof. Dr. Sakinah Ali Pitchay  
+Asscociate Professor, DS54 
+ 
+Office Address 
+Faculty of Science and Technology 
+Universiti Sains Islam Malaysia, 
+Bandar Baru Nilai, 71800 Nilai,  
+Negeri Sembilan, Malaysia. 
+Telephone (Office) 
++606-798 6539 (FST) 
+Cell Phone 
++6012-2683836 
+Email (Official) 
+sakinah.ali@usim.edu.my 
+Email Alternative 
+sakinah.ali.83@gmail.com 
+ 
+LinkedIn Profile 
+www.linkedin.com/in/sakinah-ali-pitchay 
+2 
+Personal Information 
+Citizenship 
+Malaysian 
+3 
+Education History 
+PhD 
+PhD (Computer Science) – Birmingham University, UK 2013 
+*Passed with no correction. 
+Masters 
+MSc (Computer Science – Real Time Software Engineering) – UTM KL, Malaysia 2007 
+Bachelor 
+B.IT (Computer Science – Software Engineering) – UMT, Malaysia 2005 
+4 
+Areas of Specializations 
+Major 
+Computer Science (Image Processing and Software Engineering) 
+Minor 
+Information Security 
+5 
+Awards & Recognition 
+Innovation 
+Competition:  
+ 
+53 medals  
+8 special awards. 
+(1 Diamond, 24 Gold, 14 
+Silver & 8 Bronze)  
+1 consolation prize. 
+ 
+ 
+1) 
+2024 – Bronze Medal, DisasterPrep: Gamified Mobile Edutainment for Future Disaster 
+Preparedness and Resilience - Int. University Carnival on E-Learning (IUCEL) 2024 
+2) 
+2023 – Special Award Top 3 & Gold Award, The International Virtual E-Content 
+Development Competition (Leader), SWINDLERT, Pitching Educator Category. 
+3) 
+2023 – Gold Award, The International Virtual E-Content Development Competition 
+(Supervisor), Pitching Student Category 
+4) 
+2023 – Gold Award, Secure Cybercitizenship (SET), Malaysia Technology Expo 2023 – 
+International Innovation Award (Leader) 
+5) 
+2023 – Silver Award, SAKTI-Chatbox, Malaysia Technology Expo 2023 – International 
+Innovation Award (Member) 
+6) 
+2023 - Silver Award, SWINDLERT: Mobile Gamification Using Augmented Reality for 
+Cybercrime Edutainment, - Int. University Carnival on E-Learning (IUCEL) 2023 
+7) 
+2023 - Gold Medal, SAKTI-Secure Chat Box – SCITEX USIM  
+8) 
+2023 - Silver Medal, DisAPrep: Enhancing Disaster Preparedness Through Edutainment-
+Based Mobile Application – SCITEX USIM  
+9) 
+2023 – Bronze Award, SWINDLERT, Malaysia Technology Expo 2023 – International 
+Innovation Award (Leader) 
+10) 2023 – Silver Medal (Professional), Secure Cybercitizenship (SET), Virtual Innovation 
+Competition (Leader) 
+11) 2023 – 3 Gold Award, International Virtual Competition of Creative & Innovative Idea 
+(IVCCII) (Supervisor) 
+12) 2023 – Gold Medal (Tertiary (Science & Technology)), NGSOC Component in IT Asset 
+Management Policy in Security Operation Centre, Virtual Innovation Competition 
+(Postgraduate Supervisor) 
+13) 2023 – Gold Medal (Virtual 3MT), D-STAC: Dashboard System for Student Association, 
+Virtual Innovation Competition (Supervisor) 
+14) 2023 – Silver Medal (Virtual 3MT), DISAPREP: Mobile Edutainment as a Medium for 
+Disaster Preparedness, Virtual Innovation Competition (Supervisor) 
+15) 2023 - Gold Award, SWINDLERT: Mobile Gamification Using Augmented Reality for 
+Cybercrime Edutainment, Final Year Project and Postgraduate: Research & Innovation 
+Page 2 of 24 
+ 
+Poster Competition (RIPC) Series 1/2023, {Supervisor} 
+16) 2023 - Gold Award, VolunMates: Data Visualization in Volunteer System, Final Year 
+Project and Postgraduate: Research & Innovation Poster Competition (RIPC) Series 
+1/2023, {Supervisor} 
+17) 2023 - Gold Award, D-STAC: Dashboard System for Student Association Towards 
+Producing Holistic Graduates, Final Year Project and Postgraduate: Research & 
+Innovation Poster Competition (RIPC) Series 1/2023, {Supervisor} 
+18) 2022 – Gold Award, CYBERPOLY: Cybersecurity Edugame, Persidangan dan Ekspo 
+Ciptaan Institusi Pengajian Tinggi Antarabangsa (PECIPTA), 1-3 Nov 2022. (Leader) 
+19) 2022 – Gold Award & 1st Place, Cyberpoly:  Mobile Gamification for Raising Cyber 
+Attacks Awareness, “Thesis In 5 Minutes Series 1/2022”, MNNF Network. 
+20) 2022 - Diamond Award & 1st Place, VolunMates: Data Visualization in Volunteer 
+System, Thesis in 5 Minutes (T5M Series 2/2022), {Supervisor} 
+21) 2022 - Gold Award & 2nd Place, D-STAC: Dashboard System for Student Association 
+Towards Producing Holistic Graduates, Thesis in 5 Minutes (T5M Series 2/2022), 
+{Supervisor} 
+22) 2022 - Gold Award, SWINDLERT: Mobile Gamification Using Augmented Reality for 
+Cybercrime Edutainment, Thesis in 5 Minutes (T5M Series 2/2022), {Supervisor} 
+23) 2022 – Gold Medal, CYBERPOLY: Cybersecurity Edugame, “International University 
+Carnival on E-Learning (IUCEL) 2022”. (Leader) 
+24) 2022 – Gold Medal, FinEd: Financial Literacy Through Edutaiment, “International 
+University Carnival on E-Learning (IUCEL) 2022”. (Leader) 
+25) 2022 – Bronze Medal, International Malaysia Technology ExPO (MTE) 2022, Cyberpoly: 
+Mobile Gamification for Security Awareness Campaign. 
+26) 2022 – Gold Award, Cyberpoly: Cybersecurity Edugame, Defence, Security and 
+Sustainability Exhibition (DSS 2022). 
+27) 2022 – Top 3 Awards for Highschool/IPT Student Category (2nd Place), Cyberpoly: 
+Cybersecurity Edugame, International Learning Innovation Competition (PIP), {Advisor}. 
+28) 2022 – Consolation Prize for Highschool/IPT Student Category, Financial Literacy 
+Through Edutainment, International Learning Innovation Competition (PIP), {Advisor}. 
+29) 2022 – Silver Award, Cyberpoly: Cybersecurity Edugame, International Virtual E-Content 
+Development Competition 2022. 
+30) 2022 – Silver Award, FinEd: Financial Literacy Through Edutaiment, International Virtual 
+E-Content Development Competition 2022. 
+31) 2022 – Gold Medal, Cover-Selection-Based Audio Steganography (CAS) Based on Least 
+Significant Bit (LSB) for Balanced Performance, 2nd Innovation Bank Challenge (IBC), 
+Research Category. 
+32) 2022 – Gold Medal, FinEd: Financial Literacy Through Edutaiment, 2nd Innovation Bank 
+Challenge (IBC), Innovation Category. 
+33) 2022 – Silver Medal, Cyberpoly: Cybersecurity Edugame, 2nd Innovation Bank Challenge 
+(IBC), Innovation Category. 
+34) 2021 - 1st Winner, Cyberpoly, "Start-up Idea for Developing Entrepreneurship", 3rd 
+Widyatama International Innovation and Academy Competition. 
+35) 2021 – Gold Medal, Cyberpoly: Mobile Gamification for Raising Cyber Attacks 
+Awareness, Karnival Inovasi @ UMT 2021 (Amalan Inovasi Pelajar) 
+36) 2021 – Gold Medal, FinEd: Financial Literacy Education, Karnival Inovasi @ UMT 2021 
+(Amalan Inovasi Pengajaran & Pembelajaran) 
+37) 2021 - Silver Award, Cyberlaw Almanac, International E-Content Development 
+Competition 2021 (e-ConDev 2021) 
+38) 2021 - Best Poster Award, Best Virtual Video Presentation Award, Gold Award, 
+Cyberpoly: Mobile Gamification for Raising Cyber Attacks Consciousness, The 1st 
+Technology and Research Exhibition (TREX) 2021 
+39) 2020 - Special Prize Theme Section, 11th NAPROCK International Programming 
+Contest, 20 March 2020, Organizer {Nourishment Association for Programming Contest 
+KOSEN, NPO} 
+40) 2019 – FIRST PLACE, Software Programming Innovation Competition (PROCOM), Tel-
+Med Care, Cash prize RM2500, 4-5 Dec 2019, Organizer: Chinese Weekly, MMU, 
+NAPROCK, Embassy Japan in Malaysia, MDEC, JAGAM.  Malaysian representative of 
+Procom International at Cambodia, March 2020. {Mentor} 
+Page 3 of 24 
+ 
+41) 2019 – Silver Award – Innovation, TravMed Cloud, Melaka International Intellectual 
+Exposition (MiiEX) 2019. 
+42) 2019 – Bronze Award IUCEL 2019, MOBAS: Mobile Barcode Scanner Based 
+Attendance System for Education 4.0 
+43) 2019 – Bronze Award IUCEL 2019, Bluetooth Smart Based Attendance System for 
+Teaching and Learning 
+44) 2019 – Bronze Award IUCEL 2019, Dashboard Monitoring System (DMS) for 
+Postgraduate Study 
+45) 2018 – Silver Medal i-Inova 2018 – Jawi Captcha (JaCAPT) Based Security System for 
+Login Authentication  
+46) 2018 – Bronze Medal InIIC Series 1/2018 – DeMuse: Music Mood Application 
+47) 2017 – Gold Medal IUCEL 2017 – Supporting eLearning through Centralized Integrated 
+Portal Postgraduate System (iPPS) 
+48) 2017 – Bronze Medal IUCEL 2017 – e-Mentor: Mobile Application for Mentor Mentee 
+Management 
+49) 2016 - Silver Medal ITEX 2016- IM Ready 
+50) 2016 - Silver Medal i-Inova 2016 – Q-Checked 
+51) 2016 - Silver Medal InIIC Series 2/2016 – Integrated Academic and Research 
+Management System (i-ARMS) 
+52) 2015 – Bronze Medal Pecipta 2015 – EZCERT 2.0 
+53) 2014 - Gold Medal ITEX 2014 -EZCERT 
+ 
+Recognition  
+• 3 internationals 
+• 4 nationals 
+• 15 university level 
+• 8 faculty level 
+ 
+1) 
+2024 - Education 2.0 Conference, Outstanding Leadership Award, Dubai, UAE. 
+2) 
+2024 - Majlis Anugerah Alumni Universiti Malaysia Terengganu (MAIKA’23), Ikon Alumni 
+Akademik. 
+3) 
+2024 - Anugerah Qudwah Hasanah, Majlis Anugerah Kecemerlangan dan Inovasi 2023 
+4) 
+2023 - 1st Winner of OIC-CERT (Computer Emergency Response Team) Global 
+Cybersecurity Award (USD 1,000.00) in Abu Dhabi, UAE, Cyber Hasanat. 
+5) 
+2023 - Anugerah Inovasi Terbaik, Majlis Anugerah Penyelidikan & Inovasi USIM 2022. 
+6) 
+2023 - Anugerah Inovasi & Pengkomersialan (Projek: Cyberpoly), Majlis Anugerah 
+Kecemerlangan dan Inovasi tahun 2022 USIM 
+7) 
+2023 - Ma’al Hijrah 1445H/2023M Award (Academic Category), USIM 
+8) 
+2023 - Academic Icon, Alumni Chapter Computer Science of Universiti Malaysia 
+Terengganu {National} 
+9) 
+2023 - Finalist Academic Icon, Majlis Anugerah Alumni Universiti Malaysia 
+Terengganu (MAIKA) 2022 {National} 
+10) 2023 - Anugerah Kreativiti & Inovasi, Majlis Apresiasi & Kecemerlangan Fakulti Sains & 
+Teknologi (HafluFAST’22) {Faculty} 
+11) 2023 - USIM Representative/Nomination for Anugerah Ahli Akademik Harapan, 15th 
+Anugerah Akademik Negara (AAN) {National} 
+12) 2023 - Anugerah Staf Contoh Fakulti Sains dan Teknologi Bulan Januari 2023. 
+13) 2022 - Anugerah Perkhidmatan Setia, USIM 
+14) 2022 - Graduate Employability Personality Award, USIM 
+15) 2022 - Anugerah Pensyarah Pilihan (Perempuan), Majlis Anugerah Fakulti Sains dan 
+Teknologi (MAFAST) {Faculty} 
+16) 2022 - Anugerah Kecemerlangan LNPT 90% and above, FST USIM 
+17) 2022 - Tokoh Inovasi & Pementoran, Majlis Apresiasi & Kecemerlangan FST 
+(HafluFAST’21) {Faculty} 
+18) 2021 - Certificate of Recognition, Rising Star Agri-Food Innovation Challenge, TFF 
+(Thought for Food) Challenge 2021, {International} 
+19) 2021 - Anugerah Staf Contoh Fakulti Sains dan Teknologi Bulan Jun 
+20) 2021- Penghargaan Kecemerlangan Perkhidmatan 2020 – LNPT melebihi 90%, FST 
+21) 2020 - Anugerah Perkhidmatan Cemerlang 2019, USIM 
+22) 2020 - Penghargaan Kecemerlangan Perkhidmatan 2019 – LNPT melebihi 90%, FST 
+23) 2019 - Anugerah Penyelidik Harapan Kategori Sains, Teknologi dan Perubatan 2018, 
+Majlis Anugerah Kecemerlangan dan Inovasi Universiti Sains Islam Malaysia 2019 
+24) 2019 - Penghargaan Kecemerlangan Perkhidmatan 2018 – LNPT melebihi 90%, Fakulti 
+Sains dan Teknologi 
+Page 4 of 24 
+ 
+25) 2017 - Staf Contoh Bulanan Fakulti Sains dan Teknologi, USIM (Mei 2017) 
+26) 2016 - Penghargaan Kecemerlangan Perkhidmatan 2016 – LNPT melebihi 90, FST USIM 
+27) 2015 - Penghargaan Kecemerlangan Perkhidmatan 2015 – LNPT melebihi 90%, FST 
+28)  
+29) 2015 - Anugerah Naib Canselor, USIM 2015 
+30) 2014 - Anugerah Pensyarah Aktif 2014, Pusat Akses Pembelajaran Terbuka Global 
+(GOAL CENTRE), USIM 
+31) 2014 - Anugerah E-Pembelajaran USIM 
+32) 2014 - Anugerah Perkhidmatan Cemerlang, USIM 
+33) 2014 - Anugerah Kecemerlangan Penyelidikan – EZCERT 
+34) 2004 - Anugerah Pelajar Cemerlang 2004 Sarjana Muda Teknologi Maklumat 
+(Kejuruteraan Perisian) 
+6 
+Professional Qualification 
+Certification 
+- Microsoft Certified: Azure AI-Fundamentals, Cert. Number: I507-7872 
+- Digital Forensic for First Responder Training – 2017, CyberSecurity Malaysia and MOSTI 
+- Certified Tester, Foundation Level (CTFL) – 2014, Certificate No.: MY0357-14 
+- Graduate Technologist, MBOT, No. Pendaftaran:  GT18051935  
+Membership 
+- Cyber Security Academic Malaysia (CSAM), Life membership. ID: 202300139 
+- Member, International Association of Engineers, No: 133929, 2013-till date 
+- Member, Gov. Comp. Emergency Response Team (GCERT), 2015-2022 
+- Member, Graduate Technologist (Teknologis Berijazah), Lembaga Teknologis Malaysia 
+(MBOT), GT18051935, Information & Computing Technology, 2018  
+- Member, Unit CyberSecurity and System (CSS), Universiti Sains Islam Malaysia, 2018 – 
+current 
+- Member, Institut Sains Islam (ISI), Universiti Sains Islam Malaysia, 2018 – 2021 
+ 
+7 
+Employment History 
+ 
+ 
+- 
+Jan 2021 – current: Deputy Dean (Student Affairs & Alumni), USIM 
+- 
+Feb 2019 – till date: Associate Professor, USIM 
+- 
+Oct 2015 – Dec 2020: Head of Programme Computer Science (Information Security & 
+Assurance), USIM 
+- 
+July 2013 – till date, Senior Lecturer, USIM 
+- 
+June 2007 – Dec 2008, Tutor, USIM 
+- 
+2006 (6 months) – Master Intern, Software Tester, Custommedia Sdn Bhd, Technology 
+Park Malaysia 
+- 
+2005 (3 months) – Master Intern, Unit Penyelidikan CASE, UTM KL 
+- 
+2003 – Undergraduate Intern, Tenaga Nasional Berhad and MPMBB 
+8 
+Teaching 
+ 
+ 
+Postgraduate 
+- 
+SZ80118 Thesis I, 2013 - 2019 (Coordinator) 
+- 
+SZ80218 Thesis II, 2018 (Coordinator) 
+- 
+SKJ8013 Cyber Crime and Forensics, 2014 
+Undergraduate 
+- 
+SKJ1063 Computer Network, 2018 – current 
+- 
+SKJ2011 Inclusive Digital Society, 2023 – current 
+- 
+SSS3052 Research Methodology, 2019 – 2020 
+- 
+SKZ4999 Industrial Training, 2020 – current (Coordinator) 
+- 
+SKZ4356 Industrial Training, 2016 – 2022 (Coordinator) 
+- 
+SKJ4301 Honours Seminar, 2016 – current 
+- 
+SKJ4232 Thesis I, 2016 - 2021 
+- 
+SKJ4294 Thesis II, 2016 - 2021 
+- 
+SKJ3443 Network and Management Information System, 2014-2018 
+- 
+SKJ4642 Principles of Computer Network, 2016-2018 & 2020 
+- 
+SKS1362 Information Communication Technology, 2014-2016 
+- 
+SKM2504 Multimedia and Data Management Technology, 2013-2014 
+Page 5 of 24 
+ 
+- 
+UTA1082 Information and Communication Technology, 2007 
+ 
+9 
+Supervision 
+ 
+Brief Information 
+- 
+1 PhD student completed as a supervisor (4120098). 
+- 
+1 PhD student completed as main supervisor (4130199). 
+- 
+2 MSc students completed as supervisor (3172548 & 3212455) 
+- 
+2 MSc students completed as co-supervisors (3150099 & 3150093). 
+- 
+1 MSc student completed as main supervisor (3231326) 
+- 
+2 MSc students completed as co-supervisors (3222544 & 3231327) 
+ 
+IN PROGRESS 
+- 
+2 PhD students in progress, as co-supervisor (4150247, 4202464)   
+- 
+1 MSc student as main supervisor (3221437)  
+- 
+1 MSc student as co-supervisor. (3222544)  
+PhD 
+1. 
+[COMPLETED, VIVA in Oct 2016] – Compound Binarization for Degraded Document 
+Image and Feature Point Extraction for Handwritten Arabic Optical Character Recognition, 
+Arwa Mahmoud Yousef Al-Khatatneh (4120098). Graduated 2017, Faculty Award 
+(Doctor of Philosophy – Research) 
+2. 
+[COMPLETED, VIVA in Dec 2017] – Rainy Streaks Removal Using Total Variation and 
+Sparse Coding, Samer Mahmoud Mohamed Shorman (4130199). Graduated 2018 
+3. 
+[Terminated, started Sept 2014], Wail Abdo Ali Al-Hiagem (4140075) 
+4. 
+[Softbound submission 2024] – Combination Between Software Engineering and 
+Computer Forensic, Al-Jidi Bashar Izzeddin Issa (4150247). 
+5. 
+[In Progress, started March 2017] – Big Data Technology, Almadhoun Mahmoud A, 
+(4160225). 
+6. 
+[In Progress, started Dec 2021] – Mohd Amri Aminudin (4202464). 
+Master’s by Research & 
+Mixed Mode 
+1. 
+[GRADUATED, 2017] – Anes Abdulqahar Shaker (3150099), A New Hybrid AES 
+Algorithm Combined with Steganography Based on the Concept of Lunar and Solar 
+Letters, Graduated 2018. 
+2. 
+[GRADUATED, 2017] – An Ontology Based Approach for Retrieving Medical and Health 
+Science Knowledge in Quran, Muhammad Afifi Bin Mohamad Safee (3150093), 
+Graduated 2018 – GRA RAGS. 
+3. 
+[GRADUATED, 2023] - A New Algorithm of Geo-Encryption Based on Location for Secure 
+Cloud Storage, Nur Syafiqah Binti Mohd Shamsuddin (3172548) - GRA FRGS. 
+4. 
+[GRADUATED, 2023] - Master of Computer Science (Information Security & Assurance), 
+Mixed Mode] - IT Asset Management Policy in NGSOC Using Delphi Technique, A’in 
+Hazwani Binti Ahmad Rizal (3212455). Awarded postgraduate award in USIM convo. 
+5. 
+[IN PROGRESS, 2023 – Current, Master of Science (by Research), Ahmad Taqiyuddin 
+Mohd Anas (3222544) – GRA, FRGS, Passed Qualifying Test, GRA FRGS. 
+6. 
+[IN PROGRESS, 2023 – Current, Master of Science (by Research), Nurun Nuha binti 
+Rahim (3231326) – GRA FRGS, Passed Qualifying Test. 
+7. 
+[IN PROGRESS, 2023 – Current, Master of Science (by Research), Hazeeqah Amny 
+Binti Kamarul Aryffin (3231327) – GRA FRGS, Passed Qualifying Test. 
+Undergraduate (FYP-
+Thesis) - Supervisor 
+1. 
+[IN PROGRESS, 2024] – CyDef: Cyber Defense Virtual Escape Room, Nur Athirah Binti 
+Sahom (1210547). 
+2. 
+[IN PROGRESS, 2024] – VirtuSci Lab: Science Lab using Augmented Reality, 
+Norsyuhadah Abdullah (1210555) 
+3. 
+[IN 
+PROGRESS, 
+2023] 
+– 
+DISAPREP: 
+Mobile 
+Application 
+for 
+Disaster 
+Preparedness Via Edutainment, Laila Mastura Binti Ahmad Zabidin (1200587). 
+4. 
+[COMPLETED, 2023] – AL-MUALIM: Learning Arabic Language Via Interactive Mobile 
+Application, Mohammed A. M. Shehab (1200007). 
+5. 
+[GRADUATED, 2023] – D-STAC: Dashboard System for Student Association, Aufa Binti 
+Abdullah (1190501). 
+6. 
+[GRADUATED, 2023] – VOLUNMATES: Data Visualization in Volunteer System, Auni 
+Halili binti Zamburi (1190514). 
+7. 
+[GRADUATED, 2023] – SWINDLERT: Mobile Gamification Using Augmented Reality for 
+Cybercrime Edutainment, Muhammad Syahmi Imran Bin Mohamad (1190557). 
+8. 
+[GRADUATED, 2022] – Cyberpoly: Mobile Gamification for Raising Cyber Attacks 
+Page 6 of 24 
+ 
+Awareness, Anis Syahira Binti Suhaimi (1180448), {TOP 5 BEST PRESENTER AND 
+FINAL YEAR PROJECT AWARD}, GRADUATED 2022. 
+9. 
+[GRADUATED, 2022] – CRYSTAL: Indoor Air Quality Monitoring System Using IoT 
+Technology, Muhammad Imran Bin Mohamad Fauzi (1180471), Graduated 2022. 
+10. [GRADUATED, 2022] - Potholes Detection System Using Image Processing, Khairun 
+Nadhirah Binti Hai Rozzaman (1180493), Graduated 2022. 
+11. [GRADUATED, 2021] – Vehicle Speed Monitoring System via IOT Technology, Nafisah Bt 
+Kamaruzzaman (1170033), Graduated 2021. 
+12. [GRADUATED, 2021] – Cyberia: Interactive Mobile Board Game Apps for Cybersecurity 
+Awareness, Nur Amirah Binti Yahaya (1170023), Graduated 2021. 
+13. [GRADUATED, 2021] – Data Visualization in Thesis Management System, A’in Hazwani 
+Binti Ahmad Rizal (1170057). {TOP 5 BEST PRESENTER AND FINAL YEAR PROJECT 
+AWARD}, Graduated 2021. 
+14. [GRADUATED, 2021] – USIM Mosque and Surau Financial Management System, Noor 
+Fatin Najwa Binti Othman (1170047).  Graduated 2021. 
+15. [GRADUATED, 2020] - i-Diet: Diet Mobile Application on Food and Exercise 
+Recommendation, Mohamad Noramirul Bin Nordin. {TOP 5 BEST POSTER AND 
+PROJECT DEMONSTRATION AWARD}.  Graduated 2021. 
+16. [GRADUATED, 2020] - DAppoint: Dental Appointment Reminder System in USIM With 
+Alphanumeric CAPTCHA Login Authentication, Nur 'Izzatul Munirah Binti Salleh. {TOP 5 
+BEST POSTER AND PROJECT DEMONSTRATION AWARD} 
+17. [GRADUATED, 2019] Mobile Application Attendance System Using Codabar Barcode, 
+Muhammad Idlan Zikri Bin Abdul Radzif. Graduated 2019. 
+18. [GRADUATED, 2019] Carry Marks System Using Jawi-Captcha for Login Authentication, 
+Nurul Izzaty Bt Kamarul Bahrin. Graduated 2019. 
+19. [GRADUATED, 2018] Jawi Captcha Based Security System for Login Authentication 
+(JaCAPT), Nur Nabihah Bt Mohd Suhaimi, [SILVER MEDAL FOR I-INOVA’18], 
+Graduated 2018 
+20. [GRADUATED, 2018] Image Encryption and Decryption Using Advanced Standard (AES) 
+Algorithm, Fathin Nadhrah Bt Ahmad Nabih. {TOP 5 BEST PRESENTER}, Graduated 
+2018 
+21. [GRADUATED, 2018] Geo-Encryption Using Advanced Encryption Standard (AES) 
+Algorithm for Android User (GeoCrypt), Nur Izzati Bt Zahri.  Graduated 2018 
+22. [GRADUATED, 2017] – i-ARMS: Secured Web-Based for Integrated Academic and 
+Research Management System, Muhamad Fadhil Bin Ahmad Zaki, Graduated 2017. 
+{Pembentangan Tesis Prasiswazah Terbaik Program Keselamatan & Jaminan 
+Maklumat 19-23 Dis 2016} 
+23. [GRADUATED, 2017] – A Secured Tool of Encryption and Decryption for Image and Text 
+Using Different Techniques (enDec), Nurul Syazwani Bt Saruan, Graduated 2017. 
+{Pembentangan Tesis Prasiswazah Terbaik Program Keselamatan & Jaminan 
+Maklumat 19-23 Dis 2016}  
+24. [GRADUATED, 2017] – E-Mentor: Mobile Application for Mentor Mentee Program, Izzaty 
+Bt Anuar, Graduated 2017. [BRONZE MEDAL IN IUCEL 2017] 
+25. [GRADUATED, 2017] – e-Events: ISA Events Mobile Application for ISA Programme, 
+Nurhannan Bt Khairi. 
+26. [GRADUATED, 2016] - Faculty of Science and Technology (Fst) Online Room Booking 
+System, Nur Syafiqah Binti Zakaria. 
+27. [GRADUATED, 2016] - Maps Directory Application in FST Building for Android User, Nur 
+Aimi Atiqah Binti Rahimi. 
+28. [GRADUATED, 2015] – A Comprehensive Study on Anti-Forensic and Anti-Anti Forensic 
+Tools, Che Ku Muhammad Khalaf Bin Che Ku Muda. 
+10 
+Publications 
+ 
+Journals 
+Updated January 2023 
+(Total ISI/Scopus/ERA = 
+20) 
+ 
+(Total Non-ISI/Scopus = 
+2024 
+1) 
+Azni Haslizan Ab Halim, Farida Ridzuan, Nur Hafiza Zakaria, Abdul Alif Zakaria, Najwa 
+Hayaati Mohd Alwi, Sakinah Ali Pitchay, Ismail Az-Zuhar, Ahmed A.AlSabhany, SAKTI©: 
+Secured Chatting Tool Through Forward Secrecy, Journal of Advanced Research in 
+Applied Sciences and Engineering Technology 49(1), 2024, pp. 54-62 
+Page 7 of 24 
+ 
+5) 
+2022 
+2) 
+Sakinah Ali Pitchay, Anis Syahira Suhaimi, Najwa Hayaati Mohd Alwi, Farida Ridzuan & 
+Azni Haslizan Ab Halim. Enhancing Cyber-attacks Awareness via Mobile Gamification 
+Techniques, International Journal of Advanced Research in Technology and Innovation, 
+Vol 4(2),  ISSN 2682-8324, 2022. 
+3) 
+Sakinah Ali Pitchay, Anis Syahira Suhaimi, Najwa Hayaati Mohd Alwi, Farida Hazwani 
+Mohd Ridzuan & Azni Haslizan Ab Halim, Cyberpoly: Cybersecurity Edugame, 
+"International University Carnival on E-Learning (IUCEL) Proceedings" 2022, pp. 106-110, 
+eISBN 978-967-26517-1-0. 
+4) 
+Sakinah Ali Pitchay, Muhamad Badrul Amin Mohd Tarmizi, Muhammad Syahmi Imran 
+Mohamad, Aufa Abdullah & Auni Halili Zamburi, FinEd: Financial Literacy Through 
+Edutainment, "International University Carnival on E-Learning (IUCEL) Proceedings" 2022, 
+pp. 693-698, eISBN 978-967-26517-1-0. 
+5) 
+Bashar Izzeddin Issa Aljidi, Sundresan Perumal and Sakinah Ali Pitchay. Securing data 
+using deep hiding selected least significant bit and adaptive swarm algorithm. Indonesian 
+Journal of Electrical Engineering and Computer Science. Vol. 28(3), Dec 2022. ISSN: 
+2502-4752. 
+6) 
+A’in Hazwani Ahmad Rizal, Sakinah Ali Pitchay & Yau Ti Dun. Systematic Literature 
+Review on IT Asset Management Framework in Security Operation Center, Malaysian 
+Journal of Information and Communication Technology. Vol 7(2) 2022, e-ISSN 0127-7812. 
+2020 
+7) 
+Murtadha Arif Bin Sahbudin, Sakinah Ali Pitchay &  Marco Scarpa. Geo-COVID: 
+Movement Monitoring based on Geo-fence Framework For COVID-19 Pandemic Crisis. 
+Advances in Mathematics: Scientific Journal (2020), No.9, pp. 7385–7395, ISSN: 1857-
+8365 (printed); 1857-8438 (electronic), https://doi.org/10.37418/amsj.9.9.85 Special Issue 
+on ICCEMS. {Indexed: SCOPUS} 
+8) 
+Nur Syafiqah Mohd Shamsuddin and Sakinah Ali Pitchay, Journal of Physics: 
+Conference Series, Implementing Location-Based Cryptography on Mobile Application 
+Design 
+to 
+Secure 
+Data 
+in 
+Cloud 
+Storage, 
+1551 
+(2020), 
+IOP 
+Publishing, 
+doi:10.1088/17426596/1551/1/012008 {Indexed: SCOPUS} 
+2019 
+9) 
+Nur Syafiqah Mohd Shamsuddin and Sakinah Ali Pitchay. Location-based Cryptographic 
+Techniques for Data Protection. Postgraduate Seminar Faculty of Science and 
+Technology 2018 (KoSiST’18). Malaysian Journal of Science, Health and Technology 
+(MJoSHT), [S.I], Nov 2019. ISSN 2601-0003, vol 4. Special Issue. KoSiST 2018 
+2018 
+10) Aslina Baharum, Sakinah Ali Pitchay, Rozita Ismail, Emelia Abdul Rahim, Suhaida 
+Halmy, A.Bhanupriya Naidu A/P Anathan. Discovering Austim Child Potential Using 
+Autism Parenting Application.  International Journal of Advances in Electronics and 
+Computer Science, ISSN:2393-2835. Vol. 5(5), 2018. {Impact factor: 2.68} 
+11) Aslina Baharum, Sakinah Ali Pitchay, Rozita Ismail, Noor Fzlinda Fabeil, Nordaliela 
+Mohd Rusli, Iza Azura Ahmad Bahar, Demuse: Releasing Stress Using Music Mobile 
+Application, Journal of Theoretical and Applied Information Technology, vol. 96(14), pp. 
+4624-4648, ISSN: 1992-8645, E-ISSN: 1817-3195, 2018. {Indexed: SCOPUS}. 
+12) Sakinah Ali Pitchay, Wail Abdo Ali Alhiagem, Farida Ridzuan and Sundresan Perumal. 
+Mobile Application Design for Protecting the Data in Cloud Using Enhanced Technique of 
+Encryption.   Int. Journal of Engineering & Technology (IJET), vol.7, No. 4(15), pp. 98-102, 
+2018. ISSN: 1793-8236, {Indexed: SCOPUS} 
+13) Sundresan Perumal, Ganthan Narayana Samy, Bharanidharan Shanmugam, Pritheega 
+Magalingam, Sakinah Ali Pitchay and Sameer Hasan Albakri. Transformative Cyber 
+Governance Security Model for Malaysian Government Agencies.    Int. Journal of 
+Engineering & Technology (IJET), vol.7, No. 4(15), pp. 87-92, ISSN:  2227524X, 2018. 
+{Indexed: SCOPUS} 
+14) Nurlida Basir, N. F. Nabila, Nurzi Juana Mohd Zaizi, Madihah Mohd Saudi, Farida Ridzuan 
+and Sakinah Ali Pitchay. Retrieval Performance for USIM's Quranic Search Engine.  Int. 
+Journal of Engineering & Technology (IJET), vol.7, No. 4(15), pp. 126-129, 2018. 
+{Indexed: SCOPUS} 
+15) Muhammad Afifi Mohamad Safee, Madihah Mohd Saudi, Sakinah A. Pitchay, Farida 
+Ridzuan, Nurlida Basir, Kamarudin Saadan, Fatin Nabila. Hybrid Search Approach for 
+Retrieving Medical and Health Science Knowledge from Quran. International Journal of 
+Page 8 of 24 
+ 
+Engineering & Technology (IJET), vol. 7, No. 4(15), pp. 69-74, 2018.  DOI:   
+https://doi.org/10.14419/ijet.v7i4.15.21433, {Indexed: SCOPUS} 
+2017 
+16) Samer Mahmoud Shorman, Sakinah Ali Pitchay and Rosalina Abdul Salam. Rain 
+Streaks Removal Using Total Variation and Sparse Coding Based on Case Based 
+Reasoning Approach. Journal of Engineering and Applied Sciences. Vol. 12(25) SI. 7010-
+7013. 2017. {Indexed: SCOPUS}., ISSN: 1816-949X, DOI: 10.3923/jeasci.2017.7010.7013 
+17) Anes.A.Shaker, Farida Ridzuan and Sakinah Ali Pitchay. Text Steganography using 
+Extensions Kashida based on the Moon and Sun Letters Concept. International Journal of 
+Advanced Comouter Science and Applications (IJACSA). Vol. 8(8), pp. 286-290, 2017. 
+ISSN: 21565570, {Indexed: SCOPUS}. 
+18) Basir, Nurlida; Nabila, N. F; Zaizi, Nurzi Juana Mohd; Saudi, Madihah M; Ridzuan, Farida 
+Hazwani Mohd; Pitchay, Sakinah Ali. Intelligent Quranic Ontology Retrieval.  Journal of 
+Computational and Theoretical Nanoscience. Advance Science Letters (ASL). Vol. 23(5). 
+pp. 4449-4453(5), May 2017. American Scientific Publishers. ISSN: 19366612, {Indexed: 
+SCOPUS} 
+2016 
+19) Samer Mahmoud Shorman and Sakinah Ali Pitchay, A Review of Rain Streaks Detection 
+and Removal Techniques for Outdoor Single Image, ARPN Journal of Engineering and 
+Applied Sciences, Vol. 11, No. 10, pp. 6303 - 6308, May 2016.ISSN: 1819-6608, {Indexed: 
+SCOPUS} 
+20) Intan Nurfarahin Ahmad, Farida Ridzuan, Madihah Mohd Saudi and Sakinah Ali Pitchay. 
+Indexing Android Mobile Malware,Journal of Engineering and Applied Sciences, Vol. 
+11(3),pp. 369-374, 2016. ISSN: 1816-949X, {Indexed: SCOPUS} 
+21) Muhammad Afifi Mohamad Safee, Madihah Mohd Saudi, Sakinah Ali Pitchay and Farida 
+Ridzuan. A Systematic Review Analysis for Quran Verses Retrieval. Journal of 
+Engineering and Applied Sciences, Vol. 11(3), pp. 629-634, 2016.  ISSN: 1818-7803  
+{Indexed: SCOPUS} 
+2015 
+22) Arwa Al Khatatneh and Sakinah Ali Pitchay. Compound Binarization for Degraded 
+Document Images, ARPN Journal of Engineering and Applied Sciences, Vol. 10(12), pp. 
+594-599, 2015. ISSN: 18196608, {Indexed: SCOPUS} 
+23) Samer Shorman and Sakinah Ali Pitchay, Significance of Parameters in Genetic 
+Algorithm, the Strengths, Its Limitations, and Challenges in Image Recovery. ARPN 
+Journal of Engineering and Applied Sciences, Vol. 10(2), pp. 585-593, 2015.  ISSN: 
+18196608, {Indexed: SCOPUS} 
+2012 
+24) Ata Kaban and S.A Pitchay. Single-frame Image Recovery using a Pearson type VII MRF. 
+2012, Journal of Neurocomputing, 80: pp. 111-119, Publisher: Elsevier, ISSN: 0925-2312. 
+{Indeed: SCOPUS} (invited and referred extension of MLSP’2010 paper, 14 in print for the 
+special issue out of 78 papers.) 
+2011 
+25) Sakinah Ali Pitchay. Single Frame Image Recovery for Super Resolution with Parameter 
+Estimation of Pearson, 2011, IAENG International Journal of Computer Science, vol: 
+38(1), pp. 57 – 65, Publisher: IAENG, ISSN: 1819-9224. {Indexed: SCOPUS, EI 
+Compendex, DOAJ}, (Invited journal) 
+Proceedings 
+ 
+Updated January 2023 
+(Total ISI/Scopus/ERA = 
+21) 
+(Total Non-ISI/Scopus = 
+21) 
+2023 
+1) 
+Sakinah Ali Pitchay, Azni Haslizan Ab Halim, Najwa Hayaati Mohd Alwi, Farida Ridzuan, 
+Aufa Abdullah. "Secure Cybercitizenship (SET): A Gamification Learning Tool for 
+Cybersecurity Awareness", APS Proceedings Vol. 6, pp. 106-115, July 2023, eISBN: 978-
+629-97536-4-3 
+2022 
+2) 
+Sakinah Ali Pitchay, Anis Syahira Suhaimi, Najwa Hayaati Mohd Alwi, Farida Ridzuan & 
+Azni Haslizan Ab Halim. Cyberpoly: Cybersecurity Edugame,  International University 
+Carnival on E-Learning (IUCEL) Proceedings 2022, pp. 106-110. {Selected Proceeding} 
+3) 
+Sakinah Ali Pitchay, Muhamad Badrul Amin Bin Mohd Tarmizi, Muhammad Syahmi 
+Page 9 of 24 
+ 
+Imran Bin Mohamad, Aufa Abdullah & Auni Halili Zamburi. FinEd: Finanical Literacy 
+Through Edutainment,  International University Carnival on E-Learning (IUCEL) 
+Proceedings 2022. Pp. 693-698. {Selected Proceeding}. 
+2019 
+4) 
+Syafiqah Shamsuddin and Sakinah Ali Pitchay.  Implementing Location-Based 
+Cryptography On Mobile Application Design To Secure Data In Cloud Storage.  Int. Con. 
+on Recent Advancements in Science and Technology (ICORAST), Oct 2019. 
+2018 
+5) 
+Syafiqah Shamsuddin and Sakinah Ali Pitchay.  Location-based Cryptographic 
+Techniques: Its Protocols and Parameters.  In 6th Int. Conf. on Robotics and Machine 
+Learning Intelligence: Building Blocks for Industry 4.0 (RITA’2108), Dec 2018. {Indexed: 
+SCOPUS} 
+6) 
+Boraq Ammourah and Sakinah Ali Pitchay. Challenges of Applying Scrum Model and 
+Knowledge Management for Software Product Management. In 6th Int. Conf. on Robotics 
+and Machine Learning Intelligence: Building Blocks for Industry 4.0 (RITA’2108), Dec 
+2018. {Will be published in Springer’s Lecture Notes in Mechanical Engineering 
+(LNME).} 
+7) 
+Aslina Baharum, Sakinah Ali Pitchay, Rozita Ismail, Emelia Abdul Rahim, Suhaida 
+Halmy, A.Bhanupriya Naidu A/P Anathan. Discovering Austim Child Potential Using 
+Autism Parenting Application.  ISERD – 337th International Conference on Education and 
+E-Learning (ICEEL), 2018. {Oral presenter} {Indexed: SCOPUS} 
+8) 
+Nur Syafiqah Mohd Shamsuddin and Sakinah Ali Pitchay. Location-based Cryptographic 
+Techniques for Data Protection. Postgraduate Seminar Faculty of Science and 
+Technology 2018 (KoSiST’18). Will be published in Malaysian Journal of Science, Health 
+and Technology (MJoSHT).  
+9) 
+A.A Boraq and Sakinah Ali Pitchay. Conceptual Framework of Dynamic Scrum model 
+and Knowledge Management for Software Product Management.  Postgraduate Seminar 
+Faculty of Science and Technology 2018 (KoSiST’18). Will be published in Malaysian 
+Journal of Science, Health and Technology (MJoSHT). 
+10) Nur Syafiqah Mohd Shamsuddin and Sakinah Ali Pitchay. Data Protection in Cloud 
+Storage Using Location-based Cryptography.  1st Int. Postgraduate Conference (IPGC) 
+2018. {Will be published online proceeding with ISBN number} 
+11) A.A Boraq and Sakinah Ali Pitchay. Investigate the Success Factors that Impact Scrum 
+Model Along With Knowledge Capturing of Software Product Management. 1st Int. 
+Postgraduate Conference (IPGC) 2018. {Online proceeding with ISBN number} 
+2017 
+12) Sakinah Ali Pitchay, Wail Alhiagem, Farida Ridzuan and Sundresan Perumal. Mobile 
+Application Design for Protecting the Data in Cloud Using Enhanced Technique of 
+Encryption. International Conference on Information Systems & Security (ICOISS) 2017. 
+{Oral presenter} {Indexed: SCOPUS} 
+13) Nurlida Basir, Nur Fatin Nabila, Nurzi Juana Mohd Zaizi, Madihah Mohd Saudi, Farida 
+Mohd Ridzuan and Sakinah Ali Pitchay. Retrieval Performance For USIM's Quranic 
+Search Engine. International Conference on Information Systems & Security (ICOISS) 
+2017. {Indexed: SCOPUS} 
+14) Sundresan Perumal, Ganthan Narayana Samy, Bharanidharan Shanmugam, Pritheega 
+Magalingam, Sakinah Ali Pitchay and Sameer Hasan Albakri. Transformative Cyber 
+Governance Security Model for Malaysian Government Agencies.  International 
+Conference on Information Systems & Security (ICOISS) 2017. {Indexed: SCOPUS} 
+15) Sakinah Ali Pitchay, Nur Nabihah Mohd Suhaimi, Madihah Mohd Saudi, Farida Ridzuan 
+and Nurlida Basir.  An Investigation on Jawi CAPTCHA Based Security for Login 
+Authentication and Authorization: Is it an Alternative Solution?  International Conference 
+on Internet and Multimedia Technologies 2017.  In The World Congress on Engineering 
+and Computer Science (WCECS 2017). ISSN: 2078-0958, {SCOPUS} {Oral presenter} 
+16) Madihah Mohd Saudi, Luqman Hakim Zahari, Farida Ridzuan, Nurlida Basir, Sakinah Ali 
+Pitchay, N.F. Nabila. A New Mobile Malware Classification for Camera Exploitation based 
+on System Call and Permission.  International Conference on Communications Systems 
+and Technologies (ICCST) 2017.  In The World Congress on Engineering and Computer 
+Science (WCECS 2017). {SCOPUS} 
+Page 10 of 24 
+ 
+17) Intan Nurfarahin Ahmad, Farida Ridzuan, Madihah Mohd Saudi, Sakinah Ali Pitchay, 
+Nurlida Basir and N. F. Nabila. Android Mobile Malware Classification using Tokenization 
+Approach based on System Call Sequence. International Conference on Communications 
+Systems and Technologies (ICCST) 2017.  In The World Congress on Engineering and 
+Computer Science (WCECS 2017). {SCOPUS} 
+18) Sakinah Ali Pitchay. A Survey on Information Communication Technology (ICT) course in 
+USIM from Student’s Perspective. USIM 3rd e-Learning Colloquium. 10 Aug 2017. 
+{Invited, Oral presenter} 
+19) Sakinah Ali Pitchay and Izzaty Anuar. e-Mentor: Mobile Application for Tracking 
+Student’s Performance. USIM 3rd e-Learning Colloquium. 10 Aug 2017. {Invited, Oral 
+presenter} 
+20) Arwa AL-Khatatneh, Sakinah Ali Pitchay and Musab Al-qudah. An Arabic Baseline 
+Estimation Method Based on Feature Points Extraction. Lecture Notes in Engineering 
+and Computer Science: Proceedings of The World Congress on Engineering (WCECS) 
+2017, London, U.K., pp. 485-489, 5-7 July 2017. ISBN: 978-988-14047-4-9, {Oral 
+presenter} {SCOPUS} 
+2016 
+21) Samer Mahmoud Shorman, Sakinah Ali Pitchay and Rosalina Abdul Salam. Rain 
+Streaks Removal Using Total Variation and Sparse Coding Based On Case Based 
+Reasoning 
+Approach. 
+ 
+International 
+Conference 
+on 
+Computer 
+Science 
+and 
+Telecommunication Engineering (CTSE), 2016. {SCOPUS} 
+2015 
+22) Sakinah Ali Pitchay, Wail Abdo Ali Alhiagem, Farida Ridzuan and Madihah Mohd Saudi. 
+A Proposed System Concept on Enhancing the Encryption and Decryption Method for 
+Cloud Computing,  UKSim-AMSS 17th International Conference On Modelling And 
+Simulation (UKSIM),  Cambridge, pp. 201-205,  IEEE, Indexed: SCOPUS, 2015. {Oral 
+presenter} 
+23) Arwa Al-Khatatneh, Sakinah Ali Pitchay and Musab Al-qudah. A Review of Skew 
+Detection Techniques for Document. Proc. 17th UKSim-AMSS International Conference 
+on Modelling and Simulation (UKSIM), Cambridge, pp. 316-321, IEEE, Indexed: SCOPUS, 
+2015. {Oral presenter} 
+24) M. M. Saudi, N. Basir, N. F. Nabila, F. Ridzuan and S. A. Pitchay. An Efficient Easy 
+Computer Emergency Response Team Malware Reservoir System (eZCERT).  Proc. 17th 
+UKSim-AMSS International Conference on Modelling and Simulation (UKSim), 
+Cambridge, pp. 142-146.  IEEE, Indexed: SCOPUS, 2015. 
+25) N. F. Nabila, N. Basir, M. M. Saudi, S. A. Pitchay, F. Ridzuan, A.Mamat and Mustafa Mat 
+Deris.    "Using Probability Theory to Identify the Unsure Value of an Incomplete Sentence. 
+Proc. 17th UKSim-AMSS International Conference on Modelling and Simulation (UKSim), 
+Cambridge, pp. 497-501. IEEE, Indexed: SCOPUS, 2015. 
+26) Madihah Mohd Saudi, Farida Ridzuan, Nurlida Basir, N. F. Nabila, Sakinah Ali Pitchay 
+and Intan Nurfarahin Ahmad. Android Mobile Malware Surveillance Exploitation via Call 
+Logs: Proof of Concept. Proc.17th UKSIM-AMSS International Conference on Modelling 
+and Simulation. pp. 176-181. IEEE, Indexed: SCOPUS, 2015. 
+27) M.S.M Afifi, M.M Saudi and S.A. Pitchay. A Systematic Analysis for Knowledge 
+Representation for Quran Verses, Postgraduate Colloquium FST (KoSiST 2015) 
+28) A.M Al-Khatatneh and S.A. Pitchay and M.K. Qudah. Arabic Segmentation Methods for 
+Document Images, Postgraduate Colloquium FST (KoSiST 2015) 
+29) A.A Boraq and S.A. Pitchay. A Review on Research Methodologies in Software 
+Engineering Management, Postgraduate Colloquium FST (KoSiST 2015) 
+30) S.M Shorman and S.A. Pitchay. Removal Rain Streaks of Single Image Suing Mixed 
+Filters to Decompose the Color Images into RGB, Postgraduate Colloquium FST (KoSiST 
+2015) 
+31) Sakinah Ali Pitchay and Farida Ridzuan. E-Learning Tools Using Goals For Network And 
+Management Information System Course And Its Challenges In USIM. The First E-
+Learning Colloquium of USIM, Jan 2015. {Oral presenter} 
+32) Farida Ridzuan and Sakinah Ali Pitchay. A comparison study on the effect of e-learning 
+tools towards students' comprehension for Principles of Computer Network Course in 
+Page 11 of 24 
+ 
+USIM.  The First E-Learning Colloquium of USIM, Jan 2015. 
+2014 
+33) Arwa Mahmoud AL-Khatatneh, Sakinah Ali Pitchay and Musab Kasim Al-qudah. 
+Advancement In Information Technology International Conference (ADVCIT), 2014. {Oral 
+presenter} 
+34) Samer M. Shorman and Sakinah Ali Pitchay. Significance of Parameters In Genetic 
+Algorithm, The Strengths, Its Limitations and Challenges In Image Recovery, 
+Advancement In Information Technology International Conference (ADVCIT), 2014. {Oral 
+presenter} 
+35) Samer Mahmoud Shorman and Sakinah Ali Pitchay. Comparison Image Restoration 
+Methods between Wiener filter and Richardson Lucy using SSIM.  In. Proc. Postgraduate 
+Colloquium of Faculty of Science and Technology, USIM. pp. 79 – 82. Oct 2014. {Best 
+Presentation Award} 
+36) A.M. Al-Khatatneh, S.A Pitchay and M.K. Alqudah. An Evaluation Review of Binarization 
+Techniques for Degraded Document Images. In Proc. Postgraduate Colloquium of Faculty 
+of Science and Technology, USIM. pp. 83 – 86. Oct 2014 
+37) A.A Boraq and S.A. Pitchay. Towards Dynamic Scrum Model and Knowledge Support in 
+Software Product Management.  In. Proc. Postgraduate Colloquium of Faculty of Science 
+and Technology, USIM. pp. 69 – 71. Oct 2014 
+38) I.M. Khalifa and S.A. Pitchay. Examining the Influence of Critical Success Factors (CSFs) 
+in the Implementation of Enterprise Resource Planning (ERP) in SMEs.   In. Proc. 
+Postgraduate Colloquium of Faculty of Science and Technology, USIM. pp. 122 – 124. Oct 
+2014 
+2013 
+39) Sakinah Ali Pitchay and A Kab´an. Estimation of The Regularisation Parameter in Huber-
+MRF for Image Resolution Enhancement. Springer Proceedings of 14th International 
+Conference on Intelligent Data Engineering and Automated Learning, IDEAL 2013, 
+LNCS8206, pp. 294 – 301, {Publisher: Springer}, 2013. {Oral presenter} {Indexed: 
+SCOPUS} 
+40) Hanifah Abd Hamid, Waidah Ismail, Sakinah Ali Pitchay, Najwa Hayaati Mohd Alwi, 
+Mazlynda Md Yusuf, Yumn Suhaylah Yusoff, Proposed Character Recognition Application 
+for People with Hearing and Visually Impaired, i-INOVA 2013, USIM 
+41) S. Ali-Pitchay and A Kab´an. Single-frame Signal Recovery Using a Similarity-Prior. 2013, 
+Springer Proceedings in Mathematics & Statistics 30, Mathematical Methodologies in 
+Pattern Recognition and Machine Learning, vol. 30, pp. 83-98, {Publisher: Springer}, 
+(invited extension of ICPRAM’2012 selected contribution). {Oral presenter} {SCOPUS} 
+2012 
+42) S.A Pitchay and A Kab´an. Multi-task Signal Recovery by Higher Level Hyperparameter 
+Sharing, 2012, Proc. 21st of International Conference on Pattern Recognition (ICPR’2012), 
+pp. 2246-2249, {Publisher: IEEE Signal Processing Society, Elsevier. Indexed: SCOPUS}. 
+{Oral presenter} 
+43) S. Ali-Pitchay and A Kab´an. Single-frame Signal Recovery Using a Similarity-Prior 
+Based on Pearson type VII MRF, 2012. In Proceedings of the 1st International Conference 
+on Pattern Recognition Applications and Methods, ICPRAM’2012, pp. 123-133, {Publisher: 
+Sci-TePress, Indexed: ISI Thomson Reuters, EI Compendex, Inspec, dblp.uni-trier.de 
+(Computer Science Bibliography)} {Oral presenter} 
+2010 
+44) A Kab´an and S.A Pitchay. Single-frame Image Superresolution using a Pearson type VII 
+MRF. 2010, Proc. IEEE International Workshop on Machine Learning for Signal 
+Processing, MLSP, pp. 29-34, August 29 - September 1, 2010, Kittila, Finland. {SCOPUS} 
+Chapter in 
+Books/Lecture Notes 
+Updated January 2023 
+(Total ISI/Scopus/ERA = 
+5) 
+2022 
+1. 
+Azni Zain Ahmed, Sakinah Ali Pitchay, Kamarul Aryffin Baharuddin, Asma Lailee Mohd 
+Noor & Siti Sara Ibrahim. ALIVE, Agile Leadership in the Covid-19 Era. “Leadership and 
+Decision Making in Uncertain Times: Focus on Higher Education”, pp. 91-114, 2022, 
+ISBN: 978-967-363-866-6, Publisher: UiTM Press. 
+2019 
+Page 12 of 24 
+ 
+ 
+2. 
+Sakinah Ali Pitchay, Sharina Ali Pitchay & Nur Syafiqah Mohd Shamsuddin. The 
+Integration of Naqli and Aqli in Information Security and Assurance from The Islamic and 
+Technological Perspectives. Chapter 1 ADAB: Digital Citizen, Security Awareness and 
+Misuse of Social Media. ISBN 978-967-440-593-9, 2019, Publisher: USIM Press 
+3. 
+Sakinah Ali Pitchay. The Integration of Naqli and Aqli in Information Security and 
+Assurance from The Islamic and Technological Perspectives. Chapter 8 A Review on 
+Pokemon Go: Security Threats from an Islamic Perspective and Information Security. 
+ISBN 978-967-440-593-9, 2019, Publisher: USIM Press. 
+4. 
+Syafiqah Shamsuddin and Sakinah Ali Pitchay.  Location-based Cryptographic 
+Techniques: Its Protocols and Parameters.  In 6th Int. Conf. on Robotics and Machine 
+Learning Intelligence: Building Blocks for Industry 4.0, RITA’2108, Springer’s Lecture 
+Notes in Mechanical Engineering (LNME), pp. 75-86. ISBN: 978-981-13-8322-9, 
+{SCOPUS} 
+5. 
+Boraq Ahmad Abed Ammourah and Sakinah Ali Pitchay.  Challenges of Applying Scrum 
+Model and Knowledge Management for Software Product Management.  In 6th Int. Conf. 
+on Robotics and Machine Learning Intelligence: Building Blocks for Industry 4.0, 
+RITA’2108, Springer’s Lecture Notes in Mechanical Engineering (LNME), pp. 123-130. 
+ISBN: 978-981-13-8322-9, {SCOPUS} 
+6. 
+Aslina Baharum, Suhaida Halamy, Nurul Hidayah Mat Zain, Sakinah Ali Pitchay and Nur 
+Ainna Ramli. Innovation for Sustainable Growth (Series 1), DeMuse: Music Mood 
+Application, Growing Creative and Innovative Solutions, 2018, Publisher: MNF 
+2017 
+7. 
+Sakinah Ali Pitchay, A Survey on Information Communication Technology (ICT) course in 
+USIM from Student’s Perspective, Buku Kompilasi Artikel Kolokium E-Pembelajaran 
+Universiti Sains Islam Malaysia, 2017. 
+8. 
+Sakinah Ali Pitchay and Izzaty Anuar, e-Mentor: Mobile Application for Tracking 
+Student’s Performance, Buku Kompilasi Artikel Kolokium E-Pembelajaran Universiti Sains 
+Islam Malaysia, 2017. 
+2016 
+9. 
+Sakinah Ali Pitchay and Muhamad Fadhil Ahmad Zaki. Growing Creative and Innovative 
+Solutions Series 2. Chapter 35: i-ARMS: Secured Web-Based for Integrated Academic 
+and Research Management System,pp. 157-161,, InICC 2/2016. ISBN: 978-967-13637-3-
+7, MNF Publisher. 
+2013 
+10. Sakinah Ali Pitchay. Single-Frame Signal Recovery Using a Similarity-Prior. 
+Mathematical Methodologies in Pattern Recognition and Machine Learning. pp. 83-98, 
+2013. {Publisher: Springer Science+Business Media New York, Indexed: SCOPUS} 
+2011 
+11. Sakinah Ali Pitchay. Non-linear Image Recovery from a Single Frame Super Resolution 
+Using Pearson Type VII Density. Intelligent Automation and Systems Engineering, pp. 
+295-307, Lecture Notes in Electrical Engineering 103, 2011. {Publisher: Springer, 
+Indexed: SCOPUS} (invited publication on Lecture Notes) 
+2010 
+12. Sakinah Ali Pitchay and Ata Kaban. Non-linear Image Recovery from a Single Frame 
+Super Resolution Using Pearson Type VII Density. International Conference on Machine 
+Learning and Data Analysis, Lecture Notes in Engineering and Computer Science in World 
+Congress on Engineering and Computer Science (WCECS 2010) pp 426 – 431, 2010. 
+{Publisher: IAENG, Indexed: SCOPUS} 
+Books/Modules 
+1. 
+Sakinah Ali Pitchay, Applied Science & Technology in Information Security & Assurance, 
+Financial Mathematics & Actuarial Science & Risk Management. “Mobile Application for 
+Attendance System Using Barcode (MOBAS)”. ISBN 978-967-440-890-9. USIM Press. 
+{Editor & Author}, 2021. 
+2. 
+Sakinah Ali Pitchay, Farida Hazwani Mohd Ridzuan, Nur Hafiza Zakaria, Textbook USIM 
+Tamhidi Centre - Computing II. Penerbit USIM Press. ISBN: 978-967-440-982-1. {Editor & 
+Author}, 2021 
+3. 
+Sakinah Ali Pitchay, The Integration of Naqli and Aqli in Information Security and 
+Page 13 of 24 
+ 
+Assurance in Islamic and Technological Perspectives. ISBN 978-967-440-593-9, USIM 
+Press. Editor, 2019. 
+4. 
+Sakinah Ali Pitchay, Penambahbaik Modul bagi Researach Methodology (Bahasa 
+Inggeris), GOAL-Centre, USIM 2014 
+5. 
+Sakinah Ali Pitchay, Azreena Abu Bakar, Hanifah Abdul Hamid and Azni Haslizan Ab 
+Halim. Information and Communication Technology Lab Manual, Centre for General 
+Studies USIM, contributed 8 from 10 chapters, 2009, ISBN: 9673490090, 
+9789673490097. {Publisher: Pearson} 
+Bulletin 
+1) 
+Sakinah Ali Pitchay. C-Learning vs E-Learning. GOALShare Bulletin. Vol. 1, pp. 3, Jan 
+2015. eISSN 2289-8727 {http://issuu.com/goalcentreusim/docs/full_goalshare_jan_2015-
+1} 
+2) 
+Sakinah Ali Pitchay. Challenges in Teaching ICT Subject in USIM. GOALShare Bulletin. 
+Vol. 
+4, 
+pp. 
+3, 
+April 
+2015. 
+ 
+eISSN 
+2289-8727 
+{http://issuu.com/goalcentreusim/docs/full_goalshare_april_2015} 
+3) 
+Sakinah Ali Pitchay. Free Android and iOS: Must-Have Applications. GOALShare 
+Bulletin. 
+Vol. 
+5, 
+pp. 
+4, 
+Issue 
+May 
+2015. 
+eISSN 
+2289-827 
+{http://issuu.com/goalcentreusim/docs/full_goalshare_mei_2015} 
+4) 
+Sakinah Ali Pitchay. Tips to Create an Effective e-Learning Strategy Using GOALS. 
+GOALShare Bulletin. Vol. 6, pp. 4, June 2015. eISSN 2289-827   
+{https://issuu.com/goalcentreusim/docs/full_goalshare_jun_2015b} 
+Copyrights 
+1) 
+Secure Cybercitizenship (SET), Filing No.: LY2023W00970, Filling Date: 13 March 2023 
+(Leader) 
+2) 
+SWINDLERT, Filing No.: LY2023W00971. Filling Date: 13 March 2023 (Leader) 
+3) 
+SAKTI-Chatbox, Filing No: LY2023W00969, Filling Date: 13 March 2023 
+4) 
+CYBERPOLY, CRLY2022W01109, Filling No: LY2022W01109, Filling Date: 17/3/2022 
+(Leader) 
+5) 
+Jawi Captcha (JaCAPT) Based Security System for Login Authentication. Filling No: 
+LY2018003092, Filling Date: 27/07/2018, (Leader) 
+6) 
+Q-Checked. CRLY00007808, Filling No: LY2017001537, Filling Date: 08/05/2017 
+7) 
+EZCERT 2.0 Filling No: LY2015002036, Filling Date: 02/12/2015 
+11 
+Research 
+ 
+Principal 
+(Total of RM 90, 500) 
+(4 completed) 
+Updated Jan 2024 
+Completed  
+1. 
+Game-Based Learning Tool for Cybersecurity Awareness with Naqli and Aqli Integration, 
+PPPI/BM/FST/USIM/13723, 1/8/2022 – 31/7/2023.  Grant: Biduni Mizanniyah. 
+2. 
+A new algorithm for adaptation rules using case-based reasoning (CBR) technique.  
+15/12/2014 – 1/06/2017. Amount: RM39,000 Grant: Dana Pembudayaan Penyelidikan 
+(RAGS), USIM/RAGS/FST/36/50914. 
+3. 
+Investigation on Reconstruction of Binary Image Using Genetic Algorithm. 09/04/2014 – 
+08/04/2015. Amount: RM1,000. Grant: Geran Penyelidikan Insentif USIM. 
+4. 
+A New Algorithm of Geo-Encryption Based on Location for Cloud Storage. 15/08/2017 – 
+15/08/2020. Amount: RM50,500.00. Grant: Geran Penyelidikan Fundamental (FRGS), 
+USIM/FRGS/FST/055002/50217. 
+Principal & Member 
+(Total of RM 1, 047 
+828.00) 
+(3 on-going) 
+(10 completed) 
+Updated May 2024 
+Ongoing 
+1. 
+CYBER 
+HASANAT: 
+Secure 
+Cybercitizenship 
+Awareness, 
+Geran 
+Sumbangan 
+Suruhanjaya Kebangsaan UNESCO Malaysia (GSS), Feb – Aug 2024. Amount: 
+RM8203.00 (Principal) 
+2. 
+Enhancing Disaster Preparedness and Resilience Through A Mobile Edutainment Based 
+on User-Centered Approach, PPPI/PENTADBIR/FST/USIM/19723. Nov 2023 – Nov 2025, 
+Amount: RM 20,000.00 (Principal) 
+3. 
+A Novel Framework of Surveillance and Quarantine Monitoring During Pandemic based 
+using Geo-fencing Techniques. Fundamental Research Grant Scheme (FRGS). Oct 2023 
+– Oct 2025, Amount: RM 123,800.0 (Member) 
+Page 14 of 24 
+ 
+4. 
+Balanced Cover Audio Suggestion for Audio Steganography Algorithm Based on NSGA-II 
+Segmentation and Chaotic Map. Nov 2020-2023.  Fundamental Research Grant Scheme 
+(FRGS). Amount:  RM 99,425.00 (Member) 
+Completed 
+5. 
+A Study on Malaysian Digital Signature (DS) Market Demand and Feasibility of 
+Certification Authority (CA) Interoperability, RM10,000.00, (1/6/2023 – 30/11/2023), Grant: 
+Malaysian 
+Communications 
+and 
+Multimedia 
+Commission 
+(MCMC), 
+USIM/MCMC/FST/LUAR-K/42623. 
+6. 
+A 
+New 
+Integrated 
+Postgraduate 
+Student 
+Systems 
+Development. 
+PPP/KHAS_PPS/FST/30/15215. 25/08/2015 – 25/12/2016. Amount: RM250,00.00, Grant: 
+Geran Penyelidikan Khas 
+7. 
+A New Algorithm for Indexing Big Data Using Case Based. USIM/RAGS/FST/36/50814 
+Duration: 01/12/2014-30/11/2016 Amount: RM35,000, Dana Pembudayaan Penyelidikan 
+(RAGS), USIM/RAGS/FST/36/50814. 
+8. 
+A study of ICT Literacy Among First Year Students of USIM, 01/02/2008 - 31/12/2012.  
+Grant: PPPP/PPU-01-20108 
+9. 
+An Investigation on Factors Contributing to Knowledge Sharing In USIM, 01/02/2008 - 
+31/12/2012, Grant: PPPP/PPU-01-10108. 
+10. Evolutionary 
+Multi-Objective 
+Optimization 
+for 
+Cover 
+Audio 
+Selection 
+in 
+Audio 
+Steganography. 15/08/2017 – 15/08/2019. Amount: RM62,000. Grant: Geran Penyelidikan 
+Fundamental (FRGS). 
+11. Intelligent Spam Detection Model Based on Immunological Memory of Adaptive Immune 
+System.  Duration: 01/08/2016-01/08/2019 Amount: RM69,000, Geran Penyelidikan 
+Fundamental (FRGS). 
+12. An Intelligent Self-Destruct Smartphone Algorithm Using Apoptosis for Root Exploitation. 
+Duration: 01/07/2014 - 01/01/2018 Amount: RM100,400, Grant: Geran Penyelidikan 
+Fundamental (FRGS) 
+13. Penggalian Petunjuk Ilmu Aqli Dalam Quran.  Duration: 1/07/2014-1/07/2016 Amount: 
+RM270,000. Geran Penyelidikan Kompetitif (USIM-C) 
+12 
+Conference / Workshop 
+/ Talk 
+ 
+Invited Speaker 
+2024 
+1. 
+Invited Speaker, "Seminar Pembangunan Diri dan Kompetensi Kerjaya Pelajar JKMP, 
+FKAB, Universiti Kebangsaan Malaysia 
+2. 
+Invited Speaker, Mock Presentation Workshop - Preparation for PIITRAM 2024, 9 Feb 
+2024 
+3. 
+Invited Speaker, Program Career Series: Resume, 28 April 2024, FSU, USIM. 
+4. 
+Virtual Session Speaker, 7th International Conference on Multi-Disciplinary Research 
+Studies & Education (ICMDRSE), “Education and Technology Trends Session”, 25 May 
+2024. 
+ 
+2023 
+5. 
+Invited Speaker, Tech Tactics in Education: Data and IT Security in the New Now 
+conference, Orlando, Florida (F2F), 7-9 Nov 2023, Building Cybersecurity Competencies 
+in Higher Education via Gamification: From Theory to Innovative Solutions 
+6. 
+Invited Speaker, Webinar On Next-Gen Solutions: Innovations in Cybersecurity 
+Awareness, 11 Aug 2023  
+7. 
+Invited Speaker, 24 Hours IEEE Day 2023 Celebration, Online Zoom, 3 Oct 2023 
+8. 
+Invited Speaker, Exploring The IT Industry: Coffee Talk Session at Agmo Studio, 19 July 
+2023, Higher Education Malaysian Association (HEYA) 
+9. 
+Invited Speaker,  How Diversity Makes Team More Innovative, SCITEX, Dec 2023, USIM 
+10. Invited Speaker, Tips & Strategies: Innovation Talk - The Secret to Great Opportunities, 8 
+Sept 2023, USIM 
+11. Invited Speaker, Career Talk: Beginning to Adulthood, 13 Jan 2023, MS Teams, Faculty 
+of Economics & Muamalat, USIM 
+12. Invited Speaker, Resume Tips & LinkedIn Profile (F2F), 31 March 2023, USIM 
+13. Invited Speaker & Jury Hackhaton Competition (Aturkreatif’23), 4 June 2023. 
+Page 15 of 24 
+ 
+14. Invited Speaker, Career Workshop: Teknik Penulisan Resume (F2F), 15 Okt 2023, Pusat 
+Alumni & Kerjaya USIM 
+15. Invited Speaker, Seminar "Level Up your LinkedIn: Strategies for Success", 24 Nov 2023, 
+Olek Godang @ USIM, Pesta Konvokesyen kali ke-21 {700 participants} 
+2022 
+16. Invited Speaker, Seminar Akademik Empowering Youth In Academic Performance, 25 
+Dec 2022. UIAM Gombak. 
+17. Invited Speaker, Bengkel Linked From Zero to Hero, 9 Dec 2022, Zoom, Bahagian Hal 
+Ehwal Pelajar, MPP USIM & PERSADA. {450 participants, 700+ registered users) 
+18. Invited Speaker, ‘Oh Senang Je! (OSJ) : Bengkel Linked In’, Google Meet, 6 Aug 2022. 
+Persatuan Belia Harmoni Malaysia (HARMONI) Nilai, Negeri Sembilan. 
+19. Invited Speaker & Jury Hackathon Competition (Aturkreatif), 21 May 2022. 
+20. Invited Speaker, LinkedIn Workshop, Zoom, 2 April 2022. Sekretariat Quran dengan 
+Multimedia, USIM. 
+21. Invited Speaker, LinkedIn Workshop, MS Teams, 21 May 2022, Pusat Islam, USIM 
+22. Invited Speaker, LinkedIn Workshop, Google Meet, 4 June 2022. Sekretariat Rakan 
+Siswa Yadim USIM 21/22. 
+2021 
+23. The 11th International Conference on Green Technology, Zoom Online Conference, 26 
+Oct 2021, Universitas Islam Negeri Maulana Malik Ibrahim, Malang, Indonesia – Invited 
+Speaker 
+24. Speaker, Graduate Employability (GE) Seminar USIM 2021  
+25. Speaker, Seminar Hari Kerjaya Fakulti Sains & Teknologi, MS Teams, 21 Sept 2021. 
+26. Speaker, CareerFaST & Graduate Employability Workshop: Future Self Brand via 
+LinkedIn & CV Development, MS Teams, 27 June 2021. 
+2018 
+52013 
+27. Wacana Siswazah Fakulti Sains dan Teknologi (FST), USIM, Malaysia, 8 November 2013. 
+”Getting Started with LaTeX - Pembentang Wacana. 
+International  
+2024 
+1. 
+The International Conference on Emerging Technologies and Sustainability 2024 (ICETS), 
+Universitas Pamulang (UNPAM), Kota Tangerang Selatan, Indonesia, 31 Aug & 1 Sept 
+2024  – Oral Presenter 
+ 
+2020 
+2. 
+The 9th International Conference on Computer Science & Computational Mathematics 
+(ICCSCM 2020), Organized: Science and Knowledge Research Society, 9-10 July 2020 – 
+Presenter 
+3. 
+7th International Cryptology and Information Security Conference 2020 
+(CRYPTOLOGY2020), 9 - 10 June 2020, Web Conferencing, Organizer : UPM, 
+CyberSecurity Malaysia, Malaysian Society for Cryptology Research – Participant 
+4. 
+Asia AI Virtual Summit (AIVS) 2020, 11 June 2020 – Participant 
+5. 
+World UX Online Conference, 10 June 2020 – Participant 
+2019 
+6. 
+International University Carnival on E-Learning (IUCEL) 2019, UNIMAS – Oral Presenter 
+(Sponsored) 
+2018 
+7. 
+ISERD 337th International Conference on Education and E-Learning (ICEEL), 2018, 
+Seoul, South Korea, 18-19 March 2018 – Oral Presenter 
+2017 
+8. 
+International Conference on Internet and Multimedia Technologies 2017 (ICIMT’17), San 
+Francisco, USA, 25-27 October 2017 –  Oral Presenter  - Dana Geran Penyelidikan 
+2016 
+9. 
+International Conference on Signal Processing and Imaging Engineering 2016, WCECS, 
+Page 16 of 24 
+ 
+San Francisco, USA, 19-21 October 2016 –  Oral Presenter – Dana Geran Penyelidikan  
+2015 
+10. 17th International Conference on Computer Modelling and Simulation 2015 (UKSim’15) 
+Cambridge, UK, 25-27 March 2015 - Oral Presenter – Dana Geran Penyelidikan 
+2014 
+11. Advancement In Information Technology International Conference 2014 (ADVCIT’14) 
+Bandung, Indonesia, 16-18 De 2014 -   Oral Presenter  – Dana Geran Penyelidikan 
+2013 
+12. The In. Conf. on Intelligent Data Engineering & Automated Learning, (IDEAL’2013), Hefei, 
+China, 20-23 Oct 2013 - Oral Presenter – Dana Geran Persidangan USIM 
+2012 
+13. The 21st International Conference on Pattern Recognition (ICPR 2012) Tsukuba, Japan, 
+11-15 November 2012 -   Oral Presenter –  Dana Geran Pelajar Siswazah School of 
+Computer Science, University of Birmingham, UK 
+14. 1st International Conference on Pattern Recognition Applications and Methods 
+(ICPRAM’12), Vilamoura, Portugal, 6-8 February 2012 -   Oral Presenter –  Dana Geran 
+Pelajar Siswazah School of Computer Science, University of Birmingham, UK 
+Local 
+2018 
+15. 2nd Advanced Research in Engineering & Information Technology (AVAREIT’18) Kuala 
+Lumpur, Malaysia 22-23 January 2018 -  Keynote Speaker / Pembentang Jemputan 
+Ucaptama – Sponsored by Malaysia Technical Scientist Association (MALTESAS) 
+16. 6th Int. Conf. on Robotics and Machine Learning Intelligence: Building Blocks for Industry 
+4.0 (RITA’2108), 16-18 Dec 2018. 
+2017 
+17. International Conference on Information Systems & Security (ICoISS 2017) Melaka, 
+Malaysia, 7-8 November 2017 -  Oral Presenter – Dana Geran Penyelidikan 
+18. International University Carnival on e-Learning (IUCEL 2017) Negeri Sembilan, Malaysia, 
+26-27 September 2017 -  -  Oral Presenter – Dana Geran Penyelidikan 
+19. USIM 3rd e-Learning Colloquium 2017, Negeri Sembilan, Malaysia, 10 August 2017 -  
+Pembentang Lisan 
+2016 
+20. International Conference on Computer Science, (COMCSECT 2016) Kuala Lumpur, 
+Malaysia, 23-24 January 2016 -  -  Oral Presenter  
+21. International Conference on Computer Science and Telecommunication Engineering, 
+Selangor, Malaysia, 19-20 November 2016 - Oral Presenter  – Dana Geran Siswazah 
+22. International Invention and Innovative Competition (InIIC Series 2/2106) -  Oral Presenter   
+2015 
+23. International Conference on Telecommunication, Electronic and Computer Engineering 
+Melaka, Malaysia, 16-17 November 2015 -  Pembentang Lisan – Dana Geran 
+Penyelidikan 
+24. Postgraduate Colloquium FST (KoSIST 2015), Negeri Sembilan, Malaysia, 13 October 
+2015 -  Pembentang Lisan – Dana Geran Siswazah 
+25. Kolokium e-Pembelajaran USIM Kali Pertama, Negeri Sembilan, Malaysia, 21 January 
+2015 – Pembentang Lisan – Tanpa Biaya 
+2014 
+Page 17 of 24 
+ 
+26. Advancement in Information Technology International Conference (ADVCIT),  Selangor, 
+Malaysia, 16-18 December 2014 -  Pembentang Lisan – Dana Geran Penyelidikan 
+13 
+Consultation & Expert Contribution 
+Consultation 
+2023 
+1. 
+KPT-Pace Grant, Empowering Graduates with Power BI (Business Intelligence), 
+RM300,000.00, USIM. (Leader) 
+ 
+2022-2023 
+1. 
+KPT-Pace Grant, EC-Council Certified Network Defender (CND), RM150,000.00, USIM. 
+(Leader) 
+2. 
+Intervention Grant (Geran Intervensi) Application Evaluation Panel USIM 2022. 
+ 
+2021 
+3. 
+Intellectual Property (Harta Intelek) Registration Application Evaluation Panel, USIM 
+4. 
+KPT-Pace Grant, Pensijilan Profesional Global Ace Penetration Tester Cybersecurity 
+Malaysia, RM90,000.00, USIM. 
+ 
+2019 
+5. 
+Perunding & Enumerator Pembangunan Kerja-kerja Pengaturcaraan Sistem bagi pihak 
+Kiplepay Sdn Bhd, 1 Sept 2019 – 31 Mac 2020, USIM/KIPLEPAY/ALJAZARI/FST/80119 – 
+KIPLE FRAUD MANAGEMENT SYSTEM, (lead by Dr Sundresan Perumal (FST)), 
+Ongoing, RM500,000. 
+2019  
+6. 
+Penggubal (Creator) Module Introduction to IR 4.0. {By invitation, Level: National, 
+RM215}. 
+7. 
+Instructor & Facilitator, The Incredible Ways with IR 4.0 and AI Through Programming – 
+The Beginning, 4 – 8 Nov 2019, Organized by Ministry of Higher Education (MOHE) 
+Malaysia and USIM {By invitation, Level: National, RM7630.00}. 
+8. 
+Pentaksir (Vetter) Soalan Sains Komputer I Program Matrikulasi (PSPM).  Kementerian 
+Pendidikan Malaysia (KPM), 12-15 Feb 2018. {By invitation, Level: National, RM400} 
+2018 
+9. 
+Penggubal (Creator) Soalan Peperiksaan Akhir Sains Komputer Semester I SCS015, 
+Program Matrikulasi (PSPM).  Kementerian Pendidikan Malaysia (KPM), 2018. {By 
+invitation, Level: National, RM250}. 
+10. Pentaksir (Vetter) Soalan Peperiksaan Akhir Sains Komputer SCS025 (Bahasa 
+Pengaturcaraan) Program Matrikulasi (PSPM).  Kementerian Pendidikan Malaysia (KPM), 
+12-15 Feb 2018. {By invitation, Level: National, RM400} 
+2017 
+11. Perundingan ”A Joint User Requirements Gathering and Interface Design of iPPS 
+System”, Ikhtisas Venture, 1 August 2015 – 31 January 2017. 
+12. Consultant. System Development. 2016–2017. Indkom Engineering.  
+Pembantu Perunding, Membangunkan kerja-kerja pengaturcaraan Sistem ‘Material 
+Resource Planning (MRP)’, Indkom Engineering Sdn Bhd. (2016-2017). {Level: National} 
+13. Pemeriksa Skrip Jawapan Sains Komputer (SC025) Sem II 2016/2017 Program 
+Matrikulasi (PSPM), Kementerian Pendidikan Malaysia (KPM), 2017. 12 - 17 Mei 2017. 
+{By invitation, Level: National, RM600} 
+2016 
+14. Pemeriksa Skrip Jawapan (Answer Script Checker) Sains Komputer (SC015) Program 
+Matrikulasi (PSPM) Sem I 2016/2017.  Kementerian Pendidikan Malaysia (KPM), 24 - 29 
+Nov 2016. {By invitation, Level: National, RM650} 
+15. Pentaksir (Vetter) Sains Komputer DC015 Program Matrikulasi (PSPM).  Kementerian 
+Pendidikan Malaysia (KPM), 26 - 28 Julai 2016. {By invitation, Level: National, RM300} 
+ 
+2015 
+16. Penggubal (Creator) Kertas Soalan Sains Komputer (SC015) Sem I Program Matrikulasi 
+Page 18 of 24 
+ 
+(PSPM), Kementerian Pendidikan Malaysia (KPM), 29 Okt 2015 - 25 Jan 2016. Dwi 
+Bahasa – Inggeris dan Bahasa Melayu serta skema jawapan. {By invitation, Level: 
+National, RM250} 
+17. Penggubal (Creator) Kertas Soalan Sains Komputer (DC015) Sem I Program Matrikulasi 
+(PSPM).  Kementerian Pendidikan Malaysia (KPM), 29 Okt 2015 - 25 Jan 2016. Dwi 
+Bahasa – Inggeris dan Bahasa Melayu serta skema jawapan. {By invitation, Level: 
+National, RM250} 
+18. Penggubal (Creator) Kertas Soalan Sains Komputer (DC025) Sem II Program Matrikulasi 
+(PSPM).  Kementerian Pendidikan Malaysia (KPM), 29 Okt 2015 - 25 Jan 2016. Dwi 
+Bahasa – Inggeris dan Bahasa Melayu serta skema jawapan. {By invitation, Level: 
+National, RM250} 
+19. Pemeriksa Skrip Jawapan Sains Komputer (SC015) Program Matrikulasi (PSPM).  
+Kementerian Pendidikan Malaysia (KPM), Sem 1, Sesi 2015/2016. 11-16 Nov 2015. {By 
+invitation, Level: National, RM786} 
+20. Pemeriksa Skrip Jawapan Sains Komputer (SC025) Program Matrikulasi Kementerian 
+Pendidikan Malaysia (KPM), Sesi 2014/2015. 29 Apr - 4 Mei 2015. {By invitation, Level: 
+National, RM720} 
+21. Pentaksir (Vetter) Soalan Sains Komputer DC015 Program Matrikulasi (PSPM). 
+Kementerian Pendidikan Malaysia (KPM), 31 Mac - 3 Apr 2015. {By invitation, Level: 
+National, RM400} 
+22. Pentaksir (Vetter) Soalan Sains Komputer SC015 Program Matrikulasi (PSPM). 
+Kementerian Pendidikan Malaysia (KPM), 24 - 27 Feb 2015. {By invitation, Level: 
+National, RM400} 
+2014 
+23. Penggubal (Creator) Kertas Soalan Sains Komputer (SC015) Program Matrikulasi. 
+Kementerian Pendidikan Malaysia (KPM), Sesi 2015/2016. 29 Oct 2014 - 20 Jan 2015. 
+Dwi Bahasa – Inggeris dan Bahasa Melayu serta skema jawapan.  {By invitation, Level: 
+National, RM250} 
+24. Penggubal (Creator) Kertas Soalan Sains Komputer (DC015) Program Matrikulasi. 
+Kementerian Pendidikan Malaysia (KPM), Sesi 2015/2016. 29 Oct 2014 - 20 Jan 2015. 
+{By invitation, Level: National, RM250} 
+25. Pemeriksa Skrip Jawapan Sains Komputer (SC015) Program Matrikulasi KPM Sesi 
+2014/2015, 14 - 19 Nov 2014. {By invitation, Level: National, RM600} 
+26. Pemeriksa Skrip Jawapan Sains Komputer SC025, Program Matrikulasi KPM. 30 Apr - 5 
+Mei 2014. {By invitation, Level: National, RM600} 
+27. Penggubal Tambah Baik, Modul Kursus Analisis Data dan Metodologi Penyelidikan, 
+Universiti Sains Islam Malaysia, 4-29 Ogos 2014. Dalam Bahasa Inggeris. {By invitation, 
+Level: University, RM300} 
+2013 
+28. Pemeriksa Skrip Jawapan Sains Komputer SC015, Program Matrikulasi KPM. 9-14 Nov 
+2013. {By invitation, Level: National, RM618} 
+ 
+ 
+Reviewer 
+Programme 
+1. 
+External Reviewer Programme (Penilai Luar Program) “Deemed Accredited”.  Bachelor 
+of Information Technology (Hons) Information System Engineering. Universiti Teknologi 
+MARA (UiTM). Januari 2018. {By invitation, Level: National, RM600} 
+2. 
+External Reviewer Programme (Penilai Luar Program) “Deemed Accredited”. Bachelor 
+of Science (Hons) Netcentric Computing. Universiti Teknologi MARA (UiTM). Januari 
+2018. {By invitation, Level: National, RM600} 
+Journal 
+1. 
+2023:  Journal of Communication and Media Technologies 
+2. 
+2023: International Journal of Medical Informatics 
+3. 
+2023: International Journal of Computational Vision and Robotics 
+4. 
+2017 – 2024 : IEEE Access 
+5. 
+2017: Journal of Telecommunication, Electronic and Computer Engineering (JTEC) 
+Page 19 of 24 
+ 
+Proceeding/Colloqium 
+1. 
+2nd International Conference on Innovations in Computer Science & Software Engineering 
+(ICONICS’18), 2018 
+2. 
+The IEEE 6th International Conference on Future Internet of Things and Cloud (FiCloud 
+2018) 
+3. 
+1st International Halal Management Conference (IHMC), 2017 
+4. 
+5th International Conference on Internet Applications, Protocols & Services, (NETAPPS) 
+2017 
+5. 
+International Conference Software Engineering and Computer Systems (ICSECS) 2017 
+6. 
+6th International Conference on Computing and Informatics (ICOCI’17), 2017. 
+7. 
+1st International Conference on Innovations in Computer Science & Software Engineering 
+(ICONICS’16), 2016 
+8. 
+10th IEEE International Conference on Open Source Systems and Technologies 
+(ICOSST-2016), 2016. 
+9. 
+Postgraduate Colloquium Faculty of Science & Technology (KoSIST’15)  2015 
+Editor 
+1. 
+2021 - Textbook: Computing II for foundation students of Tamhidi Physical Science & 
+Technology, USIM Press. 
+2. 
+2020 - Manuscript Undergraduate Research in Applied Science and Technology 2018: 
+Information Security & Assurance, Actural Science & Risk Management and Financial 
+Mathematics 
+3. 
+2019 - Module The Incredible Ways with IR 4.0 and AI Through Programming – The 
+Beginning, Introduction to IR 4.0. 
+4. 
+2019 - Manuscript The Integration of Naqli and Aqli in Information Security & Assurance 
+from the Islamic and Technological Perspective, USIM Press. 
+5. 
+2017 - Guest Editor International Conference on Computer Security and Assurance 
+(ICOISS) dalam International Conference on Recent Advancements in Science and 
+Technology (ICoRAST). 
+Examiner 
+(2 External PhD - 
+International) 
+ 
+(2 External Master) 
+ 
+(4 Internal PhD) 
+ 
+(1 Internal Master) 
+ 
+1. 
+External examiner: Md Aman Ullah, 2024, ”Enhancing Pollen Classification Through 
+Deep Learning: A CNN-Based Approach for Automated Pollen Identification”, Master 
+thesis, Universiti Malaysia Terengganu. 
+2. 
+External exmainer: Muhammad Imran, 2022, ”A concept centric approach for Aspect 
+Based Sentiment Analysis using Deep Learning & Knowledgebase”, PhD thesis, NED 
+University of Engineering & Technology, Pakistan. 
+3. 
+External exmainer: Murtadha Arif Bin Sahbudin, 2020, ”Audio Recognition Techniques: 
+Signal Processing Approaches with Secure Cloud Storage”, PhD thesis,  Università 
+degli Studi di Messina, Italy. 
+4. 
+Internal examiner: Ahmad Farid Bin Mohd Jamal (3160236), 2020, ” Relationship Model 
+for Learners Engagement Based on Components of Learning Style, Learning Strategies 
+and Learning Materials, Sarjana, USIM. 
+5. 
+External examiner: Lau King Lieng (MI1611005T), 2018, ”Shopping Mobile Web App 
+User Interface Design Based on Eye-Tracking Analysis”, Sarjana, Universiti Malaysia 
+Sabah (UMS). 
+6. 
+Internal exmainer: Abdulhafid Bughari Abdulkarim (4110117), 2018, ”Cloud Computing 
+Adoption Model for Malaysian Small and Medium Enterprises (SMEs)”, PhD, USIM. 
+7. 
+Internal examiner: Ahmad Mah’d Khalil Alajarmeh (4120289), 2017, ”Real-time Image 
+and Video Dehazing Based on Atmospheric Light Scattering Model and Bounded 
+Transmission”, PhD, USIM. 
+8. 
+Internal examiner: Yaseen Dawod Jassim (4110188), 2017, “Images restoration using 
+intensity enhancement and global atmospheric light estimation methods for outdoor 
+images”, PhD, USIM. 
+9. 
+Internal examiner: Omar Ibrahim Massoud Hammza (4110152), 2016, “Quranic 
+Multimedia Memory Model (QM3) For Memorization of the Holy Quran” PhD, USIM. 
+ 
+Grant Evaluator 
+1. 
+Fundamental Research Grant Scheme (FRGS), KPM, 2021-2024. 
+2. 
+Grant Reviewer USIM {Internal}, 2021-2023. 
+3. 
+Panel Penilai Permohonan Geran Pembangunan Inovasi USIM 2020. 
+4. 
+Final Report Grant Evaluator 2020-1: A New and Robust Biomimicry Technique for Indoor 
+and 
+Underground/Underwater 
+Navigation 
+Inspired 
+by 
+the 
+Macrotermes 
+Gilvus 
+Page 20 of 24 
+ 
+Ferromagnetic Properties. (Fundamental Research Grant Scheme (FRGS), KPM. 
+5. 
+Final Report Grant Evaluator 2020-1: New Collision Avoidance Algorithm via Artificial 
+Potential Field for Autonomous Distributed Multi-UAV Formation. (Fundamental Research 
+Grant Scheme (FRGS), KPM. 
+6. 
+Final Report Grant Evaluator 2020-1:A formulation of a new symmetric block cipher 
+inspired by DNA cryptography mechanism for randomness in encryption of electronic data. 
+(Fundamental Research Grant Scheme (FRGS), KPM. 
+ 
+Invited Interview Panel 
+1. 
+Panel Penemuduga Pensyarah Baharu, 2020 
+2. 
+Panel Penilai Pengajaran & Pembelajaran Pensyarah, 2019 
+3. 
+Panel Penemubual Biasiswa MyBrain 2018 
+ 
+PhD Internship 
+Supervisor 
+1. 
+Murtadha Arif Bin Sahbudin, 2020,  Università degli Studi di Messina, Italy,  Secure 
+Storage Framework in Multi-Cloud Service, 1 Jan - 30 Sept 2021 
+ 
+Coach / Mentor / 
+Training Instructor 
+1. 
+Mentor, 11th International Programming Contest, NAPROCK 2020, Special Prize 
+2. 
+Coach Alibaba GET Global Challenge, 2020 
+3. 
+The Incredible Ways with IR 4.0 and AI Through Programming – Instructor and 
+Coordinator, Sponsor: KPM, 2019 
+4. 
+Graduate Employability Programme – Digital Distributed Economy Worker Skills 2019 – 
+Instructor, Sponsor: KPM 
+5. 
+Mentor Innovation Competition TADHACK : (2 Groups), 14 Oct 2018 – Winner 
+Innovation Category. 
+6. 
+Coach Programming Competition ACM UIAM : (3 Groups), 2018 
+7. 
+Coach Borneo Security Challenge : (1 group), UMS & MCMC, 2017 
+8. 
+Coach fSecure Competition : (3 groups), 2017 
+9. 
+Coach Programming Competition, The Code, UTEM Melaka, (4 groups), 2016, 2nd Place 
+14 
+Others 
+ 
+Contribution to 
+Administration 
+Administration 
+1. 
+Reappointment: Deputy Dean (Student Affairs & Alumni), Faculty of Science and 
+Technology USIM, 1 Jan 2023 – 31 Dec 2024. 
+2. 
+2023 – 2025: Deputy Vice President (Alumni UMT Committee Member – Computer 
+Science Programme). 
+3. 
+Deputy Dean (Student Affairs & Alumni), Faculty of Science and Technology USIM, 1 Jan 
+2021 – 31 Dec 2022. 
+4. 
+Menjalankan Tugas Dekan Fakulti Sains & Teknologi, 17, 23 & 24 Aug 2021, Nov 2022, 
+2023. 
+5. 
+Lantikan Semula Ketua Program (Head of Programme) Sarjana Muda Sains Komputer 
+(Keselamatan dan Jaminan Maklumat), USIM, Okt 2019 – Dis 2020. 
+6. 
+Lantikan Semula Ketua Program (Head of Programme) Sarjana Muda Sains Komputer 
+(Keselamatan dan Jaminan Maklumat), USIM, Okt 2017 – Okt 2019. 
+7. 
+Ketua Program (Head of Programme) Sarjana Muda Sains Komputer (Keselamatan dan 
+Jaminan Maklumat), USIM, Okt 2015 – Okt 2017 
+8. 
+Penyelaras (Coordinator) Program Sarjana Sains Komputer (Keselamatan dan Jaminan 
+Maklumat) Mod Campuran, Jan 2015 – Jan 2019. 
+9. 
+Memangku tugas Ketua Program (Head of Programme) Keselamatan dan Jaminan 
+Maklumat, 25 – 28 Ogos 2015 
+10. Memangku tugas Ketua Program (Head of Programme) Keselamatan dan Jaminan 
+Maklumat, 22 Januari  - 2 Februari 2015 
+ 
+Contribution - Other Activities 
+2023 
+11. Timbalan Naib Presiden, Jawatankuasa Penaja Chapter Alumni Akademik (Sains 
+Komputer), Universiti Malaysia Terengganu, 2023 - 2025. 
+2022 
+12. Ketua AJK Publisiti Majlis Syarahan Perdana Profesor, Dis 2022, Fakulti Sains dan 
+Teknologi, USIM. 
+2021 
+Page 21 of 24 
+ 
+13. Jury Hackhaton Competition (Aturkreatif), 4 July 2021. 
+14. Guest Speaker Hackhaton Workshop, 29 May 2021. 
+15. Moderator AlumFaST Siri 2.0: Tips Pengurusan Masa Perspektif Mahasiswa, MS Teams, 
+26 March 2021. 
+16. Advisor - Sekretariat Pelajar Fakulti Sains & Teknologi (SekreFaST) Academic Session 
+2020/2021 & 2021/2022. 
+17. ISAC Advisor Academic Session 2020/2021. 
+18. Advisor ICT Click 2021 
+2020 
+19. ISAC Advisor Academic Session 2020/2021 
+20. Tutelage - Mentor 18 pelajar program Sains Komputer (Keselamatan & Jaminan 
+Maklumat), sesi akademik A201, A211. 
+21. Chairman Online Viva Voce:  Master candidate (3140326), FPSK USIM. 
+22. Chairman Online Viva Voce: PhD candidate (4150131), FST USIM. 
+2019 
+23. Pembina Rangka Kursus baharu - Computing I & II di Pusat Tamhidi, USIM 
+24. Academic Advisor for Undergraduate Information Security & Assurance Batch 13 & 14, 
+2019 – till date 
+25. Penceramah dan Petugas Karnival Pendidikan Kerjaya Program Matrikulasi Kementerian 
+Pendidikan Malaysia 2019, Kolej Matrikulasi Selangor. 
+26. Petugas Karnival Pendidikan Kerjaya Program Matrikulasi Kementerian Pendidikan 
+Malaysia 2019, Kolej Matrikulasi Johor 
+27. Advisor: Program ”ICT Click” 2019, USIM 
+2018 
+28. Penceramah Modul e-Portfolio Dalam Program Jom Kerja Jelajah Fakulti dan Pra-Alumni 
+Sesi Akademik 2018/2109 
+29. Penyelia Penilaian Praktikum Peserta Kursus Asas Pembelajaran dan Pengajaran 
+(Berteraskan Integrasi Ilmu Naqli dan Aqli) USIM 
+30. Petugas Karnival Pendidikan Kerjaya Program Matrikulasi Kementerian Pendidikan 
+Malaysia 2018, Kolej Matrikulasi Selangor 
+31. Mentor Pertandingan TADHACK 2018 (Telecom Application Development Hack), 13 & 14 
+Oct 2018, UniKL. Champion Innovation RM1,500 bagi Local Tadhack Prize dan 
+Global Tadhack Evaluation Nominee bagi produk "TEL-MED" (Tele-Portable Medicine) 
+bersama 5 pelajar tahun 2 program ISA 
+32. Panel Temu Duga Penajaan Biasiswa Kementerian Pendidikan Tinggi peringkat Sarjanda 
+dan Doktor Falsafah, 2018 
+33. Penilai Permohonan Geran Penyelidikan Peringkat Fakulti, USIM 
+34. Mentor Pertandingan PLUS Hackathon (Top 20) 
+35. Mentor Pertandingan VR MCMC Hackathon  
+36. Wakil Universiti Bagi Lawatan Kerja Antarabangsa ke Uzbekistan 
+37. Pengerusi Jawatankuasa Penilaian Teknikal Sebutharga USIM 
+38. Ahli Jawatankuasa Teknikal Garis Panduan e-Pembelajaran USIM 
+39. Coach USIM ACM-ICPC Malaysia Al-Khawarizmi National Programming Contest 2018 
+40. Penasihat Program ”ICT Click” 2018, USIM 
+41. Penasihat Bit n Byte 8.0 Program Keselamatan & Jaminan Maklumat 
+42. Wakil Fakulti Viva Voce PhD – 4120261 
+43. Wakil Fakulti Viva Voce PhD – 4120074 
+44. Pengerusi Pembentangan Penyelidikan Pelajar Pascasiswazah FST 
+45. Penyelia Latihan Industri Pelajar FST 2018 (1140382, 1140380, 1140438, 1140417) 
+46. Ketua Pengawas Peperiksaan Sem II Sesi 2017/2018 (SKJ3443) - Nyahpusat 
+47. Ketua Pengawas Peperiksaan Sem II Sesi 2017/2018 (SKJ2083 & SKJ4642) 
+48. Coach F-Secure Inter-Varsity Cyber Security Competition 2018 
+2017 
+49. Jury: International Intellectual Exposition (MIIEx’17), UITM 2017 
+50. Technical Committee Member of the 6th International Conference on Computing and 
+Informatics (ICOCI) 2017 
+51. Warden Keselamatan Wing A (Pentadbiran) Aras 5 Pasukan Kecemasan FST Feb 2017 -  
+Page 22 of 24 
+ 
+Jan 2018 
+52. Coach dan Pensyarah Pengiring Pertandingan Borneo Cyber Security Challenge, SKMM 
+dan UMS, 2017 
+53. Coach Pertandingan Tadhack 2017 
+54. FST Mentor Program Menggapai Bintang 2017 
+55. Penasihat Program ”ICT Click” Program Sains Komputer FST 2017 
+56. Ahli Jawatankuasa Semakan Semula Kursus Teknologi Maklumat dan Komunikasi (ICT) 
+USIM, 2017 
+57. Wakil FST Karnival Pendidikan Tinggi Negara (KPTN) 2017 
+58. Wakil Fakulti Viva Voce PhD - 4130018 
+59. Wakil Fakulti Viva Voce PhD – 4110119 
+60. Wakil Fakulti Viva Voce PhD – 4120093 
+61. Ketua Pengawas Peperiksaan Sem II Sesi 2016/2017 (SKJ4642) 
+62. Penyelia Latihan Industri Pelajar FST 2017 (1130399, 1130417, 1130408, 1130430, 
+1130406, 1130441, 1130420, 1132355, 1130422, 1130439, 1130407, 1130445) 
+63. Pengiring Pelajar Keselamatan dan Jaminan Maklumat bagi Network Security Industry 
+Talk #1 Mei 2017 
+64. Pengiring Pelajar Keselamatan dan Jaminan Maklumat bagi Network Security Industry 
+Talk #2 September 2017 
+65. Penyelaras Penyediaan Dokumen COPPA bagi Akreditasi MQA program Sarjana Muda 
+Sains Komputer (Keselamatan dan Jaminan Maklumat) 
+66. Penyelaras Penyediaan Dokumen Baharu Program Pengajian 4+1   Sarjana Muda Sains 
+Komputer (Sains Data) dan Sarjana Sains Komputer (Sains Data) FST 2017 
+67. Jawatankuasa Penyediaan Dokumen Baharu Program Pengajian Sarjana Muda Sains 
+Teknologi Maklumat (Multimedia Kreatif Gunaan) FST 2017 
+2016 
+68. Juri Pertandingan Rekacipta dan Inovasi Islam (i-REKA’16) 2016 
+69. Timbalan Pengarah Jawatankuasa Induk Ekspo Inovasi Islam 2016 (i-Inova’16) 
+70. Penasihat Seminar Keselamatan dan Jaminan Maklumat (ISAS) 2016 
+71. Penasihat Majlis Perasmian Seminar Kebangsaan Sains Islam FST 2016 
+72. Coach USIM ACM-ICPC Malaysia Al-Khawarizmi National Programming Contest 2016 
+73. Advisor: Handshake ISA 2016 
+74. Advisor: Program ICT Click 2016 
+75. Felo Penyelidik Bersekutu Institut Sains Islam (ISI) USIM 2016 – 2017 
+76. Panel Penilai Pembentangan Penyelidikan Pelajar Pascasiswazah FST USIM 2016 
+77. Wakil Fakulti Viva Voce PhD – 4110109 
+78. Pengiring Pelajar Keselamatan dan Jaminan Maklumat bagi Network Security Industry 
+Talk #2 Mei 2016 
+79. Pengiring The Code 2016 – Pertandingan Pengaturcaraan FTMK, UTEM 
+80. Penasihat Information Security Awareness Seminar (ISAS) 2016 dan Jawatankuasa Majlis 
+Seminar-Seminar Program FST 
+81. Penasihat Bit n Byte 6.0 Program Keselamatan dan Jaminan Maklumat 2016 
+82. Program e-Rezeki, FST, MDEC dan DotMe Sdn Bhd, 2016 
+2015 
+83. Moderator Kolokium E-Pembelajaran Kali Pertama USIM, 2015 
+84. Juri Seminar dan Pameran Produk Kreatif (SPARK) 2015 
+85. Ahli Jawatankuasa Semakan Semula Kurikulum dan Auditor Dalaman FST, 2015 
+86. Pasukan Pengendalian Insiden Computer Emergency Response Team (CERT) USIM 
+2015 kerjasama MAMPU 
+87. Wakil Fakulti Viva Voce PhD – 4110119, 2015 
+88. Penilai Pembentangan Penyelidikan Pelajar Pascasiswazah FST, 2015 
+89. Penyelia Latihan Industri Pelajar FST 2015 (1112332, 1110012, 1110784) 
+90. Jawatankuasa Penyediaan Dokumen Baharu Program Pengajian  BCompSc - Embedded 
+System Technology  FST 2015 
+2014 
+91. Timbalan Pengarah Jawatankuasa Induk Pertandingan Rekacipta dan Inovasi Islam USIM 
+(i-REKA’14) 
+Page 23 of 24 
+ 
+92. Juri Pertandingan Rekacipta dan Inovasi Islam USIM (i-REKA’14) 
+93. Ahli Jawatankuasa Pelaksana Ekspo Inovasi Islam 2014 (i-Inova’14) – JK Ketua 
+Penyertaan  
+94. Juri Postgraduate Colloqium FST 2014 
+95. Auditor Dalaman Gerak Kerja ISMS USIM, 2014 -  2016 
+96. Pengiring Program Tautan Kasih Bersamamu Pertubuhan Anak Yatim dan Miskin Sungai 
+Pinang, Klang, Oktober 2014 
+97. Pengiring Program Kembara Siswa Perdana (Kemsis Perdana’14), 21  - 23 Februari 2014 
+98. Juri Battle of Nasyeedian FPQS, April 2014 
+99. Penyunting Penambahbaik Modul Research Metodoogy (Bahasa Inggeris), 2014 
+100. Penyelia Latihan Industri  2014 – (1100047) dan (1100706) 
+101. Ketua Pengawas Peperiksaan Semester II Sesi 2013/2014 
+102. Panel Penilai Pembentangan Penyelidikan Pelajar Pascasiswazah Fakulti Sains dan 
+Teknologi, Januari 2014 
+103. Panel Penilai Pembentangan Penyelidikan Laporan Kemajuan Sarjana Sains Komputer 
+(Keselamatan dan Jaminan Maklumat) Fakulti Sains dan Teknologi, April 2014 
+Panel Penilai Pembentangan Penyelidikan Pelajar Pascasiswazah Fakulti Sains dan 
+Teknologi, Jun 2014 
+2013 
+104. Ahli Jawatankuasa Penyertaan Ekspo Inovasi Islam 2013 (i-Inova’13) 
+105. Ahli Jawatankuasa Majlis Sambutan 10 Tahun FST 2013 
+106. Penilai Pembentangan Penyelidikan Pelajar Pascasiswazah Fakulti Sains dan Teknologi, 
+Disember 2013 
+107. Panel Penilai Pembentangan Penyelidikan Pelajar Pascasiswazah Fakulti Sains dan 
+Teknologi, Oktober 2013 
+108. AJK Protokol Majlis Sambutan 10 Tahun FST, 2013 
+Contribution to 
+Community 
+1. 
+Invited Speaker, Program Talk Session - Innovation Competition, Graduate Student 
+Society FST (GSS-FST), 20 Sept 2024. {Invited} 
+2. 
+Advisor Global Islamic Student Outreach Taipei, Taiwan: Ilhm and Ihsan in Formosa: 
+Seeking Knowledge and Excellence, 18 - 24 Aug 2024. 
+3. 
+Advisor: Jaulah Sukarelawan Siswa Madani 2024: Jejak Kasih Rembau Siri 2.0: Komuniti 
+Desa, Kampung Ulu Chembong, Rembau, 10 Aug 2024. 
+4. 
+Advisor: Jaulah Sukarelawan Siswa Madani 2024: Jejak Kasih Rembau Siri 1.0: Komuniti 
+Emas, Pusat Jagaan Rumah Sejahtera Rembau,18 May 2024. 
+5. 
+Advisor of Global Islamic Student Outreach (GISO): Discovering The Insights of Culture: 
+Tadabbur Alam Di Bumi Vietnam,  Ho Chi Minh, 2024. 
+6. 
+Penasihat libatsama masyarakat Cyber Hasanat: Memerangi Taktik Kejuruteraan Sosial, 
+15 Mei 2024 di Sekolah Menengah Agama Persekutuan (SMAP) Labu Negeri Sembilan. 
+7. 
+Penasihat libatsama masyarakat Cyber Hasanat: Lindungi Identiti Memacu Transformasi 
+Digital, 22 Mei 2024 di Sekolah Menengah Kebangsaan Agama Sheikh Hj Mohd Said 
+(SHAMS). 
+8. 
+Jaulah Sukarelawan USIM 2024: Semarak Siswa Madani (Chapter Negeri Sembilan) 
+serta Perasmian Klinik dan Makmal Pergigian Bergerak, di Kampung Pachitan, Port 
+Dickson, Negeri Sembilan. 
+9. 
+Volunteer, Teen Cyber Hasanat, 9 Dec 2023, Persatuan Penduduk Taman Dahlia, 
+Sepang. Geran Komuniti RM5000. {Invited} 
+10. Penasihat Jaulah Sukarelawan USIM 2023 (Semarak Siswa Madani): Daerah Rembau, 
+22 Okt 2023 di Kampung Pilin, Rembau, Negeri Sembilan 
+11. Penasihat Quran Hour  dengan kerjasama Majlis Perwakilan Pelajar (MPP), Sekretariat 
+Pusat Islam (SPI), Rumah Ngaji Negeri Sembilan (RNNS), Wanita Perkim Seremban 
+(WPS) & Malaysia Women Coalition Al-Quds Palestine (MWCQP), 18 Jan 2024 di 
+Kompleks Islam Tuanku Muhriz, USIM 
+12. Teen Cyber Hasanat bersama komuniti Taman Dahlia, Sepang – Program kesedaran 
+keselamatan siber melalui papan permainan Secure Cybercitizenship (SET). Jemputan 
+dari Persatuan Penduduk Taman Dahlia (PPTD), Sepang. Geran Komuniti. 
+13. Advisor: FunRun 2023 (5 km) in conjunction with 20th Faculty of Science & Technology, 
+Universiti Sains Islam Malaysia. 
+14. Advisor: Jaulah Sukarelawan USIM 2023 (Semarak Siswa Madani): Daerah Rembau, 22 
+Page 24 of 24 
+ 
+ 
+Okt 2023 di Kampung Pilin, Rembau, Negeri Sembilan. 
+15. Fast Volunteer: Wira Bumi di Tasik Ujana, 15 Jan 2023 
+16. Advisor: Libatsama masyarakat Cyber Hasanat pada 14 Jun 2023 di Dewan Orang 
+Ramai Taman Tasik Jaya dan Sekolah Kebangsaan Taman Tasik Jaya, Seremban. 
+17. Advisor: Libatsama masyarakat Cyber Hasanat pada 8 Jun 2023 di Sekolah Agama 
+Menengah Bandar Baru Salak Tinggi (SAMBBST). 
+18. Advisor Online Talk: Surviving Oppression in Palestine, 12 Dis 2023 Dengan 
+Kerjasama Rumah Ngaji Negeri Sembilan (RNNS) dan Wanita Perkim Seremban (WPS), 
+Negeri Sembilan. 
+19. Invited Speaker, Webinar on Next-Gen Solutions: Innovations in Cybersecurity 
+Awareness, QUVAE Research & Publications, Zoom Meeting, 11 Aug 2023. {Invited} 
+20. Invited Speaker, Coffee Talk Session on Exploring the IT Industry, July 2023 (F2F), 
+Higher Education Malaysian Association (HEYA). {Invited} 
+21. Volunteer Online Tutor (English), Sentuhan Ilmu BOLD Programme Yayasan 
+Petronas, Weekly, Aug 2022 – Dec 2022. 
+22. Volunteer, Pusat Pemberian Vaksin IPT Mega USIM, 28 Jun – 19 Sept 2021. 
+23. Speaker ISAC Talk Series 2.0: Academic Performance vs Soft Skills, MS Teams, 7 March 
+2021. 
+24. Academic Advisor: Majlis Akademik Persatuan Pengguna Siber Malaysia (MCCA), 2020-
+2022. 
+25. Trainer "Preparatory Masterclass For University Students", MY Hackaton Zon Kuala 
+Lumpur, Kerjasam MOSTI dan Cradle Fund Sdn Bhd. 
+26. Coordinator NxForce Security Online Training & Exam Certification for Network 
+Fundamental ICASA, Oct – Dec 2020, MDEC. 
+27. Advisor of Global Islamic Student Outreach (GISO) Phnom Penh, Kemboja 2020 
+28. GISO Community Service, Wordpress Workshop, SMK Bandar Baru Sri Sendayan, 
+Seremban, 16 Nov 2019. 
+29. Supervisor, UNIMAKER Competition, UM, Nov 2019 
+30. Volunteer: Pusat Jagaan Kanak-Kanak “Down Syndrome Dan Hyper Active”, Pertubuhan 
+Sukarelawan MISI7, Ogos 2018 
+31. Advisor: Global Islamic Student Outreach (GISO) Hatyai & Krabi, Thailand 2018 
+32. Advisor: Global Islamic Student Outreach (GISO) Phnom Penh, Kemboja 2017 
+33. Advisor: Global Islamic Student Outreach (GISO) Seoul, Korea Selatan 2015 
+34. Volunteer: Libatsama Komuniti Program Mahasiswa Cakna Insan Gelandangan, 
+November 2015 
+35. Mewakili Gugusan A bagi Sukan Staf Antara Jabatan 2017 – Larian 200 meter Kategori 
+Wanita – Gangsa (Bronze)  
+36. Mewakili Gugusan A  bagi Sukan Staf Antara Jabatan 2016 -  Larian 200 meter Kategori 
+Wanita – Johan (Champion)  
+37. FIT USIM Charity Run 2015 
+38. Mewakili Gugusan A  Sukan Staf Antara Jabatan 2015 - Bola Jaring  – Naib Johan 
+39. Mewakili Gugusan A  Sukan Staf Antara Jabatan 2014 - Bola Jaring  – Johan (Champion) 
+40. Volunteer Advisor: Zoo Volunteer, Zoo Negara, Oct 2014 
+41. Summit to Eat - Snowdon Challenge Wales, UK, Muslim Hands, United for the Needy, 
+2011 
+
+
+--- End of Prof_Madya_Dr_Sakinah_Ali_Pitchay.pdf ---

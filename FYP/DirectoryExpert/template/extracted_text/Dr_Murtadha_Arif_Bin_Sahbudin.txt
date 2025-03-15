@@ -1,0 +1,344 @@
+--- Start of Dr_Murtadha_Arif_Bin_Sahbudin.pdf ---
+
+Dr. Murtadha Arif Bin Sahbudin, (Phd)
+Educator & Computer Scientist
++60111907053
+arif.sahbudin@gmail.com
+https://www.researchgate.net/profile/Murtadha-Arif-Bin-Sahbudin
+https://www.linkedin.com/in/arifsahbudin/
+Malaysia
+PROFILE
+Experienced Senior Lecturer with expertise in research and teaching at 
+the Faculty of Science and Technology. Active member of the Healthcare 
+Systems group and the HPC Lab project. Skilled in managing complex IT 
+projects, including audio signal processing and multi-cloud storage 
+solutions, as well as designing and deploying IT infrastructure. Proven 
+with a strong track record in enhancing technology and business 
+processes.
+EXPERIENCE
+Senior Lecturer
+Universiti Sains Islam Malaysia
+2021 - Present
+Malaysia
+Public University
+Delivering lectures and managing coursework in a variety of subjects 
+within the field of computer science.
+Conducting and publishing research in Healthcare Systems.
+Collaborating with colleagues on the High Performance Computing 
+Lab (HPC) project, contributing to its development and success.
+Research Doctorate
+Università degli Studi di Messina
+2017 - 2021
+Italy
+Public University
+Teaching and supervising both postgraduate and undergraduate 
+students in computing subjects.
+Designed a robust system for audio identification and fingerprinting 
+from FM Radio Broadcasting signals.
+Developed an IoT and API-based system for retrieving audio analog 
+signals from FM broadcasts.
+Publishing research findings in enhanced system efficiency through 
+database clustering models.
+Publishing research findings new song fingerprinting method to 
+advance existing research.
+Lecturer
+Asia Pacific University of Technology & Innovation
+2017
+Malaysia
+Private University
+Taught undergraduate students web technologies, including 
+development, scripting, and servers.
+Prepared and delivered regular lectures, tutorials, seminars, and 
+laboratory classes.
+Supervised undergraduate final year projects.
+Distribution & Logistics Manager
+BMW & MINI Auto Bavaria
+2013 - 2014
+Malaysia
+Automotive
+Managed BMW and MINI vehicle stock, ensuring supply allocation to 
+dealerships.
+Oversaw employee teams for vehicle ordering and warehouse 
+management.
+Arranged new vehicle registrations with The Road Transport 
+Department Malaysia.
+Analyzed sales targets and supported business decisions.
+INDUSTRY EXPERTISE
+Education
+Research
+Project Management
+EDUCATION
+PhD. in Cyber-Physical System
+Università degli Studi di Messina
+2017 - 2020 
+Italy
+MSc. in Advance Computer Science 
+(Distinction)
+University of Sheffield
+2016 - 2017 
+United Kingdom
+BSc (Hons) in Information System 
+Engineering
+University of Technology MARA
+2006 - 2009 
+Malaysia
+Diploma in Computer Science
+University of Technology MARA
+2004 - 2007 
+Malaysia
+SKILLS
+Backend Programming - Python, Java, C#, 
+C++, FOTRAN
+Frontend Programming - React, Angular, 
+HTML, JavaScript, PHP, Swift, NodeJS
+Cloud Computing - GitHub, Google Cloud, 
+Azure, Kubernets, OpenStack
+Machine Learning - TensorFlow, PyTorch, 
+Anaconda, Keras
+Numerical Tools - Octave, MATLAB, R
+Database -MySQL, Azure, FirebaseDB, 
+MongoDB, PostgreSQL, Oracle, MariaDB
+www.enhancv.com
+
+Powered by
+E
+
+q
+q
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+EXPERIENCE
+IT Project Manager
+Sime Darby Motors
+2011 - 2013
+Malaysia
+IT Systems
+Maintained and supported IT infrastructure for all BMW & MINI Auto 
+Bavaria dealerships throughout Malaysia.
+Certified specialist support in BMW & MINI vehicle diagnostic 
+hardware and software tools.
+Managed IT projects and building renovations, including CCTV, 
+security access, and fire systems.
+Provided technical support for software and hardware issues.
+Programmer
+Sime Darby Motors
+2008 - 2011
+Malaysia
+IT Systems
+Programmed UNIX-based systems using Progress programming 
+language and Web Java Platform.
+Designed and developed transactional and analytical data structures 
+for vehicle business processes.
+Modified software for improvements, integrated new hardware, and 
+enhanced performance.
+PUBLICATIONS
+Systematic Literature Review on Current Trend Analysis 
+in Epidemic Intelligence for Infectious Disease 
+Surveillance
+In Review - PeerJ Computer Science Journal
+H. A. K. Aryffin, M. A. B. Sahbudin, S. A. Pitchay, A. H. Ab Halim, I.K. Sahbudin
+2024 
+Direction of Enhancing Epidemic Intelligence from Open 
+Sources (EIOS) for Localized COVID-19 Management in 
+Malaysia
+In Review - Malaysian Journal of Science Health & Technology
+H. A. K. Aryffin, M. A. B. Sahbudin, S. A. Pitchay, A. H. Ab Halim, I.K. Sahbudin
+2024 
+Health Informatics Systems
+Beyond the Outbreak: A Review of Big Data Analytics in 
+Proactive Infectious Disease Prevention for Risk 
+Mitigation
+In Review - Springer Link, Journal of Big Data
+N. Nuha, S. A. Pitchay, M. A. B. Sahbudin, A. H. Ab Halim, I.K. Sahbudin
+2024 
+Health Informatics Systems
+A New Fingerprint Definition For Effective Song 
+Recognition
+Elsevier, Pattern Recognition Letters Journal
+S. Serrano, M. A. B. Sahbudin, C. Chaouch, and M. Scarpa
+2022 
+https://doi.org/10.1016/j.patrec.2022.06.009
+Music Recognition
+Application-Programming Interface(API) for Song 
+Recognition Systems
+Advances in Science, Technology and Engineering Systems Journal
+M. A. B. Sahbudin, C. Chaouch, M. Scarpa, and S. Serrano,
+2021 
+http://dx.doi.org/10.25046/aj060298
+Music Recognition
+SKILLS
+Multimedia - Photoshop, Illustrator, Premier, 
+Animate, Audacity
+Network - Wireshark, Cisco Packet Tracer
+Operating Systems - Unix/Linux, Windows, 
+MacOS, Andriod
+LANGUAGES
+English
+Native
+Malay
+Native
+Italian
+Intermediate
+Arabic
+Beginner
+AWARDS
+Fundamental Research Grant 2023
+Awarded Research Funding by Ministry of Higher 
+Education Malaysia
+Scholarship Research Doctorate 2017
+Awarded Research Funding by Ministry for 
+Education, University and Research Italy
+Scholarship Masters Degree Program 2015
+Awarded sponsorship for Masters Degree by 
+Ministry of Higher Education Malaysia
+Scholarship Bachelor Degree Program 2009
+Awarded sponsorship for Bachelors Degree by 
+Yayasan Sime Darby Malaysia
+PROJECTS
+Infectious Disease Monitoring
+2023 - Present
+University Sains Islam Malaysia
+Lead researcher for a national research project 
+specializing in healthcare systems. The scope of 
+the project involves public health control and 
+infectious disease monitoring, which was 
+initiated during the COVID-19 pandemic.
+Funding of RM120,000 was provided by the 
+Ministry of Higher Education.
+High Performance Computing Lab
+2022 - Present
+University Sains Islam Malaysia
+Project Manager for the design and deployment 
+of an HPC server lab for the department. This 
+lab provides GPU computing power for teaching 
+and research in computer science, chemistry, 
+and physics.
+Initial phase one funding of RM500,000 for 
+the lab was approved by the department.
+www.enhancv.com
+
+Powered by
+•
+•
+•
+•
+•
+•
+•
+•
+•
+PUBLICATIONS
+Geo-COVID: Movement Monitoring based on Geofence 
+Framework for COVID-19 Pandemic Crisis
+Advances in Mathematics: Scientific Journal
+M. A. B. Sahbudin, S. Ali Pitchay, and M. Scarpa
+2020 
+http://dx.doi.org/10.37418/amsj.9.9.85
+Health Informatics Systems
+Audio Fingerprint Based On Power Spectral Density And 
+Hamming Distance Measure
+Journal of Advanced Research in Dynamical and Control Systems
+M. A. B. Sahbudin, C. Chaouch, M. Scarpa, and S. Serrano
+2020 
+http://dx.doi.org/10.5373/JARDCS/V12SP4/20201633
+Audio Signal Processing
+Audio Fingerprint Database Structure Using K-modes 
+Clustering
+Journal of Advanced Research in Dynamical and Control Systems
+C. Chaouch, M. A. B. Sahbudin, M. Scarpa, and S. Serrano
+2020 
+http://dx.doi.org/10.5373/JARDCS/V12SP4/20201634
+Audio Signal Processing
+A Web Client Secure Storage Approach in Multi-Cloud 
+Environment
+4th International Conference on Computing, Communications and 
+Security(ICCCS), IEEE
+M. A. B. Sahbudin, R. Di Pietro, and M. Scarpa
+2019 
+http://dx.doi.org/10.1109/CCCS.2019.8888062
+IoT Based Song Recognition For FM Radio Station 
+Broadcasting
+7th International Conference on Information and Communication 
+Technology(ICoICT), IEEE
+M. A. B. Sahbudin, M. Scarpa, and S. Serrano
+2019 
+http://dx.doi.org/10.1109/ICoICT.2019.8835190
+Music Recognition
+MongoDB Clustering Using K-means For Real-time Song 
+Recognition
+International Conference on Computing, Networking and 
+Communications(ICNC), IEEE
+M. A. B. Sahbudin, M. Scarpa, and S. Serrano
+2019 
+http://dx.doi.org/10.1109/ICCNC.2019.8685489
+Music Recognition
+PROJECTS
+Music Recognition
+2017 - 2021
+Università degli Studi di Messina, Italy
+This project was the highlight of my academic 
+career. I spent three years in beautiful Sicily 
+exploring new and more effective algorithms for 
+digital and analog music recognition.
+This project was a successful collaboration 
+between the EU research program and 
+EarOne, a company that provided music 
+recognition services throughout Europe.
+Multi-Cloud Storage
+2017 - 2021
+Università degli Studi di Messina, Italy
+This research project involves web client 
+application for secure data storage in a multi-
+cloud environment, focusing on confidentiality 
+and integrity. I present my web application 
+framework, its implementation, and evaluate it 
+through experiments in a real multi-cloud 
+scenario."
+Geo-location Encryption
+2021
+University Sains Islam Malaysia
+In this research project the main objectives are 
+to develop a method for generating AES keys 
+and to validate the system based on user 
+location for encrypting and decrypting data. This 
+study utilizes a Raspberry Pi 4 with the NEO GPS 
+Module board (Pi-GPS).
+Optical Tweezers for Space
+2021
+Università degli Studi di Messina, Italy & 
+Universidad de Cantabria, Spain
+This project uses optical trapping techniques in 
+planetary exploration. Assistant developer and 
+programmer to researcher Dr. Abir, utilizing 
+FORTRAN for computational simulations of 
+space dust.
+Autobavaria BMW Kuala Lumpur
+Date period
+Location
+IT Project Manager responsible for designing and 
+deploying new IT infrastructure for the newly 
+opened BMW & MINI dealership in Kuala Lumpur. 
+This project includes servers, network systems, 
+IT equipment, vehicle diagnostic tools, and smart 
+information systems
+www.enhancv.com
+
+Powered by
+•
+
+
+--- End of Dr_Murtadha_Arif_Bin_Sahbudin.pdf ---

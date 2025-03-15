@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin - Manage Experts</title>
+    <!-- Include PicoCSS for styling -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/admin.css') }}">
+    <style>
+        /* Simple tab styling */
+        .tabs {
+            display: flex;
+            border-bottom: 2px solid #ddd;
+            margin-bottom: 1rem;
+        }
+        .tab {
+            padding: 0.5rem 1rem;
+            cursor: pointer;
+            border: 1px solid #ddd;
+            border-bottom: none;
+            background: #f9f9f9;
+            margin-right: 0.5rem;
+        }
+        .tab.active {
+            background: #fff;
+            font-weight: bold;
+            border-bottom: 2px solid #fff;
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 1rem;
+        }
+        table th, table td {
+            border: 1px solid #ddd;
+            padding: 0.5rem;
+        }
+        table th {
+            background: #f4f4f4;
+        }
+        .delete-btn {
+            color: #fff;
+            background: #d9534f;
+            border: none;
+            padding: 0.3rem 0.6rem;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <header class="container">
+        <h1>Admin Panel</h1>
+    </header>
+    
+    <main class="container">
+        <!-- Tabs -->
+        <div class="tabs">
+            <div class="tab active" data-tab="upload-tab">Upload Expert</div>
+            <div class="tab" data-tab="experts-tab">Uploaded Experts</div>
+        </div>
+
+        <!-- Tab Content: Upload Form -->
+        <div id="upload-tab" class="tab-content active">
+            <h2>Upload Expert</h2>
+            <form action="/admin" method="POST" enctype="multipart/form-data">
+                <!-- Expert Name -->
+                <label for="name">Expert Name</label>
+                <input type="text" id="name" name="name" placeholder="Enter expert's name" required>
+                
+                <!-- Expert Email -->
+                <label for="email">Expert Email</label>
+                <input type="email" id="email" name="email" placeholder="Enter expert's email" required>
+                
+                <!-- Faculty -->
+                <label for="faculty">Faculty</label>
+                <input type="text" id="faculty" name="faculty" placeholder="Enter faculty" required>
+
+                <!-- PDF File Upload -->
+                <label for="pdf_file">Upload Expert PDF</label>
+                <input type="file" id="pdf_file" name="pdf_file" accept=".pdf" required>
+                
+                <!-- Submit Button -->
+                <button type="submit" class="contrast">Upload</button>
+            </form>
+        </div>
+
+        <!-- Tab Content: Uploaded Experts -->
+        <div id="experts-tab" class="tab-content">
+            <h2>Uploaded Experts</h2>
+            {% if expert_details %}
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Faculty</th>
+                        <th>PDF</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for expert in expert_details %}
+                    <tr>
+                        <td>{{ expert.name }}</td>
+                        <td>{{ expert.email }}</td>
+                        <td>{{ expert.faculty }}</td>
+                        <td><a href="{{ url_for('download_pdf', filename=expert.pdf) }}" target="_blank">Download</a></td>
+                        <td>
+                            <form action="{{ url_for('delete_expert', filename=expert.pdf) }}" method="POST" style="display:inline;">
+                                <button type="submit" class="delete-btn">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            {% else %}
+            <p>No experts have been uploaded yet.</p>
+            {% endif %}
+        </div>
+    </main>
+
+    <script>
+        // Tab switching functionality
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                // Remove active class from all tabs and tab contents
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+
+                // Add active class to clicked tab and corresponding content
+                tab.classList.add('active');
+                const target = tab.getAttribute('data-tab');
+                document.getElementById(target).classList.add('active');
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,3267 @@
+--- Start of Dr_Roesnita_Ismail.pdf ---
+
+PERSONAL DETAIL
+Name
+DR. ROESNITA BINTI ISMAIL
+Designation
+PENSYARAH UNIVERSITI DS51
+Faculty
+FACULTY OF SCIENCE AND TECHNOLOGY
+Tel. No. (Office)
+6790
+E-mail Address
+roesnita@usim.edu.my
+Address(Office)
+FACULTY OF SCIENCE AND TECHNOLOGY ,UNIVERSITI SAINS ISLAM MALAYSIA, BANDAR BARU
+NILAI, 71800, NILAI, NEGERI SEMBILAN
+ACADEMIC QUALIFICATION
+No
+Year
+Qualification
+Institution
+Field
+1
+2013
+PhD
+UNIVERSITI MALAYA
+SAINS PERPUSTAKAAN DAN
+MAKLUMAT
+2
+2005
+Master
+UNIVERSITI MALAYA
+3
+2001
+Bachelor
+UNIVERSITI TEKNOLOGI MARA
+PENGURUSAN MAKLUMAT
+TEACHING
+DEGREE
+No
+Code Subject
+Subject
+Start
+Year
+End
+Year
+1
+SKU4023
+HUMAN COMPUTER INTERACTION
+2011
+2012
+2
+UTA1082
+INFORMATION AND COMMUNICATION TECHNOLOGY
+2011
+2012
+3
+SKM3463
+HUMAN COMPUTER INTERACTION
+2012
+2024
+4
+SKF4013
+DIGITAL LIBRARY AND INFORMATION SOURCES
+2012
+2012
+5
+SKL3543
+DIGITAL LIBRARY AND INFORMATION SOURCES
+2013
+2016
+6
+SKL2523
+INFORMATION RETRIEVAL
+2017
+2024
+7
+SKL3553
+INFORMATION SERVICES AND FACILITIES
+2022
+2024
+INTERNAL SUPERVISION
+PHD
+No
+Matric No
+Student Name
+Type of Supervisor
+Start
+Year
+End
+Year
+1
+4120019
+SITI FATIMAH BINTI OMAR
+Co-Supervisor
+2012
+2014
+2
+4120161
+MAHER ABDULLA ALMAHDI ALGHALI
+Co-Supervisor
+2012
+2022
+3
+4120201
+MOHAMMAD R.I ALOLAIMAT
+Main Supervisor
+2013
+2014
+4
+4120293
+MOHAMMAD AWNI AHMAD MAHMOUD
+Co-Supervisor
+2013
+2014
+5
+4130011
+ASHRAF MOUSA MOUSA SALEH
+Main Supervisor
+2013
+2022
+6
+4130046
+MAQBOOL RAMDHAN IBRAHIM AL-MAIMANI
+Main Supervisor
+2013
+2015
+7
+4130048
+ZAHRUL AZMIR ABSL KAMARUL ADZHAR
+Co-Supervisor
+2013
+2014
+SAINS PERPUSTAKAAN DAN 
+MAKLUMAT
+8
+4130121
+WAN AHMAD RHIZA ADNI BIN WAN ABDUL
+AZIZ
+Main Supervisor
+2013
+2014
+9
+4140102
+FIRAS SALEH MUSTAFA OMARI
+Co-Supervisor
+2014
+2022
+10
+4140262
+ZAINAB A. A. ABDELSADEQ
+Co-Supervisor
+2015
+2023
+11
+4130210
+ALA'A SAEB ABDEL KADER AL-SHERIDEH
+Co-Supervisor
+2016
+2022
+12
+4150236
+SITI MAZURA BINTI CHE DOI
+Co-Supervisor
+2016
+2023
+13
+4172568
+ABUL KALAM AZAD
+Main Supervisor
+2018
+2022
+MASTER
+No
+Matric No
+Student Name
+Type of Supervisor
+Start
+Year
+End
+Year
+1
+3130085
+SAKHER TAHER MOHAMMAD AL-SHEYYAB
+Main Supervisor
+2013
+2015
+2
+3130136
+ISSAM SHAABAN MOSHADED AL-SHANFARI
+Main Supervisor
+2013
+2015
+3
+3150090
+AHMAD AKMALUDDIN BIN MAZLAN
+Co-Supervisor
+2015
+2022
+4
+3160135
+NORAZLIN AMIRA BINTI MOHD ZAINADI
+Main Supervisor
+2016
+2023
+INTERNAL RESEARCH
+No
+Title
+Grant
+Role
+Date
+1
+USER ORIENTED PRIVACY MODEL FOR SOCIAL NETWORKS
+BASED ON ISLAMIC PERSPECTIVE
+Geran
+Penyelidikan
+Pentadbir
+Co-Researcher
+01/12/2012 -
+18/12/2015
+2
+Knowledge Reservoir Through The Integration Of Naqli
+And Aqli Knowledge From Heterogeneous Expertise And
+Sources
+Geran KPT
+Co-Researcher
+01/08/2014 -
+01/10/2020
+3
+Penggalian Petunjuk Ilmu Aqli Dalam Quran
+Geran
+Penyelidikan
+Kompetitif
+Kluster
+Co-Researcher
+01/07/2014 -
+19/12/2017
+4
+Semiotics icon:visual interpretor for the meaning of
+quranic verses
+Geran
+Penyelidikan
+Jangka Pendek
+Co-Researcher
+14/12/2015 -
+27/06/2019
+5
+A COMPREHENSIVE ASSESSMENT MODEL FOR
+INFORMATION MANAGEMENT CRITERIA BASED ON
+SYARIAH COMPLIANCE
+Geran Jangka
+Pendek Fasa 1
+Co-Researcher
+01/05/2016 -
+07/02/2020
+6
+A New Usability Evaluation Tool For Mobile Application
+Interface By Using An Enhanced Pacmad Model
+Geran Jangka
+Pendek Fasa 1
+Main
+Researcher
+01/05/2016 -
+27/06/2019
+7
+ENHANCING DECISION MAKING PROCESS FOR RETURN-
+TO-WORK (RTW) ASSESSMENT IN REHABILITATION CLINIC
+USING HORN CLAUSE TECHNIQUE
+Geran KPT
+Co-Researcher
+01/01/2019 -
+30/11/2023
+8
+BREAKING THE LANGUAGE BARRIER : USING QUICK
+RESPONSE (QR) CODE TRANSLATOR IN ENHANCING
+ACCESS OF LIBRARY COLLECTIONS
+Geran
+Penyelidikan
+USIM
+Main
+Researcher
+01/12/2019 -
+15/08/2022
+9
+INTERPRETIVE STRUCTURAL MODELLING FOR A JUST-IN-
+TIME PANDEMIC RESPONSE MANAGEMENT THROUGH
+CENTRALIZED DATABASE FOR HOSPITALS IN MALAYSIA
+Geran
+Penyelidikan
+Covid-19
+Co-Researcher
+01/06/2020 -
+12/08/2021
+CONFERENCE
+No
+Conferance Name
+Paper Work
+Role
+Date
+1
+OCLC ASIA PACIFIC REGIONAL COUNCIL
+2012 MEMBERSHIP CONFERENCE
+TIADA
+Peserta Biasa
+03/09/2012 -
+04/09/2012
+2
+PERSIDANGAN PERPUSTAKAAN MASJID
+PERINGKAT KEBANGSAAN 2015 :
+SEMPENA SAMBUTAN JUBLI EMAS
+MASJID NEGARA
+Peserta Biasa
+11/08/2015 -
+12/08/2015
+3
+National Symposium on Al-Quran and
+Hadith Validation System (SAHIH 2016)
+Peserta Biasa
+15/03/2016 -
+16/03/2016
+4
+Third International Conference on
+Information Retrieval and Knowledge
+Management
+Application of OASys
+approaches for Dates
+Ontology
+Peserta Biasa
+23/08/2016 -
+23/08/2016
+5
+1st WORLD INTERNATIONAL
+CONFERENCE ON ISLAMIC SCIENCES
+2016 (WICOIS’16)
+Measuring Usability:
+Importance Attributes for
+Mobile Applications
+Pembentang Lisan /
+Kertas Kerja
+05/12/2016 -
+07/12/2016
+6
+Bengkel Penyuntingan dan Bahasa
+-
+Peserta Biasa
+15/08/2017 -
+17/08/2017
+7
+2017 8th International Conference on
+Networking and Information
+Technology
+Evaluating Usability for
+Mobile Application: A
+MAUEM Approach
+Pembentang Lisan /
+Kertas Kerja
+24/11/2017 -
+26/11/2017
+8
+The Seventh International Conference
+on Computer Science & Computational
+Mathematics (ICCSCM 2018)
+Mobile Government
+Applications Based on
+Security and Privacy: A
+Literature Review
+Pembentang Lisan /
+Kertas Kerja
+05/07/2018 -
+06/07/2018
+9
+Blockchain Seminar and Training 2019
+-
+Peserta Biasa
+04/03/2019 -
+05/03/2019
+10
+International Conference on
+Cybersecurity 2019 (ICoCSec2019)
+Peserta Biasa
+25/09/2019 -
+26/09/2019
+11
+International Conference on Education,
+Technology, Business and Social
+Science
+Ontology-Based Formal
+Specifications for Social
+Engineering
+Peserta Biasa
+07/12/2019 -
+08/12/2019
+12
+International Conference on Education,
+Technology, Business and Social
+Science
+Ontology-Based Formal
+Specifications for Social
+Engineering
+Pembentang Lisan /
+Kertas Kerja
+07/12/2019 -
+08/12/2019
+13
+6th International Conference on
+Information Technology & Society
+(Online) ICITS'2020
+Peserta Biasa
+11/11/2020 -
+11/11/2020
+14
+Advances in Data Science and AI
+Conference 2022
+-
+Peserta Biasa
+20/06/2022 -
+21/06/2022
+15
+Konferensi ICT UiTM 2022
+Tiada
+Peserta Biasa
+17/08/2022 -
+18/08/2022
+16
+5TH USIM International Health Virtual
+Conference.
+Peserta Biasa
+13/09/2022 -
+14/09/2022
+17
+Library 2.024 online mini-conference:
+AI and Libraries: Applications,
+Implications, and Possibilities.
+Peserta Biasa
+21/03/2024 -
+21/03/2024
+18
+Persidangan Kebangsaan Sejarah Lisan
+Malaysia (PKSLM)
+Peserta Biasa
+08/05/2024 -
+09/05/2024
+19
+Webinar Empowering Academic
+Libraries with AI: Redefining the Roles
+of Academic Librarians and User
+Peserta Biasa
+26/06/2024 -
+26/06/2024
+Services
+20
+GLOBAL HEALTH : Multi Approach For
+Primary Healthcare System
+PRABOROMARAJCHANOK INSTITUTE
+INTERNATIONAL CONFERENCE
+Peserta Biasa
+18/07/2024 -
+19/07/2024
+AREA OF SPECIALIZATION AND RESEARCH INTERESTS
+No
+Field / Area
+Level of Expertise
+1
+HUMAN COMPUTER INTERACTION (HCI)
+HIGH
+2
+INFORMATION MANAGEMENT
+HIGH
+3
+INFORMATION SERVICES
+HIGH
+PUBLICATION - BOOK
+2018
+1. Waidah Ismail, Norasikin Fabil, Mohd Hafez Mohd Isa, Roesnita Ismail, Nurdiana Azizan,INDUSTRI HALAL:
+TEKNOLOGI DAN PENGURUSAN MAKLUMAT,Penerbit USIM
+PUBLICATION - CHAPTER IN BOOK
+2019
+1. Ahmad Akmaluddin Mazlan, Roesnita Ismail, Norita Md Norwawi,Fauziah Abdul Wahid & Ashraf Al_Omoush,THE
+INTEGRATION OF NAQLI AND AQLI IN INFORMATION SECURITY AND ASSURANCE FROM THE ISLAMIC &
+TECHNOLOGICAL PERSPECTIVES,Penerbit USIM,78
+PUBLICATION - JOURNAL
+2023
+1. Norazlin Amira Mohd Zainadi, Roesnita Ismail,The Development of Digital Comic for Al-Quran and Al-Sunnah
+Education Subject,,8,1,103-110
+2022
+1. Al-Shanfari, Warusia Yassin, Nasser Tabook, Roesnita Ismail, Anuar Ismail,Determinants of Information Security
+Awareness and Behaviour Strategies in Public Sector Organizations among Employees,International Journal of
+Advanced Computer Science and Applications,13,8,479-490
+2. Zan Azma Nasruddin, Nor Hapiza Mohd Ariffin, Norita Md Norwawi, Roesnita Ismail, Aida Wati, Zainan Abidin, FNSM
+Nor,Evaluating User Experience (UX) Factors and Emotions of Open Distance Learning (ODL) during the Pandemic
+Covid-19 among Secondary School Students,,12,12,1374-1380
+2021
+1. ISSAM AL-SHANFARI, WARUSIA YASSIN, RAIHANA SYAHIRAH ABDULLAH, NABIL HUSSEIN AL-FAHIM, ROESNITA
+ISMAIL,INTRODUCING A NOVEL INTEGRATED MODEL FOR THE ADOPTION OF INFORMATION SECURITY AWARENESS
+THROUGH CONTROL, PREDICTION, MOTIVATION, AND DETERRENCE FACTORS: A PILOT STUDY,,99,12,2991-2993
+2020
+1. Nor Azura Kamarulzaman, Norasikin Fabil, Zulkifly Mohd Zaki, Roesnita Ismail,Comparative Study of Icon Design
+for Mobile Application,,1551,1,012007-012007
+2. Issam Al-Shanfari, Warusia Yassin1, Raihana Syahirah Abdullah, Nabil Hussein Al-Fahim, Roesnita Ismail,Prediction,
+Control, Motivation and Deterrence-based Model to Raise Information Security Awareness among Organisations'
+Employees,,62,09,5267-5284
+3. Ala'a Saeb Al-Sherideh and Roesnita Ismail,Motivating Path between Security and Privacy Factors on the Actual
+use of Mobile Government Applications in Jordan,,11,5,558-566
+4. Siti Mazura Che Doi, Norita Md Norwawi *, Roesnita Ismail,An Early Warning System for Reservoir Water Release
+Operation Using Agent-Based Negative Selection Model,,1551,1,1-13
+5. Siti Mazura Che Doi, Norita Md Norwawi, Roesnita Ismail, Mohd Helmy Abd Wahab, Syed Zulkarnain Syed
+Idrus,Simulation of Agent-Based Negative Selection Model (ABNSM) for Reservoir Water Level
+Monitoring,,1529,3,1-11
+6. Issam Alshanfari, Roesnita Ismail, Nurzi Juana Mohd Zaizi, Fauziah Abdul Wahid,Ontology Based Formal
+Specifications for Social Engineering,International Journal of Technology Management and Information
+System,1,1,35-46
+7. Issam Alshanfari, Roesnita Ismail, Nurzi Juana Mohd Zaizi, Fauziah Abdul Wahid,Ontology Based Formal
+Specifications for Social Engineering,International Journal of Technology Management and Information
+System,2,1,35-46
+8. Siti Fatimah Mohd Tawil, Roesnita Ismail, Fauziah Abdul Wahid, Norita Md Norwawi & Ahmad Akmaluddin
+Mazlan,Application of OASys approaches for Prophetic Food Ontology,,5,1,26-31
+2019
+1. Rawia Mohamed- Najeeb Abu Amr, Waidah Ismail, Lailatul Qadri Zakaria, Nurzi Juana Mohd Zaizi, Roesnita Ismail,
+Mahadi Bahari, Maryati Mohd. Yusof,Horn Clause Techniques in Rehabilitation Clinic for Return to Work.,International
+Journal of Recent Technology and Engineering,8,2S2,59-63
+2. Firas Saleh Omari, Norhidayah Azman, Roesnita Ismail,Relationships Between Human Attributes and Sources of
+Information for Seeking Halal Food Information: A Pilot Study in Kuala Lumpur, Malaysia,International Journal of
+Innovative Technology and Exploring Engineering (IJITEE),8,7C2,152-157
+3. Firas S. Omari, Norhidayah Azman, Roesnita Ismail,Factors Influencing Information Seeking Behaviour for Halal
+Food Products Among Malaysian Muslim Consumers: A Conceptual Framework,,Volume 4,Special,82-85
+2018
+1. Waidah Ismail, Najwa Haayati Mohd Alwi, Roesnita Ismail, Mahadi Bahari, Omar Zakaria,Readiness of Information
+Security Management Systems (ISMS) Policy on Hospital Staff Using e-Patuh System,Journal of Telecommunication,
+Electronic and Computer Engineering (JTEC),Vol 10,No 1-11,47-52
+2. Ala'a Saeb Al-Sherideh1, Roesnita Ismail, Fauziah Abdul Wahid, Norasikin Fabil, Waidah Ismail,Mobile Government
+Applications Based on Security and Privacy: A Literature Review,International Journal of Engineering &
+Technology,7,4.1,51-56
+3. Ahmad Akmaluddin Mazlan1, Norita Md Norwawi1, Fauziah Abdul Wahid, RoesnitaIsmail,Quranic Cross-Lingual
+Information Retrieval Optimization Using Hexadecimal Conversion Algorithm,Malaysian Journal of Science, Health &
+Technology,2,Special Is,21-25
+2017
+1. Ashraf Mousa Saleh, Roesnita Ismail; Norasikin Fabil, Norita Md Norwawi & Fauziah Abdul Wahid,Measuring
+Usability: Importance Attributes for Mobile Applications,Advanced Science Letters,23,5,4738-4741
+2016
+1. Maher Alghali, M. A. Najwa and I. Roesnita,A FRAMEWORK TO ASSESS PRIVACY IN CLOUD BASED SYSTEM,ARPN
+Journal of Engineering and Applied Sciences,11,3,1388-1394
+2015
+1. ASHRAF SALEH, ROESNITA BINTI ISAMIL & NORASIKIN BINTI FABIL,EXTENSION OF PACMAD MODEL FOR USABILITY
+EVALUATION METRICS USING GOAL QUESTION METRICS (GQM) APPROACH,Journal of Theoretical and Applied
+Information Technology,79,1,90-100
+2014
+1. nader Yahya Alkeinay, Norita Md Norwawi, Fauziah Abdul Wahid, Roesnita Ismail, Najwa Hayaati Mohd Alwi,Privacy
+Factors of Social Network That Effect Users Trust And Confidentiality,International Journal of Management &
+Information Technology,8,3,1411-1413
+2. Norita Md Norwawi, Najwa Hayati Mohd Alwi, Roesnita Ismail, Fauziah Wahid and Nader M. Alkaenay,Promoting
+Islamic Ethics in Digital Social Network For User Data Protection and Trust,''ULUM ISLAMIYYAH JOURNAL,13,Special
+Ed,115-127
+2013
+1. Roesnita Ismail, Awang Ngah Zainab,ASSESSING THE STATUS OF LIBRARY INFORMATION SYSTEMS
+SECURITY,Journal of Librarianship and Information Science,45,3,232-247
+2. A. Nurdiana,ISLAMIC DIETARY MENU PLANNING SYSTEM FOR BREASTFEEDING MOTHERS,Middle-East Journal of
+Scientific Research 13(Approaches of Halal and Thoyyib for Society, Wellness and Health),16,,36-42
+2011
+1. Roesnita Ismail, A.N. Zainab,INFORMATION SYSTEMS SECURITY IN SPECIAL AND PUBLIC LIBRARIES: ASSESSMENT
+OF STATUS,Malaysian Journal of library & Information Science,16,2,45-62
+2005
+1. Roesnita Ismail, Zainab A.N,THE PATTERN OF E-BOOK USE AMONG UNDERGRADUATES IN MALAYSIA: A CASE OF TO
+KNOW IS TO USE,MALAYSIAN JOURNAL OF LIBRARY & INFORMATION SCIENCE,10,2,1-23
+PUBLICATION - PROCEEDING
+2019
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Mobile Government Applications: A
+Conceptual Model of Acceptance Based
+On Security and Privacy Factors
+International Congress on Recent
+Advances in Sciences and
+Technology
+Hepta Talent Sdn.
+Bhd.
+INTERNATIONA
+L
+2
+ONTOLOGY-BASED FORMAL
+SPECIFICATIONS FOR SOCIAL
+ENGINEERING
+International Conference on
+Education, Technology, Business
+and Social Science (ETBSS2019)
+ACADEMIA INDUSTRY
+NETWORKS
+INTERNATIONA
+L
+2018
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Mobile Government Applications Based
+on Security and Privacy: A Literature
+Review
+7th International Conference on
+Computer Science and
+Computational Mathematics
+(ICCSCM 2018).
+Science and
+Knowledge Research
+Society (registered in
+Malaysia as SandKRS
+sdn bhd.)
+INTERNATIONA
+L
+2
+Factors Influencing Information Seeking
+Behaviour for Halal Food Products
+Among Malaysian Muslim Consumers: A
+Conceptual Framework
+Postgraduate Seminar Faculty of
+Science and Technology
+(KOSIST'18)
+FST, USIM
+UNIVERSITY
+2017
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Evaluating Usability for Mobile
+Application: A MAUEM Approach
+8th International Conference on
+Networking and Information
+Technology (ICNIT 2017)
+The Annual Meeting
+of JACN Editorial
+Board
+INTERNATIONA
+L
+2
+Teaching Al-Quran and Al-Sunnah
+Subject by using Edu-Digital Comic
+INTERNATIONAL CONFERENCE
+ON INTEGRATION OF NAQLI AND
+AQLI KNOWLEDGE IN QURAN AND
+SUNNAH - INAQ 2017
+FAKULTI PENGAJIAN
+QURAN DAN SUNNAH
+& TOKYO CHAMI &
+CULTURE, TOKYO,
+JEPUN
+INTERNATIONA
+L
+3
+STORAGE OPTIMIZATION FOR DIGITAL
+QURAN USING SPARSE MATRIX WITH
+HEXADECIMAL REPRESENTATION
+The 6th International Conference
+on Computing and Informatics,
+ICOCI 2017, 25-27April, 2017
+Kuala Lumpur
+School of Computing,
+Universiti Utara
+Malaysia
+INTERNATIONA
+L
+4
+QUERY COST-REDUCTION FOR
+QURANIC-ARABIC INFORMATION
+RETRIEVAL USING HEXADECIMAL
+CONVERSION ALGORITHM
+The 6th International Conference
+on Computing and Informatics,
+ICOCI 2017 25-27April, 2017
+Kuala Lumpur
+School of Computing,
+Universiti Utara
+Malaysia
+INTERNATIONA
+L
+2016
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Application of OASys approaches for
+Dates Ontology
+Third International Conference on
+Information Retrieval and
+Knowledge Management
+Malaysian Society of
+Information Retrieval
+and Knowledge
+Management
+INTERNATIONA
+L
+2
+Measuring Usability: Importance
+Attributes for Mobile Applications
+1st WORLD INTERNATIONAL
+CONFERENCE ON ISLAMIC
+SCIENCES 2016 (WICOIS’16)
+Institute of Islamic
+Sciences (ISI), Faculty
+of Science and
+Technology (FST),
+Faculty of Sharia and
+INTERNATIONA
+L
+2015
+No
+Title
+Conference Name
+Organizer
+Level
+1
+USABILITY EVALUATION FRAMEWORKS
+OF MOBILE APPLICATION: A MINI-
+SYSTEMATIC LITERATURE REVIEW
+3rd Global Summit on Education
+GSE 2015: Trends and challenges
+in Education
+WorldConferences.ne
+t
+INTERNATIONA
+L
+2
+THE IMPACT OF DYNAMIC PROTOTYPE
+ON USABILITY TESTING AND USER
+SATISFACTION: FIDELITY AND IN-SITU
+PROTOTYPING
+3rd Global Summit on Education
+GSE 2015: Trends and challenges
+in Education
+WorldConferences.ne
+t
+INTERNATIONA
+L
+3
+Unicode Hexadecimal Representation
+for Digital Quranic Words
+FEIIC-International Conference on
+Engineering Education and
+Federation of
+Engineering
+INTERNATIONA
+L
+Research 2015, Madinah,
+Kingdom of Saudi Arabia, 19-21
+December 2015
+Institution of Islamic
+C
+2014
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Review on the perceptions of IT
+Security Practitioners in the Middle East
+Countries on Cloud Computing
+INTERNATIONAL CONFERENCE
+ON COMPUTING AND BUSINESS
+MANAGEMENT (ICCBM 2014)
+ICCBM 2014
+Organizing
+Committees
+INTERNATIONA
+L
+2
+Challenges and Benefits of
+Implementing Cloud Based E-Learning
+in Developing Countries
+Proceeding of the Social Sciences
+Research ICSSR 2014. 9-10 June
+2014, Kota Kinabalu,Sabah,
+MALAYSIA.
+WorldConferences.ne
+t
+INTERNATIONA
+L
+3
+Towards an Efficient Privacy in Cloud
+Based E-Learning
+International conference on
+Intelligent Systems, Data Mining
+and Information Technology
+(ICIDIT2014), April 21-22, 2014
+Bangkok (Thailand)
+International Institute
+of Engineers
+INTERNATIONA
+L
+4
+Case Management System for Al
+Taybah Court in Jordan
+Postgraduate Colloquium 2014,
+Faculty of Science and
+Technology (PCFST''''14)
+Faculty of Science
+and Technology,
+USIM
+UNIVERSITY
+5
+Massive Online Open Course (MOOC):
+New Learning Style
+Postgraduate Colloquium 2014,
+Faculty of Science and
+Technology (PCFST''''14)
+Faculty of Science
+and Technology,
+USIM
+UNIVERSITY
+6
+The Impacts of Social and Cultural
+Factors on User Experience in Mobile
+Application
+Postgraduate Colloquium 2014,
+Faculty Of Science and
+Technology (PCFST''''14)
+Faculty of Science
+and Technology,
+USIM
+UNIVERSITY
+7
+State of the Art of Information Retrieval
+for Semantic Search Techniques and
+Cross Language Approach
+Postgraduate Colloquium 2014,
+Faculty of Science and
+Technology (PCFST''''14)
+Faculty of Science
+and Technology,
+USIM
+UNIVERSITY
+8
+Mobile Application Usability Evaluation
+Metrics: The Impacts of Unsupervised
+Usability Evaluation
+Postgraduate Colloquium 2014,
+Faculty of Science and
+Technology (PCFST''''''''14)
+Faculty of Science
+and Technology,
+USIM
+UNIVERSITY
+2013
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Privacy in Cloud Based E-Learning
+The Second International
+Conference on Informatics
+Engineering & Information
+Science (ICIEIS2013)
+The Society of Digital
+Information and
+Wireless Co
+INTERNATIONA
+L
+2
+NOBEL DIGITAL SOCIAL NETWORK
+BASED ON USER ORIENTED PRIVACY
+MODEL ISLAMTAG
+Seminar on Creativity &
+Innovation, i-Inova2013
+MOSTI, KPM ,USIM,
+ASM & USM
+NATIONAL
+2010
+No
+Title
+Conference Name
+Organizer
+Level
+1
+A framework for assessing information
+systems security practices in libraries
+THE 3RD INTERNATIONAL
+CONFERENCE ON LIBRARIES,
+INFORMATION AND SOCIETY
+(ICOLIS 2010)
+Library and
+Information Unit,
+Faculty of Computer
+Science &
+Information
+INTERNATIONA
+L
+Technology,
+University
+2007
+No
+Title
+Conference Name
+Organizer
+Level
+1
+FACTORS RELATED TO E-BOOK USE
+AMONGST IT STUDENTS.
+BUILDING AN INFORMATION
+SOCIETY FOR ALL: PROCEEDINGS
+OF THE INTERNATIONAL
+CONFERENCE ON LIBRARIES,
+INFORMATION AND SOCIETY
+Library and
+Information Science
+Unit, Faculty of C
+INTERNATIONA
+L
+PUBLICATION - THESIS
+2022
+No
+Title
+Field
+Thesis Level
+Type
+1
+On-Campus Food Ordering System
+Information System
+Bachelor
+Editor
+2
+DrivingTutor: WEB-BASED SYSTEM FOR
+DRIVING SCHOOL MANAGEMENT
+Information system
+Bachelor
+Editor
+3
+BOOK VALLEY: ONLINE BUYING AND SELLING
+OF USED BOOKS FOR USIMIANS
+Information System
+Bachelor
+Editor
+2021
+No
+Title
+Field
+Thesis Level
+Type
+1
+A WEB-BASED MANAGEMENT SYSTEM ON
+PACKING CHECKLIST FOR HAJJ AND UMRAH
+Computer Science
+Bachelor
+Editor
+2
+A WEB-BASED MANAGEMENT SYSTEM FOR
+OFF-CAMPUS RENTAL IN NILAI
+Computer Science
+Bachelor
+Editor
+2020
+No
+Title
+Field
+Thesis Level
+Type
+1
+PHARMACY INTERVENTION RECORD SYSTEM
+Computer Science
+Bachelor
+Editor
+2
+BREAKING THE LANGUAGE BARRIER BY
+USING QUICK RESPONSE (QR) CODE
+TRANSLATOR IN ENHANCING ACCESS OF
+LIBRARY COLLECTIONS
+Computer Science
+Bachelor
+Editor
+2019
+No
+Title
+Field
+Thesis Level
+Type
+1
+A MOBILE APPLICATION FOR LEARNING
+ALPHABETS (ARABIC ALPHABETS AND
+WORDS) FOR THE DEAF
+Computer Science
+Bachelor
+Editor
+2
+SHOPPING ENABLER FOR THE BLIND WITH
+AUDIO QR CODE ASSISTANCE
+Computer Science
+Bachelor
+Editor
+2018
+No
+Title
+Field
+Thesis Level
+Type
+1
+FST’S ACHIEVEMENTS E-GALLERY
+Computer Science
+Bachelor
+Editor
+2
+GHUSL AND SOLAT REMINDER FOR
+MUSLIMAH: MOBILE APPLICATION
+Computer Science
+Bachelor
+Editor
+2017
+No
+Title
+Field
+Thesis Level
+Type
+1
+FST e-Letters and e-Forms
+Computer Science
+Bachelor
+Editor
+2
+HALAL HOTEL MOBILE APPLICATION
+Computer Science
+Bachelor
+Editor
+3
+MUSLIMAH ISTIHADHAH CALCULATOR MOBILE
+APPLICATION
+Computer Science
+Bachelor
+Editor
+2016
+No
+Title
+Field
+Thesis Level
+Type
+1
+HOSTEL MANAGEMENT SYSTEM
+Computer Science
+Bachelor
+Editor
+2
+STUDENT DAILY EXPENSES MOBILE
+APPLICATION
+Computer Science
+Bachelor
+Editor
+3
+WEBSITE FOR E-MUSLIM SCIENTISTS:
+GUIDING THE YOUTH BASED ON AL QURAN
+AND AL HADITH
+Computer Science
+Bachelor
+Editor
+2015
+No
+Title
+Field
+Thesis Level
+Type
+1
+e-Court System for Al-Tayba Court in Jordan
+Information Security
+Master
+Co-Author
+2
+Ontology Formation for Online Publications
+on Social Engineering
+Information Security &
+Information Retri
+Master
+Co-Author
+2014
+No
+Title
+Field
+Thesis Level
+Type
+1
+MOBILE GROCERIES PRICE COMPARISONS
+MOBILE APPLICATION
+Bachelor
+Editor
+2
+STUDENT-LECTURER APPOINTMENT
+MANAGEMENT SYSTEM (SLAMS)
+Information Systems
+Management (ISM)
+Bachelor
+Co-Editor
+3
+ACCESS & USE POLICY ON INTERNET &
+ISLAMIC INFORMATION FOR THE PROPHETIC
+FOOD SEARCH ENGINE
+Information Security &
+Information Retri
+Bachelor
+Co-Editor
+2013
+No
+Title
+Field
+Thesis Level
+Type
+1
+AN UNSUPERVISED USABILITY EVALUATION
+METRICS FOR MOBILE APPLICATION
+Computer Science
+Doctor of philosophy
+Co-Author
+2
+A Survey on Web Browser Security
+Awareness Among Undergraduate Students
+in USIM
+Information Security
+Bachelor
+Editor
+2007
+No
+Title
+Field
+Thesis Level
+Type
+1
+ASSESSING INFORMATION SECURITY
+MANAGEMENT IN MALAYSIAN ACADEMIC
+LIBRARIES
+Library and Information
+Science
+Doctor of philosophy
+Main Author
+2004
+No
+Title
+Field
+Thesis Level
+Type
+1
+SURVEY ON THE PERCEPTION AND USE OF
+ELECTRONIC BOOKS AMONG IT STUDENTS
+Library and Information
+Science
+Master
+Main Author
+1900
+No
+Title
+Field
+Thesis Level
+Type
+ACADEMIC RECOGNITION
+INTERNAL / EXTERNAL EXAMINER
+No
+Level (Master
+/ PHD)
+Type of Examiner
+Title
+Level
+Viva
+Date
+1
+Master
+Research (Only)
+The Nature of Business Information Services
+Provision in Public Libraries in Malaysia: A
+Case Study
+NATIONAL
+01/08/20
+16
+2
+PHD
+Research (Only)
+A Knowledge Sharing (KS) Model for the
+Islamic Banking Sector in Malaysia based on
+Shariah Perspective
+UNIVERSITY
+02/10/20
+17
+3
+PHD
+Research (Only)
+Data Logs and Web Search Results Clustering
+Based on Centroid Based Clustering and Meta-
+Heuristic
+UNIVERSITY
+07/02/20
+18
+4
+Master
+Research (Only)
+An Ontology Based Approach For Retrieving
+Medical And Health Science Knowledge In
+Quran
+UNIVERSITY
+07/12/20
+17
+5
+Master
+Research (Only)
+Development of e-Learning Motivational
+Model Based on the Constructivism Theory
+and Security Trust for Learning Programming
+Languages in Universities
+UNIVERSITY
+09/03/20
+17
+6
+Master
+Research (Mixed
+Mode)
+Trust for Knowledge Transfer in e-Banking
+UNIVERSITY
+09/07/20
+14
+7
+Master
+Research (Mixed
+Mode)
+An Investigation of Social Engineering Attacks
+towards Graphical Password Authentication
+UNIVERSITY
+09/07/20
+14
+8
+Research (Mixed
+Mode)
+A Model on the Quality Factors Influencing
+the Intention to Use Student Information
+Systems
+UNIVERSITY
+11/05/20
+20
+9
+Master
+Research (Mixed
+An Assessment of e-Learning Readiness
+UNIVERSITY
+13/08/20
+Mode)
+among University Students
+15
+10
+PHD
+Research (Only)
+A Personalized Search Engine Based on A
+Hybrid of Feature Extraction and Clustering
+Approach
+UNIVERSITY
+16/06/20
+16
+11
+Master
+Research (Only)
+THE DEVELOPMENT OF INTEGRATION
+FRAMEWORK FOR ELECTRONIC RECORDS
+MANAGEMENT IN SARAWAK STATE
+GOVERNMENT
+NATIONAL
+16/10/20
+17
+12
+Research (Mixed
+Mode)
+INVESTIGATING THE DETERMINANTS AND
+IMPACTS OF DIGITAL LIBRARY ENGAGEMENT
+NATIONAL
+18/08/20
+20
+13
+PHD
+Research (Only)
+Modelling System Usage Performance Impact
+for Online Banking System
+UNIVERSITY
+18/12/20
+18
+14
+Research (Mixed
+Mode)
+WORK PERFORMANCE AND WORK DESIGN OF
+ACADEMIC LIBRARIANS IN MALAYSIA
+NATIONAL
+23/07/20
+19
+15
+Research (Mixed
+Mode)
+AN INTERPRETIVE EXPLORATION OF THE
+TECHNICAL KNOWLEDGE REPOSITORY
+SUSTAINNABILITY: A CASE STUDY IN
+MALAYSIAN GOVERNMENT AGENCY
+NATIONAL
+23/07/20
+19
+16
+Research (Mixed
+Mode)
+REBRANDING LIBRARIANS TOWARDS
+SERVICE QUALITY: CASE STUDY ON PUBLIC
+UNIVERSITY LIBRARIANS IN NORTHERN
+REGION OF MALAYSIA
+NATIONAL
+27/06/20
+19
+17
+Research (Mixed
+Mode)
+REBRANDING LIBRARIANS TOWARDS
+SERVICE QUALITY: CASE STUDY ON PUBLIC
+UNIVERSITY LIBRARIANS IN NORTHERN
+REGION OF MALAYSIA
+NATIONAL
+27/06/20
+19
+18
+PHD
+Research (Only)
+Data Logs And Web Search Results Clustering
+Based On Centroid Based Clustering And
+Meta-Heuristic
+UNIVERSITY
+27/12/20
+17
+19
+PHD
+Research (Only)
+CUSTOMER-DRIVEN BUSINESS INFORMATION
+PROVISION IN MALAYSIAN GOVERNMENT
+AGENCIES’ LIBRARY
+NATIONAL
+29/05/20
+17
+20
+Research (Mixed
+Mode)
+Semiotic Icon Design for Motivating in
+Reciting Quran for Youth
+UNIVERSITY
+30/06/20
+21
+21
+Master
+Research (Only)
+Academic Library Outreach Program
+NATIONAL
+30/11/20
+18
+REVIEWER
+No
+Article Title
+Journal Name
+Type of Reviewer
+Impact
+Factor
+Level
+Year
+1
+Automated Serial
+Control: Option to
+Successful Serial
+Management in
+Nigerian University
+Libraries
+INTERNATIONAL JOURNAL
+OF LIBRARY AND
+INFORMATION SCIENCE
+Journal Article
+Reviewer
+INTERNATIONA
+L
+2013
+2
+Classification of
+Parkinson Patient
+using Neural Network
+Colloquium for
+Postgraduates in Science &
+Technology 15 (KoSiST
+15)
+Conference Paper
+Reviewer
+UNIVERSITY
+2015
+3
+Regional Islamic
+Libraries Seminar
+2016 (RELieS)
+Regional Islamic Libraries
+Seminar 2016 (RELieS)
+Conference Paper
+Reviewer
+-
+INTERNATIONA
+L
+2016
+4
+International Journal
+of Computers and
+Technology
+International Journal of
+Computers and Technology
+Journal Article
+Reviewer
+1.213
+INTERNATIONA
+L
+2016
+5
+Kolokium Siswazah
+Sains Dan Teknologi
+2016 (KoSiST 2016).
+Kolokium Siswazah Sains
+Dan Teknologi 2016
+(KoSiST 2016).
+Conference Paper
+Reviewer
+-
+UNIVERSITY
+2016
+6
+"Recordkeeping
+Practices"
+Gading Journal for the
+Social Sciences (Gading)
+Journal Article
+Reviewer
+NATIONAL
+2017
+7
+Blended learning
+development
+reflection on students
+satisfaction in Omani
+Universities
+International Conference
+Software Engineering &
+Computer Systems 2017.
+Conference Paper
+Reviewer
+INTERNATIONA
+L
+2017
+8
+Information
+Dissemination Model
+for Scholars on
+Cryptocurrencies: A
+Proposal
+2018 Fourth International
+Conference on Information
+Retrieval and Knowledge
+Management”, Kota
+Kinabalu, Sabah, Malaysia,
+26 – 28 March 2018
+Conference Paper
+Reviewer
+-
+INTERNATIONA
+L
+2017
+9
+Uncovering Print and
+Digital Literacies
+Gading Journal for the
+Social Sciences
+Journal Article
+Reviewer
+-
+NATIONAL
+2018
+10
+STUDENTS AS
+DESIGNERS OF
+EBOOK FOR
+AUTHENTIC
+ASSESSMENT
+Malaysian Journal of
+Learning and Instruction
+Journal Article
+Reviewer
+0.16
+NATIONAL
+2018
+11
+AIBD - A Review on Z-
+numbers
+International Conference on
+Innovation of Computer
+Science and Engineering
+(iCiCSE2018)
+Conference Paper
+Reviewer
+-
+INTERNATIONA
+L
+2018
+12
+In Vitro Antioxidant
+and Antimicrobial
+Evaluation of
+Malaysian Tualang
+Honey
+ROGRAM PENERBITAN
+JURNAL BERINDEKS USIM-
+UKM (RCRP)
+Journal Article
+Reviewer
+-
+UNIVERSITY
+2018
+13
+Integration of Naqli
+and Aqli in USIM
+Undergraduate
+Medical Biochemistry
+Seminar
+Program Penerbitan Jurnal
+Berindeks USIM-UKM
+(RCRP)
+Journal Article
+Reviewer
+-
+UNIVERSITY
+2018
+14
+Development and
+Implementation of
+Pre-Counselling
+System using IoT
+Platform
+KOLOKIUM SISWAZAH
+SAINS DAN TEKNOLOGI
+2018 (KoSiST 2018)
+Conference Paper
+Reviewer
+UNIVERSITY
+2018
+15
+EARLY DETECTION OF
+FIRE HAZARD USING
+FUZZY LOGIC
+APPROACH
+The 7th International
+Conference on Computing
+and Informatics 2019
+(ICOCI2019)
+Conference Paper
+Reviewer
+INTERNATIONA
+L
+2018
+16
+Scoring Matrix
+Framework for Threat
+Factor Profiling Model
+International Conference on
+Innovation of Computer
+Science and Engineering
+(iCiCSE2018)
+Conference Paper
+Reviewer
+1.807
+INTERNATIONA
+L
+2018
+17
+A SEMANTIC EVENT
+BASED FRAMEWORK
+FOR COMPLEX
+SITUATIONS
+MODELING AND
+The 7th International
+Conference on Computing
+and Informatics 2019
+(ICOCI2019)
+Conference Paper
+Reviewer
+INTERNATIONA
+L
+2018
+IDENTIFICATION IN
+SMART
+ENVIRONMENTS
+18
+"A CAMPUS TREE
+INFORMATION
+SYSTEM:
+ESTABLISHING AN
+INFORMATION
+SYSTEM IN SUPPORT
+OF THE HIGHER
+LANDSCAPE
+ARCHITECTURE
+EDUCATIONAL
+QUALITIES,"
+Gading Journal for the
+Social Sciences.
+Journal Article
+Reviewer
+NATIONAL
+2018
+19
+AUGMENTED REALITY-
+BASED MOBILE
+APPLICATION FOR
+KNOWLEDGE
+TRANSFERRING IN
+THE SYSTEM OF RICE
+INTENSIFICATION
+The 7th International
+Conference on Computing
+and Informatics 2019
+(ICOCI2019)
+Conference Paper
+Reviewer
+INTERNATIONA
+L
+2018
+20
+Intelligent
+Rehabilitation
+Intelligent Rehabilitation
+Manuscript / Book
+Reviewer
+NATIONAL
+2019
+21
+Review of E-health:
+Applications,
+Framework, and
+Challenges
+6th International
+Conference on Software
+Engineering & Computer
+Systems
+Conference Paper
+Reviewer
+-
+INTERNATIONA
+L
+2019
+22
+A Survey on
+Crowdsourcing
+Awareness In
+Indonesian Micro
+Small Medium
+Enterprises
+6th International
+Conference on Software
+Engineering & Computer
+Systems
+Conference Paper
+Reviewer
+-
+INTERNATIONA
+L
+2019
+23
+Students’ Continued
+Use of E-Learning
+System: A Review of
+Conceptual
+Framework
+6th International
+Conference on Software
+Engineering & Computer
+Systems (ICSECS)
+Conference Paper
+Reviewer
+-
+INTERNATIONA
+L
+2019
+24
+The Influence of
+Security Control
+Management and
+Social Factors in
+Deterring Information
+Security
+Misbehaviour: An
+Empirical Evidence of
+SaaS Cloud Users
+2ND INTERNATIONAL
+CONFERENCE ON RECENT
+ADVANCEMENTS IN
+SCIENCE AND
+TECHNOLOGY 2019
+Conference Paper
+Reviewer
+-
+INTERNATIONA
+L
+2019
+25
+Intelligent
+Rehabilitation Vol.2
+Intelligent Rehabilitation
+Vol.2
+Manuscript / Book
+Reviewer
+-
+UNIVERSITY
+2020
+26
+"Evaluating
+Augmented Reality
+Games for UPSI 100th
+Years"
+Journal of ICT in Education
+Journal Article
+Reviewer
+-
+NATIONAL
+2022
+27
+"Using HistoGuide
+Mobile Application
+(Virtual Microscopy
+and Slides)
+Journal of ICT in Education
+Journal Article
+Reviewer
+NATIONAL
+2022
+28
+"Knowledge Sharing
+Behaviour in Malaysia
+Higher Education
+ICIS 2022 Conference
+Presentation Paper
+Conference Paper
+Reviewer
+INTERNATIONA
+L
+2022
+Institutions: A
+Conceptual
+Framework"
+29
+An Implementation of
+Bring Your Own
+Device (BYOD) in
+Education.
+Journal of ICT in Education
+Journal Article
+Reviewer
+NATIONAL
+2023
+30
+Improving Flood Early
+Warning Systems in
+Kabbe, Namibia: A
+Situational Analysis
+Approach
+International Journal of
+Disaster Risk Reduction
+Journal Article
+Reviewer
+7.4
+INTERNATIONA
+L
+2023
+31
+XPLORING
+STRUCTURAL TEXT
+PATTERNS IN AL-
+QURAN
+4th INTERNATIONAL
+CONFERENCE ON RECENT
+ADVANCEMENTS IN
+SCIENCE AND
+TECHNOLOGY 2023
+(ICoRAST 2023)
+Conference Paper
+Reviewer
+INTERNATIONA
+L
+2023
+32
+Navigating the
+Changing Terrain:
+Innovative Strategies
+for Academic
+Libraries
+Navigating the Changing
+Terrain: Innovative
+Strategies for Academic
+Libraries
+Manuscript / Book
+Reviewer
+UNIVERSITY
+2023
+33
+Anxiety and
+emotional support
+among first-year
+college students
+during the transition
+from distanceto face-
+to-face learning
+during COVID-19
+PLOS ONE Journal
+Journal Article
+Reviewer
+INTERNATIONA
+L
+2023
+34
+ASSESSING USER
+MOTIVATION IN AL-
+QURAN
+MEMORIZATION
+THROUGH A VARK-
+INTEGRATED
+MULTIMEDIA
+REPRESENTATION
+LEARNING MODEL
+4th INTERNATIONAL
+CONFERENCE ON RECENT
+ADVANCEMENTS IN
+SCIENCE AND
+TECHNOLOGY 2023
+(ICoRAST 2023)
+Conference Paper
+Reviewer
+INTERNATIONA
+L
+2023
+INVITED / KEYNOTED SPEAKER
+No
+Title
+Conference Name
+Level
+Date
+1
+Use of e-Books Amongst Malaysian
+University Students
+Mensyuarat Majlis Ketua-Ketua
+Pustakawan IPTA
+NATIONAL
+04/10/2013 -
+04/10/2013
+2
+Information Searching Tips for the
+Researchers
+Postgraduate Seminar
+UNIVERSITY
+26/04/2013 -
+26/04/2013
+ACADEMIC RECOGNITION (OTHERS)
+No
+Organization
+Award / Reward
+Category of
+Position
+Level
+Date
+1
+PANEL PAKAR UNTUK
+MENILAI APLIKASI
+PERMAINAN (i-Tajweed)
+Expert Evaluator
+Academic
+Advisor
+UNIVERSITY
+13/12/2019 -
+03/02/2020
+KAJIAN PELAJAR IJAZAH
+TINGGI
+2
+PANEL PENILAI LAPORAN
+KEMAJUAN PENYELIDIKAN
+PEMBANGUNAN SISTEM
+TRANSLITERASI QURAN
+MESRA OKU PEKAK,
+FAKULTI PENGAJIAN QURAN
+DAN SUNNAH USIM
+PANEL PENILAI LAPORAN
+KEMAJUAN PENYELIDIKAN
+PEMBANGUNAN SISTEM
+TRANSLITERASI QURAN
+MESRA OKU PEKAK,
+FAKULTI PENGAJIAN QURAN
+DAN SUNNAH USIM
+Academic
+Advisor
+UNIVERSITY
+13/12/2019 -
+03/02/2020
+3
+Panel Pakar Pengesah
+Instrumen Soal Selidik
+Kebolehgunaan (Usability
+Survey)
+Jabatan Kurikulum dan
+Teknologi Pengajaran,
+Fakulti Pendidikan,
+Universiti Malaya (UM)
+Academic
+Advisor
+NATIONAL
+19/05/2022 -
+10/06/2022
+CONTRIBUTION - USIM
+2023
+No
+Name Of Activity
+Position
+Level
+Date
+1
+PASUKAN PERUNDING SMART DIREKTORI
+UNIVERSITI SAINS ISLAM MALAYSIA (USIM)
+AHLI PASUKAN
+PERUNDING SMART
+DIREKTORI USIM
+UNIVERSITY
+01/08/2023 -
+31/07/2024
+2
+Cybersecurity and Systems (CSS) Research
+Unit
+MEMBERS
+UNIVERSITY
+02/01/2023 -
+30/11/2023
+3
+AHLI JAWATANKUASA TEKNIKAL VIRTUAL
+CARD USIM
+AJK
+UNIVERSITY
+16/01/2023 -
+30/03/2023
+4
+JAWATANKUASA KESELAMATAN DAN
+KESIHATAN PEKERJA (JKKP) FAKULTI SAINS
+DAN TEKNOLOGI (FST)
+AJK
+FACULTY
+21/07/2023 -
+31/12/2024
+5
+JAWATANKUASA SEMAKAN KURIKULUM
+FAKULTI - SARJANA MUDA SAINS KOMPUTER
+DENGAN KEPUJIAN (KESELAMATAN DAN
+JAMINAN MAKLUMAT)
+AJK
+FACULTY
+22/08/2023 -
+10/10/2024
+6
+Penyelaras Kursus Program FST Semester 1,
+Sesi Akademik 2022/2023 (A221)
+PENYELARAS
+FACULTY
+31/12/2023 -
+30/09/2023
+2022
+No
+Name Of Activity
+Position
+Level
+Date
+1
+AHLI JAWATANKUASA PEMBANGUNAN DASAR
+PENGURUSAN DATA
+PENYELIDIKAN/RESEARCH DATA
+MANAGEMENT (RDM) UNIVERSITI SAINS
+ISLAM MALAYSIA (USIM)
+AJK
+UNIVERSITY
+01/01/2022 -
+31/12/2022
+2
+Persatuan Kakitangan Akademik USIM
+(pkausim)
+MEMBERS
+UNIVERSITY
+01/12/2022 -
+31/10/2029
+3
+PEMBACA/PENILAI PERMOHONAN GERAN
+DENGAN KERJASAMA LUAR
+Penilai
+NATIONAL
+04/07/2022 -
+06/07/2022
+4
+JAWATANKUASA URUSETIA PELAKSANA
+SYARAHAN PERDANA FAKULTI SAINS DAN
+TEKNOLOGI 2022
+AJK
+FACULTY
+07/04/2022 -
+31/12/2022
+5
+PEMERIKSA PEMBENTANGAN PROPOSAL
+PENYELIDIKAN SISWAZAH BAGI UJIAN
+KELAYAKAN (QUALIFYING TEST) FAKULTI
+Examiner
+FACULTY
+08/07/2022 -
+08/07/2022
+SAINS TEKNOLOGI
+6
+PELANTIKAN SEBAGAI AHLI JAWATANKUASA
+PENAJA PROGRAM BAHARU FAKULTI SAINS
+DAN TEKNOLOGI, UNIVERSITI SAINS ISLAM
+MALAYSIA: SARJANA SAINS KOMPUTER (MOD
+ONLINE DISTANCE LEARNING (ODL))
+AJK
+FACULTY
+12/09/2022 -
+31/12/2022
+7
+PELANTIKAN SEBAGAI AHLI JAWATANKUASA
+PENAJA PROGRAM BAHARU FAKULTI SAINS
+DAN TEKNOLOGI, UNIVERSITI SAINS ISLAM
+MALAYSIA: DOKTOR FALSAFAH SAINS
+KOMPUTER (MOD ONLINE DISTANCE
+LEARNING (ODL))
+AJK
+FACULTY
+12/09/2022 -
+31/12/2022
+8
+Program ICT Click 2022
+Penasihat
+UNIVERSITY
+17/02/2022 -
+30/04/2022
+9
+JAWATANKUASA TASKFORCE PENUBUHAN
+PROGRAM BAHARU DOKTOR FALSAFAH SAINS
+KOMPUTER FAKULTI SAINS DAN TEKNOLOGI
+(FST)
+AJK
+FACULTY
+23/02/2022 -
+31/12/2022
+10
+Mock viva: Sustainability Elements in
+Designing Game-Based Learning (i-Tajweed)
+for Motivating Students in Learning Tajweed
+Examiner
+FACULTY
+28/01/2022 -
+08/08/2022
+11
+JAWATANKUASA TASKFORCE
+PENGEMASKINIAN RANGKA KURSUS
+PROGRAM SARJANA MUDA PENGAJIAN
+SUNNAH DENGAN PENGURUSAN MAKLUMAT
+DENGAN KEPUJIAN
+AJK
+UNIVERSITY
+30/09/2022 -
+31/12/2022
+2021
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JAWATANKUASA PENGURUSAN SISTEM
+KESELAMATAN MAKLUMAT (ISMS) AUDIT
+DALAMAN, USIM
+COMMITEE MEMBERS
+UNIVERSITY
+01/09/2021 -
+31/08/2022
+2
+Panel Pemeriksa Keputusan Peperiksaan
+Akhir Semester 1, Sesi Akademik 2020/2021
+AJK
+FACULTY
+09/04/2021 -
+13/04/2021
+3
+TASKFORCE SEMAKAN RANGKA KURSUS DAN
+FAIL PROGRAM PERINGKAT FAKULTI SAINS
+DAN TEKNOLOGI
+HEAD OF AJK
+FACULTY
+20/08/2021 -
+20/02/2022
+4
+PETUGAS PROMOSI AKADEMIK USIM
+SEMPENA TUNISIA MIDDLE EAST 2021
+Petugas Promosi
+INTERNATIONAL
+24/06/2021 -
+25/06/2021
+2020
+No
+Name Of Activity
+Position
+Level
+Date
+1
+POSTGRADUATE THESIS PROPOSAL DEFENCE
+(QT)
+COMMITEE MEMBERS
+FACULTY
+08/09/2020 -
+08/09/2020
+2
+POSTGRADUATE THESIS PROPOSAL DEFENSE
+Evaluator
+FACULTY
+31/01/2020 -
+31/01/2020
+2019
+No
+Name Of Activity
+Position
+Level
+Date
+1
+International Conference on Cybersecurity
+HEAD OF AJK
+INTERNATIONAL
+07/03/2019 -
+2019 (ICoC2019)
+31/12/2019
+2
+Syarahan Perdana FST
+AJK
+UNIVERSITY
+08/04/2019 -
+08/04/2019
+3
+Penilaian Praktikum bagi Peserta Kursus Asas
+Pembelajaran dan Pengajaran (Berteraskan
+Integrasi Ilmu Naqli dan Aqli) USIM 2019
+Penyelia
+UNIVERSITY
+11/10/2019 -
+31/01/2020
+4
+BENGKEL SEMAKAN DAN PEMURNIAN
+RANGKA KURSUS (COURSE OUTLINE)
+PROGRAM ISA
+AJK
+FACULTY
+13/02/2019 -
+13/02/2019
+5
+BENGKEL PEMBANGUNAN DOKUMEN COPPA
+MENGIKUT MQA2.0
+AJK
+FACULTY
+14/08/2019 -
+18/08/2019
+6
+EVALUATOR FOR FINAL YEAR THESIS POSTER
+PRESENTATION (ISA)
+Panel
+FACULTY
+18/12/2019 -
+18/12/2019
+7
+Final Exam, SEMESTER II, ACADEMIC SESSION
+2018/2019
+Invigilator
+UNIVERSITY
+19/06/2019 -
+19/06/2019
+8
+POSTGRADUATE THESIS PROPOSAL DEFENCE
+(QT) - SANUSI ISMAIL BASIRU (4150058)
+Panel
+FACULTY
+19/08/2019 -
+19/08/2019
+9
+POSTGRADUATE THESIS PROPOSAL DEFENCE
+(QT)
+COMMITEE MEMBERS
+FACULTY
+20/02/2019 -
+20/02/2019
+10
+Penasihat Akademik Program Sarjana Muda
+Sains Komputer (Keselamatan dan Jaminan
+Maklumat) Kohot 2018/2019
+ACADEMIC ADVISOR
+FACULTY
+21/08/2019 -
+31/12/2022
+11
+Penasihat Akademik Program Sarjana Muda
+Sains Komputer (Keselamatan dan Jaminan
+Maklumat) kohot 2018/2019
+Penasihat Akademik
+Program Sarjana
+Muda Sains Komputer
+(Keselamatan dan
+Jaminan Maklumat)
+kohot 2018/2019
+FACULTY
+21/10/2019 -
+30/12/2022
+12
+Penasihat Akademik Program Sarjana Muda
+Sains Komputer (Keselamatan dan Jaminan
+Maklumat) Kohot 2018/2019
+Academic Advisor
+FACULTY
+21/10/2019 -
+30/12/2023
+13
+MOCK VIVA-VOCE FOR FACULTY SCIENCE
+AND TECHNOLOGY STUDENT - Yahya Omar
+Mohamed Fagroun (4110233)
+Panel
+FACULTY
+24/05/2019 -
+24/05/2019
+14
+EVALUATOR FOR FINAL YEAR THESIS (ISA)
+(Qualifying)
+Panel
+FACULTY
+24/10/2019 -
+24/10/2019
+15
+MOCK VIVA-VOCE FOR FACULTY SCIENCE
+AND TECHNOLOGY STUDENT - HASSAN
+AWAD HASSAN AL-SUKHNI (4120075)
+Panel
+FACULTY
+27/02/2019 -
+27/02/2019
+16
+JAWATANKUASA PENGURUSAN SISTEM
+KESELAMATAN MAKLUMAT (ISMS) AUDIT
+DALAMAN, USIM
+AJK
+UNIVERSITY
+28/05/2019 -
+28/05/2020
+17
+AWATANKUASA PENGURUSAN SISTEM
+KESELAMATAN MAKLUMAT (ISMS) AUDIT
+DALAMAN USIM
+COMMITEE MEMBERS
+UNIVERSITY
+28/05/2019 -
+28/05/2020
+18
+PEMBENTANGAN LATIHAN INDUSTRI
+SEMESTER II, 2018/2019
+Panel
+FACULTY
+28/06/2019 -
+28/06/2019
+19
+Industrial Training (LI Presentation) for ISA
+undergraduate
+Evaluator
+FACULTY
+28/06/2019 -
+28/06/2019
+20
+Latihan Industri Pelajar Semester II
+2018/2019 (A182)
+Penilai Universiti
+UNIVERSITY
+30/04/2019 -
+30/04/2019
+2018
+No
+Name Of Activity
+Position
+Level
+Date
+1
+PEMBINAAN PROGRAM BARU SARJANA
+PENGAJIAN SUNNAH (SPM) DAN SARJANA
+PENGAJIAN QURAN MULTIMEDIA (MIX MODE)
+AJK
+UNIVERSITY
+01/01/2018 -
+31/12/2018
+2
+Jawatankuasa Kerja Program Sarjana Muda
+Pengajian Sunnah Dengan Pengurusan
+Maklumat, Fakulti Pengajian Quran dan
+Sunnah (FPQS)
+AJK
+UNIVERSITY
+01/01/2018 -
+31/12/2018
+3
+Jawatankuasa Perasmian Sambutan 15 Tahun
+FST
+TIMBALAN
+PENGERUSI
+FACULTY
+02/01/2018 -
+26/03/2018
+4
+PROPOSAL GERAN PROGRAM HEADSTART
+Evaluator
+FACULTY
+02/08/2018 -
+06/08/2018
+5
+Final Exam, SEMESTER I, ACADEMIC SESSION
+2017/2018
+Invigilator
+FACULTY
+04/01/2018 -
+04/01/2018
+6
+PEMBENTANGAN LAPORAN KEMAJUAN
+PENYELIDIKAN FST SESI 1/2018
+PANEL
+FACULTY
+05/06/2018 -
+05/06/2018
+7
+VIVA-VOCE FOR FACULTY SCIENCE AND
+TECHNOLOGY STUDENT - Bourair Sadik
+Mohamad (4100030)
+COMMITEE MEMBERS
+UNIVERSITY
+07/02/2018 -
+07/02/2018
+8
+PROPOSAL GERAN PROGRAM HEADSTART
+Evaluator
+FACULTY
+07/08/2018 -
+07/08/2018
+9
+Final Exam, SEMESTER I, ACADEMIC SESSION
+2017/2018
+Invigilator
+UNIVERSITY
+08/01/2018 -
+08/01/2018
+10
+JAWATANKUASA PENGURUSAN SISTEM
+MAKLUMAT (ISMS) USIM
+COMMITEE MEMBERS
+UNIVERSITY
+09/02/2018 -
+08/02/2019
+11
+MOCK VIVA-VOCE FOR FACULTY SCIENCE
+AND TECHNOLOGY STUDENT - MOHAMMED
+RAHEEL MOHAMMED AL-AHOUL (4110232)
+PANEL
+FACULTY
+15/11/2018 -
+15/11/2018
+12
+MOCK VIVA-VOCE FOR FACULTY SCIENCE
+AND TECHNOLOGY STUDENT - MOHAMMED
+RAHEEL MOHAMMED AL-AHOUL (4110232)
+Panel
+FACULTY
+15/11/2018 -
+15/11/2018
+13
+Kursus Metodologi Penyelidikan (Berasaskan
+Integrasi Ilmu Naqli dan Aqli)
+Fasilitator
+UNIVERSITY
+20/07/2018 -
+03/08/2018
+14
+MOCK VIVA-VOCE FOR FACULTY SCIENCE
+AND TECHNOLOGY STUDENT - Yahya Omar
+Mohamed Fagroun (4110233)
+PANEL
+FACULTY
+22/10/2018 -
+22/10/2018
+15
+MOCK VIVA-VOCE FOR FACULTY SCIENCE
+AND TECHNOLOGY STUDENT - Hamed F
+Hamed Omar (4110096)
+PANEL
+FACULTY
+24/05/2018 -
+24/05/2018
+16
+MOCK VIVA-VOCE FOR FACULTY SCIENCE
+AND TECHNOLOGY STUDENT - Mahmoud
+Moh’d Mahmoud Al-Shawabkeh (4110234)
+PANEL
+FACULTY
+24/05/2018 -
+24/05/2018
+17
+PRA BENGKEL PEMIBINAAN PROGRAM BARU
+SARJANA PENGAJIAN SUNANH (SPM) DAN
+SARJANA PENGAJIAN QURAN MULTIMEDIA
+(MIX MODE)
+COMMITEE MEMBERS
+UNIVERSITY
+25/07/2018 -
+25/07/2018
+2017
+No
+Name Of Activity
+Position
+Level
+Date
+1
+AHLI JAWATANKUASA KELAB KEBAJIKAN FST
+COMMITEE MEMBERS
+FACULTY
+01/01/2017 -
+31/12/2018
+2
+PERTANDINGAN PENGATURCARAAN DAN
+MULTIMEDIA 2017 (ATURKREATIF’17)
+CO-ADVISOR
+NATIONAL
+01/02/2017 -
+30/06/2017
+3
+Industrial Training Visits (BACHELOR OF
+INFORMATION SECURITY & ASSURANCE)
+University Supervisor
+FACULTY
+02/05/2017 -
+02/05/2017
+4
+EVALUATOR FOR POSTGRADUATE THESIS
+PROPOSAL DEFENCE
+MEMBERS
+FACULTY
+05/01/2017 -
+05/01/2017
+5
+EVALUATOR FOR POSTGRADUATE PROPOSAL
+DEFENCE (MASTER)
+COMMITEE MEMBERS
+FACULTY
+05/01/2017 -
+05/01/2017
+6
+EVALUATOR FOR POSTGRADUATE PROPOSAL
+DEFENCE (MASTER)
+COMMITEE MEMBERS
+FACULTY
+05/01/2017 -
+05/01/2017
+7
+Evaluator for final exam questions and
+answers (BACHELOR OF INFORMATION
+SECURITY & ASSURANCE)
+Evaluator
+FACULTY
+06/04/2017 -
+06/04/2017
+8
+FRGS Reviewer Fasa 1/2017 (for ISI)
+Research Grant
+Reviewer
+UNIVERSITY
+08/02/2017 -
+08/02/2017
+9
+Final Exam, SEMESTER II, ACADEMIC SESSION
+2016/2017
+Invigilator
+UNIVERSITY
+09/05/2017 -
+09/05/2017
+10
+VIVA VOCE FST CANDIDATE – Odai
+Mohammad Ahmad Enaizan (4130140)
+COMMITEE MEMBERS
+UNIVERSITY
+15/09/2017 -
+15/09/2017
+11
+VIVA-VOCE FOR FACULTY SCIENCE AND
+TECHNOLOGY STUDENT – ODAI MOHAMMAD
+AHMAD ENAIZAN (4130140)
+COMMITEE MEMBERS
+UNIVERSITY
+15/09/2017 -
+15/09/2017
+12
+EVALUATOR FOR FINAL YEAR THESIS POSTER
+PRESENTATION (ISA)
+MEMBERS
+FACULTY
+16/01/2017 -
+16/01/2017
+13
+Evaluator for Oral Presentations of Industrial
+Training (BACHELOR OF INFORMATION
+SECURITY & ASSURANCE)
+Evaluator
+FACULTY
+16/06/2017 -
+16/06/2017
+14
+JEMPUTAN MESYUARAT JAWATANKUASA
+PEMERIKSA PRASISWAZAH FPQS SEMESTER II
+2016/2017
+Faculty
+Representative (FST)
+FACULTY
+19/07/2017 -
+19/07/2017
+15
+VIVA VOCE FST CANDIDATE – ABDUL HAKIM
+EL MOAWE DHOW DREHEEB (4120021)
+Faculty
+Representative (FST)
+UNIVERSITY
+21/07/2017 -
+21/07/2017
+16
+Evaluator for PhD Thesis Proposal Defence
+(Faculty of Science & Technology)
+Evaluator
+FACULTY
+22/05/2017 -
+22/05/2017
+17
+EVALUATOR FOR THESIS PROPOSAL DEFENCE
+(BACHELOR OF INFORMATION SECURITY &
+ASSURANCE)
+Evaluator
+FACULTY
+26/05/2017 -
+26/05/2017
+2016
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Mensyuarat Jawatankuasa Perpustakaan
+(MJKP)
+MEMBERS
+UNIVERSITY
+01/01/2016 -
+31/10/2016
+2
+EVALUATOR FOR THESIS PROPOSAL DEFENCE
+(BACHELOR OF INFORMATION SECURITY &
+ASSURANCE)
+PANEL
+FACULTY
+03/06/2016 -
+03/06/2016
+3
+PANEL PENILAI PEMBENTANGAN PROPOSAL
+PELAJAR PASCASISWAZAH FAKULTI SAINS
+DAN TEKNOLOGI
+MEMBERS
+FACULTY
+05/01/2016 -
+05/01/2016
+4
+Student Industrial Training/Visits.
+MEMBERS
+FACULTY
+06/06/2016 -
+06/06/2016
+5
+Kolokium Siswazah Sains Dan Teknologi 2016
+(KoSiST’16)
+MEMBERS
+FACULTY
+07/11/2016 -
+07/11/2016
+6
+Mensyuarat Jawatankuasa Perpustakaan
+(MJKP)
+MEMBERS
+UNIVERSITY
+12/08/2016 -
+12/08/2016
+7
+EVALUATOR FOR POSTGRADUATE THESIS
+PROPOSAL DEFENCE
+MEMBERS
+FACULTY
+18/07/2016 -
+18/07/2016
+8
+Majlis Perasmian Penutup Sambutan Hari
+Buku Sedunia 2016 Peringkat USIM
+Representative of the
+Dean/Faculty
+UNIVERSITY
+19/05/2016 -
+19/05/2016
+9
+EVALUATOR FOR POSTGRADUATE THESIS
+PROPOSAL DEFENCE
+MEMBERS
+FACULTY
+19/12/2016 -
+19/12/2016
+10
+Industrial Training (LI Presentation) for ISA
+undergraduate
+Evaluator
+FACULTY
+22/07/2016 -
+22/07/2016
+11
+Industrial Training (LI Presentation) for ISA
+undergraduate
+PENGERUSI -
+CHAIRMAN
+FACULTY
+22/07/2016 -
+22/07/2016
+12
+Bengkel Semakan Semula Program di Fakulti
+Pengajian Quran dan Sunnah
+COMMITEE MEMBERS
+UNIVERSITY
+22/08/2016 -
+22/08/2016
+13
+EVALUATOR FOR FINAL YEAR THESIS POSTER
+PRESENTATION (ISA)
+MEMBERS
+FACULTY
+22/12/2016 -
+22/12/2016
+14
+Members of the Oral Examination Committee
+REPRESENTATIVE OF
+THE DEAN/ FACULTY
+UNIVERSITY
+23/02/2016 -
+23/02/2016
+15
+Final Exam, SEMESTER II, ACADEMIC SESSION
+2015/2016
+Invigilator
+UNIVERSITY
+24/06/2016 -
+24/06/2016
+16
+Regional Islamic Libraries Seminar | Seminar
+Perpustakaan Islam Serantau (RELieS 2016)
+RAPPORTEUR
+INTERNATIONAL
+28/09/2016 -
+29/09/2016
+17
+User Acceptance Test (UAT) for e-Qalam
+MEMBERS
+UNIVERSITY
+29/01/2016 -
+29/01/2016
+18
+The 7th Exposition on Islamic Innovation
+2016 (i-Inova 2016)
+PRODUCT REVIEWER
+INTERNATIONAL
+30/09/2016 -
+04/10/2016
+2015
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Jawatankuasa Penyediaan Laporan dan
+Pembentangan Outcome Banggunan FST di
+KPT
+MEMBERS
+UNIVERSITY
+10/08/2015 -
+08/10/2015
+2
+Panel Penilai Hari Kolokium Tesis Prasiswazah
+Tahun Akhir (ISA), Fakulti Sains dan
+Teknologi
+Panel Penilai
+FACULTY
+16/12/2015 -
+16/12/2015
+3
+PANEL PENILAI PEMBENTANGAN PROPOSAL
+PELAJAR PASCASISWAZAH FAKULTI SAINS
+DAN TEKNOLOGI, SEMESTER I SESI AKADEMIK
+2014/2015
+Panel
+FACULTY
+21/01/2015 -
+21/01/2015
+4
+PANEL PENILAI PEMBENTANGAN PROPOSAL
+PELAJAR PASCASISWAZAH FAKULTI SAINS
+DAN TEKNOLOGI
+Panel
+FACULTY
+25/02/2015 -
+25/02/2015
+2014
+No
+Name Of Activity
+Position
+Level
+Date
+1
+I-INOVA 2014
+BURSAR
+INTERNATIONAL
+01/01/2014 -
+30/11/2014
+2
+MENSYUARAT JAWATANKUASA PENERBITAN
+USIM
+WAKIL FAKULTI
+UNIVERSITY
+01/01/2014 -
+31/12/2014
+3
+JAWATANKUASA Penerbitan FST
+PENGERUSI -
+CHAIRMAN
+FACULTY
+03/02/2014 -
+31/12/2014
+4
+Sidang Redaksi Buletin Fakulti Sains &
+Teknologi
+KETUA PENGARANG
+FACULTY
+03/02/2014 -
+31/12/2014
+5
+Pembentangan Laporan Kemajuan Sarjana
+Sains Komputer (Keselamatan dan Jaminan
+Maklumat)
+Panel
+FACULTY
+06/01/2014 -
+06/01/2014
+6
+Panel Penilai Pembentangan Laporan
+Kemajuan Sarjana Sains Komputer
+(Keselamatan dan Jaminan Maklumat), FST
+Panel
+FACULTY
+06/06/2014 -
+06/06/2014
+7
+Bengkel Semakan Semula Program Pengajian
+Sunnah dan Pengurusan Maklumat, Fakulti
+Pengajian Quran dan Sunnah
+WAKIL FAKULTI
+FACULTY
+17/06/2014 -
+17/06/2014
+8
+POSTER EVALUATOR FOR THESIS 2
+BACHELOR OF COMPUTING (INFORMATION
+SECURITY & ASSURANCE)
+Evaluator
+FACULTY
+17/12/2014 -
+17/12/2014
+9
+Bengkel Semakan Semula Program di Fakulti
+Pengajian Quran dan Sunnah
+WAKIL FAKULTI
+UNIVERSITY
+21/05/2014 -
+21/05/2014
+10
+Kolokium Siswazah Fakulti Sains & Teknologi
+2014(PCFST''14)
+Juri
+FACULTY
+21/10/2014 -
+21/10/2014
+2013
+No
+Name Of Activity
+Position
+Level
+Date
+1
+STUDENT INNOVATION COMPETITION (SIC)
+2013
+PRESIDENT
+UNIVERSITY
+01/01/2013 -
+21/06/2013
+2
+I-INOVA 2013
+SECRETARY
+UNIVERSITY
+01/01/2013 -
+30/11/2013
+3
+MENSYUARAT JAWATANKUASA PENERBITAN
+USIM
+WAKIL FAKULTI
+UNIVERSITY
+01/01/2013 -
+31/12/2013
+4
+PENERBITAN BUKU CENDERAMATA KHAS FST
+10 TAHUN
+SECRETARY
+FACULTY
+01/04/2013 -
+31/12/2013
+5
+INVIGILATOR FOR FINAL EXAMINATION
+SEMESTER I (Academic Session: 2012/2013)
+Head Invigilator
+UNIVERSITY
+02/01/2013 -
+02/01/2013
+6
+PANEL PENILAI PEMBENTANGAN PROPOSAL
+PELAJAR PASCASISWAZAH FAKULTI SAINS
+DAN TEKNOLOGI
+Panel
+FACULTY
+05/06/2013 -
+05/06/2013
+7
+INVIGILATOR FOR FINAL EXAMINATION
+SEMESTER I (Academic Session: 2012/2013)
+Head Invigilator
+UNIVERSITY
+09/01/2013 -
+09/01/2013
+8
+PEPERIKSAAN AKHIR SEMESTER II 2012/2013
+Ketua Pengawas
+UNIVERSITY
+11/06/2013 -
+11/06/2013
+9
+Latihan Industri Pelajar Semester II
+2012/2013
+Penyelia Universiti
+FACULTY
+15/11/2013 -
+15/11/2013
+10
+PANEL PENILAI PEMBENTANGAN PROPOSAL
+PELAJAR PASCASISWAZAH FAKULTI SAINS
+DAN TEKNOLOGI
+Panel
+FACULTY
+19/06/2013 -
+19/06/2013
+11
+PANEL PENILAI PEMBENTANGAN TESIS
+PELAJAR SISWAZAH TAHUN AKHIR
+(ISA)FAKULTI SAINS DAN TEKNOLOGI
+Panel
+FACULTY
+23/12/2013 -
+23/12/2013
+12
+PANEL PENILAI PEMBENTANGAN PROPOSAL
+PELAJAR PASCASISWAZAH SECARA
+CAMPURAN FAKULTI SAINS DAN TEKNOLOGI
+Panel
+FACULTY
+24/06/2013 -
+24/06/2013
+13
+Jawatankuasa Penaja Program Sarjana
+Sunnah Dengan Pengurusan Ilmu, FPQS
+SECRETARY
+UNIVERSITY
+27/08/2013 -
+27/08/2013
+14
+PANEL PENILAI PEMBENTANGAN PROPOSAL
+PELAJAR SISWAZAH FAKULTI SAINS DAN
+TEKNOLOGI
+Panel
+FACULTY
+31/05/2013 -
+31/05/2013
+2012
+No
+Name Of Activity
+Position
+Level
+Date
+1
+LAMAN WEB FST
+SECRETARY
+FACULTY
+01/04/2012 -
+01/12/2012
+2
+MAJLIS SYARAHAN PERDANA USIM
+SECRETARY
+UNIVERSITY
+01/05/2012 -
+13/06/2012
+3
+MENSYUARAT JAWATANKUASA PENERBITAN
+USIM
+Wakil Fakulti
+UNIVERSITY
+02/01/2012 -
+31/12/2013
+4
+PROGRAM PENSISWAZAHAN GURU (PPG)
+Penulis Modul Kursus
+Teknologi Maklumat
+dan Komunikasi
+UNIVERSITY
+02/07/2012 -
+06/08/2012
+5
+PANEL PENILAI PEMBENTANGAN PROPOSAL
+PELAJAR PASCASISWAZAH FAKULTI SAINS
+DAN TEKNOLOGI
+Panel
+FACULTY
+05/12/2012 -
+05/12/2012
+6
+PANEL PENILAI PEMBENTANGAN PROPOSAL
+PELAJAR PASCASISWAZAH FAKULTI SAINS
+DAN TEKNOLOGI
+Panel
+FACULTY
+07/12/2012 -
+07/12/2012
+7
+I-INOVA 2012
+SECRETARY
+UNIVERSITY
+10/02/2012 -
+21/10/2012
+8
+PANEL PENILAI PEMBENTANGAN PROPOSAL
+PELAJAR PASCASISWAZAH FAKULTI SAINS
+DAN TEKNOLOGI
+Panel
+FACULTY
+12/12/2012 -
+12/12/2012
+9
+PEMBENTANGAN LATIHAN INDUSTRI
+SEMESTER 1, 2011/2012
+Panel
+FACULTY
+13/07/2012 -
+13/07/2012
+10
+PEMBENTANGAN LATIHAN INDUSTRI
+SEMESTER I, 2011/2012
+Panel
+FACULTY
+27/06/2012 -
+27/06/2012
+11
+LAWATAN SAMBIL BELAJAR KE PERBADANAN
+PERPUSTAKAAN AWAM SELANGOR
+Pensyarah Pengiring
+FACULTY
+28/04/2012 -
+28/04/2012
+2011
+No
+Name Of Activity
+Position
+Level
+Date
+1
+I-INOVA 2011
+SECRETARY
+UNIVERSITY
+11/07/2011 -
+16/10/2011
+1900
+No
+Name Of Activity
+Position
+Level
+Date
+CONTRIBUTION - MEMBERS OF COMMUNITY COMMITTEE / ORGANISATION
+ADMINISTRATION TASK
+No
+Position
+Level
+Date
+1
+Penyelaras Akademik ISA, FST
+FACULTY
+01/02/2017 -
+31/01/2019
+2
+Penyelaras Program Penulisan Jurnal Berindeks USIM-
+UKM (RCRP) bagi Fakulti Sains dan Teknologi.
+UNIVERSITY
+01/01/2018 -
+28/12/2018
+3
+Panel Kualiti Akademik USIM
+FACULTY
+01/01/2018 -
+28/12/2018
+4
+Head of Programme (Information Security & Assurance),
+FST
+FACULTY
+01/01/2021 -
+31/12/2021
+PROFESIONAL MEMBERSHIP
+No
+Name of Membership
+Organization
+Field
+Date
+1
+PROFESSIONAL MEMBER (P1208)
+LIBRARIANS ASSOCIATION OF
+MALAYSIA
+Library Management
+24/04/2006
+2
+PROFESSIONAL MEMBER [M0102]
+SOCIETY OF INFORMATION
+RETRIEVAL & KNOWLEDGE
+MANAGEMENT (MALAYSIA)
+[M0102]
+INFORMATION
+RETRIEVAL &
+KNOWLEDGE
+MANAGEMENT
+24/08/2016
+3
+Ahli Profesional
+Persatuan Pustakawan Malaysia
+Pengurusan
+maklumat
+28/01/2023
+RESEARCH AWARD
+No
+Title of Award
+Type of
+Award
+Exhibition Name
+Level
+Date
+1
+ITAG V1.0
+Emas Dan
+Setara
+25TH INTERNATIONAL
+INVENTION , INNOVATION &
+TECHNOLOGY EXHIBITION
+(ITEX 2014)
+Antarabangsa
+08/05/2014-10/05/20
+14
+2
+NAISSE: ONE STOP
+INTEGRATED REPOSITORY
+CROSS LINGUAL SEMANTIC
+INFORMATION RETREIVAL
+ON PROPHETIC FOOD
+Emas Dan
+Anugerah
+Tambahan
+INTERNATIONAL
+CONFERENCE AND
+EXPOSITION ON
+INVENTIONS BY
+INSTITUTIONS OF HIGHER
+LEARNING (PECIPTA'19
+Antarabangsa
+22/09/2019-23/09/20
+19
+3
+SemioConQuran
+Perak Dan
+Setara
+INTERNATIONAL SUMMIT
+OF INNOVATION & DESIGN
+EXPOSITION 2019 (InSIDE
+2019)
+Antarabangsa
+29/04/2019-30/04/20
+19
+4
+USER ORIENTED PRIVACY
+MODEL FOR SOCIAL
+NETWORK SITE
+Perak Dan
+Setara
+PECIPTA INTERNATIONAL
+CONFERENCE &
+EXPOSITION ON INVENTION
+OF INSTITUTIONS OF
+HIGHER LEARNING
+Antarabangsa
+07/11/2013-09/11/20
+13
+5
+NAQLI AQLI INTEGRATED
+SEMANTIC SEARCH ENGINE
+(NAISSE)
+Perak Dan
+Setara
+MALAYSIA TECHNOLOGY
+EXPO 2020 (THE 19th
+INTERNATIONAL EXPO ON
+Antarabangsa
+20/02/2020-22/02/20
+20
+INVENTIONS AND
+INNOVATIONS) MTE 2020
+6
+UTF-8 Character Encoding
+Formulation for Unicode
+Hexadecimal
+Representation of Arabic
+Words in Digital Quran
+Perak Dan
+Setara
+Pertandingan Ekspo
+Ciptaan Institusi Pengajian
+Tinggi dan Antarabangsa
+(PECIPTA) 2015
+Antarabangsa
+04/12/2015-06/12/20
+15
+7
+Attendance Security using
+Biometric Technology
+Gangsa Dan
+Setara
+SCIENCE AND
+TECHNOLOGY RESERACH
+EXPO (SCITEX@20TH FST)
+Universiti
+19/12/2023-20/12/20
+23
+8
+NAISE 1.0:CROSS LINGUAL
+INFORMATION RETRIEVAL
+WITH QUHEX INDEXING
+MODEL
+Gangsa Dan
+Setara
+International
+Invention,Innovation &
+Technology Exhibition
+Antarabangsa
+12/05/2016-14/05/20
+16
+9
+NAISE 1.0 : Cross Lingual
+Information Retrieval With
+QuHex Indexing Model
+Gangsa Dan
+Setara
+27TH INTERNATIONAL
+INVENTION & INNOVATION
+EXHIBITION 2016 (ITEX
+2016)
+Antarabangsa
+12/05/2016-14/05/20
+16
+10
+'al-quran tafsir pimpinan ar-
+rahman : software"-
+invention/category B
+(INDIVIDUAL :
+PROFESSIONALS/
+ACADEMICIANS/
+RESEARCHERS)
+Gangsa Dan
+Setara
+INTERNATIONAL
+INNOVATION&DESIGN IN
+LIBRARY & INFORMATION
+SCIENCE COMPETITION
+(InDELiB 2017)
+Antarabangsa
+13/09/2017-13/09/20
+17
+11
+ONTOLOGY-BASED FORMAL
+SPECIFICATIONS FOR
+SOCIAL ENGINEERING
+Best Paper
+Award
+INTERNATIONAL
+CONFERENCE ON
+EDUCATION, TECHNOLOGY
+, BUSINESS AND SOCIAL
+SCIENCES 2019 ( ETBSS
+2019)
+Antarabangsa
+07/12/2019-08/12/20
+19
+AWARD
+No
+Name Of Award
+Organization
+Date
+1
+Anugerah Terpuji 2012
+USIM
+05/07/2013
+2
+PENSYARAH AKTIF FAKULTI SAINS & TEKNOLOGI
+SEMESTER 1 SESI AKADEMIK 2019/2020
+Universiti Sains Islam Malaysia
+10/12/2020
+3
+PENGANUGERAHAN ANUGERAH PERKHIDMATAN SETIA
+Universiti Sains Islam Malaysia
+30/09/2022
+4
+Anugerah e-Nilai Sesi 2012/2013
+Fakulti Sains dan Teknologi
+18/09/2013
+5
+Anugerah e-Nilai Sesi 2013/2014
+Fakulti Sains dan Teknologi
+14/05/2014
+6
+Staff Contoh FST Bulan Mac
+Fakulti Sains & Teknologi
+19/07/2018
+7
+Anugerah Perkhidmatan Cemerlang
+USIM
+30/08/2018
+8
+Anugerah e-Nilai Semester 2 2018/2019
+Fakulti Sains dan Teknologi, USIM
+20/03/2019
+Powered by TCPDF (www.tcpdf.org)
+
+
+--- End of Dr_Roesnita_Ismail.pdf ---

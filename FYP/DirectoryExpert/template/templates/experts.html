@@ -1,0 +1,28 @@
+<!DOCTYPE html
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Available Experts</title>
+</head>
+<body>
+    <h1>Available Experts</h1>
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Faculty</th>
+            <th>Expertise</th>
+        </tr>
+        {% for expert in experts %}
+        <tr>
+            <td>{{ expert['name'] }}</td>
+            <td>{{ expert['email'] }}</td>
+            <td>{{ expert['faculty'] }}</td>
+            <td>{{ expert['expertise'] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    <p><a href="/">Back to Home</a></p>
+</body>
+</html>

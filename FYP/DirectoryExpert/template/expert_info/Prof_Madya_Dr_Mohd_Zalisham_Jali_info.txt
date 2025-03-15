@@ -1,0 +1,4 @@
+name: Prof. Madya Dr. Mohd Zalisham Jali
+email: zalisham@usim.edu.my
+faculty: FST
+pdf: Prof_Madya_Dr_Mohd_Zalisham_Jali.pdf

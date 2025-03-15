@@ -1,0 +1,1597 @@
+--- Start of Dr_Azuan_Ahmad.pdf ---
+
+PERSONAL DETAIL
+Name
+DR. AZUAN BIN AHMAD
+Designation
+PENSYARAH UNIVERSITI DS51
+Faculty
+FACULTY OF SCIENCE AND TECHNOLOGY
+Tel. No. (Office)
+0
+E-mail Address
+azuan@usim.edu.my
+Address(Office)
+FACULTY OF SCIENCE AND TECHNOLOGY ,UNIVERSITI SAINS ISLAM MALAYSIA, BANDAR BARU
+NILAI, 71800, NILAI, NEGERI SEMBILAN
+ACADEMIC QUALIFICATION
+No
+Year
+Qualification
+Institution
+Field
+1
+2017
+PhD
+UNIVERSITI TEKNOLOGI MALAYSIA
+SAINS KOMPUTER (CLOUD
+SECURITY)
+2
+2011
+Master
+UNIVERSITI TEKNOLOGI MALAYSIA
+SAINS KOMPUTER (KESELAMATAN
+MAKLUMAT)
+3
+2009
+Bachelor
+UNIVERSITI SAINS ISLAM MALAYSIA
+SAINS KOMPUTER (JAMINAN
+KESELAMATAN MAKLUMAT)
+TEACHING
+MASTER / PHD
+No
+Code Subject
+Subject
+Start
+Year
+End
+Year
+1
+SKJ8403
+SECURE SOFTWARE DEVELOPMENT
+2022
+2022
+DEGREE
+No
+Code Subject
+Subject
+Start
+Year
+End
+Year
+1
+SKJ1003
+C PROGRAMMING
+2018
+2022
+2
+SKJ1013
+JAVA PROGRAMMING
+2018
+2021
+3
+SKJ3173
+SECURED WEB PROGRAMMING
+2018
+2023
+4
+SKJ1053
+BASIC OF PROGRAMMING
+2021
+2024
+5
+SKJ1073
+PRINCIPLES OF OBJECT-BASED PROGRAMMING
+2022
+2024
+6
+SKS1362
+INFORMATION AND COMMUNICATION TECHNOLOGY
+2023
+2024
+INTERNAL SUPERVISION
+PHD
+No
+Matric No
+Student Name
+Type of Supervisor
+Start
+Year
+End
+Year
+1
+4120075
+HASSAN AWAD HASSAN AL-SUKHNI
+Member of
+Supervisory
+Committee
+2012
+2022
+2
+4150169
+MOHAMMED NADIR BIN ALI
+Co-Supervisor
+2016
+2022
+3
+4182547
+ANAND A/L RAMACHANDRAN
+Co-Supervisor
+2019
+2024
+4
+4182579
+KAILASSH @ MUGUNTHAN A/L NARAYANA
+SAMY
+Co-Supervisor
+2019
+2024
+5
+4201057
+FAIRUZ BIN ADDNAN
+Member of
+Supervisory
+Committee
+2020
+2023
+6
+4211008
+TAMARA MOUSA IBRAHIM NUSAIRAT
+Co-Supervisor
+2021
+2024
+7
+4222538
+NAHARUDIN BIN SAADAN
+Member of
+Supervisory
+Committee
+2022
+2024
+MASTER
+No
+Matric No
+Student Name
+Type of Supervisor
+Start
+Year
+End
+Year
+1
+3191408
+MUHAMMAD 'AFIF BIN HUSAINIAMER
+Co-Supervisor
+2020
+2022
+2
+3192424
+MOHD SHAMIRUL BIN SULAIMAN
+Supervisor
+2020
+2024
+3
+3211043
+MUHAMMAD ZIKRY BIN HISHAMUDIN
+Member of
+Supervisory
+Committee
+2021
+2024
+4
+3212459
+MUHAMMAD KHUARIZMI BIN MOHD RAPI
+Supervisor
+2021
+2024
+INTERNAL RESEARCH
+No
+Title
+Grant
+Role
+Date
+1
+AN INTELLIGENT QURANIC REPOSITORY RETRIEVAL
+MODEL
+Geran Jangka
+Pendek Fasa 2
+Co-Researcher
+06/10/2016 -
+16/10/2019
+2
+DYNAMIC S-BOX USING AFFINE TRANSFORMATION TO
+INCREASE THE SECURITY OF ENCRYPTION
+Geran
+Penyelidikan
+USIM
+Co-Researcher
+22/10/2018 -
+27/12/2022
+3
+DEVELOPING A NEW MODEL FOR CYBER TERRORISM
+CLASSIFICATION ON SOCIAL MEDIA ANALYTICS BASED ON
+SENTIMENT ANALYSIS
+Geran
+Penyelidikan
+USIM
+Main
+Researcher
+01/07/2019 -
+27/12/2022
+4
+A NEW RESILIENT ALGORITHM FOR MITIGATING
+MALWARE ATTACKS ON MOBILE PHONE USING MALWARE
+PHYLOGENETIC AND APOPTOSIS
+Geran KPT
+Co-Researcher
+01/09/2019 -
+30/03/2023
+5
+USIMAKERS (INDUSTRY4WRD - INDUSTRY@UNIVERSITY)
+Projek Revolusi
+Industri 4.0
+Co-Researcher
+01/10/2019 -
+15/06/2023
+6
+SURVIVORS IDENTIFICATION AND LOCALIZATION FOR
+SAR ROBOTICS SYSTEM USING MACHINE LEARNING
+Geran Sepadan
+Agensi
+Kerajaan
+Co-Researcher
+01/12/2019 -
+27/12/2022
+7
+INTERNET OF THINGS MECHANISM FOR SMART
+TEMPERATURE SCREENING
+Geran
+Penyelidikan
+Covid-19
+Main
+Researcher
+17/04/2020 -
+27/09/2023
+8
+INTELLIGENT MOBOTDER MODEL FOR SECURING USERS
+AGAINST COVID-19 CYBERCRIME ATTACKS
+Geran
+Penyelidikan
+Covid-19
+Co-Researcher
+01/06/2020 -
+19/11/2021
+9
+DESIGN AND DEVELOPMENT OF A PROTOTYPE
+CORPORATE WAQF BLOCKCHAIN-BASED TRACEABILITY
+USING EOS PRIVATE SMART CONTRACT PLATFORM FOR
+ISLAMIC SOCIAL FINANCE.
+Geran KPT
+Co-Researcher
+01/09/2020 -
+30/11/2023
+10
+RESEARCH AND DEVELOPMENT INTEGRATED LAKE BASIN
+MANAGEMENT PLAN (ILBMP) FOR THE EMPANGAN TIMAH
+TASOH, PERLIS & TASIK MELATI, PERLIS
+Geran
+Penyelidikan
+Agensi
+Kerajaan
+Co-Researcher
+01/08/2020 -
+27/12/2022
+11
+A NEW DNA-INSPIRED SYMMETRIC ENCRYPTION
+ALGORITHM FOR STRONG RANDOMNESS PROPERTIES.
+Geran KPT
+Co-Researcher
+01/11/2020 -
+30/11/2023
+12
+SYNERGYZING WAQF ECOSYSTEM IN MALAYSIA ISLAMIC
+SOCIAL FINANCE: MEASURING THE IMPACT OF
+'BENEFIDONORS' UTILISING THE DIGITAL PLATFORM IN
+ENHANCING SUSTAINABLE COMMUNITY DEVELOPMENT
+Geran KPT
+(KKP)
+Co-Researcher
+01/01/2021 -
+30/11/2023
+13
+TEKNOLOGI BLOCKCHIAN BERASASKAN KONTRAK PINTAR
+DI DALAM MEMASTIKAN KEBERKESANAN DAN KELULUSAN
+PUNGUTAN ZAKAT DI WILAYAH PERSEKUTUAN
+Geran
+Penyelidikan
+Agensi
+Kerajaan
+Co-Researcher
+01/02/2021 -
+15/08/2022
+14
+USIM-21 YEARS: IMPACT STUDY ON NATION AND SOCIETY
+Geran
+Penyelidikan
+USIM
+Co-Researcher
+01/03/2022 -
+15/06/2023
+15
+DETERMINANT FACTORS AFFECTING THE WILLINGNESS
+TO SHARE INFORMATION AMONG STAKEHOLDERS IN
+ENHANCING WAQF CO-CREATION ECO-SYSTEM IN
+MALAYSIA
+Geran Sepadan
+Agensi
+Kerajaan
+Co-Researcher
+15/11/2022 -
+15/06/2024
+16
+KAJIAN E-BIDAAN:APLIKASI BERTERASKAN SYARIAH
+Geran
+Penyelidikan
+Agensi
+Kerajaan
+Co-Researcher
+01/02/2021 -
+01/01/2022
+17
+DEVELOPING CYBER SECURITY PROFESIONAL MODULES:
+TOWARDS DIGITAL RESILIENCE.
+Geran
+Penyelidikan
+Industri
+Co-Researcher
+01/04/2024 -
+01/04/2025
+18
+MEREKABENTUK RUMAH HIJAU AKUAPONIK UNTUK KEBUN
+KOMUNITI YANG MENGGUNAKAN UNIT URBANKIT.
+Biduni
+Mizanniyah
+Co-Researcher
+01/12/2023 -
+01/12/2024
+19
+INTELLIGENT MALAYSIA OCCUPATIONAL SAFETY,
+SECURITY AND ENVIRONMENTAL DRONE (IMOSSED-1) AS
+A NEW SAFETY INSPECTION TOOL AT CONSTRUCTION
+SITE IN MALAYSIA
+Geran
+Penyelidikan
+Agensi
+Kerajaan
+Co-Researcher
+01/09/2019 -
+01/05/2022
+20
+DIGITAL RESOURCE CENTRE DEVELOPMENT FOR
+ACADEMIC ISLAMIC SOURCES
+Geran
+Penyelidikan
+USIM-Industri
+Co-Researcher
+01/03/2024 -
+01/03/2026
+21
+REDUCING THE CALIBRATION EFFORT OF INDOOR
+POSITIONING SYSTEMS USING DISCRETE FOURIER AND
+WAVELET TRANSFORMS
+Geran
+Penyelidikan
+USIM
+Co-Researcher
+22/10/2018 -
+22/04/2021
+22
+REVIVING PUBLIC TRUST IN CHARITABLE GIVING: THE
+ROLE OF BLOCKCHAIN TECHNOLOGY IN DONOR
+MOTIVATION AND ACCOUNTABILITY
+Geran
+Penyelidikan
+USIM RACER
+Co-Researcher
+01/11/2023 -
+01/11/2025
+23
+DIGITAL QUANTUM RANDOM NUMBER GENERATOR
+Geran
+Pembangunan
+Inovasi (GPI)
+Co-Researcher
+06/06/2024 -
+06/06/2026
+24
+EXPLORING THE USE OF ARTIFICIAL INTELLIGENCE FOR
+AUTOMATED ORTHODONTIC DIAGNOSIS
+Geran
+Penyelidikan
+Pusat
+Tanggungjawab
+(PTj)
+Co-Researcher
+01/02/2024 -
+01/02/2025
+25
+MACHINE CONTROL SYSTEM MODELING FOR
+Geran Sepadan
+Co-Researcher
+17/05/2022 -
+COMPRESSED NATURAL GAS USING FUZZY LOGIC
+Antarabangsa
+17/05/2023
+26
+PENERAPAN TEKNOLOGI BLOCKCHAIN UNTUK
+EFEKTIVITAS PENGUMPULAN DAN DISTRIBUSI ZAKAT DI
+MALAYSIA DAN INDONESIA
+Geran Sepadan
+Antarabangsa
+Co-Researcher
+15/06/2024 -
+15/06/2025
+27
+CONCEPTUALIZING SHARIAH COMPLIANCE GUIDELINES
+FOR ONLINE AUCTION: TOWARDS PRESERVING THE
+RIGHTS OF CONTRACTING PARTIES
+Geran KPT -
+Geran FRGS
+Co-Researcher
+01/11/2020 -
+01/05/2023
+28
+A RESILIENT MODEL FOR MITIGATING MALWARE ATTACKS
+USING PHYLOGENETICS VIA MINIMUM DESCRIPTION
+LENGTH (MDL) AND ENHANCED DEEP LEARNING (EDL)
+FOR CYBER-PHYSICAL SYSTEMS (CPS)
+Geran KPT -
+Geran FRGS
+Co-Researcher
+01/08/2024 -
+01/08/2027
+29
+ENHANCING CRYPTOGRAPHIC RESILIENCE THROUGH
+SYMMETRIC ENCRYPTION ALGORITHM UTILIZING
+VARIABLE LENGTH CHROMOSOMES GENETIC ALGORITHM
+Geran KPT -
+Geran FRGS
+Co-Researcher
+01/08/2024 -
+01/08/2027
+30
+DEVELOPING A FRAMEWORK ON THE USE OF ROBO
+ADVISOR FOR THE ISLAMIC FINANCIAL PLANNING
+EDUCATION IN MALAYSIA
+Geran KPT -
+Geran FRGS
+Co-Researcher
+01/11/2020 -
+01/11/2023
+31
+PEMBENTUKAN KERANGKA TADBIR URUS PENGURUSAN
+HARTA PUSAKA BERASASKAN TEKNOLOGI BLOCKCHAIN
+MENGGUNAKAN KAEDAH "SMART CONTRACT" BAGI
+KELESTARIAN HARTA PUSAKA BEKU
+Geran KPT -
+Geran FRGS
+Co-Researcher
+07/09/2021 -
+29/02/2024
+32
+A NEW HYBRID DEEP NEURAL NETWORK MODEL FOR
+DETECTION OF MALWARE ATTACKS ON THE INTERNET OF
+MEDICAL THINGS ENVIRONMENT
+Geran KPT -
+Geran FRGS
+Main
+Researcher
+01/09/2022 -
+01/09/2025
+CONFERENCE
+No
+Conferance Name
+Paper Work
+Role
+Date
+1
+8th IEEE Symposium on Computer
+Applications & Industrial Electronics
+CLOUD DENIAL OF SERVICE
+DETECTION BY DENDRITIC
+CELL MECHANISM
+Peserta Biasa
+28/04/2018 -
+29/04/2018
+2
+7th International Conference on
+Software and Information Engineering
+Collaborative Cloud IDS in
+Detecting Denial of Service
+by Dendritic Cell
+Mechanism
+Pembentang Lisan /
+Kertas Kerja
+02/05/2018 -
+04/05/2018
+3
+2018 Artificial Intelligence and Cloud
+Computing Conference
+Cloud Co-Residency Threat
+Detection Technology
+Inspired by Human Immune
+System
+Pembentang Lisan /
+Kertas Kerja
+21/12/2018 -
+23/12/2018
+4
+2019 IEEE International Conference on
+Automatic Control and Intelligent
+Systems
+Mobile Application of Food
+Recommendation for
+Allergy Baby Using Rule-
+Based Technique
+Pembentang Lisan /
+Kertas Kerja
+29/06/2019 -
+29/06/2019
+5
+2019 European Conference on Frontiers
+of Computer Science and Information
+Technology
+A New Cryptojacking
+Malware Classifier Model
+Based on Dendritic Cell
+Algorithm
+Pembentang Lisan /
+Kertas Kerja
+22/09/2019 -
+24/09/2019
+6
+International Conference on
+Cybersecurity 2019
+Mobile Malware
+Classification for Social
+Media Application
+Pembentang Lisan /
+Kertas Kerja
+25/09/2019 -
+26/09/2019
+7
+MUZAKARAH AHLI MAJLIS PENASIHAT
+SYARIAH INSTITUSI KEWANGAN ISLAM
+DI MALAYSIA KALI KE 15
+Kajian awal penggunaan e-
+wallet (e-dompet) mengikut
+perspektif Syarak
+Pembentang Lisan /
+Kertas Kerja
+17/10/2019 -
+17/10/2019
+8
+International Alumni Convention and
+Innovation Exhibition 2021 (INACIX
+2021)
+Peranan Usahawan Alumni
+Dalam Membantu
+Kebolehpasaran Graduan
+Universiti Sains Islam
+Malaysia
+Pembentang Lisan /
+Kertas Kerja
+18/09/2021 -
+20/09/2021
+AREA OF SPECIALIZATION AND RESEARCH INTERESTS
+No
+Field / Area
+Level of Expertise
+1
+COMPUTER COMMUNICATIONS NETWORKS
+HIGH
+2
+COMPUTER SECURITY
+VERY HIGH
+3
+OTHER ARTIFICIAL INTELLIGENCE
+HIGH
+4
+SOFTWARE ENGINEERING
+MODERATE
+PUBLICATION - BOOK
+2022
+1. Azuan Ahmad dan penulis-penulis lain,ALUMNI@USIMBERJANJI PADA IBUNDA SEMPENA ULANG TAHUN USIM KE-20,
+2019
+1. Prof. Madya Dr. Madihah Mohd Saudi Prof. Madya Dr. Azwani Sofia Ahmad Khiar Dr. Azuan Ahmad,Outcome Based
+Education: Introduction and Implementation Guidelines,USIM PRESS
+2018
+1. Nurlida Basir Nurzi Juana Mohd Zazizi Nur Fatin Nabila Mohd Rafei Heng Azuan Ahmad,C Programming for
+Beginners,Penerbit USIM
+PUBLICATION - JOURNAL
+2024
+1. Suroto Munahar, Muji Setiyo,Madihah Mohd Saudi,Azuan Ahmad, Alfin Anugrah Dhimas R,Muhamad
+Hardiansyah,Assessment of comfort index (CI) based on vibration characteristics in CNG control system
+development,Results in Engineering,21,March 2024,1-14
+2. Mohd Ilias M Shuhud, Rossly Salleh, Azuan Ahmad,Digital Empowerment: Unveiling Motivations and Overcoming
+Challenges in Content Creation for Women Entrepreneurs,,6,No.1,74-80
+3. Khairil Faizal Khairi, Nur Hidayah Laili & Azuan Ahmad,The Newly Developed of Blockchain Architecture on Zakat
+Collection in Malaysia: A Case in MAIWP- PPZ, Malaysia,,16,2s,777-789
+4. Naharudin Saadan, Khairil Faizal Khairi, Azuan Ahmad & Agoos Munalis Tahir,Mapping Blockchain Adoption
+Challenges: A Bibliometric Analysis,The Journal of Muamalat and Islamic Finance Research,21,1 (June),101-126
+2023
+1. Khairil Faizal Khairi, Nur Hidayah Laili, Hisham Sabri, Azuan Ahmad, Van Hieu Pham & Manh Dung Tran,The
+development and application of the zakat collection blockchain system,Journal of Governance &
+Regulation,12,1,294-396
+2. Munahar, S., Setiyo, M., Brieghtera, R.A., Saudi, M.M., Ahmad, A. and Yuvenda, D,Fuel Control System on CNG
+Fueled Vehicles using Machine Learning: A Case Study on the Downhill,Automotive Experiences,6,1,173-187
+3. Mohd Saudi, M., Husainiamer, M.A., Ahmad, A. and Idris, M.Y.I,iOS mobile malware analysis: a state-of-the-
+art,Journal of Computer Virology and Hacking Technique,19,2 (May),1-20
+4. Muhammad Iqmal Hisham Kamaruddin, Azuan Ahmad, Mohd Asri Husain & Saffa Nasuha Abd Hamid,Employment
+Trends of COVID-19 Graduates: The Case of a Malaysian Public University,,12,2 (June),1564-1583
+5. Fuadah Johari; Fauzias Mat Nor; Baharom Abdul Hamid; Wan Ahmad Amir Zal; Ahmad Fahme Mohd Ali; Hanim
+Misbah; Hasnah Haron; Syahidawati Shahwan ; Zurina Shafii ; Amir Shaharuddin; Azuan Ahmad ;
+Ziyaaad,ENHANCING SYNERGY IN THE WAQF ECOSYSTEM IN MALAYSIA : PROMOTING INCREASED WAQF
+CONTRIBUTIONS AMONG BENEFICIARIES, DONORS, AND MUTAWALLI,INTERNATIONAL JOURNAL OF ECONOMICS AND
+FINANCE STUDIES,15,3,76-107
+6. Khairil Faizal Khairi, Nur Hidayah Laili, Azuan Ahmad,Blockchain Governance: The Development and Application of
+a Framework for Waqf Institutions,,19,3,53-72
+7. Asmadi Mohamed Naim Azrul Azlan Iskandar Mirza Abdul Rahman A. Shukor, Mohd Zakhiri Md. Nor Nurul Aini
+Muhamed Azuan Ahmad Shahrul Ridhwan S. Ali,E-Wallet Models: An Appraisal of Shariah Related Issues,Ahkam:
+Jurnal Ilmu Syariah,23,2,519-542
+2022
+1. KHAIRIL FAIZAL KHAIRI, AZUAN AHMAD, NUR HIDAYAH LAILI, HISHAM SABRI & ROSLI SHAARI,KONTRAK PINTAR
+DALAM TRANSAKSI KUTIPAN ZAKAT MELALUI PEMBANGUNAN SISTEM DEMO BACKEND PLATFORM BLOCKCHAIN DI
+MAIWP-PPZ,AZKA International Journal Of Zakat & Social Finance (AZJAF),3,1,103-124
+2. Suroto Munahar, Muji Setiyo, Madihah Mohd Saudi, Azuan Ahmad, Dori Yuvenda,Modelling Fuel Cut Off Controller
+on CNG Engines Using Fuzzy Logic: A Prototype,,12,5,1857-1865
+3. Muhamad Azhari Wahid, Khairil Faizal Khairi, Hamdi Hakeim Mudasir, Muhammad Farid Hadhari Mahamed Rusdi,
+Azuan Ahmad, Mohd Zakhiri Md Nor, Azrul Azlan Iskandar Mirza,Potential Shariah Non-Compliance Practices in E-
+Bidding: Observation from E-Bidding Platforms in Malaysia,The Journal of Muamalat and Islamic Finance
+Research,19,1,120-139
+4. NIK AZURA NIK ABDULLAH NUR HAFIZA ZAKARIA AZNI HASLIZAN AB HALIM FARIDA HAZWANI MOHD RIDZUAN
+AZUAN AHMAD KAMARUZZAMAN SEMAN SURIYANI ARIFFIN,A THEORETICAL COMPARATIVE ANALYSIS OF DNA
+TECHNIQUES USED IN DNA BASED CRYPTOGRAPHY,Journal of Sustainability Science and Management,17,5,165-178
+5. Fauzias Mat Nor, Fuadah Johari, Hasnah Haron, Zurina Shafii, Syahidawati Shahwan, Hanim Misbah, Azuan Ahmad,
+Amir Shaharuddin, Nur Atika Atan, Muhammad Mohamad Yusoff,Conceptualisation and validating benefidonors
+model in Waqf,The Journal of Muamalat and Islamic Finance Research,1,6,106-119
+2021
+1. Muhammad Iqmal Hisham Kamaruddin, Azuan Ahmad, Mohd Asri Husin, Nur Saffa Abd Hamid,Graduate
+Employability Post COVID-19: The Case of a Malaysian Public University,,11,3,710-724
+2. M. N. B. Ali, M. M. Saudi, T. Bhuiyan, A. B. Ahmad, M. N. Islam,NIPSA intrusion classification,,6,4,3534-3547
+3. Muhammad Afif Husainiamer, Madihah Mohd Saudi, Azuan Ahmad and Amirul Syauqi Mohamad Syafiq,Mobile
+Malware Classification for iOS Inspired by Phylogenetics,International Journal of Advanced Computer Science and
+Applications,12,8,99-105
+4. Hanim Misbah1, Fuadah Johari, Fauzias Mat Nor, Syahidawati Hj. Shahwan, Zurina Shafi5, Azuan Ahmad, Hasnah Hj
+Haron, Amir Shaharudin and Muhammad Mohamad Yusoff,Adaptation from prosumerism idea in conceptualising the
+benefidonors concept,International Journal of Business and Economy,3,4,200-207
+5. Waidah Ismail, Rosline Hassan, Rabihah Md Sum, Anvar Narzullaev, Azuan Ahmad,Hani Ajrina Zulkeflee, Razan
+Hayati Zulkeflee, Rimuljo Hendradi3,COVID-19 SCREENING TECHNIQUE FRAMEWORK FOR UNIVERSITY STUDENTS’
+ADMISSION,,1,1,129-134
+6. AZUAN AHMAD, AZNI HASLIZAN AB HALIM, FARIDA HAZWANI MOHD REDZUAN,SECURITY ANALYSIS BETWEEN
+STATIC AND DYNAMIC SBOXES IN BLOCK CIPHERS,JOURNAL OF INFORMATION SYSTEM AND TECHNOLOGY
+MANAGEMENT (JISTM),6,20,10-16
+2020
+1. Muhammad Iqmal Hisham Kamaruddin, Azuan Ahmad, Mohd Asri Husain, Saffa Nasuha Abd Hamid,Graduate
+employability post-COVID-19: the case of a Malaysian public university,,1,1,1-16
+2. Saudi, M.M., Ismail, A.A.C., Ahmad, A., Husainiamer, M.A.,CallDetect: Detection of Call Log Exploitation Inspired by
+Apoptosis,,10,5,1792-1797
+3. Madihah Mohd Saudi Aiman Hakim Ma’arof Azuan Ahmad Ahmad Shakir Mohd Saudi Mohd Hanafi Ali Anvar
+Narzullaev Mohd Ifwat Mohd Ghazali,Image Detection Model for Construction Worker Safety Conditions using Faster R-
+CNN,International Journal of Advanced Computer Science and Applications (IJACSA),Vol. 11, N,Jun 2020,246-250
+2019
+1. Mohamad Adib Azhar, Madihah Mohd Saudi, Azuan Ahmad, Azreena Abu Bakar,Detection of Social Media
+Exploitation via SMS and Camera,,13,4,61-78
+2. Madihah Mohd Saudi, Sazali Sukardi, Noor Azwa Azreen Abd Aziz, Azuan Ahmad, Muhammad ‘Afif
+Husainiamer,Malware Classification for Cyber Physical System (CPS) based on Phylogenetics,,9,1,3666
+3. Hassan Awad Hassan Al-Sukhni Azuan Bin Ahmad Madihah Mohd Saudi Najwa Hayaati Mohd Alwi,Cyber Terrorist
+Detection by using Integration of Krill Herd and Simulated Annealing Algorithms,International Journal of Advanced
+Computer Science and Applications,10,7,317-317
+4. Azuan Ahmad Mohd Nazri Kama Azri Azmi Norbik Bashah Idris,Collaborative Cloud IDS in Detecting Denial of
+Service by Dendritic Cell Mechanism,International Journal of Electrical and Electronic Engineering &
+Telecommunications,8,2019,1-1
+2018
+1. Azuan Ahmad, Wan Shafiuddin Zainudin, Mohd Nazri Kama, Norbik Bashah Idris, Madihah Mohd Saudi, Nur Hafiza
+Zakaria,State of the Art Intrusion Detection System for Cloud Computing,International Journal of Communication
+Networks and Information Security,10,3,480-495
+2017
+1. Azuan Ahmad, Norbik Bashah Idris, Mohd Nazri Kama,CloudIDS: Cloud Intrusion Detection Model Inspired by
+Dendritic Cell Mechanism,International Journal of Communication Networks and Information Security (IJCNIS),9,1,2-2
+2015
+1. Sameer Hasan Albakri, Bharanidharan Shanmugam, Ganthan Narayana Samy, Norbik Bashah Idris, Azuan
+Ahmad,Traditional Security Risk Assessment Methods in Cloud Computing Environment: Usability Analysis,Jurnal
+Teknologi,73,2,85-89
+2014
+1. Sameer Hasan Albakri, Bharanidharan Shanmugam, Ganthan Narayana Samy, Norbik Bashah Idris, Azuan
+Ahmad,Security risk assessment framework for cloud computing environments,Security and Communication
+Networks,7,11,2114-2124
+2. Sameer Hasan Albakri, Bharanidharan Shanmugam, Ganthan Narayana Samy, Norbik Bashah Idris, Azuan
+Ahmad,Cloud computing adoption challenges,Advanced Science Letters,2,20,546-548
+2013
+1. Azuan Ahmad, Bharanidharan Shanmugam, Norbik Bashah Idris, Ganthan Nayarana Samy,Danger Theory Based
+Hybrid Intrusion Detection Systems for Cloud Computing,International Journal of Computer and Communication
+Engineering,2,6,650-650
+2. Kuan Chee Houng, Bharanidharan Shanmugam, Ganthan Narayana Samy, Sameer Hasan Albakri, Azuan
+Ahmad,Security Model for Microsoft Based Mobile Sales Management Application in Private Cloud
+Computing,International Journal of Cloud Computing and Services Science,2,3,159-159
+PUBLICATION - PROCEEDING
+2021
+No
+Title
+Conference Name
+Organizer
+Level
+1
+PERANAN USAHAWAN ALUMNI DALAM
+MEMBANTU KEBOLEHPASARAN
+GRADUAN UNIVERSITI SAINS ISLAM
+MALAYSIA
+International Alumni Convention
+and Innovation Exhibition 2021
+Universiti Teknologi
+Malaysia
+INTERNATIONA
+L
+2020
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Crytojacking Classification based on
+Machine Learning Algorithm
+Proceedings of the 2020 8th
+International Conference on
+Communications and Broadband
+Networking
+Auckland University
+of Technology
+INTERNATIONA
+L
+2019
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Mobile Application of Food
+Recommendation For Allergy Baby
+Using Rule-Based Technique
+2019 IEEE International
+Conference on Automatic Control
+and Intelligent Systems (I2CACIS)
+IEEE Malaysian
+Section Control
+Systems Chapter
+INTERNATIONA
+L
+2018
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Cloud denial of service detection by
+Dendritic cell mechanism
+2018 IEEE Symposium on
+Computer Applications &
+Industrial Electronics (ISCAIE)
+IEEE
+INTERNATIONA
+L
+2
+Cloud Co-Residency Denial of Service
+Threat Detection Inspired by Artificial
+Immune System
+Proceedings of the 2018 Artificial
+Intelligence and Cloud Computing
+Conference
+ACM
+INTERNATIONA
+L
+2016
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Cloud Intrusion Detection Model
+Inspired by Dendritic Cell Mechanism
+1ST INTERNATIONAL
+CONFERENCE ON ADVANCED
+INFORMATION AND
+COMMUNICATION TECHNOLOGY
+2016
+Chittagong
+Independent
+University (CIU),
+Bangladesh
+INTERNATIONA
+L
+2014
+No
+Title
+Conference Name
+Organizer
+Level
+1
+A case study for the cloud computing
+security threats in a governmental
+organization
+2014 International Conference on
+Computer, Communications, and
+Control Technology (I4CT)
+MALTESAS
+INTERNATIONA
+L
+2
+Traditional Security Risk Assessment
+Methods in Cloud Computing
+Environment: Usability Analysis
+1st International Conference of
+Recent Trends in Information and
+Communication Technologies
+Universiti Teknologi
+Malaysia
+INTERNATIONA
+L
+2013
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Forensic Analysis Tool for Malicious Pdf
+Files And Shellcode Analysis
+International Conference on
+Emerging Trends in Engineering
+and Technology (ICETET'2013)
+G H Raisoni College
+of Engineering
+INTERNATIONA
+L
+2
+Enhancement and Implementation of
+Network Access Control Architecture for
+Virtualization Environments
+International Conference on
+Informatics and Creative
+Multimedia (ICICM) 2013
+UTM & MMU
+INTERNATIONA
+L
+PUBLICATION - THESIS
+2012
+No
+Title
+Field
+Thesis Level
+Type
+1
+A Hybrid Cloud Intrusion Detection System
+Based On Modified Dendritic Cell Algorithm
+Cloud Computing Security
+Doctor of philosophy
+Main Author
+2010
+No
+Title
+Field
+Thesis Level
+Type
+1
+Forensic Analysis Tool for Malicious Pdf Files
+And Shellcode Analysis
+Computer Security
+Master
+Main Author
+ACADEMIC RECOGNITION
+REVIEWER
+No
+Article Title
+Journal Name
+Type of Reviewer
+Impact
+Factor
+Level
+Year
+1
+5th International
+Conference on
+Electrical, Control
+and Computer
+Engineering
+(InECCE2019)
+Springer Lecture Notes in
+Electrical Engineering
+Conference Paper
+Reviewer
+0.13
+INTERNATIONA
+L
+2019
+2
+A Novel System
+Architecture for
+Secure
+Authentication and
+Data Sharing in Cloud
+Enabled Big Data
+Environment
+Journal of King Saud
+University
+Journal Article
+Reviewer
+13.473
+INTERNATIONA
+L
+2020
+3
+DIGITAL SECURITIES:
+THE FUTURE OF
+MALAYSIAN CAPITAL
+MARKETS
+Penerbit UKM
+Manuscript / Book
+Reviewer
+INTERNATIONA
+L
+2021
+4
+Tuned Uncertainty
+Algorithm–Based
+Fuzzy KNN Classifier
+for Detecting and
+Diagnosing Diabetes
+Journal of King Saud
+University - Computer and
+Information Sciences
+Journal Article
+Reviewer
+13.473
+INTERNATIONA
+L
+2021
+5
+MALWARE
+DETECTION USING
+DEEP LEARNING (DL):
+A REVIEW
+4th INTERNATIONAL
+CONFERENCE ON RECENT
+ADVANCEMENTS IN
+SCIENCE AND
+TECHNOLOGY 2023
+(ICoRAST 2023)
+Conference Paper
+Reviewer
+0
+INTERNATIONA
+L
+2023
+INVITED / KEYNOTED SPEAKER
+No
+Title
+Conference Name
+Level
+Date
+1
+Workshop on Offensive Internet
+Security
+Advanced Security Training
+01/05/2015 -
+02/05/2015
+2
+PEMBENTANG AZKA LIVE WEBINAR
+TEKNOLOGI BLOCKCHAIN
+Teknologi Blockchain Berasaskan
+Kontrak Pintar
+NATIONAL
+04/08/2022 -
+04/08/2022
+3
+Frequency Analysis using RTL:SDR
+technology
+Postgraduate Seminar Faculty
+Science and Technology
+(KoSiST2019)
+UNIVERSITY
+06/11/2019 -
+06/11/2019
+4
+PENCERAMAH BAGI PROGRAM MALAM
+MUNAJAT 2.0
+Malam Munajat siri 2.0
+UNIVERSITY
+07/07/2022 -
+07/07/2022
+5
+RTL-SDR: How to sniff Radio Frequency.
+Durian Security Conference 2017
+08/04/2017 -
+08/04/2017
+6
+JEMPUTAN SEBAGAI PENCERAMAH
+JEMPUTAN BAGI KEM KECEMERLANGAN
+STAR SPM 2023 SMK TAMAN SEMARAK
+KEM KECEMERLANGAN STAR SPM
+2023 SMK TAMAN SEMARAK
+OTHERS
+09/09/2023 -
+09/09/2023
+7
+Security Threat Globally
+Legal, Ethical and Security Aspect
+in Information System Seminar
+12/05/2014 -
+12/05/2014
+8
+JEMPUTAN SEBAGAI PENCERAMAH BAGI
+KESELAMATAN SIBER DAN
+KECERDASAN BUATAN BAGI
+PERSPEKTIF KESELAMATAN NEGARA
+PROGRAM CERAMAH KHAS BAGI
+CAWANGAN KHAS PDRM
+NATIONAL
+13/07/2023 -
+13/07/2023
+9
+MODERATOR FOR SESSION 6: SMART
+ECONOMY SMART MELAKA
+INTERNATIONAL CONFERENCE AND
+EXPO 2023
+SMART MELAKA INTERNATIONAL
+CONFERENCE AND EXPO 2023
+INTERNATIONA
+L
+13/10/2023 -
+13/10/2023
+10
+Hack Me Now or Never
+Program Bersama Industri Dalam
+Bidang Teknologi Maklumat
+19/08/2015 -
+19/08/2015
+11
+Information Security is Our Future
+Program Bersama Industri Dalam
+Bidang Teknologi Maklumat
+19/08/2015 -
+19/08/2015
+12
+Ceramah Pembangunan E-Module
+Financial Literacy e-Modul
+Development for Micro Business
+Entrepreneur: From Financial
+Inclusion to Social Inclusion
+UNIVERSITY
+21/10/2022 -
+21/10/2022
+13
+PEMBENTANG DISKUSI PENYELIDIKAN
+ISU-ISU MUAMALAT SIRI 1/2023
+PEMBENTANG DISKUSI
+PENYELIDIKAN ISU-ISU
+MUAMALAT SIRI 1/2023
+NATIONAL
+22/03/2023 -
+22/03/2023
+14
+Information Security: Where are we
+now?
+Cybersecurity Tech Seminar: The
+Learning Curve
+22/11/2014 -
+22/11/2014
+15
+Dendritic Cell Algorithm for Cloud
+Security Threat Detection
+Cloud Computing Online Seminar
+UNIVERSITY
+26/05/2021 -
+26/05/2021
+16
+Hacker Highschool: Security Awareness
+for Teens
+Information Security and
+Assurance Seminar 2014
+27/09/2014 -
+27/09/2014
+17
+Artificial Intelligence and Blockchain
+Technology
+Seminar Keselamatan Siber dan
+Technology Update
+NATIONAL
+28/04/2021 -
+28/04/2021
+CONTRIBUTION - USIM
+2023
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JAWATANKUASA KESELAMATAN ICT USIM
+AJK
+UNIVERSITY
+01/01/2023 -
+31/12/2024
+2
+CYBERSECURITY INCIDENT RESPONSE TEAM
+USIM
+AJK
+UNIVERSITY
+01/03/2023 -
+28/02/2025
+3
+AJK Logistik dan Teknikal, SCITEX 2023
+HEAD OF AJK
+UNIVERSITY
+16/02/2023 -
+31/12/2023
+4
+JAWATANKUASA SEMAKAN KURIKULUM ISA
+FST
+MEMBERS
+FACULTY
+22/08/2023 -
+22/11/2023
+2022
+No
+Name Of Activity
+Position
+Level
+Date
+1
+AHLI JAWATANKUASA TEKNIKAL DIGITAL
+TRANSFORMASI, UNIVERSITI SAINS ISLAM
+MALAYSIA
+AJK
+UNIVERSITY
+10/12/2022 -
+31/12/2022
+2
+Lantikan AJK Pemandu Program KPT PACE
+2022
+AJK
+UNIVERSITY
+12/07/2022 -
+31/12/2022
+3
+AJK PELANKSANA HARI PEMINJAMAN PAKAIAN
+AKADEMIK UNIVERSITI SEMPENA MAJLIS
+KONVOKESYEN KE-20 USIM
+AJK
+UNIVERSITY
+26/11/2022 -
+28/11/2022
+4
+AHLI JAWATANKUASA BENGKEL GE DAN
+ALUMNI UNIVER SITI 2022
+AJK
+NATIONAL
+27/09/2022 -
+29/09/2022
+2020
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JAWATANKUASA KERJA PROJEK PTj LESTARI
+(JKPPTjL)
+AJK
+UNIVERSITY
+10/09/2020 -
+31/12/2021
+2
+AHLI KUMPULAN TERAS STRATEGIK 1
+(GRADUAN & ALUMNI)
+MEMBERS
+UNIVERSITY
+15/07/2020 -
+31/12/2020
+2019
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Technical Editor for Malaysian Journal of
+TECHNICAL EDITOR
+UNIVERSITY
+01/01/2019 -
+Science, Health and Technology (MJoSHT)
+2019
+31/12/2019
+2
+Penyedia Rangka Kursus Program Tamhidi
+COMMITEE MEMBERS
+UNIVERSITY
+01/04/2019 -
+15/04/2019
+3
+Jawatankuasa Penilaian Sebut harga Kecil PTJ
+AJK
+FACULTY
+08/11/2019 -
+31/12/2022
+4
+Penggubal Modul Kursus IR 4.0
+PENGGUBAL MODUL
+FACULTY
+15/10/2019 -
+30/11/2019
+2018
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Ahli STREAM USIM
+MEMBERS
+UNIVERSITY
+01/05/2018 -
+01/05/2019
+2
+Ahli Jawatankuasa Teknikal Sempena Hari
+Sains Sedunia peringkat Fakulti
+AJK
+FACULTY
+12/11/2018 -
+12/11/2018
+3
+Ketua Unit Multimedia dan Media bagi 2ND
+INTERNATIONAL CONFERENCE ON RECENT
+ADVANCEMENTS IN SCIENCE AND
+TECHNOLOGY
+HEAD OF AJK
+UNIVERSITY
+25/09/2018 -
+31/10/2019
+4
+AJK National Science Challenge
+AJK
+UNIVERSITY
+28/06/2018 -
+11/07/2018
+CONTRIBUTION - MEMBERS OF COMMUNITY COMMITTEE / ORGANISATION
+2023
+No
+Name Of Activity
+Position
+Level
+Date
+1
+PERTUBUHAN PENGGERAK HUFFAZ
+BERKEMAHIRAN SELANGOR
+NATIONAL
+01/01/2023 -
+31/12/2024
+2022
+No
+Name Of Activity
+Position
+Level
+Date
+1
+PERTUBUHAN PENGGERAK HUFFAZ
+BERKEMAHIRAN SELANGOR
+NATIONAL
+23/08/2022 -
+31/12/2022
+2018
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JUDGING COMMITTEE FOR YOUNG
+INNOVATOR CHALLENGE 2018
+JURY
+NATIONAL
+16/08/2018 -
+16/08/2018
+2
+PERTANDINGAN UNIMAKER PERINGKAT ZON
+TENGAH
+TENAGA PENGAJAR
+NATIONAL
+18/09/2018 -
+23/09/2018
+3
+KEMENTERIAN PENDIDIKAN MALAYSIA
+PANEL TEMUDUGA
+PROGRAM
+PENAJAAN/CUTI
+BELAJAR BERGAJI
+PENUH
+NATIONAL
+24/04/2018 -
+25/04/2018
+CONSULTATION
+No
+Title
+Level
+Date
+1
+PAKAR RUNDING FST CONFERENCE SYSTEM
+UNIVERSITY
+01/01/2018 -
+31/12/2018
+2
+FST OBE SYSTEM
+UNIVERSITY
+01/09/2016 -
+31/12/2016
+3
+MALAYSIAN JOURNAL OF SCIENCE,HEALTH AND
+TECHNOLOGY SYSTEM (MJOSHT) SYSTEM
+UNIVERSITY
+01/09/2016 -
+31/12/2016
+4
+PROJEK PEMBANGUNAN SISTEM MALAYSIA URBAN
+OBSERVATORY (MUO) FASA 1
+NATIONAL
+01/09/2021 -
+31/05/2022
+5
+LANTIKAN SEBAGAI PAKAR RUJUK BAGI PEMBANGUNAN
+IOT SMART AGRICULTURE SYSTEM
+OTHERS
+01/12/2021 -
+31/12/2021
+6
+KUNSULTAN PEMBANGUNAN APLIKASI BAGI PROJEK
+MALAYSIAN RESEARCH UNIVERSITY NETWORK FASA 2
+NATIONAL
+05/12/2019 -
+31/12/2020
+7
+PROJEK PERUNDINGAN MOBILE TECHNOLOGY
+FUNDAMENTAL & NEXT GENERATION MOBILE NETWORK
+SECURITY
+NATIONAL
+16/01/2023 -
+20/01/2023
+ADMINISTRATION TASK
+No
+Position
+Level
+Date
+1
+Timbalan Pengarah Pusat Alumni dan Kerjaya
+UNIVERSITY
+15/06/2020 -
+31/12/2023
+PROFESIONAL MEMBERSHIP
+No
+Name of Membership
+Organization
+Field
+Date
+1
+Microsoft Certified Solution Associate
+Microsoft
+Computer
+Technology
+23/09/2014
+2
+Microsoft Certified Professional (MCP)
+Microsoft
+Computer
+Technology
+09/08/2014
+3
+Certified IPv6 Engineer Level 1
+National Advanced IPv6 Centre
+Computer Network
+10/09/2013
+4
+Certified IPv6 Engineer Level 2
+National Advanced IPv6 Centre
+Computer Network
+17/09/2013
+5
+Green/Smart IT Certified
+Exin
+Computer
+Technology
+11/01/2013
+6
+CompTIA A+ Certified
+CompTIA
+Computer
+Technology
+25/11/2011
+7
+Certified Ethical Hacker v8
+EC-Council
+Computer Security
+08/08/2014
+RESEARCH AWARD
+No
+Title of Award
+Type of
+Award
+Exhibition Name
+Level
+Date
+1
+THE FLICKER- LASER
+COMMUNICATION SYSTEM
+FOR NAVAL SHIP
+Emas Dan
+Setara
+ISLAMIC INNOVATION
+STUDENT COMPETITION
+2018 (IREKA'18)
+Universiti
+13/10/2018-14/10/20
+18
+2
+Unlocking Sustainable SDG
+Acceleration with MySIF
+Blockchainand Islamic
+Social Finance
+Emas Dan
+Setara
+International Symposium
+on Islamic Finance
+(ISF2023)
+Antarabangsa
+24/10/2023-24/10/20
+23
+3
+VR HAJJ AND UMRAH
+Perak Dan
+Setara
+SCIENCE AND
+TECHNOLOGY RESERACH
+EXPO (SCITEX@20TH FST)
+Universiti
+19/12/2023-20/12/20
+23
+4
+MYSIF WAQF CHAIN
+Perak Dan
+Setara
+33RD INTERNATIONAL
+INVENTION,INNOVATION &
+TECHNOLOGY EXHIBITION,
+MALAYSIA (ITEX'22)
+Antarabangsa
+26/05/2022-27/05/20
+22
+5
+EZCYBERCRIME DETECTION
+AND RESPONSE MOBILE
+APPS PROTOTYPE FOR
+SMARTPHONE
+Perak Dan
+Setara
+30th INTERNATIONAL
+INVENTION, INNOVATION &
+TECHNOLOGY EXHIBITION
+2019 (ITEX 2019)
+Antarabangsa
+02/05/2019-04/05/20
+19
+6
+NATURAL DISASTER
+REPORTING AND EARLY
+WARNING SYSTEM APPS
+Perak Dan
+Setara
+INTERNATIONAL
+CONFERENCE AND
+EXPOSITION ON
+INVENTIONS BY
+INSTITUTIONS OF HIGHER
+LEARNING (PECIPTA'19
+Antarabangsa
+22/09/2019-23/09/20
+19
+7
+THE FLICKER: SECURE FREE
+SPACE OPTICS
+COMMUNICATION FOR
+NAVAL
+Perak Dan
+Setara
+INTERNATIONAL
+CONFERENCE AND
+EXPOSITION ON
+INVENTIONS BY
+INSTITUTIONS OF HIGHER
+LEARNING (PECIPTA'19
+Antarabangsa
+22/09/2019-23/09/20
+19
+8
+eZCyberCrime Detection
+and Response Mobile Apps
+for Smartphone
+(eZCyberCrime)
+Perak Dan
+Setara
+INTERNATIONAL
+CONFERENCE AND
+EXPOSITION ON
+INVENTIONS BY
+INSTITUTIONS OF HIGHER
+LEARNING (PECIPTA'19
+Antarabangsa
+22/09/2019-23/09/20
+19
+9
+APLIKASI SCCP –
+MS1900:2014 DALAM
+PENGESANAN TRANSAKSI
+KEWANGAN SOSIAL ISLAM
+BERASASKAN TEKNOLOGI
+BLOCKCHAIN - MYSIF CHAIN
+Perak Dan
+Setara
+Persidangan dan Ekspo
+Ciptaan Institusi Pengajian
+Tinggi Antarabangsa
+(PECIPTA22)
+Antarabangsa
+01/11/2022-03/11/20
+22
+10
+CLOUD CO-RESIDENCY
+THREAT DETECTION
+TECHNOLOGY INSPIRED BY
+HUMAN IMMUNE SYSTEM
+Jenis
+Pengiktirafan
+Lain-lain
+INTERNATIONAL
+CONFERENCE ON
+ARTIFICIAL INTELLIGENCE
+AND CLOUD COMPUTING
+Antarabangsa
+21/12/2018-23/12/20
+18
+AWARD
+No
+Name Of Award
+Organization
+Date
+1
+Best Presentation Award
+International Conference on Artificial
+Intelligence and Cloud Computing 2018
+22/12/2018
+2
+ANUGERAH PENSYARAH PILIHAN (L) SEMPENA MAJLIS
+ANUGERAH FAKULTI SAINSDAN TEKNOLOGI (MAFAST)
+2022
+FAKULTI SAINS DAN TEKNOLOGI
+02/07/2022
+3
+Anugerah Penyelidik Terbaik (Kategori 45/51/52)
+Fakulti Sains dan Teknologi
+03/03/2022
+4
+Anugerah Qudwah Hasanah FST
+FST, USIM
+23/05/2023
+Powered by TCPDF (www.tcpdf.org)
+
+
+--- End of Dr_Azuan_Ahmad.pdf ---

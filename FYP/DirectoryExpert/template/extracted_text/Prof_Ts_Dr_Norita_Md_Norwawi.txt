@@ -1,0 +1,6349 @@
+--- Start of Prof_Ts_Dr_Norita_Md_Norwawi.pdf ---
+
+PERSONAL DETAIL
+Name
+PROF. Ts. DR. NORITA BINTI MD NORWAWI
+Designation
+PENSYARAH UNIVERSITI GRED KHAS C
+Faculty
+FACULTY OF SCIENCE AND TECHNOLOGY
+Tel. No. (Office)
+06-7978790
+E-mail Address
+norita@usim.edu.my
+Address(Office)
+FACULTY OF SCIENCE AND TECHNOLOGY ,UNIVERSITI SAINS ISLAM MALAYSIA, BANDAR BARU
+NILAI, 71800, NILAI, NEGERI SEMBILAN
+ACADEMIC QUALIFICATION
+No
+Year
+Qualification
+Institution
+Field
+1
+2004
+PhD
+UNIVERSITI UTARA MALAYSIA
+KEPINTARAN BUATAN
+2
+1994
+Master
+UNIVERSITI KEBANGSAAN MALAYSIA,
+SELANGOR
+SAINS KOMPUTER
+3
+1987
+Bachelor
+UNIVERSITY OF NEW SOUTH WALES
+SAINS KOMPUTER
+TEACHING
+MASTER / PHD
+No
+Code Subject
+Subject
+Start
+Year
+End
+Year
+1
+SKJ8093
+MULTIAGENT SYSTEMS
+2013
+2021
+2
+MDH7023
+2018
+2018
+3
+SZ80003
+RESEARCH METHODOLOGY AND PROPOSAL
+2018
+2021
+4
+AAA8003
+ISLAMIC PHILOSOPHY OF SCIENCE
+2019
+2019
+5
+GVA7023
+DATA ANALYSIS
+2020
+2021
+6
+GVA8023
+DATA ANALYSIS
+2020
+2022
+7
+GAA8023
+DATA ANALYSIS
+2021
+2021
+8
+GSA8023
+Data Analysis for Islamic Science
+2021
+2022
+9
+SZ80023
+RESEARCH METHODOLOGY IN COMPUTING
+2022
+2024
+DEGREE
+No
+Code Subject
+Subject
+Start
+Year
+End
+Year
+1
+SKJ3016
+INDUSTRIAL TRAINING
+2009
+2010
+2
+SKJ4996
+INDUSTRIAL TRAINING
+2009
+2012
+3
+SKJ1013
+JAVA PROGRAMMING
+2009
+2017
+4
+SKU3013
+OBJECT ORIENTED PROGRAMMING
+2009
+2012
+5
+QBA4063
+RESEARCH PROJECT
+2010
+2011
+6
+SKU4033
+INTERNET MULTIMEDIA
+2010
+2010
+7
+SKJ1023
+ADVANCED JAVA PROGRAMMING
+2010
+2012
+8
+SKJ1003
+C PROGRAMMING
+2012
+2018
+9
+SKS1373
+OBJECT PROGRAMMING
+2017
+2019
+10
+UTS1012
+INTRODUCTION TO ISLAMIC SCIENCE
+2018
+2024
+11
+SKJ2413
+OBJECT-ORIENTED PROGRAMMING
+2019
+2021
+12
+SKM2423
+INTRODUCTION TO WEB PROGRAMMING
+2021
+2022
+13
+SKJ3183
+ARTIFICIAL INTELLIGENCE
+2022
+2024
+14
+ISI1012
+INTRODUCTION TO ISLAMIC SCIENCE
+2023
+2024
+15
+SKJ1073
+PRINCIPLES OF OBJECT-BASED PROGRAMMING
+2024
+2024
+INTERNAL SUPERVISION
+PHD
+No
+Matric No
+Student Name
+Type of Supervisor
+Start
+Year
+End
+Year
+1
+4090082
+BALA MUSA SHUAIBU
+Chairman of
+Supervisory
+Committee
+2009
+2016
+2
+4090083
+SUNDRESAN S/O PERUMAL
+Main Supervisor
+2009
+2011
+3
+4090094
+SITI MAZURA BINTI CHE DOI
+Main Supervisor
+2009
+2013
+4
+4090095
+HUSSAIN MOHAMMAD YOUSEF ABU DALBOUH
+Main Supervisor
+2009
+2012
+5
+4090097
+ALA A. ABDUL RAZEG
+Main Supervisor
+2009
+2022
+6
+4100020
+SYED NAJIHUDDIN BIN SYED HASSAN
+Member of
+Supervisory
+Committee
+2010
+2022
+7
+4100025
+RUQAIA JWAD KADHIM
+Chairman of
+Supervisory
+Committee
+2010
+2022
+8
+4100030
+BOURAIR SADIK MOHAMAD TAQI
+Main Supervisor
+2010
+2022
+9
+4100031
+OMAR MOHAMMAD HILAL AL-HARBI
+Main Supervisor
+2010
+2013
+10
+4100076
+NADER YAHYA MOHAMED AL-KEINAY
+Main Supervisor
+2010
+2022
+11
+4110055
+ROZNIM BINTI MOHAMAD RASLI
+Main Supervisor
+2011
+2022
+12
+4110074
+KHIRULNIZAM BIN ABD RAHMAN
+Main Supervisor
+2011
+2016
+13
+4110085
+BASHAR ABEDAL-MOHDI TALAL-ALDEEB
+Chairman of
+Supervisory
+Committee
+2012
+2016
+14
+4110098
+MOHAMED AHMED IMHMED
+Co-Supervisor
+2012
+2012
+15
+4110120
+SALEM. S.M KHALIFA
+Co-Supervisor
+2012
+2022
+16
+4110194
+OMAR ISAM HOMAIDI AL-MRAYAT
+Main Supervisor
+2012
+2015
+17
+4110216
+YOUSEF ABD-ALMOHDI MOHAMMAD
+HAZZAIMEH
+Main Supervisor
+2012
+2022
+18
+4110225
+AZADEN MOHAMED ABOKHWET
+Main Supervisor
+2012
+2012
+19
+4120083
+ASHRAF SALEH MOHAMMAD AL-OMOUSH
+Main Supervisor
+2012
+2023
+20
+4120093
+AYAT AHMAD MEQBEL ALROSAN
+Main Supervisor
+2012
+2022
+21
+4120201
+MOHAMMAD R.I ALOLAIMAT
+Co-Supervisor
+2013
+2014
+22
+4120251
+KHALED NAYEF AHMAD ABUNAB
+Main Supervisor
+2013
+2022
+23
+4120292
+NIK NADIAN NISA BINTI NIK NAZLI
+Member of
+Supervisory
+Committee
+2013
+2022
+24
+4140250
+ABDUL HASIB SADIQIN B. ADAM SHUKRI
+Co-Supervisor
+2015
+2022
+25
+4150236
+SITI MAZURA BINTI CHE DOI
+Main Supervisor
+2016
+2023
+26
+4171038
+SUMAIYA DEEN MUHAMMAD
+Member of
+Supervisory
+Committee
+2017
+2022
+27
+4171157
+MOHD AZMI BIN MOHD RAZIF
+Chairman of
+Supervisory
+Committee
+2017
+2022
+28
+4171167
+MOHD FAISAL BIN MOHAMED
+Main Supervisor
+2017
+2022
+29
+4201034
+MOHD FAUZI BIN HARIS
+Main Supervisor
+2020
+2024
+30
+4201057
+FAIRUZ BIN ADDNAN
+Chairman of
+Supervisory
+Committee
+2020
+2023
+31
+4201010
+JASHIRA BINTI JAMIN
+Co-Supervisor
+2021
+2022
+32
+4202481
+SUJATA NAVARATNAM
+Co-Supervisor
+2021
+2024
+33
+4211023
+FOUZIAH BINTI MD YASSIN
+Chairman of
+Supervisory
+Committee
+2021
+2024
+34
+4211406
+WAKA A. A. O. JENG
+Chairman of
+Supervisory
+Committee
+2022
+2024
+MASTER
+No
+Matric No
+Student Name
+Type of Supervisor
+Start
+Year
+End
+Year
+1
+3090058
+FATIN NORSYAFAWATI BINTI MOHD SABRI
+Main Supervisor
+2009
+2012
+2
+3090108
+NUR ALYANI BT JUSOH@MOHD
+Co-Supervisor
+2009
+2013
+3
+3110001
+NIK AZURA BINTI NIK ABDULLAH
+Co-Supervisor
+2011
+2016
+4
+3182542
+WAKA A. A. O. JENG
+Main Supervisor
+2019
+2022
+5
+3201087
+SITI AISHAH BINTI MUHAMMED SUZUKI
+Co-Supervisor
+2020
+2024
+6
+3202542
+HAKIM ADLI BIN ZULKIFLI
+Chairman of
+Supervisory
+Committee
+2021
+2024
+7
+3221437
+MADINA AMIRI
+Member of
+Supervisory
+Committee
+2022
+2024
+8
+3222531
+MUHAMMAD ZAIM KASHFI BIN ZAMAN
+Co-Supervisor
+2022
+2024
+EXTERNAL SUPERVISION
+No
+Matric
+Number
+Student Name
+Type of Supervisor
+University
+1
+Azman Ta'a
+Joint Supervisor
+UUM
+2
+Muhammad Rasheed.
+Joint Supervisor
+UUM
+3
+Wan Hussain Wan Ishak
+Joint Supervisor
+UUM
+4
+813589
+SURIYATI BINTI ABDUL MOKHTAR
+Joint Supervisor
+Universiti Utara
+Malaysia
+5
+9898
+Feldiansyah bin Bakri Nasution
+Committee
+Supervisor
+Universiti Teknologi
+Malaysia (UTM)
+INTERNAL RESEARCH
+No
+Title
+Grant
+Role
+Date
+1
+PEMBINAAN METODOLOGI INOVATIF MORFOLOGI BAHASA
+ARAB MELALUI TEKNOLOGI ANIMASI HURUF
+Geran
+Penyelidikan
+Fundamental
+Co-Researcher
+07/02/2011 -
+18/12/2015
+2
+DESIGN OF AN IMPROVED SECURE KEY MANAGEMENT
+PROTOCOL IN MULTICAST COMMUNICATION
+Geran
+Penyelidikan
+Fundamental
+Co-Researcher
+07/02/2011 -
+18/12/2015
+3
+SECURITY METRICS FOR WEB APPLICATION
+DEVELOPMENT QUALITY ASSURRANCE
+Geran
+Penyelidikan
+Fundamental
+Co-Researcher
+03/10/2011 -
+03/07/2015
+4
+Segementation Of Malaria Parasites on Stained Blood
+Films
+Geran
+Penyelidikan
+Fundamental
+Co-Researcher
+03/10/2011 -
+03/07/2015
+5
+Biologically Inspired Intrusion Detection System Model
+Geran KPT
+Main
+Researcher
+01/05/2010 -
+01/06/2012
+6
+USER ORIENTED PRIVACY MODEL FOR SOCIAL NETWORKS
+BASED ON ISLAMIC PERSPECTIVE
+Geran
+Penyelidikan
+Pentadbir
+Main
+Researcher
+01/12/2012 -
+18/12/2015
+7
+Optimum Fitness Function On Heuristic Search Evaluation
+For Solving Timetabling Issues
+Geran
+Penyelidikan
+USIM
+Co-Researcher
+01/12/2012 -
+25/03/2016
+8
+A New Topology Segmentation Algorithm For X-Ray
+Images
+Geran KPT
+Co-Researcher
+01/12/2013 -
+19/12/2016
+9
+AUTOMATED DETECTION AND CLASSIFICATION OF TOOTH
+DEVELOPMENT STAGES (TDS) IMAGES USING TOPOLOGY
+SEGMENTATION AND NEURAL NETWORK
+Geran
+Penyelidikan
+Kompetitif
+Berpasukan
+Co-Researcher
+24/12/2013 -
+27/09/2017
+10
+Knowledge Reservoir Through The Integration Of Naqli
+And Aqli Knowledge From Heterogeneous Expertise And
+Sources
+Geran KPT
+Main
+Researcher
+01/08/2014 -
+01/10/2020
+11
+Penggalian Petunjuk Ilmu Aqli Dalam Quran
+Geran
+Penyelidikan
+Kompetitif
+Kluster
+Co-Researcher
+01/07/2014 -
+19/12/2017
+12
+Mobile Forensic Evidence Extraction Tool (D-Mobile)
+Geran
+Penyelidikan
+Jangka Pendek
+Co-Researcher
+22/05/2015 -
+27/09/2017
+13
+A New Usability Evaluation Tool For Mobile Application
+Interface By Using An Enhanced Pacmad Model
+Geran Jangka
+Pendek Fasa 1
+Co-Researcher
+01/05/2016 -
+27/06/2019
+14
+INTERACTIVE AND AUTOMATED COURSE SCHEDULING
+SYSTEM, FOR USIM
+Geran Jangka
+Pendek Fasa 2
+Co-Researcher
+06/10/2016 -
+22/03/2019
+15
+INTELLIREHAB - INTELLIGENT MEDICAL SYSTEM WITH
+CUSTOMISED EXCERCISES FOR PERSONALIZED HOME
+TELEREHABILITATION
+Geran
+Antarabangsa
+Co-Researcher
+01/11/2016 -
+08/12/2020
+16
+PROJEK WAKAF QURAN ISYARAT (INOVASI PERISIAN
+QURAN MESRA OKU PEKAK)
+Geran
+Penyelidikan
+Khas
+Co-Researcher
+01/02/2018 -
+01/10/2020
+17
+TECHNOLOGY SUPPORTED INQUIRY INSTRUCTIONAL
+MODEL FROM AL-QURAN FOR ISLAMIC SCIENCE
+Geran Sepadan
+Antarabangsa
+Main
+Researcher
+01/09/2018 -
+27/12/2022
+18
+KAJIAN PERBANDINGAN ANTARA INTEGRASI ILMU DI USIM
+DAN DAN ISLAMISASI ILMU DI UIAM: KONSEP DAN
+METODE PERLAKSANAAN
+Geran
+Penyelidikan
+USIM
+Co-Researcher
+22/10/2018 -
+27/12/2022
+19
+PEMBANGUNAN PROTOTAIP ANDROID QURAN DALAM
+BAHASA ISYARAT DAN FONT KOD TANGAN HIJAIYYAH
+(QURAN ISYARAT): KE ARAH MEMPERKASA MODAL INSAN
+DALAM KALANGAN KOMUNITI PEKAK.
+Geran KPT
+Co-Researcher
+01/08/2019 -
+30/03/2023
+20
+MODEL PEREKODAN ARKIB DIGITAL RUMAH WARISAN
+BESTARI UNTUK PEMULIHARAAN MAMPAN.
+Geran KPT
+Co-Researcher
+01/09/2019 -
+27/12/2022
+21
+PEMBANGUNAN SISTEM TRANSLITERASI QURAN MESRA
+OKU PEKAK
+Geran
+Penyelidikan
+Industri
+Co-Researcher
+01/10/2019 -
+15/06/2024
+22
+ROADMAP HUFFAZ PROFESIONAL - DARI INSTITUSI
+PENDIDIKAN TAHFIZ KE INSTITUSI PENGAJIAN TINGGI
+Geran
+Penyelidikan
+USIM
+Co-Researcher
+01/12/2019 -
+15/06/2024
+23
+KAJIAN IMPAK PELAKSANAAN STREAM KEPADA PELAJAR-
+PELAJAR SEKOLAH MENENGAH KEBANGSAAN DAN AGAMA
+DENGAN MENGGUNAKAN KAEDAH LONGITUDINAL
+Geran
+Penyelidikan
+Agensi
+Kerajaan
+Co-Researcher
+01/01/2019 -
+08/12/2020
+24
+INTERPRETIVE STRUCTURAL MODELLING FOR A JUST-IN-
+TIME PANDEMIC RESPONSE MANAGEMENT THROUGH
+CENTRALIZED DATABASE FOR HOSPITALS IN MALAYSIA
+Geran
+Penyelidikan
+Covid-19
+Co-Researcher
+01/06/2020 -
+12/08/2021
+25
+MISMIS RESOURCE PLANNING ANALYTICS SYSTEM
+(MRPAS)
+Geran
+Penyelidikan
+Agensi
+Kerajaan
+Co-Researcher
+12/10/2020 -
+19/11/2021
+26
+ENERGY MANAGEMENT TOOL BASE ON MAQASID-
+SYARIAH
+Geran
+Pembangunan
+Inovasi (GPI) -
+Tidak Aktif
+Co-Researcher
+12/10/2020 -
+15/06/2023
+27
+STUDENTS THINKING STYLES AND IT'S INFLUENCE
+TOWARDS PERFORMANCE IN COMPUTER PROGRAMMING
+Geran
+Penyelidikan
+Pantas Bawah
+Setahun
+Main
+Researcher
+01/06/2010 -
+01/01/2013
+28
+INTEGRATING CLINICAL ASSESSMENT WITH MACHINE
+LEARNING FOR DETECTING ONLINE DEPRESSIVE
+SYMPTOMS AMONG MEDICAL STUDENTS THROUGH
+SOCIAL MEDIA TEXTS
+Biduni
+Mizanniyah
+Co-Researcher
+01/06/2024 -
+01/06/2026
+29
+REDUCING THE CALIBRATION EFFORT OF INDOOR
+POSITIONING SYSTEMS USING DISCRETE FOURIER AND
+WAVELET TRANSFORMS
+Geran
+Penyelidikan
+USIM
+Co-Researcher
+22/10/2018 -
+22/04/2021
+30
+CYBERSECURITY AND SYSTEMS (CSS)
+Geran
+Kumpulan
+Penyelidikan
+(KUP)
+Co-Researcher
+06/06/2024 -
+06/06/2026
+31
+ISLAH (INDEX OF SPIRITUALITY HEALTH): HARNESSING AI
+FOR EARLY DETECTION AND PERSONALIZED
+INTERVENTION FOR SPIRITUAL WELLBEING FOR MUSLIM
+YOUTH
+Geran
+Penyelidikan
+USIM
+Co-Researcher
+06/06/2024 -
+06/06/2026
+32
+BRAIN-COMPUTER INTERFACE WITH MACHINE LEARNING
+FOR MOVEMENT INSTRUCTIONS IN ROBUST
+ENVIRONMENT
+Biduni
+Mizanniyah
+Main
+Researcher
+06/10/2021 -
+06/10/2024
+33
+TERMITES TRACKER: AUTOMATIC CLASSIFICATION OF
+TERMITES GENERA IMAGES USING DEEP LEARNING
+CLASSIFIER APPROACH FOR ENTOMOLOGISTS IN BORNEO
+ISLAND
+Geran Sepadan
+Agensi
+Kerajaan
+Co-Researcher
+01/05/2023 -
+01/05/2025
+34
+A NEW MODEL OF PATIENT MONITORING SYSTEM FOR
+LYMPHATIC TREATMENT OF LEG PAIN BASED ON DOUBLE-
+LOOP FEEDBACK THEORY
+Geran KPT -
+Geran FRGS
+RACER
+Co-Researcher
+01/09/2019 -
+01/12/2022
+35
+SMART DIGITAL TRANSFORMATION MODEL FOR URBAN
+FARMING BASED ON INNOVATION DIFFUSION THEORY TO
+SUPPORT FOOD SECURITY
+Geran KPT -
+Geran FRGS
+Co-Researcher
+01/10/2023 -
+01/10/2025
+36
+FORMULATING RESPONSIBLE AND ETHICAL FRAMEWORK
+FOR SUSTAINABLE ARTIFICIAL INTELLIGENCE ADOPTION
+IN ARABIC LANGUAGE EDUCATION THROUGH MADANI
+CONCEPT
+Geran KPT -
+Geran FRGS
+Co-Researcher
+01/08/2024 -
+01/08/2026
+37
+UNSUPERVISED AUTOMATED KEYWORD EXTRACTION
+MECHANISM FROM PARALLEL CORPORA FOR A MULTI-
+LINGUAL INFORMATION RETRIEVAL ONLINE QUERY
+TRANSLATION
+Geran KPT -
+Geran FRGS
+Main
+Researcher
+01/11/2020 -
+01/05/2023
+EXTERNAL RESEARCH
+No
+Title
+Grant
+Organization
+Duration
+1
+Enhanced Interior Design Studio (IDS) Quality Pedagogy
+Via Hybrid Blended Learning for University of Hail
+Geran
+Antarabangsa
+University of
+Ha’il, Kingdom
+of Arab Saudi
+April 2021 - Mac 2022
+2
+Kebun Komuniti Taman Semarak Untuk Golongan B40
+Geran Agensi
+Luar Kerajaan
+Persatuan
+Saintis Muslim
+Malaysia
+(PERINTIS)
+Disember 2020 - Mei
+2021
+3
+DECISION MODELS FOR FLOOD DISASTER EARLY
+WARNING AND RISK REDUCTION
+GERAN LRGS
+UUM
+Ogos 2012 - Julai
+2016
+CONFERENCE
+No
+Conferance Name
+Paper Work
+Role
+Date
+1
+INTERNATIONAL CONFERENCE ON
+INFORMATION RETRIEVAL AND
+KNOWLEDGE
+MANAGEMENT(CAMP-2010)
+PRECONFERENCE WORKSHOP
+Peserta Biasa
+16/03/2010 -
+16/03/2010
+2
+3RD INTERNATIONAL CONFERENCE ON
+COMPUTING AND INFORMATICS, ICOCI
+ARTIFICIAL IMMUNE
+SYSTEM AGENT MODEL
+Pembentang Lisan /
+Kertas Kerja
+08/06/2011 -
+09/06/2011
+3
+7TH INTERNATIONAL CONFERENCE ON
+INFORMATION ASSURANCE AND
+SECURITY
+HYBRID OF ROUGH SET
+THEORY AND ARTIFICIAL
+IMMUNE RECOGNITION
+SYSTEM AS A SOLUTION TO
+Pembentang Lisan /
+Kertas Kerja
+05/12/2011 -
+08/12/2011
+DECREASE FALSE ALARM
+RATE IN INTRUSION
+DETECTION SYSTEM
+4
+FORUM MUSLIM WOMEN IN ACADEMIA
+2013
+BALANCING THE ACT
+Moderator
+01/02/2013 -
+01/02/2013
+5
+3RD GCAR CONFERENCE
+LEGACY OF MUSLIM
+RESEARCHER
+Keynote Speaker
+09/03/2013 -
+11/03/2013
+6
+MALAYSIA GAZA ACADEMIC DIALOGUE
+Peserta Biasa
+22/06/2013 -
+26/06/2013
+7
+INTELLIGENT DATA MINING ND
+KNOWLEDGE DISCOVERY
+Peserta Biasa
+07/10/2013 -
+08/10/2013
+8
+FUZZY LOGIC WORKSHOP
+Peserta Biasa
+26/01/2014 -
+26/01/2014
+9
+SCIENTIFIC AND TECHNICAL
+CONFERENCE "APPLIED MATHEMATICS
+AND INFORMATION SECURITY
+USER'S PRIVACY AND
+CONTEXTUAL ADS IN
+SOCIAL NETWORKS
+Pembentang Lisan /
+Kertas Kerja
+25/04/2014 -
+30/04/2014
+10
+INTERNATIONAL PARALLEL
+CONFERENCE ON RESEARCH IN
+INDUSTRIAL & APPLIED SCIENCES
+INTELLIGENT WATER ROPS
+ALGORITHM FOR
+UNIVERSITY EXAMINATION
+TIMETABLING
+Pembentang Lisan /
+Kertas Kerja
+25/04/2014 -
+26/04/2014
+11
+SCIENTIFIC AND TECHNICAL
+CONFERENCE "APPLIED MATHEMATICS
+AND INFORMATION SECURITY
+CROSS - LIGUAL
+SPECIALIZED SEMANTIC
+SEARCH ENGINE FROM
+HETEROGENOUS
+RESOURCES
+Pembentang Lisan /
+Kertas Kerja
+25/04/2014 -
+30/04/2014
+12
+IV INTERNATIONAL CONFERENCE
+MODERN PROLEMS OF APPLIED
+MATHEMATICS AND IT  ALKHORIEZMY
+2014
+THE PRIVACY WITHIN
+CONTEXTUAL ADS AND THE
+EFFECTS TO SOCIAL
+NETWORK TRUST AND
+CONFIDENTIALITY
+Pembentang Lisan /
+Kertas Kerja
+15/09/2014 -
+17/09/2014
+13
+INTERNATIONAL CONFERENCE ON
+COMPUTING AND INFORMATICS
+INTELLIGENT EXAMINATION
+TIME TABLING SYSTEM
+USING HYBRID
+INTELLIGENT WATERDROPS
+ALGORITHM
+Pembentang Lisan /
+Kertas Kerja
+11/08/2015 -
+13/08/2015
+14
+World Islamic Countries University
+Leaders Summit 2015
+Peserta Biasa
+29/09/2015 -
+30/09/2015
+15
+FEIIC-International Conference on
+Engineering Education & Research
+2015
+Unicode Hexadecimal
+Representation for
+QURANIC Words
+Pembentang Lisan /
+Kertas Kerja
+19/12/2015 -
+21/12/2015
+16
+THE 3RD EU-MALAYSIA HIGHER
+EDUCATION CONFERENCE
+Peserta Biasa
+14/03/2016 -
+14/03/2016
+17
+Seminar Antabangsa Islam dan
+Kemananan Sejagat Sabah 2016
+Peserta Biasa
+28/05/2016 -
+28/05/2016
+18
+3rd International Multi-Conference on
+Artificial Intelligence Technology (M-
+CAIT 2016)
+Peserta Biasa
+23/08/2016 -
+24/08/2016
+19
+3RD INTERNATIONAL MULTI-
+CONFERENCE ON ARTIFICIAL
+INTELLIGENCE TECHNOLOGY (M-CAIT
+2016), 23 – 24 OGOS 2016,
+Peserta Biasa
+23/08/2016 -
+24/08/2016
+20
+World Islamic Countries University
+Leaders Summit
+Peserta Biasa
+14/11/2016 -
+19/11/2016
+21
+World Islamic Countries University
+Leaders Summit
+Plenary Session 2,
+Knowledge Integration as a
+Moderator
+14/11/2016 -
+19/11/2016
+Holistic Reconstruction: The
+Role of University
+Leadership
+22
+1st International Conference on
+Information Systems & Security
+(ICoISS2017) colocate with
+International Conference On Recent
+Advancements In Science And
+Technology 2017
+Handling Words Duplication
+and Memory Management
+for Digital Quran Based On
+Hexadecimal
+Representation and Sparse
+Matrix (DQM)
+Pembentang Lisan /
+Kertas Kerja
+07/11/2017 -
+09/11/2017
+23
+FEIIC-International Conference on
+Engineering Education and Research
+2017 [FICEER2017] w
+INTERCONNECTED
+KNOWLEDGE REPOSITORY
+WITH SEAMLESS CONTENT
+MANAGEMENT SYSTEM FOR
+HETEROGENEOUS MULTI
+LINGUAL RESOURCES
+Pembentang Lisan /
+Kertas Kerja
+16/12/2017 -
+18/12/2017
+24
+THE 2018 ASEAN WORKSHOP ON
+INFORMATION SCIENCE AND
+TECHNOLOGY (AWIST2018),
+Semantic Search Engine
+with Multi Lingual Targeted
+Resources
+Penceramah
+Jemputan
+31/07/2018 -
+05/08/2018
+25
+International Seminar Integration of Al-
+Qur''an and Science
+"Ayat-Ayat Kauniah
+Inspirasi Teknologi
+Kecerdasan Buatan
+Pendukung Revolusi
+Industri 4.0, Di Manakah
+Noktahnya?"
+Penceramah
+Jemputan
+28/08/2018 -
+28/08/2018
+26
+Sustainable Development Initiatives in
+USIM Dailogue
+Hunger Knows No Barriers :
+From Tesco to Asnaf in
+Nilai. Kechara Kitchen Soup
+Food Security Project
+Penceramah
+Jemputan
+13/03/2019 -
+13/03/2019
+27
+International Day Women and Girls in
+Science 2019 Conference
+Peserta Biasa
+02/04/2019 -
+02/04/2019
+28
+Southeast Asia Vegetable Symposium
+Peserta Biasa
+09/07/2019 -
+11/07/2019
+29
+Seminar Antarabangsa Sains dan Islam
+Unleash the potential of Big
+Data through the Covid 19
+Pandemic
+Keynote Speaker
+15/10/2020 -
+15/10/2020
+30
+Seminar Antarabangsa Sains dan Islam
+(SAIS) 2020
+Unleash the potential of Big
+Data through the Covid 19
+Pandemic
+Keynote Speaker
+15/10/2020 -
+15/10/2020
+31
+Unesa International Forum of University
+Rectors (UNIFUR) 2020
+BATTLING THE COVID-19
+PANDEMIC : THE USIM
+STORY
+Pembentang
+Jemputan
+30/11/2020 -
+30/11/2020
+32
+Simposium Pelajar Pascasiswazah
+Fakulti Pergigian USIM
+Reshaping The Future of
+Dentistry with AI Techology
+Keynote Speaker
+19/05/2022 -
+19/05/2022
+33
+World AI & RPA Show - Malaysia
+Peserta Biasa
+13/07/2022 -
+13/07/2022
+34
+6TH INTERNATIONAL CONFERENCE ON
+ENGINEERING AND APPLIED
+TECHNOLOGY (ICEAT)
+Responsible AI Technology
+: Issues and Challenges
+Keynote Speaker
+19/10/2022 -
+20/10/2022
+35
+3rd International Conference on
+Universal Well-Being (ICUW 2022)
+LIGHTWEIGHT VERSION
+FOR DIGITAL QURAN
+MODEL BY HANDLING
+DUPLICATION
+Pembentang Lisan /
+Kertas Kerja
+03/12/2022 -
+04/12/2022
+36
+International Seminar Collaboration
+UNSIQ-USIM
+Teknologi Kepintaran
+Buatan dalam Dimensi
+Kerohanian
+Penceramah
+Jemputan
+07/03/2024 -
+07/03/2024
+37
+World Education Congress & Awards
+Pemerhati
+11/07/2024 -
+12/07/2024
+38
+INTELLECTUAL MUSLIM DISCOURSE
+SERIES ON ISLAMIC EDUCATION
+Responsible Artificial
+Intelligence Technology
+from the Islamic Worldview
+Penceramah
+Jemputan
+14/09/2024 -
+23/09/2024
+AREA OF SPECIALIZATION AND RESEARCH INTERESTS
+No
+Field / Area
+Level of Expertise
+1
+ARTIFICIAL INTELLIGENCE
+HIGH
+2
+COMPUTER SECURITY
+MODERATE
+3
+DATA MINING
+VERY HIGH
+4
+DATA STRUCTURES
+VERY HIGH
+5
+DECISION SUPORT SYSTEM
+HIGH
+6
+INFORMATION PROCESSING SERVICES
+HIGH
+7
+INFORMATION, COMPUTER AND COMUNICATION
+TECHNOLOGIES
+HIGH
+8
+MANAGEMENT INFORMATION SYSTEM
+HIGH
+9
+MULTIMEDIA
+HIGH
+10
+SEARCH ENGINE
+MODERATE
+11
+SOFT COMPUTING
+VERY HIGH
+12
+SOFTWARE
+MODERATE
+13
+SOFTWARE AGENTS
+VERY HIGH
+14
+SOFTWARE ENGINEERING
+HIGH
+15
+SOFTWARE ENGINEERING
+HIGH
+PUBLICATION - BOOK
+2022
+1. P. Naga Srinivasu, Norita Md Norwawi, Sheng Lung Peng, Azuraliza Abu Bakar,Computational Intelligence and
+Machine Learning Approaches in Biomedical Engineering and Health Care Systems,Bentham Science
+2021
+1. Norita Md Norwawi,Mohd Radhi Ibrahim, Muhammad Widus Sempo, Mashitah Sulaiman, Latifah Abdul
+Latiff,Introduction to Islamic Science,USIM Press
+2020
+1. Norita Md Norwawi, Mohd Radhi Ibrahim, Muhammad Widus Sempo, Mashitah Sulaiman, Latifah Abdul
+Latiff,Introduction to Islamic Science,PENERBIT USIM
+2019
+1. Norita Md Norwawi,Artificial Intelligence: Nature Inspired Technology Driven By The Light. The Wisdom of The
+Creator Through Wonders of The Creation,USIM Press
+2. Muhammad Widus Sempo, Norita Md Norwawi,114 FORMULA QURANIK DALAM MEMBINA INSAN YANG
+BERKUALITI,USIM Press
+2018
+1. Norita Md Norwawi / Mohd Radhi Ibrahim / Muhammad Widus Sempo / Mashitah Sulaiman / Latifah Abdul
+Latif,Sains Islam,USIM Press
+2017
+1. Yahya , Suriani (Ed),Meniti Kampus Barakah,Rekative Media
+2. Hassan Basri Awang Mat Dahan, Khairul Anuar Mohamad, Noornajihan Jaafar, Mohamad Zaharuddin Zakaria,
+Muhammad Khairi Mahyuddin, Norita Md Norwawi, Adnan Mohamed Yusoff, Ahmad Najib Azmi,Modul Liqa 2,USIM
+3. Hassan Basri Awang Mat Dahan, Khairul Anuar Mohamad, Noornajihan Jaafar, Mohamad Zaharuddin Zakaria,
+Muhammad Khairi Mahyuddin, Norita Md Norwawi, Adnan Mohamed Yusoff, Ahmad Najib Azmi,Modul Liqa 3,USIM
+Press
+4. Hassan Basri Awang Mat Dahan, Khairul Anuar Mohamad, Noornajihan Jaafar, Mohamad Zaharuddin Zakaria,
+Muhammad Khairi Mahyuddin, Norita Md Norwawi, Adnan Mohamed Yusoff, Ahmad Najib Azmi,modul Liqa 4,USIm
+Press
+5. Hassan Basri Awang Mat Dahan, Khairul Anuar Mohamad, Noornajihan Jaafar, Mohamad Zaharuddin Zakaria,
+Muhammad Khairi Mahyuddin, Norita Md Norwawi, Adnan Mohamed Yusoff, Ahmad Najib Azmi,Modul Liqa 5,USIM
+Press
+6. Hassan Basri Awang Mat Dahan, Khairul Anuar Mohamad, Noornajihan Jaafar, Mohamad Zaharuddin Zakaria,
+Muhammad Khairi Mahyuddin, Norita Md Norwawi, Adnan Mohamed Yusoff, Ahmad Najib Azmi,Modul Liqa 6,USIm
+Press
+2007
+1. Wan Ishak, Wan Hussain and Md Norwawi, Norita and Yusoff, Nooraini and Sainin, Mohd Shamrie,Pengaturcaraan
+Logik,Pearson/Prentice Hall.
+2006
+1999
+1. norita binti md norwawi,PENGENALAN PENGATURCARAAN C,Penerbitan Universiri Utara Malaysia
+PUBLICATION - CHAPTER IN BOOK
+2022
+1. Fauziah Abdul Wahid, Noor Anita Khairi, Siti Aishah Muhammed Suzuki, Rafidah Hanim Mokhtar, Norita Md
+Norwawi and Roesnita Ismail,Computational Intelligence and Machine Learning Approaches in Biomedical
+Engineering and Health Care Systems,Bentham Science,20
+2021
+1. P. Naga Srinivasu, Valentina E. Balas, Norita Md. Norwawi,Bio-Inspired Neuro Computing : Studies in Computational
+Intelligence,Springer, Singapore,1-24
+2. Norita Md Norwawi,Data Science for COVID-19 : Biomedical Engineering Computational Perspectives,Elsevier :
+Academic Press,547-564
+2020
+1. Norita Md Norwawi (Nama Pena Kenangan Bayai),Himpunan Anekdot Aksara Inspirasi 2,AID Conference,3
+2. Norita Md Norwawi,Antologi Puisi : Magisnya 02022020,AID Conference,2
+3. Naga Srinivasu, P., Balas, V.E., Md. Norwawi, N.,Bio-inspired Neurocomputing,Springer Nature Singapore,1-24
+2019
+1. Norita Md Norwawi, Noor Hayati Ismail, Dodo Yakubu Aminu,SEASN Compendium of Selected Best Practices on
+Sustainable Development Goals,South-East Asia Sustainability Network (SEASN) Ce,39-45
+2. Mohd Faisal Mohamed, Norita Md Norwawi, Muhammad Widus Sempo & Najm Abdulrahman Khalaf,Contemporary
+and Emerging Issues in Syariah and Law,USIM PRESS,163-168
+3. Norita Md Norwawi,Sulaman Tinta,USIM Press,64-70
+4. Ahmad Akmaluddin Mazlan, Roesnita Ismail, Norita Md Norwawi, Fauziah Abdul Wahid, Ashraf Al-Omush,THE
+INTEGRATION OF NAQLI AND AQLI IN INFORMATION SECURITY AND ASSURANCE FROM THE ISLAMIC &
+TECHNOLOGICAL PERSPECTIVES,USIM Press,xx
+5. Norita Md Norwawi,SECARIK MEMOIR MUSA AHMAD,USIM Press,xx
+2015
+1. ,LECTURE NOTES IN COMPUTER SCIENCE: SWARM, EVOLUTIONARY, AND MEMETIC COMPUTING,Springer
+International Publishing,187
+2014
+1. ,INTERNATIONAL CONFERENCE ON MATHEMATICAL SCIENCES AND STATISTICS 2013 SELECTED PAPERS,Springer
+Singapore,233-245
+2012
+1. ,WEB 2.0 DI IPTA MALAYSIA,Reka Cetak Sdn Bhd,93
+2010
+1. norita binti md norwawi,E-PEMBELAJARAN DI IPTA MALAYSIA,Pusat Pembangunan Akademik, Universiti
+Kebangsaan,321
+PUBLICATION - JOURNAL
+2024
+1. FOUZIAH MD YASSIN ET AL,A FUSION OF DISCRETE WAVELET TRANSFORM-BASED AND TIME-DOMAIN FEATURE
+EXTRACTION FOR MOTOR IMAGERY CLASSIFICATION,JORDANIAN JOURNAL OF COMPUTERS AND INFORMATION
+TECHNOLOGY,10,2 (June),108-122
+2023
+1. Ashraf Saleh Mohammad Alomoush, Norita Md Norwawi,,LIGHTWEIGHT VERSION FOR DIGITAL QURAN MODEL BY
+HANDLING DUPLICATION,PERINTIS eJurnal,13,1,69-76
+2. Mohd Zin Kandar, Nurul Hadirah Muszaffarsham, Elina Mohd Husini, Norita Md Norwawi, Khairil Faizal
+Khairi,Enhancing energy efficiency through the incorporation of maqasid syariah knowledge: a review,Malaysian
+Journal of Sustainable Environment,10,1,171-190
+3. Mohd Fauzi Haris, Norita Md Norwawi, Mohd Hafez Mohd Isa, Muhammad Rawi Mohamed Zin,Cosmogenic
+Radionuclide-Beryllium 7 (7Be) for Monsoon Rainfall Forecasting in Malaysia: A Systematic Literature
+Review,Malaysian Journal of Science, Health & Technology (MJOSHT),9,1,46-55
+4. Noor Hayati Ismail, Nur Aisyah Safwa Rashidi, Nurul Syala Abdul Latip, Norita Norwawi,An overview of web
+development for digital archive of Malaysian cultural heritage,Malaysian Journal of Sustainable
+Environment,10,1,319-335
+2022
+1. Zan Azma Nasruddin, Nor Hapiza Mohd Ariffin, Norita Md Norwawi, Roesnita Ismail, Aida Wati, Zainan Abidin, FNSM
+Nor,Evaluating User Experience (UX) Factors and Emotions of Open Distance Learning (ODL) during the Pandemic
+Covid-19 among Secondary School Students,,12,12,1374-1380
+2. Srinivasu, P.N., Norwawi, N.M., Amiripalli, S.S., Deepalakshmi, P.,Secured Compression for 2D Medical Images
+Through the Manifold and Fuzzy Trapezoidal Correlation Function,,35,4,1372-1391
+3. Bashar A Aldeeb, Mohammed Azmi Al-Betar, Norita Md Norwawi, Khalid A Alissa, Mutasem K Alsmadi, Ayman A
+Hazaymeh, Malek Alzaqebah,Hybrid intelligent water Drops algorithm for examination timetabling
+problem,,34,8,4847-4859
+4. Fauziah Abdul Wahid, Norita Md Norwawi, Rafidah Hanim Mokhtar, Siti Aishah Muhammed Suzuki, Noor Anita
+Khairi,Healthcare Monitoring System for Lymphatic Treatment of Leg Pain: Finding the Related Evidence,Asian Journal
+of Fundamental and Applied Sciences,3,1,1-8
+5. Muhamad Ali Mustofa Kamal, Norita Md Norwawi, Nor Azila Noh, Robiatul Adawiyah Mohd,The Use of Ruqyah
+Quraniyah Therapy on the Effect of Brain Waves Healing Tourette Syndrome Patients,Analisa Journal of Social
+Science and Religion,2,7,231-248
+2021
+1. Norita Md Norwawi, Muhammad Widus Sempo, Yousuf Mahbubul Islam, Noorhayati Hashim,Nurturing Critical
+Thinking Through Inquiry Learning Model Based On Hamzah Istifham Quranic Verses Pattern,AL-ITQAN: JOURNAL OF
+ISLAMIC SCIENCES AND COMPARATIVE STUDIES,5,3,63-71
+2. BOURAIR AL-ATTAR, 1 AHMED J. ALLAMI, 1 ALI THOULFIKAR A. IMEER, , 1 YUSOR FADHIL ALASADI, 2 NORITA MD. 2
+NORWAWI, 1 HAWRAA M. KADHIM,A Hybrid approach for web search result clustering based on genetic algorithm
+with k-means,,99,11,2722-2733
+2020
+1. Norita Md Norwawi, Sundresan a/l Perumal, Emran Huda, Waka Jeng,Query translation for multilingual content with
+semantic technique [Terjemahan pertanyaan untuk kandungan pelbagai bahasa dengan teknik
+semantik,,49,9,2113-2118
+2. Siti Mazura Che Doi, Norita Md Norwawi *, Roesnita Ismail,An Early Warning System for Reservoir Water Release
+Operation Using Agent-Based Negative Selection Model,,1551,1,1-13
+3. Siti Mazura Che Doi, Norita Md Norwawi, Roesnita Ismail, Mohd Helmy Abd Wahab, Syed Zulkarnain Syed
+Idrus,Simulation of Agent-Based Negative Selection Model (ABNSM) for Reservoir Water Level
+Monitoring,,1529,3,1-11
+4. Ayat Alrosan1 • Waleed Alomoush2 • Norita Norwawi1 • Mohammed Alswaitti3 • Sharif Naser Makhadmeh4,An
+improved artificial bee colony algorithm based on mean best-guided approach for continuous optimization problems
+and real brain MRI images segmentation,,1,1,1-27
+5. Muhammad Widus Sempo, Norita Binti Md Norwawi, Hasyim Haddade, Yousuf Mahbubul Islam, Noorhayati Binti
+Hasyim,UNBELIEVERS’ MENTAL MODEL AND BEHAVIOURAL DISORDERS BASED ON THEIR QUERIES IN THE
+ALBAQARAH CHAPTER,Jurnal Adabiyah,20,2,286-299
+6. Siti Fatimah Mohd Tawil, Roesnita Ismail, Fauziah Abdul Wahid, Norita Md Norwawi & Ahmad Akmaluddin
+Mazlan,Application of OASys approaches for Prophetic Food Ontology,,5,1,26-31
+7. Fauziah Abdul Wahid, Siti Aishah Muhammed Suzuki Suzuki, Norita Md Norwawi,A New Model of Patient Monitoring
+System for Lymphatic Treatment of Leg Pain based on Double-Loop Feedback Theory,,5,1,32-35
+8. NORITA MD NORWAWI*, SUNDRESAN A/L PERUMAL, EMRAN HUDA & WAKA JENG,Query Translation for Multilingual
+Content with Semantic Technique,SAINS MALAYSIANA,9,49,2113-2118
+2019
+1. Mohammad M. Rasheed, Norita Md Norwawi, Osman Ghazali, Munadil K. Faaeq,Detection algorithm for internet
+worms scanning that used user datagram protocol,,11,1,17-32
+2. Norita Md Norwawi, Norshuhani Zamin, Fauziah Hassan,GUEST EDITORS: HEALTHY PROPHETIC LIFESTYLE,Al-Abqari
+Journal,17,Special Ed,7-8
+3. Yousef Abd-Almohdi Hazzaimeh1 , Norita Md Norwawi2 , Najm Abdul Rahman Khalaf3,Generating Arabic Stop-
+Word for Hadith,,4,Special,69-74
+4. Norshuhani Zamin1 , Norita Md. Norwawi2 , Noreen Izza Arshad3 , Mohamad Amirul Asraf Ismail4,Jawi alphabot: A
+jawi teaching robot for children with autism,International Journal of Advanced Trends in Computer Science and
+Engineering,8,1.4,363-367
+5. Norshuhani Zamin1, Norita Md. Norwawi2, Hazeem Ahmad Taslim3, Wan Mohd Fadhlullah Wan Mohd
+Rosdi4,KLIKTani: A Concept of a Smart Edible Garden using IOT for Indigenous Community in Malaysia,International
+Journal of Advanced Trends in Computer Science and Engineering,8,1.4,350-355
+6. Zamin, N., Norwawi, N.M., Nursyafira, Arshad, N.I., Rambli, D.R.A.,Make me speak: A mobile app for children with
+cerebral palsy,International Journal of Advanced Trends in Computer Science and Engineering,8,1.4,368-373
+2018
+1. Khaled Nayef Abu Nab, Norita Binti Md Norwawi, Waidah Binti Ismail,Similarity in Arabic Continuous Speech
+Recognition,International Journal of Scientific & Engineering Research Volume 9, Issue 4, April-2018,9,4,5-5
+2. Waleed Alomoush, Ayat Alrosan, Norita Md Norwawi , Yazan M. Alomari , Dheeb Albashish , Ammar Almomani ,
+Mohammed Alqahtani,A Survey: Challenges Of Image Segmentation , Based Fuzzy C-Means Clustering
+Algorithm.,Journal of Theoretical and Applied Information Technology,96,16,17-17
+3. Ashraf Al-Omoush, Norita Md Norwawi, Ahmad Akmalludin Mazlan,Duplication and Memory Management for Digital
+Quran Based on Hexadecimal Representation and Sparse Matrix,Journal of Telecommunication, Electronic and
+Computer Engineering.,1,1,5-5
+4. Ahmad Akmaluddin Mazlan, Norita Md Norwawi, Fauziah Abdul Wahid, Roesnita Ismail,Quranic Cross-Lingual
+Information Retrieval Optimization Using Hexadecimal Conversion,Malaysian Journal of Science, Health and
+Technology,2,1,5-5
+5. RM Rasli, NAM Zulkefli, NAA Aziz, FM Razali, SA Salim, NM Norwawi, N Basir,A REVIEW ON TEACHER TRAINING''S
+DRAWBACKS, BARRIERS AND CHALLENGES: CONVENTIONAL TO DIGITAL TECHNOLOGY TRANSITION,Journal of
+Fundamental and Applied Sciences,10,6s,7-7
+6. RM Rasli, NAA Aziz, SA Salim, FM Razali, NM Norwawi,Knowledge-based expert system for predictive classification
+of main specific learning disabilities,Journal of Fundamental and Applied Sciences,10,6s,13-13
+2017
+1. Ashraf Mousa Saleh, Roesnita Ismail, Norasikin Fabil, Norita Md Norwawi, Fauziah Abdul Wahid,Measuring Usability:
+Importance Attributes for Mobile Applications,Advanced Science Letters, Volume 23, Number 5, May 2017, pp.
+4738-4741(4),23,5,4738-4741
+2. Ala A Abdulrazeg, Norita Md Norwawi, Nurlida Basir,RiskSRP: Prioritizing Security Requirements Based on Total
+Risk Avoidance,Advanced Science Letters,23,5,4596-4600
+2016
+1. Suriyati Abdul Mokhtar, Wan Hussain Wan Ishak, Norita Md Norwawi,Investigating the spatial relationship between
+the upstream gauging stations and the reservoir,Journal of Advanced Management Science,4,6,1-1
+2. 2. Nik Nadian Nisa Nik Nazli, Sapora Sipon, Norita Md Norwawi.,A Prototype Mobile Application for Informing
+Disaster Complaint–“Informer on Site”,International Journal of Interactive Mobile Technologies (iJIM),10,1,68-70
+3. Suriyati Abdul Mokhtar, Wan Ishak, Wan Hussain, Norita Md Norwawi,MODELING RESERVOIR WATER RELEASE
+DECISION USING ADAPTIVE NEURO FUZZY INFERENCE SYSTEM,Journal of Information & Communication
+Technology,15,2,141-152
+2015
+1. Wan Hussain Wan Ishaka* , Ku Ruhana Ku-Mahamuda, Norita Md Norwawib,MODELLING OF HUMAN EXPERT
+DECISION MAKING IN RESERVOIR OPERATION,Jurnal Teknologi,77,22,1-1
+2. Nik Nazli, Nik Nadian Nisa, Sapora Sipon, Norita Md Norwawi,One Stop Center For Disaster Training Information In
+Smartphone Platform: A Mobile Prototype.,International Journal of Interactive Mobile Technologies,9,4,5-5
+3. Salem SM Khalifa, Kamarudin Saadan, Norita Md Norwawi,RISK ASSESSMENT OF MINED AREAS USING FUZZY
+INFERENCE,International Journal of Artificial Intelligence & Applications,6,2,37-37
+4. Bala Musa Shuaibu, Norita Md Norwawi, Mohd Hasan Selamat, Abdulkareem Al-Alwani,Systematic review of web
+application security development model.,Artificial Intelligence Review,43,2,17-17
+5. Salem S. M. Khalifa, Kamarudin Saadan, Norita Md Norwawi,Development of Framework for Wireless Intelligent
+Landmines Tracking System Based on Fuzzy Logic,International Journal of Soft Computing and Engineering
+(IJSCE),5,1,7-7
+6. Nik Azura Nik Abdullah* , Liyana Chew Nizam Chew, Abdul Alif Zakaria,Kamaruzzaman Seman, Norita Md
+Norwawi,The Comparative Study of Randomness Analysis between Modified Version of LBlock Block Cipher and its
+Original Design,International Journal of Computer and Information Technology,4,6,9-9
+7. Ruqaia J. Kadhim, Norita M. Norwawi, Adel M. Abdulaaziz, Ashraf Al_Omoush,Extraction of Hadith Based on
+Semantic Annotation,International Journal of Computer Science and Network,4,2,273-280
+2014
+1. Nader Yahya Mohamed Alkeinay, Norita Md Norwawi, Fauziah Abdul Wahid, Roesnita Ismail, Najwa Hayaati Mohd
+Alwi,Privacy Factors of Social Network That Effect Users Trust And Confidentiality,International Journal of
+Management & Information Technology (IJMIT),8,,1411-1413
+2. Bashar Abedal Mohdi AlDeeb, Norita Md Norwawi, Mohammed A. AlBetar,A Survey on Intelligent Water Drop
+Algorithm,International Journal of Computers & Technology, (IJCT),13,,5075-5084
+3. Md Norwawi, Norita; Mohd Alwi, Najwa Hayaati; Ismail, Roesnita; Wahid, Fauziah; M. Alkaenay, Nader,Promoting
+Islamic Ethics on Privacy in Digital Social Network For User Data Protection and Trust,''Ulum Islamiyyah: The
+Malaysian Journal of Islamic Sciences,13,,11-11
+2013
+1. Bala Musa Shuaibu, Norita Md Norwawi, Mohd Hasan Selamat, Abdulkareem Al-Alwani,Systematic review of web
+application security development model.,Artificial Intelligence Review.,Jan 2013,,0
+2. Omar Isam Al Mrayat, Norita Md Norwawi, and Nurlida Basir,Appreciative Inquiry in Eliciting Software
+Requirements,International Journal of Computer Science and Electronics Engineering (IJCSEE),1,3,344-349
+3. Omar Isam Al Mrayat , Norita Md Norwawi , Nurlida Basir,Requirements Elicitation Techniques: Comparative
+Study,International Journal of Recent Development in Engineering and Technology,1,13,1-10
+4. Nurlida Basir, Waidah Ismail, Norita Md Niorwawi,A Simulated Annealing for Tamhidi Course Timetabling,Procedia
+Technology,11C,2013,437-445
+5. Nader m. Alkaenay, Norita Md Norwawi, Fauziah Wahid, Roesnita ismail, Najwa Hayati Mohd Alwi,Nobel digital
+Social Network Based on User Oriented Privacy Model IslamTag.,Journal Ulum AlIslamiyyah,Dec 2013,,
+6. Roqaia Jawad, Norita Md Norwawi, Musa Bala,State of the Art in Semantic Web Search Techniques for Arabic
+Language,International Journal of Computer Science and Network,2,5,5-7
+7. Nurlida Basir, Waidah Ismail, Norita Md Norwawi,A Simulated Annealing for Tamhidi Course
+Timetabling,Proceedings of International Conferences on Electrical Engineering and Informatics  ICEEI
+2013.,11C,,437-445
+2012
+1. norita binti md norwawi,SECURING THE APPLICATION LAYER IN ECOMMERCE,International Journal of Advance
+Science, Engineering and Information Technology,2,5,47-50
+2. norita binti md norwawi,Handling Ambiguity Problems of Natural Language Interface for Question
+Answering,International Journal of Computer Science Issues,9,3,17-25
+3. norita binti md norwawi,Lexical Disambiguation in Natural Language Questions (NLQs).,International Journal of
+Computer Science,8,4,143-150
+4. norita binti md norwawi,Security Measurement Based On GQM To Improve Application Security During
+Requirements Stage. .,International Journal of Cyber-Security and Digital Forensics (IJCSDF),1,3,228-237
+5. norita binti md norwawi,The Improvement of Key Management Based On Logical Key Hierarchy by Implementing
+Diffie Hellman Algorithm.,Journal of Emerging Trends in Computing and Information Sciences.,3,3,33--343
+6. norita binti md norwawi,Intelligent Signature Detection for Scanning Internet Worms. .,Information Technology
+Journal,11,7,760-767
+7. norita binti md norwawi,Modelling Resevoir Water Release Decision Using Temporal Data Mining and Neural
+Network,International Journal of Emerging Technology and Advanced Engineering,,2,8,422-420
+8. Omar Al-Harbi, Shaidah Jusoh, Norita Norwawi.,Handling Ambiguity Problems of Natural Language Interface for
+Question Answering.,International Journal of Computer Science Issues,9,3,17-25
+9. Mohammad M. Rasheed, Osman Ghazali and Norita Md Norwawi .,Intelligent Signature Detection for Scanning
+Internet Worms,Information Technology Journal,11,7,760-767
+10. Sundresan Perumal, Norita Md Norwawi, Subramaniam Muniandy,The Success Transmission Model from
+Governance to E-Governance,Critical Thinking in E-Governance,1,,93-96
+2011
+1. norita binti md norwawi,FASTER CASE RETRIEVAL USING HASH INDEXING TECHNIQUE.,International Journal of
+Artificial Intelligence and Expert Systems (IJAE),2,2,81-95
+2. norita binti md norwawi,IDENTIFYING FALSE ALARM RATES FOR INTRUSION DETECTION SYSTEM WITH DATA
+MINING.,International Journal of Network Security and Computer Science,11,4,95-99
+3. norita binti md norwawi,CONCEPTUAL MODEL OF INTELLIGENT DECISION SUPPORT SYSTEM BASED ON
+NATURALISTIC DECISION THEORY FOR RESERVOIR OPERATION DURING EMERGENCY SITUATION.,International Journal
+of Civil & Environmental Engineering IJCEE / IJENS,11,2,6-11
+4. norita binti md norwawi,FRAMEWORK FOR SECURE E-COMMERCE APPLICATION DEVELOPMENT.,INFORMATION
+TECHNOLOGY JOURNAL,10,4,769-778
+5. norita binti md norwawi,LEXICAL DISAMBIGUATION IN NATURAL LANGUAGE QUESTIONS.,IJCSI International Journal
+of Computer Science Issues,,8,3,0
+6. norita binti md norwawi,MINING TEMPORAL RESERVOIR DATA USING SLIDING WINDOW TECHNIQUE.,International
+Journal of Data Mining and Knowledge Engineering,,3,8,974-978
+7. norita binti md norwawi,NEURAL NETWORK APPLICATION IN RESERVOIR WATER LEVEL FORECASTING AND
+RELEASE DECISION,International Journal of New Computer Architectures and their Applications (IJNCAA),1,2,54-63
+8. norita binti md norwawi,BIDIRECTIONAL AGGLOMERATIVE HIERARCHICAL CLUSTERING USING AVL TREE
+ALGORITHM.,International Journal of Computer Science Issues,8,5,0
+9. norita binti md norwawi,GOAL ONTOLOGY ETL PROCESSES SPECIFICATION,JOURNAL OF ICT,10,,15-43
+10. Azman Taa, Mohd Syazwan Abdullah, Norita Md Norwawi,Goal-ontology ETL processes specification.,Journal of
+Information and Communication Technology,10,,15-43
+11. Omar Al-Harbi, Shaidah Jusoh, Norita Norwawi,Lexical Disambiguation in Natural Language Questions
+(NLQs).,International Journal of Computer Science Issues,8,4,143-150
+12. norita binti md norwawi,SECURE E-COMMERCE WEB DEVELOPMENT FRAMEWORK,Information Technology
+Journal,10,4,769-778
+2010
+1. norita binti md norwawi,INTERACTED MULTIPLE ANT COLONIES OPTIMIZATION FRAMEWORK: AN EXPERIMENTAL
+STUDY OF EVALUATION AND EXPLORATION TECHNIQUES TO CONTROL SEARCH STAGNATION,INTERNATIONAL
+JOURNAL OF ADVANCEMENTS IN COMPUTIN,2,1,78-85
+2. norita binti md norwawi,RESERVOIRWATER LEVEL FORECASTING MODEL USING NEURAL NETWORK,International
+Journal of Computational Intelligence Research (IJCIR),6,4,pp94--952
+3. norita binti md norwawi,INTELLIGENT DNA SIGNATURE DETECTION FOR SCANNING INTERNET WORM,International
+Journal of Secure Digital Informat,2,1,1-1
+4. Ala Janaby, Ku Ruhana Ku Mahamud, Norita Md Norwawi,Interacted Multiple Ant Colonies To Enhance The
+Performance Of Ant Colony Optimization Algorithms,Journal of Computer and Information Science (CIS),3,1,29-34
+5. norita binti md norwawi,SERVER SCANNING WORM DETECTION BY USING INTELLIGENT FAILURE CONNECTION
+ALGORITHM,Research Journal of Information Technology USA,,2,4,228-234
+6. norita binti md norwawi,AN INVESTIGATION INTO INFLUENCE FACTOR OF STUDENT PROGRAMMING GRADE USING
+ASSOCIATION RULE MINING.,Journal Advances in Information Sciences and Serv,2,2,19-27
+7. norita binti md norwawi,INTEGRATED COMPUTER FORENSIC INVESTIGATION MODEL BASED ON MALAYSIAN.
+STANDARDS. VOL 3. ISS 2. PP108 - 199,International Journal of Electronic Security and D,3,2,108-199
+8. norita binti md norwawi,RAMEPS: A GOAL ONTOLOGY APPROACH TO ANALYSE THE REUIREMENTS FOR DATA
+WAREHOUSE SYSTEMS,WSEAS Transactions on Information Science and Appl,7,2,295-309
+2009
+1. Muhammad M. Rasheed, Norita Md Norwawi, Osman Ghazali, and Mohammed M. Kadhum,Intelligent Failure
+Connection Algorithm for Detection Internet Worms,International Journal on Computer Science and Network SecuritY,
+IJCSNS,9,,280-285
+2. Norliza Katuk, Ku Ruhana Ku Mahamud, Norita Md Norwawi, Safaai Deris,Web-based Support System for Flood
+Response Operations in Malaysia.,International Journal on Disaster Prevention and Management,8,3,327-337
+3. norita binti md norwawi,A TRAFFIC SIGNATURE-BASED ALGORITHM FOR DETECTING SCANNING INTERNET
+WORMS,,International Journal of Communication and Networ,2,3,24-30
+2008
+1. Alaa E. Aljanaby, Ku Ruhana Ku Mahamud and Norita Md. Norwawi,Optimizing large scale problems using multiple
+ant colonies Algorithm based on pheromone evaluation technique,International Journal of Computer Science and
+Network Security, IJCSNS,,8,10,54-58
+2. Ku Ruhana Ku Mahamud, Norita Md Norwawi, Norliza Katuk, Safaai Deris,Autonomous Notification and Situation
+Reporting for Flood Disaster Management,Journal of Computer and Information Science,1,,20-26
+3. Jamiah Osman, Norita Md Norwawi,Integrated Model For Organizational Transformation In Business Process
+Reengineering,Journal of ICT, UUM,6,,41-50
+2007
+1. Ku Ruhana Ku Mahamud, Norita Md Norwawi, Norliza Katuk, Safaai Deris,Agent based Mobile Flood Notification
+System,Journal of Institute of Mathematics & Computer Science(Computer Science Series),18,,103-110
+2005
+1. Norita Md Norwawi, Ku Ruhana Ku Mahamud, Safaai Deris.(,Recognition Primed Decision-Making Model Using
+Temporal Data Mining Technique,Journal of Information and Communication Technology.,4,,37-45
+1997
+1. Ku Ruhana Ku Mahamud Nafishah Othman, Norita Md Norwawi,,Current practices in information systems
+development tools and techniques,Malaysian Journal of Computer Science,10,1,27-35
+PUBLICATION - PROCEEDING
+2023
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Features Extraction Technique Analysis
+of EEG Signal for Motor Imagery
+Classification
+2023 IEEE International
+Conference on Artificial
+Intelligence in Engineering and
+Technology (IICAIET)
+Faculty of
+Engineering,
+Universiti Malaysia
+Sabah (UMS)
+INTERNATIONA
+L
+2022
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Muslim Centered User Interface Design
+(MCUID) Framework and MCUID
+Prototype
+Proceedings of International
+Conference on Research in
+Education and Science, 2022
+International Society
+for Technology,
+Education and
+Science (ISTES)
+INTERNATIONA
+L
+2020
+No
+Title
+Conference Name
+Organizer
+Level
+1
+UNLEASH THE POWER OF BIG DATA
+THROUGH COVID19
+Seminar Antarabangsa Sains dan
+Islam 2020 (SAIS 2020)
+Persatuan Kakitangan
+Akademik USIM
+(PKAUSIM), Universiti
+Sains Islam Malaysia
+(USIM)
+INTERNATIONA
+L
+2
+Intelligent Attendance System with
+Face Recognition using the Deep
+Convolutional Neural Network Method
+Journal of Physics: Conference
+Series - 3rd International
+Conference on Electrical,
+Electronics, Informatics, and
+Vocational Education
+IOP Publishing
+NATIONAL
+2019
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Inquiry-Based Learning Model Based on
+Hamzah Istifham Quranic Query Verses
+International Conference on
+Universal Well-being
+Persatuan Saintis
+Muslim Malaysia
+(PERINTIS)
+INTERNATIONA
+L
+2
+Multi-Lingual Content Management
+System for Prophetic Food
+7th International Conference on
+Islamic Applications in Computer
+Science And Technology, 27-28
+Dec 2019
+IIUM
+INTERNATIONA
+L
+3
+SEMANTIC QUERY DYNAMISM FOR
+CROSS LINGUAL INFORMATION
+RETRIEVAL WITH MULTILINGUAL
+CONTENT
+International Conference on
+Universal Well being
+Persatuan Saintis
+Muslim Malaysia
+(PERINTIS)
+INTERNATIONA
+L
+4
+AN EARLY WARNING SYSTEM FOR
+RESERVOIR WATER RELEASE
+OPERATION USING AGENT BASED
+NEGATIVE SELECTION MODEL
+International-Conference-on-Infor
+mation-Systems-Security-ICoISS
+Faculty of Science
+and Technology,
+USIM
+INTERNATIONA
+L
+5
+Unbelievers’ Mental Model And
+Behavioral Disorders: A-Research-
+Based Model Of Quranic’s Question In
+The Al-Baqarah Chapter
+6th International Conference on
+Quran As Prophetic Tradition on
+Civilisation (SWAT2019)
+FPQS, USIM
+INTERNATIONA
+L
+2018
+No
+Title
+Conference Name
+Organizer
+Level
+1
+eTashih”Hadith Correctness Verification
+Tool.
+AL-Fursan Prophetic Science
+International Conference
+NRGS and ISI
+INTERNATIONA
+L
+2
+Aplikasi NAISSE Apps : Repositori
+Bersepadu Makanan Sunnah.
+Seminar Serantau Institut
+Pengajian Tinggi Islam.
+FKP
+INTERNATIONA
+L
+3
+A Multi Lingual Knowledge Repository
+Architecture on Propehtic Food
+Al-Fursan Prophetic Science
+International Conference
+NRGS and Islamic
+Science Institute
+INTERNATIONA
+L
+4
+A PRELIMINARY STUDY ON AUTOMATED
+SCREENING TOOLS TOWARDS
+LEARNING DISABILITIES
+3rd International Conference on
+ICT in Education (ICTE 2018)
+UPSI
+INTERNATIONA
+L
+5
+A SURVEY OF AUTOMATIC LIP READING
+APPROACHES
+ICRST (2018) VIth International
+Conference on Researches in
+Science & Technology
+World Association for
+Scientific Research
+and Technical
+Innovation
+INTERNATIONA
+L
+6
+APROACH OF DETECTING THE MOTION
+OF THE HUMAN LIPS IN THE VIDEO
+STREAM
+ICRST (2018) VIth International
+Conference on Researches in
+Science & Technology, 05-06 May
+2018,
+World Association for
+Scientific Research
+and Technical
+Innovation
+INTERNATIONA
+L
+7
+Generating Arabic stop word for Hadith
+Postgraduate Seminar Faculty of
+Science and Technology 2018
+(KoSiST’18)
+FST
+UNIVERSITY
+2017
+No
+Title
+Conference Name
+Organizer
+Level
+1
+STORAGE OPTIMIZATION FOR DIGITAL
+QURAN USING SPARSE MATRIX WITH
+HEXADECIMAL REPRESENTATION
+6th International Conference on
+Computing and Informatics, ICOCI
+2017
+UUM
+INTERNATIONA
+L
+2
+Interconnected Knowledge Repository
+With Seamless Content Management
+System for Heterogeneous Multi lingual
+Resources
+FEIIC-International Conference on
+Engineering Education and
+Research 2017
+FEEIC
+INTERNATIONA
+L
+3
+Handling Words Duplication and
+Memory Management for Digital Quran
+Based On Hexadecimal Representation
+and Sparse Matrix (DQM)
+1st International Conference on
+Information Systems & Security
+(ICoISS2017)
+USIM
+INTERNATIONA
+L
+4
+QUERY COST-REDUCTION FOR
+QURANIC-ARABIC INFORMATION
+RETRIEVAL USING HEXADECIMAL
+CONVERSION ALGORITHM
+PROCEEDINGS OF THE 6TH
+INTERNATIONAL CONFERENCE
+ON COMPUTING AND
+INFORMATICS: EMBRACING ECO-
+FRIENDLY COMPUTING
+UUM
+INTERNATIONA
+L
+2016
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Application of OASys approaches for
+Dates Ontology
+Third International Conference on
+Information Retrieval and
+Knowledge Management
+(CAMP’16
+UKM
+INTERNATIONA
+L
+2
+Quranic Cross-Lingual Information
+Retrieval Optimization Using
+Hexadecimal Conversion Algorithm
+Postgraduate Seminar Fst 2016,
+KOSIST’16
+Faculty of Science
+and Technology
+UNIVERSITY
+2015
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Investigating the Spatial Relationship
+between the Upstream Gauging
+Stations and the Reservoir
+International Conference on
+Innovation and Information
+Management (ICIIM 2015)
+2
+Wireless landmines tracking system
+based on GPS and GPRS
+6th International Conference of
+Soft Computing and Pattern
+Recognition (SoCPaR), 2014
+IEEE, MIRLABS
+INTERNATIONA
+L
+3
+Intelligent examination timetabling
+system using hybrid intelligent water
+drops algorithm
+5th International Conference on
+Computing and Informatics
+UUM & Istanbul Zaim
+University
+INTERNATIONA
+L
+4
+Unicode Representation Using
+Hexadecimal Representation
+FEIIf International Conference on
+Engineering Education and
+Research (FICEER 2015)
+Federation of
+Engineering
+Institution of Islamic
+C
+INTERNATIONA
+L
+5
+Internet of Things (IoT) digital forensic
+investigation model: Top-down forensic
+approach methodology
+Fifth International Conference on
+Digital Information Processing
+and Communications (ICDIPC)
+The Society of Digital
+Information and
+Wireless Co
+INTERNATIONA
+L
+2014
+No
+Title
+Conference Name
+Organizer
+Level
+1
+User Oriented Privacy Model for Social
+Networks
+International Conference on
+Innovation, Management and
+Technology Research.
+2
+Pattern Discovery Using K-Means
+Algorithm
+IEEE World Congress on
+Computer Applications and
+Information Systems (WCCAIS),
+INTERNATIONA
+L
+3
+Pattern Discovery Using K-Means
+Algorithm
+IEEE World Congress on
+Computer Applications and
+Information System (WCCAIS)
+2014
+INTERNATIONA
+L
+4
+The Challenges Of Handling Proverbs In
+Malay-English Machine Translation
+International Conference on
+Translation
+INTERNATIONA
+L
+5
+Intelligent Water Drops Algorithm For
+International Parallel Conferences
+INTERNATIONA
+University Examination Timetabling
+on Researches in Industrial and
+Applied Sciences (IARIAs) 2014
+L
+6
+The Challenges in Adopting Information
+Security Management System for
+University Hospitals in Malaysia.
+Knowledge Management
+International Conference and
+Exhibition 2014
+INTERNATIONA
+L
+7
+Solving University Examination
+Timetabling Problem Using Intelligent
+Water Drops Algorithm
+5th International Conference,
+SEMCCO 2014, Bhubaneswar,
+India
+CMR Group of
+Institutions
+INTERNATIONA
+L
+8
+The Privacy within Contextual and the
+Effect to Social Network Trust and
+Confidentiality .
+5th International Conference
+Modern problem of Applied
+Mathematics and IT-Al-Khorezmiy
+2014
+INTERNATIONA
+L
+9
+Artificial Bee Colony Based Fuzzy
+Clustering Algorithms for MRI Image
+Segmentation
+Proc. of the International
+Conference on Advances in
+Computer Science and
+Electronics Engineering (CSEE
+2014)
+INTERNATIONA
+L
+10
+Modelling of Reservoir Water Release
+Decision Using Neural Network and
+Temporal Pattern of Reservoir Water
+Leve
+5th International Conference on
+Intelligent Systems, Modelling
+and Simulation, ISMS2014.
+INTERNATIONA
+L
+11
+Extending V-model practices to support
+Software Requirements Engineering to
+build Secure Web Application
+International Conference on
+Advanced Computer Science and
+Information Systems (ICACSIS
+2014)
+INTERNATIONA
+L
+12
+The privacy within Contextual and the
+Effect to Social network Trust and
+confidentiality
+The 5th International Conference
+Modern problem of Applied
+Mathematics and IT-Al-Khorezmiy
+National University of
+Uzbekistan
+INTERNATIONA
+L
+13
+Secure Data Retrieval Technique From
+Restricted Database Access
+Malaysian National Conference of
+Databases 2014 (MaNCoD 2014).
+NATIONAL
+14
+A Secure V-Model for Security
+Requirements Elicitation
+FST Postgraduate Colloquim
+UNIVERSITY
+15
+State of the Art of Information Retrieval
+for Semantic Search Techniques and
+Cross Language Approach
+FST Postgraduate Colloquim
+UNIVERSITY
+2013
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Statistical Analysis on LBlock Block
+Cipher
+International Conference on
+Mathematical Sciences and
+Statistics 2013 (ICMSS2013).
+INTERNATIONA
+L
+2
+Appreciative Inquiry In Eliciting
+Software Requirements
+2nd International Conference on
+Computer and Software
+Engineering (ICCSE 13)I. Penang
+INTERNATIONA
+L
+3
+Proverb Treatment in Malay-English
+Machine Translation
+International Conference on
+Machine Learning and Computer
+Science (IMLCS 2013)
+Planetary Scientific
+Research Centre
+INTERNATIONA
+L
+4
+Legacy of Muslim Researcher in
+Science and Technology
+3rd Global Conference for
+Academic Research on Scientific
+and Emerging
+Technologies(CGARSET)
+Global Conference for
+Academic Research
+on Scient
+INTERNATIONA
+L
+2012
+No
+Title
+Conference Name
+Organizer
+Level
+1
+IMPROVEMENT ON AGGLOMERATIVE
+HIERARCHICAL CLUSTERING
+ALGORITHM BASED ON TREE DATA
+STRUCTURE WITH BIDIRECTIONAL
+APPROACH.
+INTERNATIONAL SIMULATION
+AND MATHEMATIC SYMPOSIUM
+(ISMS2012).
+2
+Malay Proverb
+Detection;Implementation on Mobile
+Environment.
+1st International Conference on
+Mobile Learning, Applications,
+and Services (mobilcase2012).
+UTEM, MOHE, AKEPT,
+MEIPTA
+INTERNATIONA
+L
+3
+Security Metrics To Improve Misuse
+Case Model.
+International Conference on
+Cyber Security, Cyber Warfare
+and Digital Forensic 2012
+(CyberSec12).
+UPM, IEEE Computer
+Society of Malaysia
+INTERNATIONA
+L
+4
+Nobel digital Social Network Based on
+User Oriented Privacy Model
+IslamTag
+Seminar Creativity and
+Innovation, USIM.
+NATIONAL
+5
+ﺍﻟﺒﺨﺎﺭﻳﻨﻤﻮﺫﺟﺎ ﻣﺤﺮﻛﺎﺕ ﺍﻟﺒﺤﺚ ﺍﻟﺪﻻﻟﻴﺔ ﺍﻟﻊThird Prophetic Heritage Seminar
+(SWAN)
+USIM
+NATIONAL
+6
+ﺍﻟﺸﻴﺦ ﻣﺤﻤﺪ ﻓؤﺍﺩ ﻋﺒﺪ ﺍﻟﺒﺎﻗﻲ ﺭﺣﻤﻪ ﺍﷲ ﻭﺻﻨﺎﻉ3rd Propehtic Heritage Seminar
+(SWAN 2012)
+USIM
+NATIONAL
+2011
+No
+Title
+Conference Name
+Organizer
+Level
+1
+IMPROVED EXTREME PROGRAMMING
+METHODOLOGY WITH INBUILT
+SECURITY
+IEEE SYMPOSIUM ON COMPUTER
+AND MATHEMATICS (ISCI 2011)
+Universiti Teknologi
+MARA, Shah Alam. ,
+IEEE Compu
+INTERNATIONA
+L
+2
+RESERVOIR WATER RELEASE DECISION
+MODELLING
+INTERNATIONAL CONFERENCE
+ON COMPUTING AND
+INFORMATICS 2011 (ICOCI 2011).
+Universiti Utara
+Malaysia, Universiti
+Komputer Ind
+INTERNATIONA
+L
+3
+IMPROVEMENT IN DIGITAL FORENSIC
+STANDARD OPERATING PROCEDURE
+(SOP)
+INTERNATIONAL CONFERENCE
+ON COMPUTING AND
+INFORMATICS 2011 (ICOCI 2011).
+Universiti Utara
+Malaysia, Universiti
+Komputer Ind
+INTERNATIONA
+L
+4
+SECURING THE APPLICATION LAYER IN
+ECOMMERCE
+2ND INTERNATIONAL
+CONFERENCE ON ADVANCED
+SCIENCE, ENGINEERING AND
+INFORMATION TECHNOLOGY
+(2ND ICASEIT).
+Indonesian Students
+Association Universiti
+Kebangs
+INTERNATIONA
+L
+5
+ETL PROCESSES SPECIFICATIONS
+GENERATION THROUGH GOAL-
+ONTOLOGY APPROACH.
+INTERNATIONAL CONFERENCE
+ON COMPUTING AND
+INFORMATICS 2011 (ICOCI2011).
+Universiti Utara
+Malaysia, Universiti
+Komputer Ind
+INTERNATIONA
+L
+6
+ARTIFICIAL IMMUNE SYSTEM MODEL
+BASED ON INTELLIGENT AGENT
+APPROACH. BANDUNG.
+INTERNATIONAL CONFERENCE
+ON COMPUTING AND
+INFORMATICS 2011 (ICOCI2011).
+Universiti Utara
+Malaysia, Universiti
+Komputer Ind
+INTERNATIONA
+L
+7
+HYBRID OF ROUGH SET THEORY AND
+ARTIFICIAL IMMUNE RECOGNITION
+SYSTEM AS A SOLUTION TO DECREASE
+FALSE ALARM RATE IN INTRUSION
+DETECTION SYSTEM.
+7TH INTERNATIONAL
+CONFERENCE IN INFORMATION
+ASSURANCE AND SECURITY.
+INTERNATIONA
+L
+8
+INTELLIGENT DECISION SUPPORT
+MODEL BASED ON NEURAL NETWORK
+TO SUPPORT RESERVOIR WATER
+RELEASE DECISION.
+2ND INTERNATIONAL
+CONFERENCE ON SOFTWARE
+ENGINEERING AND COMPUTER
+SYSTEMS.
+Universiti Malaysia
+Pahang
+INTERNATIONA
+L
+2010
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Visualization of Temporal Data for
+Decision Making
+International Soft Science
+Conference (ISSE09)
+INTERNATIONA
+L
+2
+INTERNET WORM SIMULATOR
+INTERNATIONAL CONFERENCE
+ON INTELLIGENT NETWORK AND
+COMPUTING
+www.iacsit.org
+INTERNATIONA
+L
+3
+CONCEPTUAL FRAMEWORK FOR
+INTELLIGENT DECISION SUPPORT
+SYSTEM IN EMERGENCY MANAGEMENT.
+INTERNATIONAL CONFERENCE
+ON ARTS, SOCIAL SCIENCES &
+TECHNOLOGY (ICAST),
+UITM Kedah
+INTERNATIONA
+L
+4
+THE DEVELOPMENT OF HASH INDEXING
+TECHNIQUE IN CASE RETRIEVAL.
+INTERNATIONAL SYMPOSIUM ON
+INFORMATION TECHNOLOGY
+2010 (ITSIM2010)
+Universiti Teknologi
+Petronas, UKM
+INTERNATIONA
+L
+5
+SYSTEMATIC ORGANIZATION OF MULTI
+CRITERIA FOR EFFECTIVE TENDER
+EVALUATION USING BALANCE
+SCORECARD APPROACH.
+KNOWLEDGE MANAGEMENT
+INTERNATIONAL CONFERENCE
+AND EXHIBITION (KMICE2010)
+UUM
+INTERNATIONA
+L
+6
+MINING THE STUDENT PROGRAMMING
+PERFORMANCE USING ROUGH SET
+3RD INTERNATIONAL
+CONFERENCE ON INTELLIGENT
+SYSTEM & KNOWLEDGE
+ENGINEERING
+IEEE, Zhejiang
+University, Ningbo
+Institute of Tec
+INTERNATIONA
+L
+7
+IMPLEMENTATION OF INFORMATION
+VISUALIZATION IN RESERVOIR
+APPLICATION
+SECOND INTERNATIONAL
+CONFERENCE ON
+COMPUTATIONAL INTELLIGENCE,
+MODELLING AND SIMULATION
+UK Simulation Society
+and Asia Modelling
+and Simul
+INTERNATIONA
+L
+8
+AN EXPLORATION TECHNIQUE FOR THE
+INTERACTED MULTIPLE ANT COLONIES
+FRAMEWORK
+INTERNATIONAL CONFERENCE
+ON INTELLIGENT SYSTEMS,
+MODELLING, AND SIMULATION
+(ISMS2010)
+UK Simulation Society
+- Asia Modelling a
+INTERNATIONA
+L
+9
+PREDICTIVE MODELING ON TELEKOM
+MALAYSIA BERHAD DIRECT EXCHANGE
+LINE GROWTH
+CIMSIM 2010 : SECOND
+INTERNATIONAL CONFERENCE
+ON COMPUTATIONAL
+INTELLIGENCE, MODELLING AND
+SIMULATION
+UK Simulation Society
+and Asia Modelling
+and Simul
+INTERNATIONA
+L
+10
+REVISITING THE PHEROMONE
+EVALUATION MECHANISM IN THE
+INTERACTED MULTIPLE ANT COLONIES
+OPTIMIZATION FRAMEWORK.
+INTERNATIONAL CONFERENCE
+ON ARTIFICIAL INTELLIGENCE
+AND APPLICATIONS (AIA2010), .
+The Intnl.l Association
+of Science and
+Technology
+INTERNATIONA
+L
+11
+ZAWIYATUL SIBER : REMAJA IT @
+MASJID.
+SEMINAR WARISAN NABI (SWAN
+2010), USIM
+Fakulti Pengajian
+Quran dan Sunnah
+NATIONAL
+2009
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Extraction-Transformation-Loading
+(ETL) Processes Design Using Goal-
+Ontology Based Approach
+3rd International Conference on
+Internet Technologies and
+Applications, ITA 09
+2
+Feature Extraction Algorithms for
+Online Signature Recognition
+Conference on Scientific & Social
+Research (CSSR0809)
+INTERNATIONA
+L
+3
+Stagnation Control Using Interacted
+Multiple Ant Colonies
+International Conference on
+Computing and Informatics
+(ICOCI09)
+INTERNATIONA
+L
+4
+Intelligent Anti-Internet Worm
+Automatically Detect and Updates
+International Conference on
+Security and Management
+INTERNATIONA
+L
+Signature Server
+(SAM09).
+5
+A New Generation For Intelligent Anti-
+Internet Worm Early System Detection
+2nd International Conference on
+Computing and Informatics
+(ICOCI09)
+INTERNATIONA
+L
+6
+Pattern Extraction for Programming
+Performance Evaluation Using Directed
+Apriori
+International Conference on
+Computing and Informatics
+(ICOCI09)
+INTERNATIONA
+L
+7
+Successful IT Technical Framework for
+E-Governance Based on Malaysian
+Case Study. (Ed) J. Bhattacharya.
+Towards Next Generation E-
+Government
+5th International Conference on E-
+Governance.
+INTERNATIONA
+L
+8
+Classification of students'' performance
+in computer programming course
+according to learning style
+2nd Conference on Data Mining
+and Optimization, DMO 2009
+INTERNATIONA
+L
+9
+IDENTIFYING STUDENT AND
+ORGANIZATION MATCHING PATTERN
+USING APRIORI ALGORITHM FOR
+PRACTICUM PLACEMENT.
+INTERNATIONAL CONFERENCE
+ON ELECTRICAL ENGINEERING
+AND INFORMATICS
+INTERNATIONA
+L
+10
+RAMEPS: A Requirements Analysis
+Method For Extracting-Transformation-
+Loading (ETL) Processes In Data
+Warehouse Systems
+3rd International Conference on
+Communications and Information
+Technology, CIT''''09
+INTERNATIONA
+L
+11
+Zawiyatul Siber: Teknologi Maklumat
+dan Komunikasi dalam Pengimarahan
+Masjid
+Seminar Pengurusan Masjid
+Pringkat ASEAN
+NATIONAL
+2008
+No
+Title
+Conference Name
+Organizer
+Level
+1
+A review of feature selection
+techniques via gene expression
+profiles.
+IEEE International Symposium on
+Information Technology 2008
+(ITSIM2008)
+2
+Resolving Ambiguity/Uncertainty In
+Fact Extraction
+21st CODATA International
+Conference, Kyiv, Ukraine.
+INTERNATIONA
+L
+3
+Intelligent Knowledge Mining
+Framework
+3rd Brunei International
+Conference on Engineering &
+Technology (BICET2008)
+INTERNATIONA
+L
+4
+Metaphor Based Visualization for
+Temporal Data
+3rd Brunei International
+Conference on Engineering &
+Technology (BICET2008).
+INTERNATIONA
+L
+5
+The Success Transmission Model from
+Governance to E-Governance
+6th International Conference of E-
+governance (ICEG2008, New
+Delhi
+INTERNATIONA
+L
+6
+A New Multiple Ant Colonies
+Optimization Algorithm Utilizing
+Average Pheromone Evaluation
+Mechanism
+Knowledge Management
+International Conference,
+KMICe08
+INTERNATIONA
+L
+7
+Data Mining Analysis On The Influence
+Of Learning Style Towards Students
+Performance In Programming Course
+2nd International Conference on
+Science and Technology (ICSTIE
+2008)
+INTERNATIONA
+L
+8
+Mobile Case-Based Reasoning for
+Reservoir Gate Operation Decision
+Recommendation
+IEEE International Conference on
+Information and Communication
+Technology (ICTTA) 2008,
+Damscus, Syria.
+INTERNATIONA
+L
+9
+pSPADE : Mining sequential pattern
+using personalized support threshold
+value.
+IEEE International Symposium on
+Information Technology 2008
+(ITSIM2008)
+INTERNATIONA
+L
+10
+Jumpstart On Digital Forensic
+Investigation Focusing into Mobile PDA
+National Conference on
+Information Retrieval and
+Knowledge Management
+(CAMP08)
+NATIONAL
+11
+Ontology-Based Extraction-
+Transformation-Loading (ETL)
+Processes Model in Data Warehouse
+Environments.
+National Conference on
+Information Retrieval and
+Knowledge Management
+(CAMP08)
+NATIONAL
+12
+Useful Visualization Based on User
+Centered Design for Viewing Temporal
+Data
+4th International Conference on
+Information Technology and
+Multimedia (ICIMU2008)
+STATE
+2007
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Web based Flood Response Systems: A
+Case Study
+International Conference on Rural
+Information and Communication
+Technology,
+INTERNATIONA
+L
+2
+Mobile Notification Systems for Flood
+Operation Management
+International Conference on
+Mathematics and Computer
+Science.
+INTERNATIONA
+L
+3
+Autonomous Information System Model
+for Flood Management
+Conference on Infromation
+Management and Internet
+Research. (CIMIR2007).
+INTERNATIONA
+L
+4
+Integrated Reporting Scheme for Web
+based Flood Response System
+International Conference on Rural
+Information and Communication
+Technology
+INTERNATIONA
+L
+5
+Classification of Students Performance
+in Programming Course Using Decision
+Tree
+5th International Conference on
+Information Technology in Asia
+2007 (CITA07): Social Computing:
+Engaging Communities.
+INTERNATIONA
+L
+6
+Temporal Web Usage Mining:
+Understanding Visitors Access
+Behavior in Navigating Information
+from Academic Website
+SCORED 2007 : The Way Foward
+in the Context of Globalization :
+Issues, Challengers and
+Strategies for RnD
+INTERNATIONA
+L
+7
+Function Replacing Hybrid Intelligent
+Classifier Design Experiments on a
+Paddy Diseases Dataset
+Seminar Kebangsaan Aplikasi
+Sains dan Matematik 2007,
+SKASM2007
+NATIONAL
+2006
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Sliding Window as a Segmentation
+Technique for Temporal Data
+Preprocessing.
+Regional Computer Science
+PostGraduate Colloquim, 2006
+INTERNATIONA
+L
+2
+Web based Support System for Flood
+Response Operation
+2006 IEEE/WIC/ACM International
+Conference on Web Intelligence
+and Intelligent Agent Technology.
+INTERNATIONA
+L
+3
+Temporal Case-Based Reasoning for
+Reservoir Spillway Gate Operation
+Recommendation
+the IEEE International Conference
+in Computing and Informatics
+(ICOCI06)
+INTERNATIONA
+L
+4
+Finding the Shortest Path of Kota
+Kinabalu Central Town using Ant
+Colony System.
+3rd International Conference on
+Artificial Intelligence in
+Engineering and Technology
+(ICAET 2006).
+INTERNATIONA
+L
+2005
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Factors Affecting Performance in
+Introductory Programming.
+International Conference on
+Quantitative Science and Its
+Application (ICOQSIA2005)
+2
+On Ant Colony Optimization and Its new
+Directions
+International Arab Conference on
+Information Technology
+(ACIT2005).
+INTERNATIONA
+L
+3
+Knowledge Acquisition and
+Disemmination for Emergency Situation
+9th International Conference on
+Global Business & Economic
+Development
+INTERNATIONA
+L
+4
+The Design Of Affective Recognition
+System Using Incremental Supervised
+Learning Algorithm
+Seminar Kebangsaan Sains
+Matematik. Universiti Utara
+Malaysia
+INTERNATIONA
+L
+5
+Dynamic Agent Role Assignment and
+Dual Communication Mode in an
+Uncertain Situation.
+8th Pacific Rim International
+Workshop on Multiagents
+(PRIMA05)
+INTERNATIONA
+L
+6
+Decision Recommendation based on
+Predictive Model Generated by
+Temporal Data Mining technique
+International Conference in
+Operations Research Applications
+in Infrastructure Development
+(ICORAID-2005-ORSI)
+INTERNATIONA
+L
+2004
+No
+Title
+Conference Name
+Organizer
+Level
+1
+Ledakan Arus Teknologi Maklumat dan
+Pembangunan Mahasiswa.
+Muzakarah Pembangunan
+Mahasiswa Pusat Islam, UUM
+Universiti Utara
+Malaysia
+2
+Generation of Explicit Knowledge from
+Temporal Data
+2nd Knowledge Management
+International Conference and
+Exhibition
+INTERNATIONA
+L
+3
+Affective Computing: Knowing How We
+Feel?
+National Seminar of Science
+Technology and Social Science
+NATIONAL
+4
+Bolehkah Komputer Mengenalpasti
+Emosi Pengguna?
+Seminar Kebangsaan Sosio-
+Ekonomi dan IT ke 2 (SEIT2)
+NATIONAL
+5
+Pendekatan Teknologi Agen Pintar
+Dalam Pengurusan Rangkaian
+Pembekal Atas Talian
+Seminar Kebangsaan Sosio-
+Ekonomi dan IT ke 2 (SEIT2)
+NATIONAL
+PUBLICATION - ARTICLE
+2021
+No
+Title
+Article Name
+Organizer
+Level
+1
+Iman Tunjang Amalan Baik Laksana
+Iman Tunjang Amalan Baik
+Berita Harian
+NATIONAL
+Amanah Organisasi
+Laksana Amanah Organisasi
+2019
+No
+Title
+Article Name
+Organizer
+Level
+1
+Adab Dan Nilai Murni Sejagat Asas
+Budaya Beri
+Kampus UOLS
+Sinar Harian
+NATIONAL
+2016
+No
+Title
+Article Name
+Organizer
+Level
+1
+UMAT ISLAM MENOLAK SAINS?
+Rencana
+Utusan Malaysia
+NATIONAL
+2011
+No
+Title
+Article Name
+Organizer
+Level
+1
+DIMANA DIA DI HATI KITA ?
+Inspirasi (Refleksi)
+www.iluvislam.com
+OTHERS
+2
+RAHSIA MENDAPAT ANAK SOLEH
+Ruangan Keluarga
+www.iluvislam.com
+OTHERS
+3
+MANISNYA PERJUANGAN DALAM
+KEGETIRAN
+Ruangan Tazkirah
+www.iluvislam.com
+OTHERS
+2010
+No
+Title
+Article Name
+Organizer
+Level
+1
+MERAIH KASIH ALLAH
+Tazkirah
+www.iluvislam.com
+INTERNATIONA
+L
+ACADEMIC RECOGNITION
+INTERNAL / EXTERNAL EXAMINER
+No
+Level (Master
+/ PHD)
+Type of Examiner
+Title
+Level
+Viva
+Date
+1
+Master
+Research (Only)
+Neural Network Algorithm Variants For
+Malaysian Weather Prediction
+UNIVERSITY
+01/01/20
+14
+2
+Master
+Research (Only)
+Multivariate Analysis and Modeling for Project
+Management
+UNIVERSITY
+01/03/20
+16
+3
+Research (Mixed
+Mode)
+Correlation Coefficient And Min-Max
+Normalization Weighting Method For
+Enhanced Missing Values Imputation
+NATIONAL
+01/08/20
+23
+4
+Course Work Mode
+Enhanced Cover-Selection-Based Audio
+Steganography (EnCAS) Algorithm using Feed-
+Forward Neural Network (FFNN) for Efficient
+Performance
+UNIVERSITY
+01/12/20
+23
+5
+Research (Mixed
+Mode)
+CROSS-DOCUMENT COREFERENCE
+RESOLUTION BASED ON DISTRIBUTED ENTITY
+REPRESENTATION
+NATIONAL
+03/09/20
+20
+6
+PHD
+Research (Mixed
+Mode)
+Affective Decision-Making Engine for Solving
+Complex Problems in Computer Games
+UNIVERSITY
+03/10/20
+18
+7
+Research (Mixed
+Mode)
+Selective Thermal and Visible Image Fusion
+for Illumination Invariant Ear Recognition
+NATIONAL
+04/08/20
+20
+8
+Research (Mixed
+Mode)
+Collaborrative Learning
+NATIONAL
+05/04/20
+18
+9
+Master
+Research (Only)
+Performance of Digit Speech in Crowded
+Environment
+05/09/20
+07
+10
+Research (Mixed
+Mode)
+CASE TYPE PREDICTION AND MITIGATION OF
+READER’S COMPLEXITY IN THE LEGAL
+DOMAIN USING DEEP LEARNING TECHNIQUES
+INTERNATIONA
+L
+06/02/20
+23
+11
+Research (Mixed
+Mode)
+A Cooperative Multi-Agent Intrusion Detection
+Using Reinforcement Learning
+UNIVERSITY
+06/09/20
+22
+12
+Research (Mixed
+Mode)
+ENHANCED ARTIFICIAL BEE COLONY
+ALGORITHM FOR VEHICLE ROUTING PROBLEM
+WITH TIME WINDOWS
+UNIVERSITY
+07/06/20
+22
+13
+Research (Mixed
+Mode)
+DEEP LEARNING MODEL FOR SEA STATE
+CLASSIFICATION USING VISUAL-RANGE SEA
+STATE IMAGES
+NATIONAL
+07/06/20
+23
+14
+Master
+Research (Only)
+Secure Coding Awareness Learning Tool
+09/05/20
+14
+15
+Research (Mixed
+Mode)
+NDEXING AND RETRIEVAL APPROACH OF
+MALAY TRANSLATED HADITH DOCUMENT
+BASED ON SANAD
+NATIONAL
+10/05/20
+23
+16
+Research (Mixed
+Mode)
+Exercise Games Rehabilitation Assessment
+(EGRA) Ontolgy Development with Horn
+Clause
+UNIVERSITY
+10/10/20
+23
+17
+Research (Mixed
+Mode)
+Model Konstektual Pneyaringan Kolaboratif
+Untuk Sistem Pencadang Berasaskan
+Sentimen
+NATIONAL
+10/12/20
+20
+18
+Research (Mixed
+Mode)
+Rainy Streaks Detection
+UNIVERSITY
+11/12/20
+17
+19
+PHD
+Research (Mixed
+Mode)
+Affective Decision-Making Engine for Solving
+Complex Problems in Computer Games
+UNIVERSITY
+12/10/20
+18
+20
+Master
+Course Work Mode
+CYBERSECURITY MATURITY MODEL FOR
+AIRPORTS IN MALAYSIA
+UNIVERSITY
+12/10/20
+23
+21
+PHD
+Research (Only)
+Zulkifli bin Husin
+12/11/20
+14
+22
+Research (Mixed
+Mode)
+Prediction of Harumanis Mango Flowering
+Using Biotic and Abiotic factors Through
+Machine Learning Approach
+NATIONAL
+14/03/20
+18
+23
+Course Work Mode
+Emotion Recognition
+NATIONAL
+14/09/20
+17
+24
+Research (Mixed
+Mode)
+Real Time Ubiquitous Flood Monitoring
+System Using Mobile DAQ Based on Multiple
+Nature Inputs Data
+UNIVERSITY
+14/12/20
+18
+25
+PHD
+Research (Only)
+Ahmed Majid Taha
+15/04/20
+14
+26
+Research (Mixed
+Mode)
+A Selection Decision Matrix For Grant
+Research Assistant In Engineering and
+Information Technology Fields Using Multi-
+Criteria
+NATIONAL
+15/05/20
+19
+27
+Master
+Research (Only)
+Reducing The Search Space and Time
+Compelxity of Needleman-Wunsch Algorithm
+16/03/20
+10
+28
+Research (Mixed
+Mode)
+Natural Images Delinenation
+NATIONAL
+16/10/20
+17
+29
+Research (Mixed
+Mode)
+MULTIVARIATE TIME SERIES CRUDE PALM OIL
+PRICE FORECASTING USING LONG SHORT
+TERM MEMORY APPROACH
+NATIONAL
+17/09/20
+20
+30
+Research (Mixed
+Mode)
+Framework Utilizing Systems Engineering and
+Advanced Technologies to Resolve Skills
+Mismatch in The United Arab Emirate
+NATIONAL
+17/09/20
+21
+31
+PHD
+Research (Only)
+Almahdi Mohammed Almahdi Ahmed
+17/10/20
+12
+32
+Master
+Research (Only)
+Dynamic Clustering of XML Web Messages
+using TF-IDF and Aggregation with Huffman
+Compression Technique
+18/03/20
+13
+33
+PHD
+Research (Only)
+Anis Suhailis Abdul Kadir
+18/03/20
+14
+34
+Research (Mixed
+Mode)
+An improvement of adaptive anomaly-based
+fraud detection model by concept drift and
+visual analytical approach
+NATIONAL
+19/01/20
+21
+35
+Master
+Research (Only)
+Evaluation of Aggregation Algorithms for
+Neural Networks Esembles
+UNIVERSITY
+19/03/20
+14
+36
+Research (Mixed
+Mode)
+An improvement of adaptive anomaly-based
+fraud detection model by concept drift and
+visual analytical approach
+NATIONAL
+19/03/20
+20
+37
+Research (Mixed
+Mode)
+Fully Deep Learning
+NATIONAL
+19/12/20
+17
+38
+Research (Mixed
+Mode)
+Naratif Etnografi
+NATIONAL
+20/03/20
+17
+39
+Research (Mixed
+Mode)
+Improving Networking Consistency and
+Performance
+UNIVERSITY
+20/09/20
+21
+40
+Master
+Research (Only)
+Nor Hafiza Zakaria
+21/03/20
+12
+41
+PHD
+Research (Mixed
+Mode)
+Algoritma Carian Harmoni Berasaskan
+Fungsian Trigonometrik untuk
+Pengoptimuman Statik
+UNIVERSITY
+21/11/20
+18
+42
+Master
+Research (Only)
+Ant Colony Optimization in Dynamic
+Environments.
+23/06/20
+10
+43
+Research (Mixed
+Mode)
+ANALITIK KATA PUTUS PEMBELAJARAN
+BERGABUNG BAGI MODEL KLASIFIKASI
+KEMISKINAN PELBAGAI DIMENSI
+UNIVERSITY
+24/03/20
+22
+44
+Master
+Research (Only)
+Nor Harisah Zainuddin
+24/06/20
+14
+45
+Master
+Research (Only)
+Noor Shalasiah Binti Osman
+24/08/20
+11
+46
+PHD
+Research (Only)
+Multi-Objective Evolution of RF-Signal Homing
+Behavior in Simulated Autonomous Wheeled
+Robots Using Differential Evolution
+25/11/20
+09
+47
+Research (Mixed
+Mode)
+Multilingual Sentiment Analysis From
+Students Feedback In Social Media: A Search
+For Optimal Techniques And Resources For
+Bengali And English Lingual Data
+UNIVERSITY
+26/01/20
+21
+48
+Master
+Research (Only)
+Pemprosesan Bahasa Tabii Sebagai
+Antaramuka bagi Sistem Tutor Pintar
+26/10/20
+05
+49
+PHD
+Research (Only)
+Rule Generation Using Fuzzy technique in
+Subjective Evaluation
+27/04/20
+05
+50
+Research (Mixed
+Mode)
+Improving Network Consistency and Data
+Availability Using a Machine Learning
+Algorithm in Wireless Sensor Networks
+NATIONAL
+27/06/20
+23
+51
+Research (Mixed
+Mode)
+AN ADAPTIVE PROTOTYPE BASED SEMI
+SUPERVISED LEARNING FOR DATA STREAM
+MINING
+NATIONAL
+28/02/20
+23
+52
+PHD
+Research (Mixed
+Mode)
+HIERARCHICAL DEEP LEARNING MODEL FOR
+TEETH OBJECTS DETECTION AND
+CLASSIFICATION IN INTRA-ORAL DENTAL
+IMAGES
+NATIONAL
+28/02/20
+24
+53
+PHD
+Research (Only)
+Dynamic Parameterization for Low Level
+Hybridization of PSO-GA in Scripting
+Language
+28/08/20
+14
+54
+Research (Mixed
+Mode)
+Information Security Assessment Framework
+NATIONAL
+29/09/20
+21
+55
+PHD
+Research (Only)
+Leveraging IT in the Supply Chain for
+Organisational Transformation: A meta
+Analysis of the Supply Chain Literature
+30/07/20
+08
+56
+Course Work Mode
+Pengesanan Perubahan Cuaca Mendadak
+Berasaskan Teori Bahaya
+NATIONAL
+30/09/20
+17
+57
+PHD
+Research (Mixed
+Mode)
+Weighted Support Model for Gene Association
+in Frequent Itemsets
+UNIVERSITY
+31/01/20
+19
+58
+PHD
+Research (Only)
+Financial Pattern Discovery using Similarity
+Mining Technique
+31/03/20
+14
+59
+Master
+Research (Mixed
+Mode)
+Bat algorithm
+UNIVERSITY
+31/07/20
+15
+60
+PHD
+Research (Mixed
+Mode)
+A Retrieval Profiling Framework for Relevant
+Results on Thematic
+UNIVERSITY
+31/07/20
+18
+61
+Master
+Research (Only)
+Interval Type-2 Fuzzy for Significant Wave
+Height Forecasting
+UNIVERSITY
+31/12/20
+13
+62
+Master
+Research (Mixed
+Mode)
+Validation of Public Policymaking Framework
+Based on System Dynamics and Big Data
+UNIVERSITY
+31/12/20
+18
+REVIEWER
+No
+Article Title
+Journal Name
+Type of Reviewer
+Impact
+Factor
+Level
+Year
+1
+Modul Teknologi dan
+Inovasi
+Manuscript / Book
+Reviewer
+2013
+2
+Instrumen untuk
+mengukur kreativiti
+dan kemahiran kanak-
+kanak yang berumur
+antara 7 hingga 11
+tahun
+Proof Read Reviewer
+2013
+3
+Domain Information,
+Communication and
+Technology (ICT)
+Seminar on Creativity and
+Innovation 2013
+Conference Paper
+Reviewer
+2013
+4
+Enhancing Secured
+Data Hiding Using
+Jurnal Teknologi (Sciences
+and Engineering), Special
+Journal Article
+Reviewer
+INTERNATIONA
+L
+2013
+Dynamic Digital
+Signature for
+Authentication
+Purpose
+Edition ICICM 2013 ? Feb.
+2014
+5
+Subject Identification
+algorithm Based on
+Term Frequency
+Technique
+Jurnal Teknologi
+Journal Article
+Reviewer
+NATIONAL
+2015
+6
+Using a Modified
+Technology
+Acceptance Model to
+Evaluate Designing
+Eight Queens Chess
+Puzzle Game
+Journal of Computer
+Science
+Journal Article
+Reviewer
+INTERNATIONA
+L
+2015
+7
+Recent Trends in Big
+Data
+Recent Trends in Big Data
+Manuscript / Book
+Reviewer
+NATIONAL
+2017
+8
+Kajian Sains Data
+dalam Analitik
+Kesejahteraan Rakyat
+Buku Penyelidikan
+Manuscript / Book
+Reviewer
+UNIVERSITY
+2020
+9
+DATA ANALYST
+USING
+CLASSIFICATION AND
+OPTIMISATION: A CAS
+STUDY
+REHABILITATION
+Buku Penyelidikan
+Manuscript / Book
+Reviewer
+UNIVERSITY
+2020
+10
+CyberCops for Future
+Crime Readiness: A
+Practical Guide for
+Cyber Crime
+Investigation
+Penerbitan Bersama PDRM
+Manuscript / Book
+Reviewer
+UNIVERSITY
+2020
+INVITED / KEYNOTED SPEAKER
+No
+Title
+Conference Name
+Level
+Date
+1
+Ethics on AI
+The Rise of Futuristic Technology
+NATIONAL
+01/05/2021 -
+09/05/2021
+2
+Artificial Intelligence (AI) Menurut
+Syariat
+MIMBARFAST
+UNIVERSITY
+01/06/2022 -
+01/06/2022
+3
+Artifical Intelligence & 4th Industrial
+Revolution : The Islamic Perspectives
+Bengkel Artificial Intelligence
+03/08/2017 -
+03/08/2017
+4
+Taklimat Penjurian PECIPTA 2015
+Bengkel Persediaan Pecipta 2015
+UNIVERSITY
+03/09/2015 -
+03/09/2015
+5
+Qalb Guided Leadership in Education :
+Issues and Challenges
+3rd International Conference on
+Qalb Guided Leadrship in Higher
+Education Institutions (i-
+Qalb2017)
+06/12/2017 -
+06/12/2017
+6
+Biah DiJaga Siasah Dipelihara
+Forum Biah DiJaga Siasah
+Dipelihara
+08/11/2017 -
+08/11/2018
+7
+Developing the Islamic Mind Among the
+scientist and technologist
+Expert Consultation: Developing
+the Islamic Mind
+NATIONAL
+08/12/2020 -
+08/12/2020
+8
+“Teknologi harmoni dan lestari: Janji
+Sang Khalifah”
+WEBINAR KAPSUL MOTIVASI &
+INTROSPEKSI 2021
+UNIVERSITY
+08/12/2021 -
+08/12/2021
+9
+Legacy of Muslim Researcher in
+Science and Technology
+3rd Global Conference for
+Academic Research on Scientific
+INTERNATIONA
+L
+10/07/2013 -
+10/07/2013
+and Emerging
+Technologies(CGARSET)
+10
+Academic Leadership for Future Muslim
+Thinkers: Reviving Islamic Intellectual
+Tradition in Current Age
+SIFHAM Internation Graduates
+Winter School , University of
+Sharjah, Sharjah, Dubai
+INTERNATIONA
+L
+11/01/2020 -
+24/01/2020
+11
+Thesis Writing Strategies
+PERINTIS Postgraduate Training
+Series 2023 -Webinar
+NATIONAL
+11/10/2023 -
+11/10/2023
+12
+Muslim Professionals: Inspiring
+Innovation with Faith and Science
+Rihlah FAST
+UNIVERSITY
+12/12/2021 -
+12/12/2021
+13
+Al-Quran Tafsir Pimpinan Ar-Rahman:
+Software-Invention/Category B
+(Individual: Professionals/Academicians
+/Researchers)
+International Innovation & Design
+in Library & Information Science
+Competition
+13/09/2017 -
+13/09/2017
+14
+Preparatory Masterclass for University
+Students Unlocked Your Creativity
+Through Design Science
+MYHackathon Program
+NATIONAL
+13/10/2020 -
+15/10/2020
+15
+Luv Sciece Luv Islam
+Seminar Internasional "Tafir Ilmi"
+15/08/2017 -
+15/08/2017
+16
+Unleash The Power of Big Data Through
+Covid 19 Pandemic
+Seminar Antarabangsa Sains dan
+Islam 2020
+INTERNATIONA
+L
+15/10/2020 -
+15/10/2020
+17
+Be Your Own Hero
+Pesta Konvokesyen yang ke 20
+UNIVERSITY
+16/12/2022 -
+16/12/2022
+18
+Analisis Terhadap Pengharmonian
+Sains dan Islam di Malaysia
+Webinar Muzakarah Pakar
+NATIONAL
+17/02/2021 -
+17/02/2021
+19
+Accelerating STEM During and Post
+Covid 19
+STEM Global Forum
+INTERNATIONA
+L
+18/09/2021 -
+18/09/2021
+20
+Reshaping The Future of Dentistry with
+Artificial Intelligence Technology
+Postgraduate Research
+Symposium
+UNIVERSITY
+19/05/2022 -
+19/05/2022
+21
+RESPONSIBLE ARTIFICIAL
+INTELLIGENCE TECHNOLOGY: ISSUES
+AND CHALLENGES
+International Conference in
+Engineering and Applied
+Technology (ICEAT2022), Medan,
+Indonesia
+INTERNATIONA
+L
+19/10/2022 -
+20/01/2023
+22
+Menginsankan Teknoloji Ke Arah
+Pembangunan Ummah
+Forum Menginsankan Teknoloji
+Ke Arah Pembangunan Ummah
+21/11/2017 -
+21/11/2017
+23
+Persediaan Global Islamic Student
+Outreach
+Bengkel Persediaan Global
+Islamic Student Outreach
+26/03/2017 -
+26/03/2017
+24
+Revolution of Artificial Intelligence (AI)
+in Healthcare Technology
+HEALTHCARE TECHNOLOGY
+FORUM
+UNIVERSITY
+28/01/2023 -
+28/01/2023
+25
+Diri Mu Sangat Berharga
+Forum Fiqh Wanita
+UNIVERSITY
+28/06/2022 -
+28/06/2022
+26
+Jejak Lestari Kampus USIM
+Seminar
+UNIVERSITY
+28/07/2023 -
+28/07/2023
+27
+Ayat-Ayat Kauniah Inspirasi Teknologi
+Kecerdasan Buatan Pendukung
+Revolusi Industri 4.0, Di Manakah
+Noktahnya?
+International Seminar Integration
+of Al-Qur'an and Science
+INTERNATIONA
+L
+28/08/2018 -
+28/08/2018
+28
+Inovasi Penyelidikan
+FST Mentor Talk
+UNIVERSITY
+29/06/2022 -
+29/07/2022
+29
+BATTLING THE COVID-19 PANDEMIC :
+THE USIM STORY
+Unesa International Forum of
+University Rectors (UNIFUR) 2020
+INTERNATIONA
+L
+30/10/2020 -
+30/01/2021
+30
+Handling User Intention in Semantic
+Search for Multi Lingual Target
+2018 ASEAN Workshop on
+Information Science and
+INTERNATIONA
+L
+31/07/2018 -
+05/08/2018
+Resources
+Technology (AWIST2018)
+EDITORIAL BOARD
+No
+Editorial Name
+Journal Name
+Type of
+Editorial
+Level
+Year
+1
+Special Issue on Seminar Sains
+Islam Kebangsaan
+e- journal PERINTIS
+Others
+NATIONAL
+2013 - 2015
+2
+Journal of ICT
+Member
+INTERNATIONA
+L
+2014 - 2015
+3
+Xxx
+Journal.of ICT
+Associate
+Editor
+INTERNATIONA
+L
+2015 - 2015
+4
+Reviewer Team
+SPEKTRA Jurnal Kajian Pendidikan
+Sains
+Others
+INTERNATIONA
+L
+2018 - 2024
+5
+Editorial Board
+Jurnal Ulum Islamiyah
+Member
+INTERNATIONA
+L
+2019 - 2020
+6
+Editor Jurnal Ulum Islamiyah
+Jurnal Ulum Islamiyah
+Associate
+Editor
+NATIONAL
+2019 - 2020
+7
+Editorial Board
+International Journal of
+Information Technology
+Infrastructure
+Member
+INTERNATIONA
+L
+2019 - 2020
+8
+Editorial Board
+Journal of Quran Sunnah
+Education and Special Needs
+Member
+INTERNATIONA
+L
+2019 - 2021
+9
+Editorial Board
+Open International Journal of
+Informatics (OIJI)
+Member
+INTERNATIONA
+L
+2019 - 2024
+10
+Reviewer Board
+International Journal of
+Computing and Technology
+Others
+INTERNATIONA
+L
+2019 - 2024
+11
+Advisory Board
+International Journal of
+Entrepreneurship &
+Technopreneur
+Member
+INTERNATIONA
+L
+2019 - 2024
+12
+Editorial Board
+International Journal of
+Engineering and Innovative
+Research
+Member
+INTERNATIONA
+L
+2019 - 2024
+ACADEMIC RECOGNITION (OTHERS)
+No
+Organization
+Award / Reward
+Category of
+Position
+Level
+Date
+1
+Universiti Tun Hussein Onn
+Malaysia (UTHM)
+Fakulti Sains Gunaan dan
+Teknologi
+Visiting
+Profesor
+NATIONAL
+01/07/2022 -
+30/06/2024
+2
+Fakultas Teknis, Universitas
+Negeri Yogoakarta,
+Indonesia
+Profesor Pelawat Program
+Studi Teknologi Informasi
+Visiting
+Profesor
+INTERNATIONA
+L
+01/09/2020 -
+31/01/2021
+3
+Universiti Teknikal Malaysia
+Melaka
+Pemeriksa Luar , Sarjana
+Kejuruteraan Perisian
+(Mudah Alih)
+Academic
+Advisor
+UNIVERSITY
+01/11/2021 -
+31/10/2023
+4
+Japan Advance Institute of
+Science and Technology
+Visiting
+Researcher
+INTERNATIONA
+L
+04/04/2015 -
+15/01/2016
+5
+Suleyman Demirel
+Visting Researcher
+Visiting Scholar
+INTERNATIONA
+04/08/2023 -
+University, Isparta, Turkiye
+L
+31/10/2023
+6
+International University of
+Renewal, Istanbul, Turki
+Teaching , Audit and
+Consultation
+Visiting
+Profesor
+INTERNATIONA
+L
+07/10/2017 -
+14/10/2017
+7
+Suleyman Demirel
+University
+Mevlana Academic
+Exchange Program,
+Department of Computer
+Engineering , Faculty of
+Engineering, Suleyman
+Demirel Univeristy, Turki
+Visiting Scholar
+INTERNATIONA
+L
+07/10/2019 -
+03/01/2020
+8
+Samarkand Branch
+Tashkent University of
+Information Technology
+Visiting
+Profesor
+INTERNATIONA
+L
+11/09/2014 -
+18/09/2014
+9
+Fazkuru Solution
+Appointment with no
+fee/honorarium
+Academic
+Advisor
+OTHERS
+20/05/2021 -
+20/05/2022
+CONTRIBUTION - USIM
+2023
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JK INOVASI DAN PENGKOMERSILAN
+COMMITEE MEMBERS
+UNIVERSITY
+01/01/2023 -
+31/12/2023
+2
+JK PENILAIAN GERAN PENYELIDIKAN USIM
+COMMITEE MEMBERS
+UNIVERSITY
+01/01/2023 -
+31/12/2023
+3
+Panel Penilai Geran FRGS
+COMMITEE MEMBERS
+UNIVERSITY
+02/01/2023 -
+31/12/2023
+4
+PANEL PENILAI GERAN PEMBANGUNAN
+INOVASI USIM
+COMMITEE MEMBERS
+UNIVERSITY
+02/06/2023 -
+08/06/2023
+5
+AHLI SENAT
+COMMITEE MEMBERS
+UNIVERSITY
+03/01/2023 -
+30/04/2023
+6
+PANEL PENILAI FRGS FST
+MEMBERS
+FACULTY
+04/11/2023 -
+14/01/2024
+7
+Panel Penilai Anugerah Tesis Integrasi Naqli
+dan Aqli
+MEMBERS
+UNIVERSITY
+11/10/2023 -
+19/10/2023
+8
+Panel Penilai Penerbitan Anugerah Khas
+Penerbitan
+MEMBERS
+UNIVERSITY
+14/06/2023 -
+27/04/2023
+9
+PANEL JURI JEMPUTAN ESEI DAN POSTER -
+SCAMMER GET TO KNOW YOUR RIGHT
+MEMBERS
+UNIVERSITY
+15/05/2023 -
+22/05/2023
+10
+PANEL PENILAI MTE Kluster Sains dan
+Teknologi
+MEMBERS
+UNIVERSITY
+16/01/2023 -
+16/01/2023
+11
+JURI EDUINNOVATION, UKM
+MEMBERS
+NATIONAL
+18/05/2023 -
+22/05/2023
+12
+PAKAR BIDANG KURSUS microcredentials
+MEMBERS
+UNIVERSITY
+18/10/2023 -
+31/10/2023
+13
+URUSETIA LAWATAN AKREDITASI PROGRAM
+SARJANA DAN PHD SAINS SOSIAL
+COMMITEE MEMBERS
+UNIVERSITY
+23/02/2023 -
+24/02/2023
+14
+Facilitator -SPeaks with Confidence
+COMMITEE MEMBERS
+NATIONAL
+25/11/2023 -
+26/11/2023
+15
+Syarahan Felo Kehormat AKademi Profesor
+Malaysia
+Participant
+NATIONAL
+31/05/2023 -
+31/05/2023
+2022
+No
+Name Of Activity
+Position
+Level
+Date
+1
+TASKFORCE MICRO CREDENTIAL USIM
+MEMBERS
+UNIVERSITY
+01/01/2022 -
+31/12/2022
+2
+JAWATANKUASA PEMANDU ICT USIM
+AJK
+UNIVERSITY
+01/01/2022 -
+31/12/2023
+3
+JAWATANKUASA PENYELARASAN PROJEK ICT
+USIM
+AJK
+UNIVERSITY
+01/01/2022 -
+31/12/2023
+4
+JAWATANKUASA PENYELARASAN PROJEK ICT
+(JPPICT)
+AJK
+UNIVERSITY
+01/01/2022 -
+31/12/2023
+5
+PASUKAN PROJEK KLUSTER SISTEM
+MAKLUMAT UNIVERSITI USIM
+MEMBERS
+UNIVERSITY
+01/01/2022 -
+31/12/2023
+6
+PASUKAN PROJEK KLUSTER SISTEM
+MAKLUMAT UNIVERSITI(SMU) USIM
+MEMBERS
+UNIVERSITY
+01/01/2022 -
+31/12/2023
+7
+AUDIT PENILAIAN KUMPULAN PENYELIDIKAN
+USIM BAGI PENILAI SEKSYEN D&E INSTRUMEN
+RCoE
+PANEL PENILAI
+UNIVERSITY
+01/02/2022 -
+31/01/2023
+8
+JAWATANKUASA TASKFORCE SEMAKAN
+KANDUNGAN PENILAIAN DAN PELAPORAN
+eNILAI USIM
+AJK
+UNIVERSITY
+01/03/2022 -
+30/06/2022
+9
+PEMBANGUN KURSUS MICRO-CREDENTIAL
+UNIVERSITI SAINS ISLAM MALAYSIA (USIM)
+MEMBERS
+UNIVERSITY
+01/03/2022 -
+31/12/2022
+10
+PERTANDINGAN 2nd INNOVATION BANK
+CHALLENGE (IBC 2022) UNIVERSITI SAINS
+ISLAM MALAYSIA (USIM)
+PANEL HAKIM
+UNIVERSITY
+06/09/2022 -
+06/09/2022
+11
+Ahli Jawatankuasa Sewaan Universiti (JSU)
+USIM
+COMMITEE MEMBERS
+UNIVERSITY
+12/04/2022 -
+31/12/2022
+12
+APPOINTMENT AS AN EXTERNAL EXAMINER
+FOR SALAH MORTADA SHAHEN SANKOR
+(903364) - UNIVERSITI UTARA MALAYSIA
+PEMERIKSA LUAR
+NATIONAL
+13/04/2022 -
+18/05/2022
+13
+JAWATANKUASA INDUK MAJLIS
+KONVOKESYEN KE-20 USIM
+AJK
+UNIVERSITY
+20/01/2022 -
+31/12/2022
+14
+BENGKEL HALA TUJU PENGAJIAN SISWAZAH
+FAKULTI SYARIAH DAN UNDANG-UNDANG
+PEMBENTANG
+FACULTY
+25/01/2022 -
+25/01/2022
+15
+JAWATANKUASA PENERBITAN USIM
+AJK
+UNIVERSITY
+31/01/2022 -
+31/12/2022
+2021
+No
+Name Of Activity
+Position
+Level
+Date
+1
+JAWATANKUASA TASKFORCE ACADEMIC
+INFORMATION SYSTEM
+AJK
+UNIVERSITY
+01/09/2021 -
+31/12/2022
+2
+JAWATANKUASA PENGURUSAN KOMPUTER
+DAN ICT (PEMBELAJARAN & PENGAJARAN)
+USIM
+AJK
+UNIVERSITY
+01/09/2021 -
+31/12/2022
+3
+PEMERIKSA LUAR BAGI PROGRAM SARJANA
+KEJURUTERAAN PERISIAN (PEMBANGUNAN
+MUDAH ALIH) DI FAKULTI TEKNOLOGI
+MAKLUMAT DAN KOMUNIKASI DI UTeM
+PEMERIKSA LUAR
+NATIONAL
+01/11/2021 -
+31/10/2023
+4
+PERMOHONAN GERAN PENYELIDIKAN USIM
+PANEL PENILAI
+UNIVERSITY
+02/12/2021 -
+2022
+31/12/2022
+5
+ANUGERAH IKON ALUMNI SEMPENA HARI
+ALUMNI USIM
+PANEL PENILAI
+UNIVERSITY
+05/07/2021 -
+05/07/2021
+6
+Task Force Penerapan Kandungan Kursus
+Pengantar Sains Islam Peringkat FST
+PENGERUSI -
+CHAIRMAN
+FACULTY
+09/06/2021 -
+08/09/2021
+7
+JAWATANKUASA KERJA PROJEK PELUPUSAN
+AYAT AL-QURAN
+AJK
+UNIVERSITY
+10/11/2021 -
+31/12/2022
+8
+Task Force UI Greenmetric 2021
+AJK
+UNIVERSITY
+11/08/2021 -
+31/07/2021
+9
+TASK FORCE UI GREENMETRIC 2021
+MEMBERS
+UNIVERSITY
+11/08/2021 -
+31/12/2021
+10
+JAWATANKUASA TASKFORCE UI
+GREENMETRIC
+AJK
+UNIVERSITY
+11/08/2021 -
+31/12/2022
+11
+PANEL PENILAI LUAR BAGI TUJUAN KENAIKAN
+PANGKAT KE JAWATAN PROFESOR GRED VK7
+DI UTeM
+PANEL PENILAI LUAR
+NATIONAL
+14/10/2021 -
+14/10/2021
+12
+JAWATANKUASA PENYELIDIKAN DAN INOVASI
+USIM
+AJK
+UNIVERSITY
+16/06/2021 -
+31/12/2022
+13
+JAWATANKUASA PENGAJIAN SISWAZAH
+UNIVERSITI
+SECRETARY
+UNIVERSITY
+16/06/2021 -
+31/12/2022
+14
+JAWATANKUASA PERANCANGAN DAN
+PERKEMBANGAN AKADEMIK USIM
+AJK
+UNIVERSITY
+16/06/2021 -
+31/12/2022
+15
+JAWATANKUASA KERJA PENYELARASAN
+PENGAJIAN SISWAZAH UNIVERSITI
+PENGERUSI -
+CHAIRMAN
+UNIVERSITY
+16/06/2021 -
+31/12/2022
+16
+JAWATANKUASA INDUK MAJLIS
+KONVOKESYEN KE-19 USIM
+AJK
+UNIVERSITY
+21/06/2021 -
+31/12/2021
+17
+JAWATANKUASA TEKNIKAL JAMEEL
+EDUCATION FOUNDATION-USIM
+SCHOLARSHIP PROGRAM
+AJK
+UNIVERSITY
+21/06/2021 -
+31/12/2022
+18
+JAWATANKUASA PEMILIH KENAIKAN PANGKAT
+(TEMU DUGA JAWATAN PROFESOR MADYA)
+USIM
+AJK
+UNIVERSITY
+22/07/2021 -
+22/07/2021
+19
+UNESCO Intergovernmental Special
+Committee on Policy Recommendation for
+Ethics on AI
+UNESCO State
+Member
+INTERNATIONAL
+26/04/2021 -
+25/06/2021
+20
+PANEL PENILAI LUAR CALON PROFESOR
+MADYA GRED DS54 DI UTHM
+PANEL PENILAI LUAR
+NATIONAL
+29/08/2021 -
+29/08/2021
+21
+PANEL PENILAI LUAR CALON PROFESOR
+MADYA GRED DS54 DI UTHM
+PANEL PENILAI LUAR
+NATIONAL
+29/08/2021 -
+29/08/2021
+2020
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Ahli Jawatankuasa Projek Khas Penerbitan
+Buku INAQ
+MEMBERS
+UNIVERSITY
+05/11/2020 -
+31/01/2021
+2
+JAWATANKUASA TEKNIKAL KAJIAN PELAN
+HALA TUJU KECERDASAN BUATAN NEGARA
+MEMBERS
+NATIONAL
+24/10/2020 -
+31/03/2021
+3
+Jawatankuasa Pemandu Dana Penyelidikan
+Kementerian Pengajian Tinggi
+MEMBERS
+NATIONAL
+25/09/2020 -
+31/12/2021
+4
+AJK Pemilih Temuduga
+MEMBERS
+UNIVERSITY
+26/10/2020 -
+26/10/2020
+5
+AJK Penilaian (Teknikal dan Harga) Sebut
+Harga Kecil PTj
+MEMBERS
+UNIVERSITY
+30/09/2020 -
+31/12/2020
+2018
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Kelas Renang Kelab Kakitangan Wanita dan
+Isteri Kakitangan USIM (WARDAH)
+MEMBERS
+UNIVERSITY
+01/01/2018 -
+31/03/2018
+2
+Penasihat Perintis (Persatuan Saintis Muslim
+Malaysia) Youth USIM
+VICE PRESIDENT
+UNIVERSITY
+01/01/2018 -
+31/12/2018
+3
+Mesyuarat Jawatankuasa Pembangunan
+Sumber Manusia (JPSM) Peringkat PTJ 3
+(Pemilihan APC Tahun 2017)
+COMMITEE MEMBERS
+UNIVERSITY
+01/06/2018 -
+31/07/2018
+4
+Sidang Jawatankuasa Penulisan Buku Kampus
+Barakah USIM
+COMMITEE MEMBERS
+UNIVERSITY
+01/07/2018 -
+30/11/2018
+5
+Jawatankuasa Saringan Kesepakaran (Pakar
+Bidang) Peringkat Fakulti Pengajian Bahasa
+Utama Bil. 4/2018 (Jawatan Profesor Madya
+Gred DS54)
+COMMITEE MEMBERS
+FACULTY
+02/11/2018 -
+02/11/2018
+6
+Prophetic Science International Conference
+2018 (ALFURSAN)
+PENGERUSI -
+CHAIRMAN
+INTERNATIONAL
+04/11/2018 -
+05/11/2018
+7
+Team Based Learning Workshop Anjuran
+Fakulti Perubatan dan Sains Kesihatan (FPSK)
+Peserta
+FACULTY
+05/07/2018 -
+05/07/2018
+8
+Projek Student Management & Innovative
+Learning Environment System (SMILES)
+COMMITEE MEMBERS
+UNIVERSITY
+06/08/2018 -
+31/12/2018
+9
+Jawatankuasa Penilai Pencalonan dan Panel
+Penemuduga Calon Anugerah Kecemerlangan
+Siswa 2018 (AKSIS 2018)
+COMMITEE MEMBERS
+UNIVERSITY
+07/12/2018 -
+07/12/2018
+10
+Kursus Penghayatan Integrasi Ilmu Naqli Aqli
+(iNaQ) - Staf Akademik
+Penceramah
+UNIVERSITY
+08/11/2018 -
+08/11/2018
+11
+Bengkel Penulisan Puisi dan Penerbitan
+Antologi II Bertemakan Pengajian Tinggi
+Peserta
+UNIVERSITY
+13/09/2018 -
+13/09/2018
+12
+Pertandingan Reka Cipta dan Inovasi Islam
+USIM 2018 (i-REKA'18)
+PENGERUSI -
+CHAIRMAN
+UNIVERSITY
+13/10/2018 -
+14/10/2018
+13
+Kursus Kepimpinan Qalbu (i-QALB) Tahap 2
+Penceramah
+UNIVERSITY
+14/12/2018 -
+16/12/2018
+14
+Jawatankuasa Saringan Kesepakaran (Pakar
+Bidang) Peringkat Fakulti Sains dan Teknologi
+Bil. 3/2018
+COMMITEE MEMBERS
+FACULTY
+16/11/2018 -
+16/11/2018
+15
+Jawatankuasa Saringan Kesepakaran (Pakar
+Bidang) Peringkat Fakulti Sains dan Teknologi
+Bil. 2/2018
+HEAD OF AJK
+FACULTY
+18/07/2018 -
+31/12/2018
+16
+Bengkel Pembangunan dan Pemurnian Modul
+Kursus Integrasi Ilmu Naqli dan Aqli
+Peserta
+UNIVERSITY
+22/09/2018 -
+22/09/2018
+17
+Majlis USIM Berselawat dan Haflah Maulidur
+Rasul 2018
+Jemputan
+UNIVERSITY
+22/11/2018 -
+22/11/2018
+18
+Bengkel Penulisan Puisi dan Penerbitan
+Antologi Bertemakan Pengajian Tinggi
+MEMBERS
+UNIVERSITY
+26/07/2018 -
+26/07/2018
+19
+Bengkel Penulisan Jurnal KUP
+(Kluster/Unit/Pusat) Penyelidikan USIM -
+MEMBERS
+UNIVERSITY
+27/07/2018 -
+28/07/2018
+ProofreadingByPhD
+2017
+No
+Name Of Activity
+Position
+Level
+Date
+1
+USIM Writers' Pool (UWP)
+COMMITEE MEMBERS
+UNIVERSITY
+01/07/2017 -
+31/12/2017
+2
+Kumpulan Penulis Kuttab Kontemporari
+MEMBERS
+UNIVERSITY
+06/04/2017 -
+31/12/2018
+3
+Pasukan Penulis Tentang Buku Barakah
+MEMBERS
+UNIVERSITY
+06/07/2017 -
+31/12/2017
+4
+Jawatankuasa Masjid USIM
+HEAD OF AJK
+UNIVERSITY
+07/08/2017 -
+31/07/2019
+5
+Program Menggapai Bintang 2017
+Mentor
+FACULTY
+08/05/2017 -
+31/01/2018
+6
+AJK INDUK STREAM USIM
+AJK
+UNIVERSITY
+09/06/2017 -
+08/06/2019
+7
+EKSPO INOVASI ISLAM KALI KELAPAN
+PENGERUSI -
+CHAIRMAN
+INTERNATIONAL
+12/12/2017 -
+11/03/2018
+8
+Jawatankuasa Islamic Global Innovation
+Festival and Talent (i-GIFT)
+HEAD OF AJK
+UNIVERSITY
+12/12/2017 -
+11/03/2018
+9
+Konvensyen Perangi Dadah Kebangsaan
+MEMBERS
+UNIVERSITY
+13/11/2017 -
+14/11/2017
+10
+Focus Group Discussion : A Study On
+Influences o Values and Religiosity On Social
+Media Use from Maqasid Shariah
+Perspectives
+MEMBERS
+NATIONAL
+15/09/2017 -
+15/09/2017
+11
+Mesyuarat jawatabkuasa penyeldidikan dan
+Persidangan Universiti
+MEMBERS
+UNIVERSITY
+16/03/2017 -
+16/03/2019
+12
+URUSAN KENAIKAN PANGKAT STAF
+AKADEMIK KE JAWATAN PROFESSOR MADYA
+Penilai Luar
+NATIONAL
+17/11/2017 -
+31/01/2018
+13
+Research Interview Applied Science and
+Islamic Studies Programme : A Research on
+Its Curicullum Design
+Temuramah Pakar
+NATIONAL
+21/09/2017 -
+21/09/2017
+14
+URUSAN KENAIKAN PANGKAT STAF
+AKADEMIK KE JAWATAN PROF MADYA
+Penilai Luar
+NATIONAL
+21/09/2017 -
+30/11/2017
+15
+Penggubal Soalan Pertandingan
+Pengaturcaraan ATURKREATIF 2017
+MEMBERS
+NATIONAL
+23/02/2017 -
+30/04/2017
+16
+Jawatankuasa Kesepakaran FST
+Pakar Bidang
+FACULTY
+23/10/2017 -
+02/11/2017
+17
+Jawatankuasa Saringan Kesepakaran ( Pakar
+Bidang)
+COMMITEE MEMBERS
+FACULTY
+23/10/2017 -
+31/12/2017
+18
+Islamic Festival of Science and Technology
+(iFEST)
+PENASIHAT
+FACULTY
+27/03/2017 -
+19/05/2017
+19
+Foresight Workshop "Leaders, Laggards,
+Losers or Lost: The Alternative Futures of
+Malaysian Universities"
+MEMBERS
+UNIVERSITY
+27/11/2017 -
+29/11/2017
+2016
+No
+Name Of Activity
+Position
+Level
+Date
+1
+World International Conference on Islamic
+Science
+VICE CHAIRMAN
+INTERNATIONAL
+01/01/2016 -
+07/12/2016
+2
+Jumuah Professor USIM
+SECRETARY
+UNIVERSITY
+01/01/2016 -
+30/09/2016
+3
+Jawatankuasa Pemandu ICT
+AJK
+UNIVERSITY
+01/01/2016 -
+31/12/2016
+4
+Jawatankuasa Pemandu ICT
+AJK
+UNIVERSITY
+01/01/2016 -
+31/12/2016
+2015
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Jk Penjurian Pertandingan Rekacipta dan
+Inovasi Islam Pelajar (i-REKA)
+BURSAR
+UNIVERSITY
+01/02/2015 -
+31/05/2015
+2
+Jk Akademik ,Seminar USIM-UIN Malang
+BURSAR
+UNIVERSITY
+01/03/2015 -
+30/09/2015
+3
+Jk penyertaan Ekspo Inovasi Islam (i-inova)
+BURSAR
+UNIVERSITY
+01/03/2015 -
+30/11/2015
+4
+Jawantankuasa Pengurusan Siswazah
+Universiti
+AJK
+UNIVERSITY
+01/08/2015 -
+30/09/2016
+5
+Jawatankuasa Pembangunan dan Pengurusan
+Akademik
+AJK
+UNIVERSITY
+01/08/2015 -
+30/09/2016
+6
+Projek Gerbang Sri Menanti
+BURSAR
+UNIVERSITY
+01/08/2015 -
+31/12/2015
+7
+Mesyuarat Senat
+COMMITEE MEMBERS
+UNIVERSITY
+01/08/2015 -
+31/12/2018
+8
+Panel Penilai Penyelidikan USIM
+Panel Penilai
+UNIVERSITY
+12/10/2015 -
+12/10/2016
+2014
+No
+Name Of Activity
+Position
+Level
+Date
+1
+AJK Pelan Integriti Negara
+SECRETARY
+UNIVERSITY
+01/01/2014 -
+31/12/2014
+2
+Majlis Penyelidikan dan Inovasi USIM
+SECRETARY
+UNIVERSITY
+01/01/2014 -
+31/12/2014
+3
+Urusetia Rekacipta dan Inovasi
+PENASIHAT
+UNIVERSITY
+01/03/2014 -
+11/12/2024
+4
+Ekspo Inovasi islam ( program iringan dan
+Tunas cipta)
+BURSAR
+INTERNATIONAL
+28/11/2014 -
+30/11/2014
+2013
+No
+Name Of Activity
+Position
+Level
+Date
+1
+TUNASCIPTA 2013- Pertandingan rekacipta
+dan Inovasi Peringkat Sekolah Menengah
+sempena Ekspo Inovasi Islam kali ke empat
+BURSAR
+NATIONAL
+01/01/2013 -
+30/11/2013
+2
+Khidmat Komunti Perdana sempena
+sambutan 10 tahun FST
+BURSAR
+FACULTY
+01/01/2013 -
+30/11/2014
+3
+JAWATANKUASA SEBUTHARGA USIM (FST)
+SECRETARY
+FACULTY
+01/01/2013 -
+31/12/2013
+4
+Program Latihan Digital Citizen
+Coordinator
+UNIVERSITY
+01/01/2013 -
+31/12/2013
+5
+MSC IHLs Business Plan Competition
+Coordinator
+NATIONAL
+01/01/2013 -
+31/12/2013
+6
+Jawatankuasa Kualiti dan Inovasi
+PENGERUSI -
+CHAIRMAN
+FACULTY
+01/01/2013 -
+31/12/2013
+7
+Jawatan kuasa Libatsama Masyarakat dan
+Kebajikan FST
+PENGERUSI -
+CHAIRMAN
+FACULTY
+01/02/2013 -
+31/12/2013
+8
+Malaysia Alkhawarizmi Programming Contest
+Coach
+NATIONAL
+01/09/2013 -
+30/09/2013
+9
+ACM ICPC Regional Programing Contest,
+Phuket, Thailand
+Coach
+INTERNATIONAL
+01/09/2013 -
+30/11/2013
+10
+pengembaraan GISO FST ke Chengdu, China
+Pegawai Pengiring
+INTERNATIONAL
+07/04/2013 -
+12/04/2013
+11
+kluster Mycommunity, Program jangkauan
+Global malaysia, Kementerian pendidikan
+Malaysia
+SECRETARY
+NATIONAL
+15/07/2013 -
+31/12/2013
+12
+Novel Research and Innovation Competition
+2013 di USM
+Pegawai Pengiring
+NATIONAL
+20/08/2013 -
+25/08/2013
+2011
+No
+Name Of Activity
+Position
+Level
+Date
+1
+EKSPO INOVASI ISLAM
+BURSAR
+UNIVERSITY
+01/01/2011 -
+31/10/2011
+2
+JAWATANKUASA PERANCANGAN DAN
+PENGEMBANGAN AKADEMIK
+SECRETARY
+FACULTY
+01/01/2011 -
+31/12/2011
+3
+PERTANDINGAN PENGATURCARAAN DAN
+MULTIMEDIA, USIM (ATURKREATIF)
+JURI/HAKIM
+UNIVERSITY
+01/01/2011 -
+31/12/2011
+4
+TABUNG SAINTIS MUDA
+SECRETARY
+UNIVERSITY
+01/01/2011 -
+31/12/2012
+5
+STUDENT INNOVATION COMPETITION
+BURSAR
+UNIVERSITY
+01/02/2011 -
+30/04/2011
+6
+Program 1 Citizen , USIM
+PENYELARAS
+UNIVERSITY
+01/07/2011 -
+31/12/2013
+7
+ACM ICPC REGIONAL PROGRAMMING
+COMPETITION
+COACH
+UNIVERSITY
+01/11/2011 -
+15/01/2012
+8
+CODE 2011 INTERVARSITY PROGRAMMING
+COMPETITION , UTEM
+COACH
+UNIVERSITY
+01/11/2011 -
+17/12/2011
+9
+NATIONAL RESEARCH AND INNOVATION
+COMPETITION (NRIC, USIM)
+PEGAWAI PENGIRING
+UNIVERSITY
+02/04/2011 -
+30/06/2011
+10
+MALAYSIA IHLS BUSINESS PLAN COMPETITION
+PRESIDENT
+UNIVERSITY
+03/01/2011 -
+31/03/2012
+11
+JK AUDIT E-UNDI
+SECRETARY
+UNIVERSITY
+03/01/2011 -
+31/12/2011
+12
+JK KESELAMATAN ICT UNIVERSITI
+SECRETARY
+UNIVERSITY
+03/01/2011 -
+31/12/2011
+13
+ACM ICPC ALKHAWARIZMI NATIONAL
+PROGRAMMING COMPETITION
+COACH
+UNIVERSITY
+03/10/2011 -
+29/10/2011
+14
+FAMILY BONDING, SEKRETARIAT FST
+PEGAWAI PENGIRING
+FACULTY
+19/11/2011 -
+19/11/2011
+2010
+No
+Name Of Activity
+Position
+Level
+Date
+1
+AL-KHAWARIZMI PROGRAMMING
+COMPETITION
+PENASIHAT
+UNIVERSITY
+01/01/2010 -
+01/01/2010
+2
+JAWATANKUASA PELAKSANA INFOSYS FP
+ROLLOUT PROGRAM DI USIM
+SECRETARY
+UNIVERSITY
+01/01/2010 -
+01/01/2010
+3
+MALAYSIA IHLS BUSINESS PLAN COMPETITION
+(MIBPC) @ USIM
+TIMBALAN PENGARAH
+UNIVERSITY
+01/01/2010 -
+01/01/2010
+4
+JAWATANKUASA PELAKSANA EKSPO INOVASI
+ISLAM 2010 KALI PERTAMA
+PENGERUSI -
+CHAIRMAN
+UNIVERSITY
+01/01/2010 -
+01/01/2010
+5
+KAUSAR MOBILE APPS , SMART V COOLER -
+USIM REPRESENTATIVE FOR MALAYSIA IHLS
+BUSINESS PLAN COMPETITION
+ADVISOR
+UNIVERSITY
+01/01/2010 -
+01/01/2010
+1900
+No
+Name Of Activity
+Position
+Level
+Date
+1
+Bicara Sains Islam
+Invited Speaker
+UNIVERSITY
+01/01/1900 -
+01/01/1900
+2
+Ekspo Inovasi Islam 2012
+PRESIDENT
+UNIVERSITY
+01/01/1900 -
+01/01/1900
+3
+JAWATANKUASA AUDIT E-UNDI
+SECRETARY
+UNIVERSITY
+01/01/1900 -
+01/01/1900
+4
+FSY Student Innovation Competition 2012
+Hakim
+UNIVERSITY
+01/01/1900 -
+01/01/1900
+5
+Student innovation Competition 2012
+PRESIDENT
+UNIVERSITY
+01/01/1900 -
+01/01/1900
+6
+Kem sains dan Teknologi i-FIKR 2012
+PENGERUSI -
+CHAIRMAN
+UNIVERSITY
+01/01/1900 -
+01/01/1900
+7
+lawatan kerja Sekrefast 2015 di Thailand
+PEGAWAI PENGIRING
+UNIVERSITY
+01/01/1900 -
+01/01/1900
+8
+Malaysia ACM ICPC AlKhawarizmi
+Programming Competition
+Coach
+UNIVERSITY
+01/01/1900 -
+01/01/1900
+9
+Novel Research and Innovation Competition
+Pegawai Pengiring
+INTERNATIONAL
+01/01/1900 -
+01/01/1900
+10
+lawatan Akademik ke Banda Aceh, Indonesia
+Pegawai Pengiring
+INTERNATIONAL
+01/01/1900 -
+01/01/1900
+11
+kembara Korban Sri lanka : Pengembaraan
+GISO
+PEGAWAI PENGIRING
+UNIVERSITY
+01/01/1900 -
+01/01/1900
+12
+MALAYSIA MICROSOFT OFFICE
+CHAMPIONSHIP 2010
+PEGAWAI
+PENGIRING/PENASIHA
+T
+UNIVERSITY
+01/01/1900 -
+01/01/1900
+13
+Lawatan akademik ek Universiti Andlas ,
+Padang, Sumatera Barat.
+KETUA DELEGASI
+UNIVERSITY
+01/01/1900 -
+01/01/1900
+CONTRIBUTION - MEMBERS OF COMMUNITY COMMITTEE / ORGANISATION
+2023
+No
+Name Of Activity
+Position
+Level
+Date
+1
+PERSATUAN SAINTIS MUSLIM MALAYSIA
+(PERINTIS)
+NATIONAL
+18/04/2023 -
+17/04/2025
+2022
+No
+Name Of Activity
+Position
+Level
+Date
+1
+RUMAH NGAJI @ TAMAN SEMARAK NILAI
+PENGGERAK
+OTHERS
+01/07/2022 -
+09/05/2024
+2021
+No
+Name Of Activity
+Position
+Level
+Date
+1
+PERSATUAN SAINTIS MUSLIM MALAYSIA
+(PERINTIS)
+NATIONAL
+17/04/2021 -
+31/03/2023
+2020
+No
+Name Of Activity
+Position
+Level
+Date
+1
+BIRO PEMERKASAAN WANITA DAN
+KELUARGA, MASJID DATO KLANA PETRA,
+UNDANG LUAK SUNGAI UJONG
+OTHERS
+01/06/2020 -
+31/12/2022
+2
+JAWATANKUASA TEKNIKAL KAJIAN PELAN
+HALATUJU KECERDASAN BUATAN NEGARA
+NATIONAL
+01/12/2020 -
+28/02/2021
+3
+JAWATANKUASA PEMANDU DANA
+PENYELIDIKAN KEMENTERIAN PENGAJIAN
+TINGGI
+NATIONAL
+04/09/2020 -
+03/01/2021
+4
+PEMBANGUNAN HALATUJU TEKNOLOGI
+BLOCKCHAIN NEGARA
+NATIONAL
+27/11/2020 -
+30/06/2021
+2019
+No
+Name Of Activity
+Position
+Level
+Date
+1
+PERSATUAN SAINTIS MUSLIM MALAYSIA
+NATIONAL
+07/09/2019 -
+08/09/2021
+2018
+No
+Name Of Activity
+Position
+Level
+Date
+1
+PERTUBUHAN PEMBANGUNAN PENYELIDIKAN
+DAN DASAR PENDIDIKAN TINGGI MALAYSIA
+(PENDAPAT)
+PENOLONG
+SETIAUSAHA
+NATIONAL
+28/10/2018 -
+31/12/2024
+2017
+No
+Name Of Activity
+Position
+Level
+Date
+1
+AJK KOMPLEKS PUSAT ISLAM TUNKU MUHRIZ
+KETUA BIRO
+KEBAJIKAN DAN
+SOSIAL
+UNIVERSITY
+01/08/2017 -
+31/07/2019
+2
+PERSATUAN SAINTIS MUSLIM MALAYSIA
+NAIB PRESIDEN
+NATIONAL
+31/03/2017 -
+31/07/2019
+3
+PERSATUAN SAINTIS MUSLIM MALAYSIA
+(PERINTIS)
+NAIB PRESIDEN
+NATIONAL
+31/03/2017 -
+31/07/2019
+2013
+No
+Name Of Activity
+Position
+Level
+Date
+1
+KLUSTER MYCOMMUNITY, PRIGRAM
+JANGKAUAN GLOBAL MALAYSIA,
+KEMENTERIAN PENDIDIKAN MALAYSIA
+AJK
+NATIONAL
+12/07/2013 -
+08/05/2017
+2
+PERSATUAN SAINTIS MUSLIM MALAYSIA (
+PERINTIS)
+EXCO
+NATIONAL
+22/02/2013 -
+31/03/2015
+2011
+No
+Name Of Activity
+Position
+Level
+Date
+1
+MALAYSIA INFORMATION SECURITY
+PROFESSIONALS UNDER CYBERSECURITY
+MALAYSIA
+MEMBER
+NATIONAL
+01/01/2011 -
+31/12/2020
+2
+TECHNICAL COMMITTEE, INTERNATIONAL
+CONFERENCE ON COMPUTING AND
+INFORMATICS (ICOCI 2011), UUM
+REVIEWER
+INTERNATIONAL
+03/01/2011 -
+09/06/2011
+3
+INTERNET SOCIETY (ISOC) , MALAYSIA
+CHAPTER
+MEMBER
+INTERNATIONAL
+03/01/2011 -
+31/12/2020
+4
+DATA MINING AND OPTIMIZATION
+CONFERENCE
+TECHNICAL
+COMMITTEE
+INTERNATIONAL
+03/10/2011 -
+31/07/2012
+2010
+No
+Name Of Activity
+Position
+Level
+Date
+1
+MY TRIZ
+MEMBER
+NATIONAL
+01/01/2010 -
+01/01/2020
+2
+PERSATUAN SAINSTIS MUSLIM MALAYSIA
+(PERINTIS)
+SETIAUSAHA
+KEHORMAT
+NATIONAL
+01/01/2010 -
+31/03/2017
+3
+EDITORIAL BOARD OF JOURNAL OF
+COMPUTING AND APPLICATIONS (JCA)
+MEMBER
+INTERNATIONAL
+01/01/2010 -
+31/12/2011
+2009
+No
+Name Of Activity
+Position
+Level
+Date
+1
+EDITORIAL BOARD JORUNAL OF
+INFORMATION COMMUNICATION AND
+TECHNOLOGY (JICT), UUM
+MEMBER
+NATIONAL
+01/01/2009 -
+01/01/2020
+2006
+No
+Name Of Activity
+Position
+Level
+Date
+1
+MALAYSIA NATIONAL COMPUTER
+CONFEDERATION (MNCC)
+MEMBER
+NATIONAL
+01/01/2006 -
+01/01/2020
+2
+ASSOCIATION OF ADVANCE ARTIFICIAL
+INTELLIGENCE (AAAI)
+MEMBER
+INTERNATIONAL
+01/01/2006 -
+01/01/2020
+CONTRIBUTION - COMMUNITY ENGAGEMENT
+2023
+No
+Organization
+Position
+Level
+1
+RUMAH NGAJI TAMAN SEMARAK
+HEAD OF AJK
+Other
+2020
+No
+Organization
+Position
+Level
+1
+Projek Kebun Komuniti Taman Semarak Untuk Golongan B40
+HEAD OF AJK
+Other
+2018
+No
+Organization
+Position
+Level
+1
+Jawatankuasa Wanita IKRAM Negeri Sembilan
+AJK
+Other
+2017
+No
+Organization
+Position
+Level
+1
+Food Surplus Distribution, Hunger Without Border, Kechara
+Kitchen Soup & Tesco
+MEMBERS
+Other
+2
+GISO Syrian We Come to Lebanon
+GISO ADVSIOR
+International
+3
+Ruasa Circle, FST
+INVITED SPEAKER
+Faculty
+4
+Program Karnival Eksplorasi Minda Sekolah Kebangsaaqn
+Kepis, Felda Bahau, Negeri Sembilan
+ADVISOR
+University
+2016
+No
+Organization
+Position
+Level
+1
+GISO Syrian We Come : Kem Pelarian Syria di Lebanon
+PEGAWAI PENGIRING
+International
+2
+Kembara Siswa di Kem PLKN Ulu Pari
+SPEAKER
+University
+2015
+No
+Organization
+Position
+Level
+1
+Giso Ramadhan - Kembara Merentasi Lembah Mekong Kemboja
+Vietnam
+ADVISOR
+International
+2
+Kembara Siswa (KEMSIS) Sekolah Menengah Agama
+Persekutuan Bentong Pahang
+ADVISOR
+National
+2013
+No
+Organization
+Position
+Level
+1
+Jangkauan Global Malaysia : Dimemsi Baru
+COMMITEE MEMBERS
+National
+2011
+No
+Organization
+Position
+Level
+1
+Bengkel Jahitan, Teras 3 (Libatsama Masyarakat)
+HEAD OF AJK
+University
+CONSULTATION
+No
+Title
+Level
+Date
+1
+RAINER ETHICS ON USING INTERNET (MODULE FOR
+GRADUATE EMPLOYABILITY PROGRAMME:
+CYBERSECURITY FOR MUSLIM PROFESSIONAL)
+UNIVERSITY
+01/01/1900 -
+01/01/1900
+2
+RAINER ETHICS ON USING INTERNET (MODULE FOR
+GRADUATE EMPLOYABILITY PROGRAMME:
+CYBERSECURITY FOR MUSLIM PROFESSIONAL)
+UNIVERSITY
+01/01/1900 -
+01/01/1900
+3
+TRAINER ETHICS ON USING INTERNET (MODULE FOR
+GRADUATE EMPLOYABILITY PROGRAMME:
+CYBERSECURITY FOR MUSLIM PROFESSIONAL)
+UNIVERSITY
+01/01/2014 -
+31/12/2014
+4
+TRAINER 1 CITIZEN PROGRAM
+UNIVERSITY
+01/07/2011 -
+31/12/2015
+5
+INFOSYS FP ROLL OUT PROGRAM FACILITATOR
+UNIVERSITY
+08/12/2010 -
+29/12/2010
+6
+PENASIHAT UNTUK PENYEDIAAN STRUKTUR MODUL
+SAINS ISLAM
+OTHERS
+20/05/2021 -
+20/05/2022
+ADMINISTRATION TASK
+No
+Position
+Level
+Date
+1
+WAKIL TETAP USIM UNTUK MAJLIS E-LEARNING IPTA
+(MEIPTA)
+NATIONAL
+01/01/2010 -
+31/12/2012
+2
+Program Coordinator for 1 Citizen , USIM
+NATIONAL
+01/07/2011 -
+31/12/2013
+3
+Penyelaras MYREN-USIM
+NATIONAL
+01/01/2013 -
+31/12/2013
+4
+Ketua Jawahie secure KNowledge Technology and
+Services
+UNIVERSITY
+01/01/2012 -
+31/12/2013
+5
+Deputy Dean ( Student development and performance
+management)
+FACULTY
+16/09/2011 -
+15/11/2015
+6
+Felo ( Ketua Niche ) - Innovation and Technology,
+institiyut Sains Islam
+UNIVERSITY
+01/06/2013 -
+31/12/2013
+7
+Penasihat urusetia Rekacipta dan Inovasi
+UNIVERSITY
+01/01/2014 -
+11/12/2024
+8
+Dean Faculty of science and Technology
+FACULTY
+01/08/2015 -
+30/09/2016
+9
+Director, Islamic Science Institute
+UNIVERSITY
+01/10/2016 -
+31/12/2018
+10
+Advisor, islamic Festival of Science and Technology
+UNIVERSITY
+27/03/2017 -
+19/05/2017
+11
+Mentor Program Menggapai Bintang 2017
+FACULTY
+08/05/2017 -
+31/01/2018
+12
+SINGLE POINT OF CONTACT (SPOC) INFOSYS FOR USIM .
+APPOINTMENT BY KPT
+NATIONAL
+01/01/2009 -
+31/08/2011
+13
+Ahli
+UNIVERSITY
+16/03/2017 -
+31/12/2018
+14
+Task Manager
+UNIVERSITY
+01/01/2020 -
+31/12/2021
+15
+Ahli Senat
+UNIVERSITY
+01/08/2020 -
+31/07/2023
+16
+Pengurus Tugas, Pusat Kelestarian dan Kesejahteraan
+(C4SS)
+UNIVERSITY
+01/01/2020 -
+15/06/2022
+17
+DEKAN
+UNIVERSITY
+16/09/2021 -
+31/12/2022
+18
+KETUA PROGRAM IJAZAH SARJANA MUDA SAINS
+KOMPUTER (KESELAMATAN DAN JAMINAN MAKLUMAT)
+UNIVERSITY
+01/01/2009 -
+01/01/2011
+19
+PENYELARAS MALAYSIA IHLS BUSINESS PLAN
+COMPETITION , FOR USIM APPOINTED BY MDEC
+NATIONAL
+01/01/2009 -
+31/12/2012
+20
+PENSYARAH PELAWAT LATIHAN INDUSTRI
+UNIVERSITY
+03/01/2011 -
+31/05/2011
+21
+PENASIHAT PROGRAM UNDEGRADUATE SKILL PROGRAM
+ANJURAN BERSAMA MDEC, CGSKILL 2D ANIMATION WITH
+TOON BOOM
+UNIVERSITY
+09/05/2011 -
+27/05/2011
+22
+PENASIHAT INFOSYS CAMPUS CONNECT ROLL OUT
+PROGRAM ANJURAN BERSAMA MDEC, KPT DAN FST
+UNIVERSITY
+28/11/2010 -
+24/12/2010
+23
+HEAD OF PROGRAMME (COMPUTER SCIENCE -
+INFORMATION SECURITY AND ASSURRANCE)
+FACULTY
+25/10/2009 -
+16/11/2011
+24
+TIMBALAN DEKAN
+FACULTY
+16/11/2011 -
+31/07/2015
+PROFESIONAL MEMBERSHIP
+No
+Name of Membership
+Organization
+Field
+Date
+1
+Member
+INSTITUTE OF ELECTRICAL AND
+ELECTRONICS ENGINEERS (IEEE)
+Computer Science
+01/01/2006
+2
+MEMBER
+ASSOCIATION OF ADVANCE
+ARTIFICIAL INTELLIGENCE (AAAI),
+USA
+Artificial Intelligence
+01/01/2006
+3
+Member
+ACM Computing
+Computing
+01/12/2006
+4
+Member
+Persatuan Saintis Muslim
+Malaysia (PERINTIS)
+STEM and Islam
+01/01/2011
+5
+Ordinary Member
+Association for the Advance of AI
+(AAAI)
+AI
+14/01/2016
+6
+Ordinary Member
+Association for Information
+Systems
+Information Systems
+22/10/2021
+7
+Ordinary Member
+Malaysian Association for
+Information Systems (MyAIS)
+Information Systems
+25/10/2021
+8
+Ahli Seumur Hidup
+Akademi Professor Malaysia
+Kluster STI(IT)
+31/10/2021
+9
+Professional Technologist
+Malaysia Board of Technologist
+InformationTechnolog
+y
+27/04/2022
+10
+Life Member
+Malaysia Association of
+Information Systems
+Information System
+26/10/2021
+11
+MEMBERS
+MALAYSIA NATIONAL COMPUTER
+CONFEDERATION (MNCC)
+Computer Science
+01/01/2006
+12
+MEMBER
+MY TRIZ
+Systematic
+Innovation
+01/01/2010
+13
+MEMBER
+INTERNET SOCIETY OF MALAYSIA
+01/01/2012
+14
+Life Membership
+Persatuan Saintis Muslim
+Malaysia ( PERINTIS)
+STEM
+01/06/2012
+15
+Ahli Seumur Hidup
+Pertubuhan Pembangunan
+Penyelidikan dan Dasar
+Pendidikan Tinggi Malaysia
+(PENDAPAT)
+Penyelidikan
+28/10/2018
+16
+Member
+Association for the Advancement
+of Artificial Intelligence
+Artificial Intelligence
+01/01/2006
+RESEARCH AWARD
+No
+Title of Award
+Type of
+Award
+Exhibition Name
+Level
+Date
+1
+Informer on Site
+Emas Dan
+Setara
+26th International Invention
+& Innovation Exhibition
+(ITEX) 2015
+Antarabangsa
+21/05/2015-23/05/20
+15
+2
+ITAG V1.0
+Emas Dan
+Setara
+25TH INTERNATIONAL
+INVENTION , INNOVATION &
+TECHNOLOGY EXHIBITION
+(ITEX 2014)
+Antarabangsa
+08/05/2014-10/05/20
+14
+3
+ARSOM : ARABIC SIGN
+LANGUAGE LEARNING
+ANDROID APPS USING
+AUGMENTED REALITY
+Emas Dan
+Setara
+8th EXPOSITION ON
+ISLAMIC INNOVATION (i-
+INOVA) 2018
+Universiti
+10/03/2018-11/03/20
+18
+4
+Digital Quran
+Representation Using
+Kalimah Hexadecimal
+Unicode (Kategori Terbuka)
+Emas Dan
+Setara
+EKSPO INOVASI ISLAM KALI
+KE-ENAM 2015 (I-INOVA
+2015)
+Antarabangsa
+24/10/2015-25/10/20
+15
+5
+Investigating the
+psychospiritual, cognitive
+and brainwave patterns of
+individuals with tendency
+toward apostasy.
+Emas Dan
+Setara
+INNOVATION BANK
+CHALLENGE 2023
+(IBC2023)
+Universiti
+24/10/2023-24/10/20
+23
+6
+V.i.T.A.B (VISUAL
+IMPAIRMENT TACTILE
+AUDIO BOOK) SOLAT
+Emas Dan
+Setara
+INTERNATIONAL
+CONFERENCE AND
+EXPOSITION ON
+Antarabangsa
+22/09/2019-23/09/20
+19
+INVENTIONS BY
+INSTITUTIONS OF HIGHER
+LEARNING (PECIPTA'19
+7
+Empowering
+Underprivileged Children by
+Augmenting Fluid
+Intelligence, a
+Comprehensive Approach
+Centred on Brain Mapping
+and Cognitive Robotics
+Emas Dan
+Setara
+INNOVATION BANK
+CHALLENGE 2023
+(IBC2023)
+Universiti
+24/10/2023-24/10/20
+23
+8
+EZ PAY
+Emas Dan
+Anugerah
+Tambahan
+EKSPO INOVASI ISLAM I-
+INOVA 2014
+Kebangsaan
+28/11/2014-30/11/20
+14
+9
+TENRM - (POSTGRADUATE)
+Emas Dan
+Anugerah
+Tambahan
+PERTANDINGAN REKACIPTA
+DAN INOVASI ISLAM USIM
+2014 (I-REKA 14)
+Universiti
+28/05/2014-28/05/20
+14
+10
+NAISSE: ONE STOP
+INTEGRATED REPOSITORY
+CROSS LINGUAL SEMANTIC
+INFORMATION RETREIVAL
+ON PROPHETIC FOOD
+Emas Dan
+Anugerah
+Tambahan
+INTERNATIONAL
+CONFERENCE AND
+EXPOSITION ON
+INVENTIONS BY
+INSTITUTIONS OF HIGHER
+LEARNING (PECIPTA'19
+Antarabangsa
+22/09/2019-23/09/20
+19
+11
+DIGITAL LIVE FORENSIC
+INVESTIGATION TOOL
+Perak Dan
+Setara
+EKSPO INOVASI ISLAM 2011
+(i-INOVA11)
+Kebangsaan
+13/10/2011-16/10/20
+11
+12
+my TARANNUM
+Perak Dan
+Setara
+Ekspo Penyelidikan dan
+Ciptaan Institusi Pengajian
+Tinggi Antarabangsa 2011
+Antarabangsa
+13/09/2011-15/09/20
+11
+13
+IQRA BASIC - THE
+INTERACTIVE WAY IN
+RECITING QURAN
+Perak Dan
+Setara
+EKSPO INOVASI ISLAM 2011
+(i-INOVA11)
+Kebangsaan
+13/10/2011-16/10/20
+11
+14
+Live Forensic Tools
+Perak Dan
+Setara
+23rd INTERNATIONAL
+INVENTION, INNOVATION
+&TECHNOLOGY EXHIBITION
+(ITEX2012)
+Antarabangsa
+17/05/2012-19/05/20
+12
+15
+Live Digital Forensic Tool
+Perak Dan
+Setara
+Ekspo Penyelidikan dan
+Ciptaan Institusi Pengajian
+Tinggi Antarabangsa 2011
+Antarabangsa
+13/09/2011-15/09/20
+11
+16
+SEMANTIC INFORMATION
+RETRIEVAL SYSTEM FOR
+HADITH DOCUMENTS
+Perak Dan
+Setara
+4TH EXPOSITION ON
+ISLAMIC INNOVATION 2013
+(I-INOVA''13)
+Kebangsaan
+25/10/2013-27/10/20
+13
+17
+Naqli Aqli Intergrated
+Semantic Search Engine
+Perak Dan
+Setara
+27TH INTERNATIONAL
+INVENTION & INNOVATION
+EXHIBITION 2017 (ITEX
+2017)
+Antarabangsa
+11/05/2017-13/05/20
+17
+18
+LYMPHATIC TREATMENT
+MODEL FOR LEG PAIN
+RESOLUTION
+Perak Dan
+Setara
+International
+Multidisciplinary Innovation
+Competition 2021 (IMIC
+2021)
+Antarabangsa
+30/01/2021-30/01/20
+21
+19
+SEMANTIC INFORMATION
+RETRIEVAL SYSTEM
+Perak Dan
+Setara
+PECIPTA INTERNATIONAL
+CONFERENCE &
+EXPOSITION ON INVENTION
+OF INSTITUTIONS OF
+HIGHER LEARNING
+Antarabangsa
+07/11/2013-09/11/20
+13
+20
+USER ORIENTED PRIVACY
+MODEL FOR SOCIAL
+NETWORK SITE
+Perak Dan
+Setara
+PECIPTA INTERNATIONAL
+CONFERENCE &
+EXPOSITION ON INVENTION
+OF INSTITUTIONS OF
+HIGHER LEARNING
+Antarabangsa
+07/11/2013-09/11/20
+13
+21
+NAQLI AQLI INTEGRATED
+SEMANTIC SEARCH ENGINE
+(NAISSE)
+Perak Dan
+Setara
+MALAYSIA TECHNOLOGY
+EXPO 2020 (THE 19th
+INTERNATIONAL EXPO ON
+INVENTIONS AND
+INNOVATIONS) MTE 2020
+Antarabangsa
+20/02/2020-22/02/20
+20
+22
+Cosmogenic Radionuclide
+for Civil Application: Be-7
+and Application of Trans-
+equatorial Method for
+Northeast Monsoon
+Forecasting in Malaysia
+Perak Dan
+Setara
+INNOVATION BANK
+CHALLENGE 2023
+(IBC2023)
+Universiti
+24/10/2023-24/10/20
+23
+23
+UTF-8 Character Encoding
+Formulation for Unicode
+Hexadecimal
+Representation of Arabic
+Words in Digital Quran
+Perak Dan
+Setara
+Pertandingan Ekspo
+Ciptaan Institusi Pengajian
+Tinggi dan Antarabangsa
+(PECIPTA) 2015
+Antarabangsa
+04/12/2015-06/12/20
+15
+24
+EXPLORING MOTOR
+IMAGERY-BASED
+BCl:FUSION OF DISCRETE
+WAVELET TRANSFORM
+(DWT)-BASED AND TIME-
+DOMAIN FEATURES
+EXTRACTION FROM A
+SINGLE-CHANNEL
+ELECTROENCEPHALOGRAM
+(EEG) SIGNAL
+Perak Dan
+Setara
+INNOVATION BANK
+CHALLENGE 2023
+(IBC2023)
+Universiti
+24/10/2023-24/10/20
+23
+25
+EZ PAY VERSION 1.1
+Gangsa Dan
+Setara
+PERTANDINGAN NOVEL
+RESEARCH INNOVATION
+AND COMPETITION (NRIC
+2014)
+Kebangsaan
+19/08/2014-22/08/20
+14
+26
+FRAMEWORK FOR SECURE
+WEB APPLICATION DESIGN
+AND DEVELOPMENT
+Gangsa Dan
+Setara
+EKSPO INOVASI ISLAM I-
+INOVA 2012
+Kebangsaan
+20/10/2012-21/10/20
+12
+27
+NOBLE DIGITAL SOCIAL
+NETWORK : ISLAMTAG
+Gangsa Dan
+Setara
+4TH EXPOSITION ON
+ISLAMIC INNOVATION 2013
+(I-INOVA''13)
+Kebangsaan
+25/10/2013-27/10/20
+13
+28
+ZCHOLAR ACADEMIC
+SOCIAL NETWORK - (POST-
+GRADUATE)
+Gangsa Dan
+Setara
+PERTANDINGAN REKACIPTA
+DAN INOVASI ISLAM USIM
+2014 (I-REKA 14)
+Universiti
+28/05/2014-28/05/20
+14
+29
+Informer on site
+Gangsa Dan
+Setara
+Pertandingan Ekspo
+Ciptaan Institusi Pengajian
+Tinggi dan Antarabangsa
+(PECIPTA) 2015
+Antarabangsa
+04/12/2015-06/12/20
+15
+30
+NAISE 1.0:CROSS LINGUAL
+INFORMATION RETRIEVAL
+WITH QUHEX INDEXING
+MODEL
+Gangsa Dan
+Setara
+International
+Invention,Innovation &
+Technology Exhibition
+Antarabangsa
+12/05/2016-14/05/20
+16
+31
+INTERACTIVE WEARABLE
+DEVICE FOR DUA AND
+QURAN MEMORIZING
+USING NFC TECHNOLOGY
+Gangsa Dan
+Setara
+THE INTERNATIONAL
+CONFERENCE AND
+EXPOSITION ON INVENTION
+(PECIPTA 17)
+Universiti
+07/10/2017-09/10/20
+17
+32
+NAISE 1.0 : Cross Lingual
+Information Retrieval With
+QuHex Indexing Model
+Gangsa Dan
+Setara
+27TH INTERNATIONAL
+INVENTION & INNOVATION
+EXHIBITION 2016 (ITEX
+2016)
+Antarabangsa
+12/05/2016-14/05/20
+16
+33
+Intelligent University
+Timetabling System with
+Hybrid Water Drop
+Algorithm.
+Gangsa Dan
+Setara
+Pertandingan Ekspo
+Ciptaan Institusi Pengajian
+Tinggi dan Antarabangsa
+(PECIPTA) 2015
+Antarabangsa
+04/12/2015-06/12/20
+15
+34
+'al-quran tafsir pimpinan ar-
+rahman : software"-
+invention/category B
+(INDIVIDUAL :
+PROFESSIONALS/
+ACADEMICIANS/
+RESEARCHERS)
+Gangsa Dan
+Setara
+INTERNATIONAL
+INNOVATION&DESIGN IN
+LIBRARY & INFORMATION
+SCIENCE COMPETITION
+(InDELiB 2017)
+Antarabangsa
+13/09/2017-13/09/20
+17
+35
+TOP 100 RESEARCHERS
+USIM ( 2013-2017)
+Sijil
+Penghargaan
+Sahaja
+TOP 100 RESEARCHERS
+Universiti
+14/05/2018-14/05/20
+18
+36
+Islamtag: An Integrated
+Social Network Site
+Sijil
+Penghargaan
+Sahaja
+Ekspo Penyelidikan dan
+Ciptaan Institusi Pengajian
+Tinggi Antarabangsa 2011
+Antarabangsa
+13/09/2011-15/09/20
+11
+37
+Agile Secure Software
+Development Methodology
+Sijil
+Penghargaan
+Sahaja
+Ekspo Penyelidikan dan
+Ciptaan Institusi Pengajian
+Tinggi Antarabangsa 2011
+Antarabangsa
+13/09/2011-15/09/20
+11
+38
+Artificial Immune System
+Agent for Reservoir
+Spillway Gate Decission
+Making
+Sijil
+Penghargaan
+Sahaja
+Ekspo Penyelidikan dan
+Ciptaan Institusi Pengajian
+Tinggi Antarabangsa 2011
+Antarabangsa
+13/09/2011-15/09/20
+11
+39
+HALAL DETECTOR DEVICE
+Jenis
+Pengiktirafan
+Lain-lain
+PERTANDINGAN NOVEL
+RESEARCH INNOVATION
+AND COMPETITION (NRIC
+2014)
+Kebangsaan
+19/08/2014-22/08/20
+14
+AWARD
+No
+Name Of Award
+Organization
+Date
+1
+BRONZE MEDAL, ZAWIYATUL SIBER MANAGEMENT
+SYSTEM (ZSMS), EKSPO INOVASI ISLAM (I-INOVA 2010)
+KATEGORI PRA-SISWAZAH
+USIM
+01/01/2010
+2
+SILVER , ISLAMTAG : SOCIAL NETWORK WITH THE
+BEAUTY OF ISLAM
+EKSPO INOVASI ISLAM
+14/10/2011
+3
+SILVER , DIGITAL LIVE FORENSIC TOOL
+EKSPO INOVASI ISLAM
+14/10/2011
+4
+SILVER MEDAL, ISLAMTAG : TAG YPURSELF WITH THE
+BEAUTY OF ISLAM
+INTERNATIONAL IBN AL-HAYTHAM''''S
+AL-MANAZIR INNOVATION AND
+INVENTION EXHIBITION, UIAM,
+KUANTAN
+15/11/2011
+5
+ANUGERAH PENSYARAH PALING BERDEDIKASI, SEMPENA
+MAKAN MALAM FAKULTI SAINS DAN TEKNOLOGI 2011
+FAKULTI SAINS DAN TEKNOLOGI
+25/06/2011
+6
+MIBPC Coordinator Appreciation Award
+Multimedia Development Corporation
+(MDeC)
+02/10/2013
+7
+Anugerah Citra Inovasi Kementerian Pengajian Tinggi
+Kementerian Pengajian Tinggi
+05/03/2013
+8
+Tokoh Hasanul Mudir, Anugerah Kecemerlangan dan
+Inovasi USIM
+USIM
+16/07/2013
+9
+Anugerah Pensyarah Cemerlang, Anugerah
+Kecemerlangan dan Inovasi USIM
+USIM
+16/07/2013
+10
+SILVER MEDAL. DATA WAREHOUSE DEVELOPMENT USING
+GOAL-ORIENTED AND ONTOLOGY APPROACH. 21TH
+INTERNATIONAL INVENTION, INNOVATION &
+TECHNOLOGY EXHIBITION
+(ITEX2010),KUALA LUMPUR
+01/01/2010
+11
+Staf Contoh Tahunan, Anugerah Kecemerlangan dan
+Inovasi USIM
+USIM
+16/07/2013
+12
+Anugerah Kecemerlangan Penyelidikan, Anugerah
+Kecemerlangan dan Inovasi USIM
+USIM
+16/07/2013
+13
+MIBPC Coordinator Appreciation Award
+Multimedia Development Corporation
+02/10/2013
+14
+Gold Medal (ARSOM: Arabic Sign Language Learning
+Android Apps Using Augmented Reality) - 8th Exposition
+on Islamic Innovation (i-INOVA) 2018
+USIM
+11/03/2018
+15
+Bronze Medal (E-TASHIH) - 8th Exposition on Islamic
+Innovation (i-INOVA) 2018
+USIM
+11/03/2018
+16
+Pensyarah Markah Cemerlang Penilaian Kursus dan
+Pengajaran (eNilai) Semester II, Sesi Akademik
+2017/2018
+Fakulti Sains dan Teknologi (FST),
+Universiti Sains Islam Malaysia (USIM)
+11/10/2018
+17
+Anugerah Libatsama Komuniti (Kategori Akademik)
+Universiti Sains Islam Malaysia (USIM)
+30/08/2018
+18
+BRONZE MEDAL INTELLIGENT INTERNET WORM
+DETECTOR. 21TH INTERNATIONAL INVENTION,
+INNOVATION & TECHNOLOGY EXHIBITION
+(ITEX2010),KUALA LUMPUR
+01/01/2010
+19
+ANUGERAH PENULISAN POPULAR TERBAIK
+FAKULTI SAINS DAN TEKNOLOGI, USIM
+03/03/2022
+20
+Anugerah Penghargaan eBook Terlaris 2021 .
+MAPIM
+21/12/2023
+21
+Anugerah Pemenang Utama Ebook Terlaris 2022
+MAPIM
+21/12/2023
+22
+PENSYARAH PILIHAN PELAJAR E-NILAI (SEMESTER 2
+2009/2010) FAKULTI SAINS DAN TEKNOLOGI, UNIVERSITI
+SAINS ISLAM MALAYSIA.
+FAKULTI SAINS DAN TEKNOLOGI, USIM
+01/01/2010
+23
+THIRD PLACE, MIBPC@USIM .BUSINESS IDEA - KAUSAR
+MOBILE APPS
+USIM
+01/01/2010
+24
+SECOND PLACE, MIBPC@USIM BUSINESS PLAN - SMART V
+COOLER.
+USIM
+01/01/2010
+25
+MUMTAZ, KUMPULAN TERBAIK - INTEGRATED PROJECT ,
+INFOSYS FP ROLLOUT PROGRAM
+USIM, MDEC
+01/01/2010
+26
+BRONZE- LIVE DIGITAL FORENSIC TOOL
+PECIPTA 2011
+13/09/2011
+27
+GOLD - ARABIC MORPH
+EKSPO INOVASI ISLAM, USIM
+14/10/2011
+Powered by TCPDF (www.tcpdf.org)
+
+
+--- End of Prof_Ts_Dr_Norita_Md_Norwawi.pdf ---

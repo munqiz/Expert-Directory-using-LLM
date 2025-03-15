@@ -1,0 +1,4 @@
+name: Prof. Ts. Dr. Norita Md. Norwawi
+email: norita@usim.edu.my
+faculty: FST
+pdf: Prof_Ts_Dr_Norita_Md_Norwawi.pdf

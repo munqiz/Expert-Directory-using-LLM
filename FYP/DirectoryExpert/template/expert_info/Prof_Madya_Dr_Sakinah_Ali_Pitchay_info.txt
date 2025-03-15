@@ -1,0 +1,4 @@
+name: Prof. Madya Dr. Sakinah Ali Pitchay
+email: sakinah.ali@usim.edu.my
+faculty: FST
+pdf: Prof_Madya_Dr_Sakinah_Ali_Pitchay.pdf

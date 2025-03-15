@@ -1,0 +1,4 @@
+name: Prof. Madya Dr. Farida Hazwani Mohd Ridzuan
+email: farida@usim.edu.my
+faculty: FST
+pdf: Prof_Madya_Dr_Farida_Hazwani_Mohd_Ridzuan.pdf
